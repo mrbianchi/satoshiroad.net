@@ -1,0 +1,628 @@
+# Translation of Plugins - View Admin As - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - View Admin As - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-20 12:03:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - View Admin As - Stable (latest release)\n"
+
+#: ui/class-admin-bar.php:192
+msgid "View active"
+msgstr "Ver activos"
+
+#: modules/class-role-defaults.php:1487 modules/class-role-defaults.php:1641
+msgid "Merge and overwrite existing data"
+msgstr "Combinar y sobrescribir los datos existentes"
+
+#: modules/class-role-defaults.php:1464 modules/class-role-defaults.php:1618
+msgid "Merge"
+msgstr "Combinar"
+
+#: modules/class-role-defaults.php:616
+msgid "Recording screen changes for role defaults"
+msgstr "Guardando los cambios de pantalla para los valores por defecto del perfil"
+
+#: includes/class-vaa.php:619
+msgid "Click here to report this error!"
+msgstr "¡Haz clic aquí para informar sobre este error!"
+
+#: includes/class-vaa.php:611
+msgid "Error"
+msgstr "Error"
+
+#: ui/class-admin-bar.php:436
+msgid "Modules"
+msgstr "Módulos"
+
+#: modules/class-role-manager.php:651
+msgid "Rename role"
+msgstr "Renombrar el perfil"
+
+#: ui/templates/adminbar-caps-actions.php:133
+#: ui/templates/adminbar-caps-items.php:66
+#: ui/templates/adminbar-role-items.php:74
+#: ui/templates/adminbar-user-items.php:79
+msgid "No toolbar resources found."
+msgstr "No se ha encontrado la barra de herramientas."
+
+#: ui/class-ui.php:309
+msgid "Key already exists."
+msgstr "La clave ya existe."
+
+#: ui/class-admin-bar.php:753
+msgid "Users are grouped under their roles"
+msgstr "Los usuarios están agrupados por sus perfiles."
+
+#: modules/class-role-manager.php:959
+msgid "Add new capability"
+msgstr "Agregar una nueva capacidad"
+
+#: modules/class-role-manager.php:924
+msgid "Save role"
+msgstr "Guardar el perfil"
+
+#: modules/class-role-manager.php:899
+msgid "New role"
+msgstr "Nuevo perfil"
+
+#: modules/class-role-manager.php:892
+msgid "Add/Edit role"
+msgstr "Añadir/Editar perfil"
+
+#: modules/class-role-manager.php:832
+msgid "Delete"
+msgstr "Borrar"
+
+#: modules/class-role-manager.php:806
+msgid "Delete role"
+msgstr "Borrar perfil"
+
+#: modules/class-role-manager.php:678 modules/class-role-manager.php:755
+#: modules/class-role-manager.php:940
+msgid "New role name"
+msgstr "Nuevo nombre del perfil"
+
+#: modules/class-role-manager.php:728
+msgid "Clone role"
+msgstr "Clonar perfil"
+
+#: modules/class-role-manager.php:633
+msgid "No view selected"
+msgstr "Ninguna vista seleccionada"
+
+#: modules/class-role-manager.php:574
+msgid "Apply current view capabilities to role"
+msgstr "Aplicar la vista actual a las capacidades del perfil"
+
+#: modules/class-role-manager.php:535
+msgid "Select role"
+msgstr "Selecciona un perfil"
+
+#. Translators: %s stands for "Capabilities".
+#: modules/class-role-manager.php:513
+msgid "You can add/edit roles under \"%s\""
+msgstr "Puedes añadir/editar perfiles en \"%s\""
+
+#: modules/class-role-manager.php:498 modules/class-role-manager.php:878
+msgid "Role manager"
+msgstr "Gestor de perfiles"
+
+#: modules/class-role-manager.php:467
+msgid "Add or remove roles and grant or deny them capabilities"
+msgstr "Añade o quita perfiles y asigna o quita capacidades"
+
+#: modules/class-role-manager.php:466
+msgid "Enable role manager"
+msgstr "Activa el gestor de perfiles"
+
+#: modules/class-role-manager.php:404
+msgid "This role cannot be removed"
+msgstr "Este perfil no puede ser eliminado"
+
+#: modules/class-role-manager.php:312
+msgid "Role already exists"
+msgstr "El perfil ya existe"
+
+#: modules/class-role-manager.php:134
+msgid "The Role Manager module was disabled because database storage for roles is disabled in WordPress."
+msgstr "El gestor de perfiles fue desactivado porque el almacenamiento en base de datos para los perfiles está desactivado en WordPress."
+
+#: modules/class-role-defaults.php:1483 modules/class-role-defaults.php:1637
+msgid "Fully overwrite data"
+msgstr "Sobrescribir todos los datos"
+
+#: modules/class-role-defaults.php:1454
+msgid "Copy"
+msgstr "Copiar"
+
+#: modules/class-role-defaults.php:1402
+msgid "Copy defaults to role"
+msgstr "Copia valores por defecto al perfil"
+
+#: modules/class-role-defaults.php:1387
+msgid "Select role source"
+msgstr "Selecciona el perfil de origen"
+
+#: modules/class-role-defaults.php:792
+msgid "Data copied but there were some errors"
+msgstr "Datos copiados pero con errores"
+
+#: modules/class-role-defaults.php:420
+msgid "There were some errors"
+msgstr "Hubo algunos errores"
+
+#: modules/class-role-defaults.php:392
+msgid "Invalid meta key(s)"
+msgstr "Clave(s) meta inválido(s)"
+
+#: includes/class-vaa.php:585
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#. Translators: %s stands for `Dashboard` (link element).
+#: includes/class-vaa.php:584
+msgid "For the best experience you can start from the %s since not all views are allowed to access all admin pages."
+msgstr "Para una mejor experiencia comienza desde %s ya que no todas las vistas pueden acceder a las páginas del administrador."
+
+#: includes/class-vaa.php:581
+msgid "Thank you for installing View Admin As!"
+msgstr "¡Gracias por instalar View Admin As!"
+
+#. Translators: %1$s stands for an option key and %2$s stands for a class name.
+#: includes/class-settings.php:190
+msgid "The setting key %1$s is reserved for class %2$s"
+msgstr "El ajuste clave %1$s está reservado para la clase %2$s"
+
+#. Translators: %s stands for "Group" (translated with the Groups domain).
+#. Translators: %s stands for the view type label.
+#: modules/class-groups.php:490 modules/class-restrict-user-access.php:320
+msgid "Viewing as %s"
+msgstr "Viendo como %s"
+
+#: ui/class-form.php:210
+msgid "Remove"
+msgstr "Quita"
+
+#: modules/class-role-defaults.php:1491 modules/class-role-defaults.php:1645
+msgid "Append without overwriting the existing data"
+msgstr "Agrega sin sobrescribir la información existente"
+
+#: modules/class-role-defaults.php:1474 modules/class-role-defaults.php:1628
+msgid "Append"
+msgstr "Agrega"
+
+#: modules/class-role-defaults.php:1117 modules/class-role-manager.php:962
+msgid "Add"
+msgstr "Añade"
+
+#: modules/class-role-defaults.php:1114
+msgid "Add meta key"
+msgstr "Añade la clave meta"
+
+#: modules/class-role-defaults.php:1092
+msgid "Manage meta sync"
+msgstr "Gestiona la sincronización del meta"
+
+#. Description of the plugin/theme
+msgid "View the WordPress admin as a different role or visitor, switch between users, temporarily change your capabilities, set default screen settings for roles."
+msgstr "Visualiza la administración de WordPress con otro perfil o como si fueras un visitante, elige el perfil de distintos usuarios, modifica temporalmente tus capacidades, configura los valores por defecto de pantalla para los distintos perfiles. "
+
+#: ui/class-ui.php:163
+msgid "Quick help via Slack"
+msgstr "Ayuda rápida via Slack"
+
+#: ui/class-ui.php:162
+msgid "Slack"
+msgstr "Slack"
+
+#: ui/class-admin-bar.php:824
+msgid "View as site visitor"
+msgstr "Ver como un visitante del sitio"
+
+#: ui/class-admin-bar.php:821
+msgid "Site visitor"
+msgstr "Visitante del sitio"
+
+#. Translators: %s stands for the view type name.
+#. Translators: %s stands for the translated role name.
+#. Translators: %s stands for the user display name.
+#: modules/class-groups.php:572 modules/class-restrict-user-access.php:442
+#: ui/templates/adminbar-role-items.php:64
+#: ui/templates/adminbar-user-items.php:42
+msgid "View as %s"
+msgstr "Ver como %s"
+
+#: ui/templates/adminbar-caps-actions.php:56
+#: ui/templates/adminbar-caps-actions.php:63
+msgid "Current view"
+msgstr "Vista actual"
+
+#: ui/class-admin-bar.php:144
+msgid "Viewing as site visitor"
+msgstr "Visualizando como visitante del sitio"
+
+#: ui/class-ui.php:199
+msgid "Buy me a coffee!"
+msgstr "¡Págame un café!"
+
+#: ui/class-ui.php:198
+msgid "Donate"
+msgstr "Dona"
+
+#: ui/class-ui.php:192
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ui/class-ui.php:180
+msgid "Report issue"
+msgstr "Informar de un fallo"
+
+#: ui/class-ui.php:174
+msgid "Translate"
+msgstr "Traduce"
+
+#: ui/class-ui.php:168
+msgid "Review"
+msgstr "Valora"
+
+#: ui/class-ui.php:156
+msgid "Support"
+msgstr "Soporte"
+
+#: ui/templates/adminbar-settings-user.php:159
+msgid "Force your own locale setting to the current view"
+msgstr "Fuerza tus propios ajustes locales a la vista actual"
+
+#: ui/templates/adminbar-settings-user.php:158
+msgid "Freeze locale"
+msgstr "Bloquea el ajuste local"
+
+#: ui/class-admin-bar.php:294
+msgid "Version"
+msgstr "Versión"
+
+#: includes/class-vaa.php:334
+msgid "Plugin not fully loaded because of a conflict with an other plugin or theme"
+msgstr "El plugin no cargó en su totalidad debido a un conflicto con otro plugin o tema"
+
+#: ui/class-ui.php:122
+msgid "Reset view"
+msgstr "Restablecer la vista"
+
+#: ui/templates/adminbar-settings-user.php:125
+msgid "Hide on frontend when no view is selected and the admin bar is not shown"
+msgstr "Ocultar en portada cuando no haya vista seleccionada y la barra de administrador no esté visible."
+
+#: ui/templates/adminbar-settings-user.php:124
+msgid "Hide on frontend"
+msgstr "Ocultar en portada"
+
+#: ui/class-ui.php:193
+msgid "Follow development on GitHub"
+msgstr "Sigue el desarrollo en GitHub"
+
+#: modules/class-role-defaults.php:1102 ui/class-ui.php:186 ui/class-ui.php:187
+msgid "Documentation"
+msgstr "Documentación"
+
+#: ui/class-ui.php:175
+msgid "Help translating this plugin!"
+msgstr "¡Ayuda a traducir este plugin!"
+
+#: ui/class-ui.php:181
+msgid "Have ideas or a bug report?"
+msgstr "¿Tienes nuevas ideas o quieres informar de un fallo?"
+
+#: ui/class-ui.php:169
+msgid "Give 5 stars on WordPress.org!"
+msgstr "¡Dame 5 estrellas en WordPress.org!"
+
+#: ui/class-ui.php:157
+msgid "Need support?"
+msgstr "¿Necesitas ayuda?"
+
+#: ui/class-admin-bar.php:274
+msgid "Info"
+msgstr "Información"
+
+#: modules/class-role-defaults.php:1064
+msgid "Lock meta box order and locations for all users who can't access role defaults"
+msgstr "Orden y ubicaciones de la caja meta de bloqueo para todos los usuarios que no puedan acceder a los perfiles por defecto"
+
+#: modules/class-role-defaults.php:1063
+msgid "Lock meta boxes"
+msgstr "Cajas meta de bloqueo"
+
+#: ui/class-ui.php:378
+msgid "The view you have selected is not permitted to access this page, please choose one of the options below."
+msgstr "La vista que has seleccionado no está permitida para acceder a esta página, por favor, elige una de las siguientes opciones."
+
+#: ui/class-ui.php:357
+msgid "Reset the view"
+msgstr "Restablecer la vista"
+
+#: ui/class-ui.php:350
+msgid "Go to homepage"
+msgstr "Ir a la página principal"
+
+#: ui/class-ui.php:346
+msgid "Go to dashboard"
+msgstr "Ir al escritorio"
+
+#: ui/class-ui.php:341
+msgid "Go to network dashboard"
+msgstr "Ir al escritorio de la red"
+
+#: includes/class-base.php:175 includes/class-vaa.php:759
+msgid "This class does not want to wake up"
+msgstr "Esta clase no quiere despertarse"
+
+#: includes/class-base.php:160 includes/class-vaa.php:744
+msgid "This class does not want to be cloned"
+msgstr "Esta clase no quiere ser clonada"
+
+#: ui/class-ui.php:311
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: ui/templates/adminbar-settings-user.php:194
+msgid "Group users under their assigned roles"
+msgstr "Agrupa usuarios bajo sus perfiles asignados"
+
+#: ui/templates/adminbar-settings-user.php:193
+msgid "Group users"
+msgstr "Usuarios del grupo"
+
+#: view-admin-as.php:80
+msgid "Plugin not activated because of a conflict with an other plugin or theme"
+msgstr "El plugin no se activó debido a un conflicto con otro plugin o tema"
+
+#. Translators: %1$s stands for "WordPress", %2$s stands for the version.
+#: includes/class-vaa.php:692
+msgid "Plugin deactivated, %1$s version %2$s or higher is required"
+msgstr "Plugin desactivado, Se requiere %1$s versión %2$s o superior"
+
+#. Translators: %s stands for the class name.
+#: includes/class-vaa.php:336 view-admin-as.php:82
+msgid "Class %s already exists"
+msgstr "La clase %s ya existe"
+
+#: modules/class-role-defaults.php:1043
+msgid "Hide the screen options for all users who can't access role defaults"
+msgstr "Oculta las opciones de pantalla a todos los usuarios que no puedan acceder a los perfiles por defecto"
+
+#: modules/class-role-defaults.php:1042
+msgid "Disable screen options"
+msgstr "Desactivar las opciones de pantalla"
+
+#: modules/class-role-defaults.php:1022
+msgid "Automatically apply defaults to new users"
+msgstr "Aplicar automáticamente los valores por defecto a nuevos usuarios"
+
+#: modules/class-role-defaults.php:1514
+msgid "Export defaults for role"
+msgstr "Exporta los valores por defecto para el perfil"
+
+#: includes/class-base.php:192 includes/class-vaa.php:776
+msgid "Method does not exist."
+msgstr "El método no existe."
+
+#: ui/class-ui.php:310
+msgid "Success"
+msgstr "Conseguido"
+
+#: includes/class-controller.php:151
+msgid "Cheatin uh?"
+msgstr "¿Haciendo trampas?"
+
+#: ui/templates/adminbar-settings-user.php:92
+msgid "Choose view on every pageload. This setting doesn't store views"
+msgstr "Elige la vista en cada carga de página. Este ajuste no almacena vistas"
+
+#: ui/templates/adminbar-settings-user.php:91
+msgid "Single switch mode"
+msgstr "Modo de cambio simple"
+
+#: ui/templates/adminbar-settings-user.php:87
+msgid "Store view and use WordPress with this view"
+msgstr "Almacena la vista y usa WordPress con esta vista"
+
+#: ui/templates/adminbar-settings-user.php:86
+msgid "Browse mode"
+msgstr "Modo de navegación"
+
+#: ui/templates/adminbar-settings-user.php:44
+msgid "Change the location of this menu node"
+msgstr "Cambia la ubicación de este nodo del menú"
+
+#: ui/templates/adminbar-settings-user.php:52
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: ui/templates/adminbar-settings-user.php:43
+msgid "Location"
+msgstr "Ubicación"
+
+#: ui/class-admin-bar.php:370
+msgid "Settings"
+msgstr "Ajustes"
+
+#: modules/class-role-defaults.php:1699
+msgid "Remove defaults for role"
+msgstr "Quitar valores por defecto para el perfil"
+
+#: modules/class-role-defaults.php:1608
+msgid "Import"
+msgstr "Importar"
+
+#: modules/class-role-defaults.php:1581
+msgid "Paste code here"
+msgstr "Pega el código aquí"
+
+#: modules/class-role-defaults.php:1538
+msgid "Export"
+msgstr "Exportar"
+
+#: modules/class-role-defaults.php:972
+msgid "Set default screen settings for roles and apply them on users through various bulk and automatic actions"
+msgstr "Establece los ajustes de pantalla por defecto para los perfiles y aplícalos a los usuarios a través de varias acciones en masa y automáticas"
+
+#: modules/class-role-defaults.php:900
+msgid "Data imported but there were some errors"
+msgstr "Datos importados pero con errores"
+
+#: modules/class-role-defaults.php:784 modules/class-role-defaults.php:890
+#: modules/class-role-manager.php:359 modules/class-role-manager.php:387
+#: modules/class-role-manager.php:406
+msgid "Role not found"
+msgstr "Perfil no encontrado"
+
+#: modules/class-role-defaults.php:886
+msgid "Key not allowed"
+msgstr "Clave no permitida"
+
+#: modules/class-role-defaults.php:412 modules/class-role-defaults.php:799
+#: modules/class-role-defaults.php:854 modules/class-role-defaults.php:873
+#: modules/class-role-defaults.php:908 modules/class-role-manager.php:237
+#: modules/class-role-manager.php:269
+msgid "No valid data found"
+msgstr "No se encontraron datos válidos"
+
+#: modules/class-role-defaults.php:442
+msgid "Copy code"
+msgstr "Copia el código"
+
+#. Author URI of the plugin/theme
+msgid "https://www.keraweb.nl"
+msgstr "https://www.keraweb.nl"
+
+#. Author of the plugin/theme
+msgid "Jory Hogeveen"
+msgstr "Jory Hogeveen"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/view-admin-as/"
+msgstr "https://es.wordpress.org/plugins/view-admin-as/"
+
+#. #-#-#-#-#  view-admin-as-code.pot (View Admin As 1.7.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-compat.php:353 includes/class-compat.php:374
+#: includes/class-vaa.php:616 includes/class-vaa.php:690
+#: ui/class-admin-bar.php:190 ui/class-ui.php:122 ui/class-ui.php:377
+#: view-admin-as.php:79
+msgid "View Admin As"
+msgstr "View Admin As"
+
+#: ui/class-ui.php:308
+msgid "No users found."
+msgstr "No se encontraron usuarios"
+
+#: includes/class-controller.php:174
+msgid "Something went wrong, please try again."
+msgstr "Algo ha salido mal, por favor inténtalo de nuevo."
+
+#: includes/class-controller.php:314
+msgid "These are your default capabilities!"
+msgstr "¡Estas son tus capacidades por defecto!"
+
+#: includes/class-controller.php:195 includes/class-controller.php:328
+msgid "This view is already selected!"
+msgstr "¡Esta vista ya está seleccionada!"
+
+#: ui/class-admin-bar.php:756
+msgid "Search"
+msgstr "Buscar"
+
+#: ui/class-admin-bar.php:729
+msgid "Users"
+msgstr "Usuarios"
+
+#: modules/class-role-defaults.php:1004
+msgid "Role defaults"
+msgstr "Valores por defecto del perfil"
+
+#: ui/class-admin-bar.php:661
+msgid "Roles"
+msgstr "Perfiles"
+
+#: ui/templates/adminbar-caps-actions.php:121
+msgid "Deselect"
+msgstr "Anular selección"
+
+#: ui/class-admin-bar.php:519 ui/templates/adminbar-caps-actions.php:115
+msgid "Select"
+msgstr "Selección"
+
+#: modules/class-role-manager.php:513 ui/class-admin-bar.php:496
+msgid "Capabilities"
+msgstr "Capacidades"
+
+#: ui/class-admin-bar.php:232 ui/class-admin-bar.php:237
+msgid "Reset to default"
+msgstr "Restablecer a los valores por defecto"
+
+#: ui/templates/adminbar-caps-actions.php:48
+#: ui/templates/adminbar-settings-user.php:48
+msgid "Default"
+msgstr "Por defecto"
+
+#: ui/class-ui.php:109
+msgid "View as"
+msgstr "Ver como"
+
+#: ui/class-admin-bar.php:139
+msgid "Viewing as user"
+msgstr "Viendo como el usuario"
+
+#: ui/class-admin-bar.php:131
+msgid "Viewing as role"
+msgstr "Viendo como el perfil"
+
+#: ui/class-admin-bar.php:128
+msgid "Modified view"
+msgstr "Vista modificada"
+
+#: ui/class-admin-bar.php:125
+msgid "Default view (Off)"
+msgstr "Vista por defecto (desactivada)"
+
+#: modules/class-role-defaults.php:1570
+msgid "Import defaults for role"
+msgstr "Importa los valores por defecto para el perfil"
+
+#: modules/class-role-defaults.php:1204 modules/class-role-defaults.php:1673
+msgid "All roles"
+msgstr "Todos los perfiles"
+
+#: modules/class-role-defaults.php:1334
+msgid "Apply defaults to users by role"
+msgstr "Aplica valores por defecto a los usuarios según su perfil"
+
+#: modules/class-role-defaults.php:1164 modules/class-role-defaults.php:1299
+#: modules/class-role-defaults.php:1358 modules/class-role-defaults.php:1723
+#: modules/class-role-manager.php:603 modules/class-role-manager.php:691
+#: modules/class-role-manager.php:768 ui/class-admin-bar.php:533
+msgid "Apply"
+msgstr "Aplicar"
+
+#: modules/class-role-defaults.php:1278 ui/class-admin-bar.php:756
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: modules/class-role-defaults.php:1278
+#: ui/templates/adminbar-caps-actions.php:34
+msgid "Filter"
+msgstr "Filtrar"
+
+#: modules/class-role-defaults.php:1266
+msgid "Apply defaults to users"
+msgstr "Aplica valores por defecto a los usuarios"
+
+#: modules/class-role-defaults.php:971
+msgid "Enable role defaults"
+msgstr "Activa los valores por defecto del perfil"

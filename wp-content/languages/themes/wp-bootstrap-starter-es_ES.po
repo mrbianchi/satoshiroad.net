@@ -1,0 +1,360 @@
+# Translation of Themes - WP Bootstrap Starter in Spanish (Spain)
+# This file is distributed under the same license as the Themes - WP Bootstrap Starter package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-28 23:09:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - WP Bootstrap Starter\n"
+
+#. Description of the plugin/theme
+msgid "The best WordPress starter theme based on the most powerful frameworks in the world: \"_s\" (by Automattic, the main people behind WordPress development), Twitter Bootstrap (the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web) and Font Awesome (or Fontawesome, a full suite of 675+ pictographic icons for easy scalable vector graphics on websites). This theme, like WordPress, is licensed under the GPL. You can use this theme as base for your next WordPress theme project and you are allowed to remove the link at the footer or do whatever you want. Your feedback on how we can continuously improve this WordPress Starter Theme Bootstrap will be highly appreciated. Page templates includes Right-sidebar (default page template), Left-Sidebar, Full-Width, Blank with container, Blank without container Page. Other features - Currently using Bootstrap v4.0.0 , Widgetized footer area, WooCommerce ready, Compatible with Contact Form 7, Compatible with Visual Composer, Compatible with Elementor Page Builder. This theme will be an active project which we will update from time to time. Check this page regularly for the updates."
+msgstr "El mejor tema de inicio de WordPress basado en los frameworks más potentes del mundo: \"_s\" (por Automattic, las principales personas que están detrás del desarrollo de WordPress), Twitter Bootstrap (el más popular HTML, CSS y JS para el desarrollo adaptable, proyectos web mobile-first) y Font Awesome (o Fontawesome, un paquete completo de más de 675 íconos pictográficos para gráficos vectoriales fáciles de escalar en sitios web). Este tema, como WordPress, tiene licencia bajo la GPL. Puedes usar este tema como base para su próximo proyecto de WordPress y puede eliminar el enlace en el pie de página o hacer lo que desee. Tus comentarios sobre cómo podemos mejorar continuamente este WordPress Starter Theme Bootstrap serán muy apreciados. Las plantillas de página incluyen la barra lateral derecha (plantilla de página predeterminada), barra lateral izquierda, ancho completo, espacio en blanco con contenedor, espacio en blanco sin página de contenedor. Otras características: actualmente se usa Bootstrap v4.0.0-beta.2, un área de pie de página en widgets, preparado para WooCommerce, compatible con Contact Form 7, compatible con Visual Composer, compatible con Elementor Page Builder. Este tema será un proyecto activo que actualizaremos de vez en cuando. Consulta esta página regularmente para ver las actualizaciones."
+
+#. Theme Name of the plugin/theme
+msgid "WP Bootstrap Starter"
+msgstr "WP Bootstrap Starter"
+
+#: functions.php:86
+msgid "Welcome to WP Bootstrap Starter Theme! Before diving in to your new theme, please visit the <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">theme's</a> page for access to dozens of tips and in-depth tutorials."
+msgstr "Bienvenido al tema WP Bootstrap Starter! Antes de sumergirte en tu nuevo tema, por favor visita la <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">página del tema</a> para acceder a docenas de trucos y tutoriales."
+
+#: inc/customizer.php:40
+msgid "Theme Option"
+msgstr "Opciones de tema"
+
+#: header.php:78
+msgid "To customize the contents of this header banner and other elements of your site, go to Dashboard > Appearance > Customize"
+msgstr "Para personalizar los contenidos de este banner de cabecera y otros elementos de tu sitio, ve a Escritorio > Apariencia > Personalizar"
+
+#: footer.php:23
+msgid "Bootstrap Wordpress Theme"
+msgstr "Tema Bootstrap Wordpress"
+
+#: inc/customizer.php:147
+msgid "Header Banner Background Color"
+msgstr "Color de fondo del banner de cabecera"
+
+#: inc/customizer.php:180
+msgid "Remove Header Banner"
+msgstr "Quitar banner de cabecera"
+
+#: inc/customizer.php:192
+msgid "Other Customizations"
+msgstr "Otras personalizaciones"
+
+#: inc/customizer.php:200
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer.php:209
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer.php:120
+msgid "Header Banner"
+msgstr "Banner de cabecera"
+
+#: inc/customizer.php:77
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer.php:27
+msgid "Preset Styles"
+msgstr "Estilos predeterminados"
+
+#: inc/customizer.php:165
+msgid "To customize the contents of this header banner and other elements of your site go to Dashboard - Appearance - Customize"
+msgstr "Para personalizar los contenidos de este banner de cabecera y otros elementos de tu sitio ve a Escritorio - Apariencia - Personalizar"
+
+#: inc/customizer.php:129
+msgid "Header Image"
+msgstr "Imagen de cabecera"
+
+#: inc/customizer.php:154
+msgid "WP Bootstrap Framework"
+msgstr "WP Bootstrap Framework"
+
+#: inc/customizer.php:158
+msgid "Banner Title"
+msgstr "Título de banner"
+
+#: inc/customizer.php:169
+msgid "Banner Tagline"
+msgstr "Lema de banner"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#. Template Name of the plugin/theme
+msgid "Blank without Container"
+msgstr "Blanco sin contenedor"
+
+#. Template Name of the plugin/theme
+msgid "Blank with Container"
+msgstr "Blanco con contenedor"
+
+#: comments.php:99
+msgid "Cancel Reply"
+msgstr "Cancelar respuesta"
+
+#: comments.php:100
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: functions.php:234
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: functions.php:234
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/template-tags.php:137
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:152
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dice:</span>"
+
+#: inc/template-tags.php:156
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/template-tags.php:159
+msgid "<span style=\"margin-left: 5px;\" class=\"glyphicon glyphicon-edit\"></span> Edit"
+msgstr "<span style=\"margin-left: 5px;\" class=\"glyphicon glyphicon-edit\"></span> Editar"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:93
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:99
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:115
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart.php:60
+msgid "Remove this item"
+msgstr "Quitar este artículo"
+
+#: woocommerce/cart/cart.php:133
+msgid "Coupon code"
+msgstr "Código de cupón"
+
+#: woocommerce/cart/cart.php:133
+msgid "Apply coupon"
+msgstr "Aplicar cupón"
+
+#: inc/template-tags.php:137
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: woocommerce/cart/cart.php:133
+msgid "Coupon:"
+msgstr "Cupón:"
+
+#: woocommerce/cart/cart.php:89
+msgid "Available on backorder"
+msgstr "Disponible en reserva"
+
+#: inc/template-tags.php:164
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está en espera de moderación."
+
+#: functions.php:233
+msgid "To view this protected post, enter the password below:"
+msgstr "Para ver esta entrada protegida, introduce la contraseña a continuación:"
+
+#: comments.php:98
+msgid "Leave a Reply to %s"
+msgstr "Deja una Respuesta a %s"
+
+#: comments.php:97
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: comments.php:105
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "Puedes usar estas etiquetas y atributos <abbr title=\"HyperText Markup Language\">HTML</abbr>:"
+
+#: woocommerce/cart/cart.php:138
+msgid "Update cart"
+msgstr "Actualizar carrito"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: functions.php:130
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:139
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:148
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: inc/customizer.php:232
+msgid "Upload Logo (replaces text)"
+msgstr "Subir logo (reemplaza el texto)"
+
+#: template-parts/content.php:36
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:55 comments.php:73
+msgid "Comment navigation"
+msgstr "Navegación de comentario"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:121
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/template-tags.php:31
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:55 inc/template-tags.php:61
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:57
+msgid "Posted in %1$s"
+msgstr "Publicado el %1$s"
+
+#: inc/template-tags.php:63
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71 template-parts/content-page.php:39
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:5
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/content-notitle.php:18 template-parts/content-page.php:27
+#: template-parts/content.php:40
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos el contenido solicitado. Quizás la búsqueda te pueda ayudar."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Disculpa, pero no encontramos tus términos de búsqueda. Quizás puedas intentarlo con otras palabras clave."
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:40
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un Comentario<span class=\"screen-reader-text\"> sobre %s</span>"
+
+#: functions.php:123 functions.php:132 functions.php:141 functions.php:150
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: comments.php:59 comments.php:77
+msgid "Newer Comments"
+msgstr "Nuevos comentarios"
+
+#: comments.php:58 comments.php:76
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se encuentra la página."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no hay nada en este lugar. Quizás quieras probar alguno de los enlaces inferiores, o realizar una búsqueda."
+
+#. translators: %s: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre &ldquo;%s&rdquo;"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Comienza aquí</a>."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios sobre &ldquo;%2$s&rdquo;"
+
+#. Theme URI of the plugin/theme
+msgid "https://afterimagedesigns.com/wp-bootstrap-starter/"
+msgstr "https://afterimagedesigns.com/wp-bootstrap-starter/"
+
+#. Author of the plugin/theme
+msgid "Afterimage Designs"
+msgstr "Afterimage Designs"
+
+#. Author URI of the plugin/theme
+msgid "https://afterimagedesigns.com/"
+msgstr "https://afterimagedesigns.com/"

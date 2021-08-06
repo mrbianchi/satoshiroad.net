@@ -1,0 +1,1549 @@
+# Translation of Plugins - MetaSlider - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - MetaSlider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-09 19:03:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - MetaSlider - Stable (latest release)\n"
+
+#: admin/slideshows/Themes.php:232
+msgid "We removed your selected theme as it could not be found. Was the folder deleted?"
+msgstr "Hemos quitado el tema que has seleccionado ya que no estaba disponible. ¿Se ha borrado la carpeta?"
+
+#: admin/lib/callout.php:171
+msgid "Close"
+msgstr "Cerrar"
+
+#: admin/lib/callout.php:11
+msgid "Free, easy and unlimited stock images for even better slideshows. Quickly search and import free stock images directly into MetaSlider using our free Unspash API feature. <a href=\"%s\">Get started now</a>"
+msgstr "Imágenes de stock gratuitas, fáciles e ilimitadas para mejorar aún más las presentaciones de diapositivas. Busca e importa rápidamente imágenes de stock gratis directamente en MetaSlider usando nuestra característica gratuita Unspash API. <a href=\"%s\">Empezar ahora </a>"
+
+#: ml-slider.php:188
+msgid "MetaSlider Pro is installed but is out of date. You may update it <a target=\"_blank\" href=\"%s\">here</a>. Learn more about this notice <a href=\"%s\">here</a>"
+msgstr "MetaSlider Pro está instalado pero no actualizado. Puedes actualizarlo <a target=\"_blank\" href=\"%s\">aquí</a>. <a href=\"%s\">Aquí</a> hay más información sobre este aviso."
+
+#: admin/routes/api.php:269
+msgid "This was not a slideshow, so we cannot delete it."
+msgstr "Esto no era una presentación de diapositivas, así que no podemos eliminarla."
+
+#: admin/views/pages/start.php:45
+msgid "Create blank slideshow"
+msgstr "Crear una presentación de diapositivas en blanco"
+
+#: admin/views/pages/start.php:41
+msgid "Feel free to create a slideshow with no images. If you are a premium member using the add-on pack, select this option to access video, layer, and external URL slides."
+msgstr "Puedes crear una presentación de diapositivas sin imágenes. Si eres un miembro Premium que utiliza el paquete de extensiones, selecciona esta opción para acceder a las diapositivas de vídeo, capas y URL externas."
+
+#: admin/views/pages/start.php:39
+msgid "Not quite ready?"
+msgstr "¿Aún no estás listo?"
+
+#: admin/views/pages/start.php:39
+msgid "Using more than image slides?"
+msgstr "¿Usas algo a parte de las diapositivas de imágenes?"
+
+#: admin/views/pages/start.php:27
+msgid "Maximum upload file size: %s."
+msgstr "Tamaño máximo de subida de archivo: %s."
+
+#: admin/views/pages/start.php:20
+msgid "To get started right away, drag and drop your images below."
+msgstr "Para comenzar de inmediato, arrastra y suelta tus imágenes a continuación."
+
+#: admin/views/pages/start.php:19
+msgid "Quick start"
+msgstr "Inicio rápido"
+
+#: admin/views/pages/start.php:12
+msgid "Learn more"
+msgstr "Aprende más"
+
+#: admin/views/pages/start.php:12
+msgid "MetaSlider is compatible with Gutenberg, allowing you to select and preview your slideshows direcly in the editor."
+msgstr "MetaSlider es compatible con Gutenberg, lo que te permite seleccionar y previsualizar tus presentaciones de diapositivas directamente en el editor."
+
+#: admin/views/pages/start.php:11
+msgid "Gutenberg ready!"
+msgstr "¡Preparado para Gutenberg!"
+
+#: admin/views/pages/start.php:7
+msgid "To create your first slideshow, select one of the options below."
+msgstr "Para crear tu primera presentación de diapositivas, selecciona una de las siguientes opciones."
+
+#: admin/views/pages/start.php:6
+msgid "Thank you for installing MetaSlider, the #1 WordPress slideshow plugin"
+msgstr "Gracias por instalar MetaSlider, el plugin líder de presentación de diapositivas en WordPress"
+
+#: admin/Tour.php:59
+msgid "Access the various slide types from here."
+msgstr "Accede a los distintos tipos de diapositivas desde aquí."
+
+#: admin/Pages.php:75
+msgid "Please confirm that you would like to delete this slideshow."
+msgstr "Por favor, confirma que deseas eliminar esta presentación de diapositivas."
+
+#: ml-slider.php:1757
+msgid "Save slideshow"
+msgstr "Guardar presentación de diapositivas"
+
+#: ml-slider.php:1945
+msgctxt "Translators: %1$s opens and %2$s closes a strong tag"
+msgid "Show off your %1$sblog posts%2$s, %1$sevents%2$s, %1$sWooCommerce products%2$s and other content with %1$sPost Feed%2$s."
+msgstr "Muestra tus %1$sentradas%2$s, %1$seventos%2$s, %1$sproductos de WooCommerce%2$s y otro contenido con %1$sPost Feed%2$s."
+
+#: ml-slider.php:1829
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Insert MetaSlider"
+msgstr "Insertar MetaSlider"
+
+#: ml-slider.php:1574 ml-slider.php:1587 ml-slider.php:1600 ml-slider.php:1676
+#: ml-slider.php:1702
+msgctxt "Short for milliseconds"
+msgid "ms"
+msgstr "ms"
+
+#: admin/views/pages/upgrade.php:179
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Using innovative RSA public-key cryptography, Keyy is highly secure and prevents password-based hacking risks such as brute-forcing, key-logging, shoulder-surfing and connection sniffing."
+msgstr "Al utilizar la innovadora criptografía de clave pública RSA, Keyy es altamente seguro y evita los riesgos de piratería basados en contraseñas, como el uso de fuerza bruta, el registro de claves, el shoulder surfing y el rastreo de la conexión."
+
+#: admin/views/pages/upgrade.php:177
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy – instant &amp; secure logins with a wave of your phone"
+msgstr "Keyy - accesos seguros e instantáneos con un movimiento de tu teléfono"
+
+#: admin/views/pages/upgrade.php:176
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy Two-Factor Authentication"
+msgstr "Identificación de dos factores de Keyy"
+
+#: admin/views/pages/upgrade.php:167
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "Incredibly simple to use, WP-Optimize clears out old webpage revisions, spam, trash and unapproved comments, all of which take up megabytes of valuable space and leave your database sluggish and ultimately unfit for purpose."
+msgstr "Increíblemente fácil de usar, WP-Optimize vacía todas las viejas revisiones de la web, el spam y los comentarios sin aprobar, todo lo cual ocupa megabytes de espacio valioso y deja su base de datos lenta y, en última instancia, inapropiada para su propósito."
+
+#: admin/views/pages/upgrade.php:166
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "WP-Optimize, the #1 optimization plugin, keeps your WordPress site at prime speed by cleaning the database without the need for phpMyAdmin."
+msgstr "WP-Optimize, el plugin de optimización #1, mantiene tu sitio WordPress a la máxima velocidad limpiando la base de datos sin necesidad de phpMyAdmin."
+
+#: admin/views/pages/upgrade.php:165
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "Wp-Optimize – faster, fitter, cleaner WP sites for optimal performance."
+msgstr "Wp-Optimize - sitios WP más rápidos, más ajustados y limpios para un rendimiento óptimo."
+
+#: admin/views/pages/upgrade.php:156
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "With a wide range of useful features, including automated backup schedules and sophisticated one click updates, UpdraftCentral is sure to boost to your productivity and save you time."
+msgstr "Con una amplia gama de características útiles, incluyendo programas de copias de seguridad automatizadas y sofisticadas actualizaciones con un solo clic, UpdraftCentral aumentará tu productividad y te ahorrará tiempo."
+
+#: admin/views/pages/upgrade.php:155
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral is a powerful tool that allows you to efficiently manage, update, backup and even restore multiple websites from just one location. You can also manage users and comments on all the sites at once, and through its central login feature, you can access each WP-dashboard with a single click."
+msgstr "UpdraftCentral es una poderosa herramienta que te permite administrar, actualizar, hacer copias de seguridad e incluso restaurar varias web desde una sola ubicación. También puedes gestionar usuarios y comentarios en todos los sitios a la vez, y a través de su característica de inicio de sesión central, puedes acceder a cada escritorio de WP con un solo clic."
+
+#: admin/views/pages/upgrade.php:154
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "If you manage a few WordPress sites, you need UpdraftCentral."
+msgstr "Si gestionas varios sitios WordPress necesitas UpdraftCentral."
+
+#: admin/views/pages/upgrade.php:153
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral – save hours managing multiple WP sites from one place"
+msgstr "UpdraftCentral – ahora horas gestionando varios sitios WP desde un único lugar"
+
+#: admin/views/pages/upgrade.php:152
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral Dashboard"
+msgstr "Escritorio de UpdraftCentral"
+
+#: admin/views/pages/upgrade.php:144
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "With a long-standing reputation for excellence and outstanding reviews, it’s no wonder that UpdraftPlus is the world’s most popular WordPress backup plugin."
+msgstr "Con una larga reputación de excelencia y excelentes críticas, no es de extrañar que UpdraftPlus sea el plugin de copias de seguridad de WordPress más popular del mundo."
+
+#: admin/views/pages/upgrade.php:142
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "With UpdraftPlus, you can rest assured that if the worst does happen, it's no big deal. rather than losing everything, you can simply restore the backup and be up and running again in no time at all."
+msgstr "Con UpdraftPlus, puedes estar seguro de que si ocurre lo peor, no será gran cosa. En lugar de perderlo todo, puedes simplemente restaurar la copia de seguridad y estar listo y funcionando de nuevo en un abrir y cerrar de ojos."
+
+#: admin/views/pages/upgrade.php:138
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "UpdraftPlus – the ultimate protection for your site, hard work and business"
+msgstr "UpdraftPlus - la máxima protección para tu sitio, trabajo duro y negocio"
+
+#: admin/views/pages/upgrade.php:74
+msgid "HTML overlay slides"
+msgstr "Diapositivas de superposición HTML"
+
+#: admin/views/pages/upgrade.php:68
+msgctxt "\"YouTube\" and \"Vimeo\" are brand names."
+msgid "Easily include responsive high definition YouTube and Vimeo videos."
+msgstr "Incluye fácilmente videos de alta definición en YouTube y Vimeo."
+
+#: admin/views/pages/upgrade.php:54
+msgctxt "Keep the branding \"Smart Crop\" together when possible"
+msgid "Unique Smart Crop functionality ensures your slides are perfectly resized."
+msgstr "La funcionalidad única de recorte inteligente asegura que tus diapositivas se redimensionen a la perfección."
+
+#: admin/views/pages/upgrade.php:47
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Our word to keep MetaSlider compatible with the latest versions of WordPress."
+msgstr "Nuestra palabra de mantener MetaSlider compatible con las últimas versiones de WordPress."
+
+#: admin/views/pages/upgrade.php:40
+msgctxt "\"FlexSlider\" and \"Nivo Slider\" are plugin names."
+msgid "Including FlexSlider, Nivo Slider and we will soon be adding more."
+msgstr "Incluyendo FlexSlider, Nivo Slider y pronto añadiremos más."
+
+#: admin/views/pages/upgrade.php:20 admin/views/pages/upgrade.php:21
+msgid "MetaSlider logo"
+msgstr "Logotipo de MetaSlider"
+
+#: admin/Notices.php:567
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Review MetaSlider"
+msgstr "Valora MetaSlider"
+
+#: admin/Notices.php:565
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "Get UpdraftCentral"
+msgstr "Consigue UpdraftCentral"
+
+#: admin/Notices.php:564
+msgctxt "This refers to WP_Optimize, but please translate \"optimize\" accordingly"
+msgid "Optimize today"
+msgstr "Optimiza hoy"
+
+#: admin/Notices.php:563
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Get Keyy"
+msgstr "Consigue Keyy"
+
+#: admin/Notices.php:562
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "Get UpdraftPlus"
+msgstr "Consigue UpdraftPlus"
+
+#: admin/Notices.php:332
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral"
+msgstr "UpdraftCentral"
+
+#: admin/Notices.php:325
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy"
+msgstr "Keyy"
+
+#: admin/Notices.php:318 admin/views/pages/upgrade.php:164
+msgctxt "Keep the plugin name \"WP-Optimize\" when possible"
+msgid "WP-Optimize"
+msgstr "WP-Optimize"
+
+#: admin/Notices.php:311
+msgctxt "Keep the plugin name \"UpdraftPlus\" when possible"
+msgid "UpdraftPlus"
+msgstr "UpdraftPlus"
+
+#: admin/Notices.php:290
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "MetaSlider Add-on Pack:"
+msgstr "Paquete de extensiones para MetaSlider:"
+
+#: admin/Notices.php:267
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Summer sale - 20% off the MetaSlider Add-on Pack until July 31st"
+msgstr "Oferta de verano - 20% de descuento en el paquete de extensiones para MetaSlider hasta el 31 de julio"
+
+#: admin/Notices.php:254
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Spring sale - 20% off the MetaSlider Add-on Pack until April 30th"
+msgstr "Oferta de primavera - 20% de descuento en el paquete de extensiones para MetaSlider hasta el 30 de abril"
+
+#: admin/Notices.php:241
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Happy New Year - 20% off the MetaSlider Add-on Pack until January 14th"
+msgstr "Feliz Año Nuevo - 20% de descuento en el paquete de extensiones para MetaSlider hasta el 14 de enero"
+
+#: admin/Notices.php:228
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible"
+msgid "Christmas sale - 20% off the MetaSlider Add-on Pack until December 25th"
+msgstr "Oferta de Navidad - 20% de descuento en el paquete de extensiones para MetaSlider hasta el 25 de diciembre"
+
+#: admin/Notices.php:215
+msgctxt "Keep the phrase \"MetaSlider Add-on Pack\" when possible. Also, \"Black Friday\" is the name of an event in the United States"
+msgid "Black Friday - 20% off the MetaSlider Add-on Pack until November 30th"
+msgstr "Black Friday - 20% de descuento en el paquete de extensiones para MetaSlider hasta el 30 de noviembre"
+
+#: admin/Notices.php:172
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Thank you for installing MetaSlider"
+msgstr "Gracias por instalar MetaSlider"
+
+#: admin/Notices.php:142
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "With the MetaSlider Add-on pack you can give your slideshows a professional look!"
+msgstr "¡Con el paquete de extensiones para MetaSlider puedes dar a tus presentaciones un aspecto profesional!"
+
+#: admin/Notices.php:122
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Please help MetaSlider by giving a positive review at wordpress.org."
+msgstr "Por favor, ayuda a MetaSlider dándole una valoración positiva en wordpress.org"
+
+#: admin/Notices.php:121
+msgctxt "Keep the plugin name \"MetaSlider\" when possible"
+msgid "Like MetaSlider and have a minute to spare?"
+msgstr "¿Te gusta MetaSlider y tienes un minuto para divulgarlo?"
+
+#: admin/Notices.php:111
+msgctxt "Keep the plugin name \"UpdraftCentral\" when possible"
+msgid "UpdraftCentral is a highly efficient way to take backup, update and manage multiple WP sites from one location"
+msgstr "UpdraftCentral es una forma muy eficaz de realizar copias de seguridad, actualizar y administrar varios sitios de WP desde una misma ubicación."
+
+#: admin/Notices.php:99
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy: Instant and secure logon with a wave of your phone"
+msgstr "Keyy: Inicio de sesión instantáneo y seguro con un movimiento de tu teléfono"
+
+#: admin/Notices.php:89
+msgctxt "Keep the plugin names \"UpdraftPlus\" and \"MetaSlider\" when possible"
+msgid "UpdraftPlus is the world's #1 backup plugin from the makers of MetaSlider. Backup to the cloud, on a schedule and restore with 1 click!"
+msgstr "UpdraftPlus es el plugin de copia de seguridad número uno del mundo, de los creadores de MetaSlider. ¡Copias de seguridad en la nube, programadas y restauración con 1 clic!"
+
+#: themes/manifest.php:174
+msgid "The Nivo Dark theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "Tema Dark de Nivo incluido aquí para propósitos de retrocompatibilidad. Nota: sólo funciona con Nivo Slider"
+
+#: themes/manifest.php:166
+msgid "The Nivo Bar theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "Tema Bar de Nivo incluido aquí para propósitos de retrocompatibilidad. Nota: sólo funciona con Nivo Slider"
+
+#: themes/manifest.php:158
+msgid "The Nivo Light theme included here for legacy purposes. Note: only works with Nivo Slider"
+msgstr "Tema Light de Nivo incluido aquí para propósitos de retrocompatibilidad. Nota: sólo funciona con Nivo Slider"
+
+#: themes/manifest.php:149
+msgid "A minimalist theme that gets out of the way so you can showcasing your beautiful pictures."
+msgstr "Un tema minimalista que se quita de en medio para que puedas mostrar tus hermosas fotos."
+
+#: themes/manifest.php:140
+msgid "A bold and clear design that works well on a darker images."
+msgstr "Un diseño audaz y claro que funciona bien con imágenes más oscuras."
+
+#: themes/manifest.php:131
+msgid "This theme has a unique design that gives it a sophisticated look."
+msgstr "Este tema tiene un diseño único que le da un aspecto sofisticado."
+
+#: themes/manifest.php:100
+msgid "This theme has a special additional functionality that uses image titles as the slide navigation. "
+msgstr "Este tema tiene una funcionalidad adicional especial que utiliza títulos de imágenes como la navegación de diapositivas. "
+
+#: themes/manifest.php:91
+msgid "A simple theme that neatly blends into any existing website."
+msgstr "Un tema sencillo que se integra perfectamente en cualquier sitio web existente."
+
+#: themes/manifest.php:82
+msgid "A futuristic and linear design that goes will with a dark background."
+msgstr "Un diseño futurista y lineal que combina con un fondo oscuro."
+
+#: themes/manifest.php:73
+msgid "This theme places the controls vertically for a unique look."
+msgstr "Este tema coloca los controles verticalmente para obtener un aspecto único."
+
+#: themes/manifest.php:32
+msgid "A fun, circular design to brighten up your site. This theme works well with dark images"
+msgstr "Un diseño divertido y circular para alegrar tu sitio. Este tema funciona bien con imágenes oscuras"
+
+#: themes/manifest.php:23
+msgid "A clean, subtle theme that features block arrows and bold design."
+msgstr "Un tema limpio y sutil que incluye flechas de bloque y un diseño atrevido."
+
+#: themes/manifest.php:14
+msgid "A simple, slick square design that looks good on darker images."
+msgstr "Un diseño cuadrado simple y elegante que se ve bien en imágenes más oscuras."
+
+#: themes/manifest.php:41
+msgid "A minimalistic, no-frills design that was built to blend in with most themes."
+msgstr "Un diseño minimalista y limpio creado para integrarse con la mayoría de los temas."
+
+#: ml-slider.php:1981
+msgid "Copy all code"
+msgstr "Copiar todo el código"
+
+#: ml-slider.php:1978
+msgid "Show title"
+msgstr "Mostrar título"
+
+#: ml-slider.php:1947
+msgid "Post Feed slides can also be used with other slide types to either show one post at a time or in a carousel mode, allowing you to show off a large number of your latest posts in a small amount of space."
+msgstr "Las diapositivas de feed de publicaciones también se pueden usar con otros tipos de diapositivas para mostrar, o bien las publicaciones de una en una o en modo carrusel, permitiéndote mostrar una gran cantidad de tus publicaciones en un espacio pequeño."
+
+#: ml-slider.php:1946
+msgid "Customise and control which post types you want to display, their order and how to restrict posts to certain tags or categories."
+msgstr "Personaliza y controla qué tipos de contenido quieres mostrar, su orden y cómo restringir las publicaciones según ciertas etiquetas o categorías."
+
+#: ml-slider.php:1920
+msgid "Create a slideshow full of your favorite videos easily and quickly by simply adding a URL to a YouTube slide."
+msgstr "Crear un carrusel completo de tus vídeos favoritos fácil y rápidamente simplemente añadiendo una URL a tu diapositiva de YouTube."
+
+#: ml-slider.php:1896 ml-slider.php:1922
+msgid "You could even have the slider autoplay a video, giving you a smooth, completely automatic presentation!"
+msgstr "¡Podrías incluso hacer que la diapositiva reproduzca automáticamente un vídeo, ofreciéndote una presentación fluida totalmente automática!"
+
+#: ml-slider.php:1895 ml-slider.php:1921
+msgid "Features include an automatic play/pause function, in which your slideshow will detect when you set a video to play and continue once the video has finished."
+msgstr "Sus características incluyen una función de reproducción/pausa automática, en la que tu carrusel detectará cuando configures un vídeo par que se reproduzca y siga una vez que haya finalizado el vídeo."
+
+#: ml-slider.php:1894
+msgid "Create a slideshow full of your favorite videos easily and quickly by simply adding a URL to a Vimeo slide."
+msgstr "Crear un carrusel completo con tus vídeos favoritos fácil y rápidamente simplemente añadiendo una URL a una diapositiva de Vimeo."
+
+#: ml-slider.php:1871 ml-slider.php:1898 ml-slider.php:1924 ml-slider.php:1949
+msgid "Opens in a new window"
+msgstr "Abre en una nueva ventana"
+
+#: ml-slider.php:1870 ml-slider.php:1897 ml-slider.php:1923 ml-slider.php:1948
+msgid "Find out more about all the features of the Add-on Pack here"
+msgstr "Descubre aquí más sobre todas las características del paquete de la extensión"
+
+#: ml-slider.php:1869
+msgid "Additional optimization and customization options including using a video as the slide background, and adjusting the padding and background color of each layer."
+msgstr "Opciones adicionales de optimización y personalización que incluyen usar un vídeo como fondo de la diapositiva, y ajustar el relleno y color de fondo de cada capa."
+
+#: ml-slider.php:1868
+msgctxt "Translators: %1$s opens and %2$s closes a strong tag"
+msgid "Layers can include %1$s text, HTML, images, videos %2$s and even %1$s shortcodes%2$s!"
+msgstr "Las capas pueden incluir %1$s texto, HTML, imágenes, vídeos %2$s ¡e incluso %1$sshortcodes%2$s!"
+
+#: ml-slider.php:1868
+msgctxt "Translators: %s opens and closes a strong tag"
+msgid "Ideal for easily creating eye-catching presentations and slideshows using stunning effects with %s 30 animation options %s and a beautiful, easy to use interface."
+msgstr "Ideal para crear fácilmente presentaciones impactantes y carruseles con efectos sorprendentes con %s opciones de animación %s y una bonita y fácil de usar interfaz."
+
+#: inc/slide/metaslide.image.class.php:368
+msgid "Schedule"
+msgstr "Programar"
+
+#: admin/views/slides/tabs/schedule.php:9
+msgid "Get it now!"
+msgstr "¡Consíguelo ahora!"
+
+#: admin/views/slides/tabs/schedule.php:8
+msgid "Get the Pro add-on pack now to add a start/end date option to your slides"
+msgstr "Consigue el paquete de la extensión Pro par añadir una opción de de fecha de inicio/fin a tus diapositivas"
+
+#: admin/views/slides/tabs/schedule.php:6
+msgid "Why am I seeing this?"
+msgstr "¿Por qué estoy viendo esto?"
+
+#: admin/views/slides/tabs/schedule.php:5
+msgctxt "A coupon code and a discount amount"
+msgid "Have an expired license? Use coupon code %s for a %s discount"
+msgstr "¿Tienes una licencia caducada? Utiliza el código de cupón %s para un descuento del %s"
+
+#: admin/views/slides/tabs/schedule.php:4
+msgid "Update or activate your pro add-on pack now to add a start/end date option to your slides"
+msgstr "Actualiza o activa tu paquete de extensión pro ahora para añadir una opción de fecha de inicio/fin a tus diapositivas"
+
+#: admin/views/pages/upgrade.php:104
+msgid "Allows you to hide any slide, without having to delete them."
+msgstr "Te permite oculta cualquier diapositiva, sin tener que borrarla."
+
+#: admin/views/pages/upgrade.php:103
+msgid "Toggle your slide's visibility"
+msgstr "Cambia la visibilidad de tu diapositiva"
+
+#: admin/views/pages/upgrade.php:96
+msgid "Add a start/end date to individual slides."
+msgstr "Añade una fecha de inicio/fin a diapositivas individuales."
+
+#: admin/views/pages/upgrade.php:95
+msgid "Schedule your slides"
+msgstr "Programa tus diapositivas"
+
+#: admin/slideshows/Themes.php:52
+msgid "No themes found."
+msgstr "No se han encontrado temas."
+
+#: admin/slideshows/Image.php:135
+msgid "We could not find any images to import."
+msgstr "No hemos podido encontrar ninguna imagen que importar."
+
+#: admin/routes/api.php:217 admin/routes/api.php:262
+msgid "This slideshow is no longer available."
+msgstr "Este carrusel ya no está disponible."
+
+#: admin/routes/api.php:165 admin/routes/api.php:209
+msgid "The request format was not valid."
+msgstr "El formato de la petición no era válido."
+
+#: ml-slider.php:1537
+msgid "Fade in the first slide"
+msgstr "Fundido de la primera diapositiva"
+
+#: ml-slider.php:1534
+msgid "Fade in"
+msgstr "Fundido"
+
+#: ml-slider.php:651
+msgid "The slideshow was successfully updated."
+msgstr "El carrusel ha sido actualizado correctamente."
+
+#: ml-slider.php:635
+msgid "There was an error while updating the title."
+msgstr "Hubo un error al actualizar el título."
+
+#: ml-slider.php:603
+msgid "The slideshow you're trying to update was not found."
+msgstr "No se ha encontrado el carrusel que intentas actualizar."
+
+#: admin/routes/api.php:69 admin/routes/api.php:94 admin/routes/api.php:121
+#: admin/routes/api.php:159 admin/routes/api.php:202 admin/routes/api.php:254
+#: admin/routes/api.php:310
+msgid "You do not have access to this resource."
+msgstr "No tienes acceso a este recurso."
+
+#: admin/views/slides/tabs/seo.php:16
+msgid "Use the image alt text"
+msgstr "Utilizar el texto alternativo de la imagen"
+
+#: admin/views/slides/tabs/seo.php:15
+msgid "Enable this to inherit the image alt text"
+msgstr "Activa esto para heredar el texto alternativo de la imagen"
+
+#: admin/views/slides/tabs/seo.php:6
+msgid "Use the image title"
+msgstr "Utilizar el título de la imagen"
+
+#: admin/views/slides/tabs/seo.php:5
+msgid "Enable this to inherit the image title"
+msgstr "Activa esto para heredar el título de la imagen"
+
+#: admin/views/slides/tabs/general.php:28
+msgid "Open in a new window"
+msgstr "Abrir en una ventana nueva"
+
+#: admin/views/notices/dashboard-notice.php:9
+#: admin/views/notices/header-notice.php:11
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: ml-slider.php:1989
+msgid "To display your slideshow using id or title, add the following shortcodes (in orange) to your page. If adding the slideshow to your theme files, additionally include the surrounding PHP function (in gray)."
+msgstr "Para mostrar tu pase de diapositivas, añade los siguientes shortcodes (en naranja) a tu página. Si estás añadiendo el carrusel a los archivos de tu tema, añade también la función de PHP (en gris)."
+
+#: ml-slider.php:1466
+msgid "Click to toggle"
+msgstr "Haz clic para alternar"
+
+#: ml-slider.php:1975
+msgid "How to Use"
+msgstr "Cómo utilizar"
+
+#: admin/Pages.php:80
+msgid "Item was copied to your clipboard"
+msgstr "El elemento ha sido copiado a tu portapapeles"
+
+#: admin/Pages.php:79
+msgid "Success"
+msgstr "Éxito"
+
+#: ml-slider.php:2019
+msgid "Leave a review"
+msgstr "Deja una valoración"
+
+#: ml-slider.php:2012
+msgid "Premium Support"
+msgstr "Soporte premium"
+
+#: ml-slider.php:2016
+msgid "Support"
+msgstr "Soporte"
+
+#: ml-slider.php:2010
+msgid "Take a tour"
+msgstr "Visita nuestro tour"
+
+#: ml-slider.php:1452
+msgid "Trash"
+msgstr "Papelera"
+
+#: ml-slider.php:1451
+msgid "View trashed slides"
+msgstr "Ver diapositivas borradas"
+
+#: ml-slider.php:1419
+msgid "Filmstrip"
+msgstr "Película"
+
+#: ml-slider.php:1415
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ml-slider.php:1302
+msgid "You are viewing slides that have been trashed, which will be automatically deleted in %s days. Click <a href=\"%s\">here</a> to view active slides."
+msgstr "Estás viendo diapositivas de la papelera, que serán eliminadas automáticamente en %s días. Haz clic <a href=\"%s\">aquí</a> para ver las diapositivas activas."
+
+#: ml-slider.php:1273
+msgid "Add a New Slide"
+msgstr "Añadir nueva diapositiva"
+
+#: ml-slider.php:1265
+msgid "<a href=\"%s\">view active</a>"
+msgstr "<a href=\"%s\">ver activos</a>"
+
+#: ml-slider.php:1264
+msgid "Trashed Slides"
+msgstr "Diapositivas eliminadas"
+
+#: ml-slider.php:1162
+msgid "Select Slideshow"
+msgstr "Seleccionar presentación de diapositivas"
+
+#: ml-slider.php:1011
+msgid "Get the Add-on Pack today!"
+msgstr "¡Consigue el pack de complementos!"
+
+#: ml-slider.php:838 admin/slideshows/Slideshows.php:58
+msgid "New Slideshow"
+msgstr "Nueva presentación de diapositivas"
+
+#: ml-slider.php:725
+msgid "The slide was successfully trashed"
+msgstr "La diapositiva se ha eliminado correctamente"
+
+#: ml-slider.php:692
+msgid "The attempt to restore the slide failed."
+msgstr "El intento de recuperar la diapositiva ha fallado."
+
+#: ml-slider.php:676
+msgid "The slide was successfully restored"
+msgstr "La diapositiva se ha restaurado correctamente"
+
+#: ml-slider.php:470
+msgid "Add to slideshow"
+msgstr "Añadir a la presentación de diapositivas"
+
+#: admin/slideshows/Settings.php:65 inc/slider/metaslider.class.php:109
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/slide/metaslide.image.class.php:83
+msgid "This isn't an accepted image. Please try again."
+msgstr "Esta imagen no está permitida. Por favor inténtalo de nuevo."
+
+#: inc/slide/metaslide.image.class.php:267 inc/slide/metaslide.class.php:382
+msgid "Update slide image"
+msgstr "Actualizar imagen de la diapositiva"
+
+#: inc/slide/metaslide.class.php:371
+msgid "Delete Permanently"
+msgstr "Borrar permanentemente"
+
+#: inc/slide/metaslide.class.php:359
+msgid "Restore"
+msgstr "Restaurar"
+
+#: inc/slide/metaslide.class.php:278
+msgid "There was an error while updating the database. Please try again."
+msgstr "Ha habido un error al actualizar la base de datos. Por favor, inténtalo de nuevo."
+
+#: inc/slide/metaslide.class.php:121
+msgid "There was an error updating the image. Please try again"
+msgstr "Ha habido un error actualizando la imagen. Por favor, inténtalo de nuevo"
+
+#: inc/slide/metaslide.class.php:115
+msgid "The image was successfully updated."
+msgstr "La imagen se ha actualizado con éxito."
+
+#: inc/slide/metaslide.class.php:94
+msgid "The requested slide does not exist or something is wrong with the current image. Please try again or remove this slide."
+msgstr "La diapositiva solicitada no existe o hay algún error con la imagen actual. Por favor, inténtalo de nuevo o elimina esta diapositiva."
+
+#: admin/views/pages/upgrade.php:180
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Logging in with Keyy is simple. Once users have installed the app onto their smartphone and secured it using a fingerprint or 4-number pin, they just open the app, point it at the moving on-screen barcode and voila!"
+msgstr "Iniciar sesión con %s es sencillo. Una vez que los usuarios han instalado la aplicación en su móvil y la han asegurado con una huella dactilar o un pin de 4 dígitos, solo tienen que abrir la aplicación, apuntarla al código de barras de la pantalla y ¡voila!"
+
+#: admin/views/pages/upgrade.php:178
+msgctxt "Keep the plugin name \"Keyy\" when possible"
+msgid "Keyy is a unique 2-factor authentication plugin that allows you to log in to your website with just a wave of your smartphone. It represents the ultimate UX, doing away with the need for usernames, passwords and other 2FA tokens."
+msgstr "%s es un plugin único de identificación en dos factores que te permite conectarte a tu web con una pasada de tu móvil. Representa lo último en experiencia de usuario, librarse de la necesidad de usuarios, contraseñas y otros tokens 2FA."
+
+#: admin/views/pages/upgrade.php:168
+msgctxt "ml-slider"
+msgid "WP-Optimize has a load of valuable features, including automated weekly clean up scheduling, the retention of a set number of weeks’ data, a display of how much space can be cleared, the enabling / disabling of trackbacks and comments for all published posts, and an ‘administrators only’ security feature."
+msgstr "%s tiene multitud de características valiosas, incluida la programación semanal de limpieza, la retención de una cantidad establecida de datos semanales, información de cuándo espacio se va a liberar, la activación y desactivación de los trackbacks de todas las entradas publicadas, un una función seguridad 'sólo administradores'."
+
+#: admin/views/pages/upgrade.php:145 admin/views/pages/upgrade.php:157
+#: admin/views/pages/upgrade.php:169 admin/views/pages/upgrade.php:181
+msgid "Try for free"
+msgstr "Pruébalo gratis"
+
+#: admin/views/pages/upgrade.php:143
+msgid "You can also migrate your website with few clicks without hassle."
+msgstr "Puede migrar su web con unos pocos clic sin problemas."
+
+#: admin/views/pages/upgrade.php:141
+msgid "Hacking, server crashes, dodgy updates or simple user error can ruin everything."
+msgstr "Hackeos, caidas de servidos, actualizaciones dudosas o errores de usuario le puede arruinar todo."
+
+#: admin/views/pages/upgrade.php:140
+msgid "If you’ve got a WordPress website, you need a backup."
+msgstr "Si tienes una web %s, necesitas un backup."
+
+#: admin/views/pages/upgrade.php:130
+msgid "More Professional-Quality Plugins for your Website"
+msgstr "Más plugins de calidad profesional para tu web"
+
+#: admin/views/pages/upgrade.php:111
+msgid "Have your specific queries addressed directly by our experts"
+msgstr "Haz que tus consultas específicas sean tratadas directamente por nuestros expertos"
+
+#: admin/views/pages/upgrade.php:110
+msgid "Premium support"
+msgstr "Soporte Premium"
+
+#: admin/views/pages/upgrade.php:89
+msgid "Easily build slides based on your WordPress posts."
+msgstr "Construye fácilmente diapositivas en base a tus %s entradas."
+
+#: admin/views/pages/upgrade.php:88
+msgid "Post feed slides"
+msgstr "Diapositivas de lista de entradas"
+
+#: admin/views/pages/upgrade.php:82
+msgid "Add layers to your slides with over 50 available transition effects."
+msgstr "Agrega capas a tus diapositivas con más de 50 efectos de transición disponibles."
+
+#: admin/views/pages/upgrade.php:81
+msgid "Add slide layers"
+msgstr "Añadir capas a la diapositiva"
+
+#: admin/views/pages/upgrade.php:75
+msgid "Create completely customized HTML slides using the inline editor."
+msgstr "Crea %s diapositivas completamente personalizadas con el editor integrado."
+
+#: admin/views/pages/upgrade.php:67
+msgid "Add video slides"
+msgstr "Añadir diapositivas de video"
+
+#: admin/views/pages/upgrade.php:62 admin/views/pages/upgrade.php:69
+#: admin/views/pages/upgrade.php:76 admin/views/pages/upgrade.php:83
+#: admin/views/pages/upgrade.php:90 admin/views/pages/upgrade.php:97
+#: admin/views/pages/upgrade.php:105 admin/views/pages/upgrade.php:112
+msgid "No"
+msgstr "No"
+
+#: admin/views/pages/upgrade.php:61
+msgid "Easily allow users to navigate your slideshows by thumbnails."
+msgstr "Permite navegar a tu usuarios de manera sencilla  por tus pases de diapositivas con miniaturas."
+
+#: admin/views/pages/upgrade.php:60
+msgid "Thumbnail navigation"
+msgstr "Navegación por miniaturas"
+
+#: admin/views/pages/upgrade.php:53
+msgid "Intelligent image cropping"
+msgstr "Recorte inteligente de la imagen"
+
+#: admin/views/pages/upgrade.php:46
+msgid "Regular updates"
+msgstr "Actualizaciones periódicas."
+
+#: admin/views/pages/upgrade.php:39
+msgid "Multiple slideshow types"
+msgstr "Varios tipos de pases de diapostivas"
+
+#: admin/views/pages/upgrade.php:34 admin/views/pages/upgrade.php:35
+#: admin/views/pages/upgrade.php:41 admin/views/pages/upgrade.php:42
+#: admin/views/pages/upgrade.php:48 admin/views/pages/upgrade.php:49
+#: admin/views/pages/upgrade.php:55 admin/views/pages/upgrade.php:56
+#: admin/views/pages/upgrade.php:63 admin/views/pages/upgrade.php:70
+#: admin/views/pages/upgrade.php:77 admin/views/pages/upgrade.php:84
+#: admin/views/pages/upgrade.php:91 admin/views/pages/upgrade.php:98
+#: admin/views/pages/upgrade.php:106 admin/views/pages/upgrade.php:113
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/slide/metaslide.class.php:87
+msgid "The requested image does not exist. Please try again."
+msgstr "La imagen solicitad no existe. Por favor inténtalo de nuevo."
+
+#: admin/views/pages/upgrade.php:33
+msgid "Create and manage as many slideshows as you need."
+msgstr "Crea y gestiona tantas diapositivas como necesites."
+
+#: admin/views/pages/upgrade.php:32
+msgid "Create unlimited slideshows"
+msgstr "Crear ilimitados pases de diapositivas"
+
+#: admin/views/pages/upgrade.php:28 admin/views/pages/upgrade.php:120
+msgid "Upgrade now"
+msgstr "Actualizar ahora"
+
+#: admin/views/pages/upgrade.php:27 admin/views/pages/upgrade.php:119
+msgid "Installed"
+msgstr "Instalado"
+
+#: admin/views/pages/upgrade.php:21
+msgid "pro"
+msgstr "pro"
+
+#: ml-slider.php:368 ml-slider.php:2015 admin/views/pages/upgrade.php:21
+msgid "Add-ons"
+msgstr "Complementos"
+
+#: admin/views/pages/upgrade.php:20
+msgid "free"
+msgstr "gratis"
+
+#: admin/views/pages/upgrade.php:15
+msgid "Comparison Chart"
+msgstr "Gráfico de comparación"
+
+#: admin/views/notices/header-notice.php:6
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/Tour.php:130
+msgid "This method does not exist. Please refresh the page and try again."
+msgstr "Este método no existe. Por favor actualiza la página e inténtalo de nuevo."
+
+#: admin/Tour.php:80
+msgid "You've completed the tour and are ready to add great slideshows to your website. Don't forget, if you want your slideshows to really stand out, pick up the add-on pack today. "
+msgstr "Ya has terminado la visita guiada y estás listo para añadir carruseles geniales a tu web. No lo olvides, si quieres carruseles que destaquen de verdad, consigue el pack de extensiones. "
+
+#: admin/Tour.php:79
+msgid "Congratulations!"
+msgstr "¡Enhorabuena!"
+
+#: admin/Tour.php:76 admin/Tour.php:81
+msgid "Finish"
+msgstr "Finalizar"
+
+#: admin/Tour.php:75
+msgid "You are all set! If you want to add the slideshow to a post, you may use this shortcode."
+msgstr "¡Todo listo! Si quieres añadir tu pase de diapositiva a una entrada, puedes utilizar este shortcode."
+
+#: admin/Tour.php:74
+msgid "Shortcode Usage"
+msgstr "Uso de los shortcodes"
+
+#: admin/Tour.php:71
+msgid "If you need to adjust the settings for this slideshow, you may do so here."
+msgstr "Si necesitas ajustar las opciones de este pase de diapositivas, puedes hacerlo aquí."
+
+#: admin/Tour.php:70
+msgid "Adjust Settings"
+msgstr "Ajustar opciones"
+
+#: admin/Tour.php:67
+msgid "Now that you have some slides set, you can preview your slideshow by clicking here."
+msgstr "Ahora que tienes algunas diapositivas, puedes previsualizar el pase de diapositivas haciendo clic aquí."
+
+#: admin/Tour.php:66
+msgid "Preview Slideshow"
+msgstr "Previsualizar presentación de diapositivas"
+
+#: admin/Tour.php:63
+msgid "After you have selected your media from the left, click below to continue."
+msgstr "Tras seleccionar los medios de la izquierda, haz clic abajo para continuar."
+
+#: admin/Tour.php:62
+msgid "Select Media"
+msgstr "Seleccionar medios"
+
+#: admin/Tour.php:58
+msgid "Select Slide Type"
+msgstr "Selecciona el tipo de diapositiva"
+
+#: admin/Tour.php:55
+msgid "Congratulations! Now that you've created a slideshow, click here to add a slide."
+msgstr "¡Enhorabuena! Ahora que has creado tu primer pase de diapositivas, haz clic para añadir una diapositiva."
+
+#: admin/Tour.php:54
+msgid "Add A Slide"
+msgstr "Añadir una diapositiva"
+
+#: admin/Tour.php:50
+msgid "Skip this step"
+msgstr "Saltar este paso"
+
+#: admin/Tour.php:49 admin/slideshows/Settings.php:66
+#: inc/slider/metaslider.class.php:110
+msgid "Next"
+msgstr "Siguiente"
+
+#: ml-slider.php:1011 admin/Tour.php:48
+msgid "Learn More"
+msgstr "Leer más"
+
+#: admin/Tour.php:42
+msgid "Thanks for using the MetaSlider WordPress plugin. It looks like you don’t have any slideshows yet! To get started, click above to add your first one."
+msgstr "Gracias por utilizar el plugin MetaSlider para WordPress. ¡Parece que no tienes ningún pase de diapositivas todavía! Para empezar, haz clic arriba para crear el primero."
+
+#: admin/Tour.php:41
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: admin/Pages.php:81
+msgid "Press to undo"
+msgstr "Haz clic para deshacer"
+
+#: admin/Pages.php:78
+msgid "Slide deleted"
+msgstr "Diapositiva eliminada"
+
+#: admin/Pages.php:77
+msgid "Slide restored"
+msgstr "Diapositiva recuperada"
+
+#: admin/Pages.php:76
+msgid "Undo"
+msgstr "Deshacer"
+
+#: admin/Notices.php:685
+msgid "The attempt to update the option failed."
+msgstr "El intento de actualización ha fallado."
+
+#: admin/Notices.php:661
+msgid "The requested data does not exist."
+msgstr "Los datos solicitados no existen."
+
+#: admin/Notices.php:604
+msgid "The option was successfully updated"
+msgstr "La opción se ha actualizado con éxito."
+
+#: admin/Notices.php:591
+msgid "This item does not exist. Please refresh the page and try again."
+msgstr "El elemento no existe. Por favor, actualiza la página e inténtalo de nuevo."
+
+#: ml-slider.php:596 ml-slider.php:663 ml-slider.php:712 admin/Tour.php:123
+#: admin/Notices.php:585 inc/slide/metaslide.image.class.php:119
+#: inc/slide/metaslide.image.class.php:177 inc/slide/metaslide.class.php:133
+msgid "The security check failed. Please refresh the page and try again."
+msgstr "La comprobación de seguridad ha fallado. Por favor, actualiza la página e inténtalo de nuevo."
+
+#: admin/Notices.php:572
+msgid "Read more"
+msgstr "Leer más"
+
+#: admin/Notices.php:570
+msgid "Go there"
+msgstr "Ir allí"
+
+#: admin/Notices.php:569
+msgid "Sign up"
+msgstr "Registro"
+
+#: admin/Notices.php:568
+msgid "Find out more"
+msgstr "Encontrar más"
+
+#: admin/Notices.php:566
+msgid "Let's Start"
+msgstr "Vamos a empezar"
+
+#: admin/Notices.php:546
+msgid "weeks"
+msgstr "semanas"
+
+#: admin/Notices.php:333
+msgid "is a highly efficient way to manage, update and backup multiple websites from one place."
+msgstr "es una forma muy eficiente de gestionar, actualizar y realizar copias de seguridad de múltiples webs desde un único sitio."
+
+#: admin/Notices.php:326
+msgid "Simple & secure login with a wave of your phone."
+msgstr "Inicio de sesión sencillo y seguro con una pasada de tu teléfono."
+
+#: admin/Notices.php:319
+msgid "auto-clean your WordPress database so that it runs at maximum efficiency."
+msgstr "limpieza automática de tu base de datos de WordPress para que funcione con la máxima eficiencia."
+
+#: admin/Notices.php:312
+msgid "simplifies backups and restoration. It is the world's highest ranking and most popular scheduled backup plugin, with over a million currently-active installs."
+msgstr "simplifica las copias de seguridad y la restauración. Es el plugin de copias de seguridad programadas más popular y mejor valorado del mundo, com más de un millón de instalaciones activas."
+
+#: admin/Notices.php:291
+msgid "Increase your conversion rate with video slides and many more options."
+msgstr "Aumenta tus tasas de conversión con diapositivas de video y muchas más opciones."
+
+#: admin/Notices.php:216 admin/Notices.php:229 admin/Notices.php:242
+#: admin/Notices.php:255 admin/Notices.php:268
+msgid "To benefit, use this discount code:"
+msgstr "Para beneficiarte, usa este código de descuento:"
+
+#: admin/Notices.php:173
+msgid "Supercharge & secure your WordPress site with our other top plugins:"
+msgstr "Supervitamina y asegura tu sitio WordPress con nuestros otros plugins:"
+
+#: admin/Notices.php:162
+msgid "Please go here for instructions - it is easy."
+msgstr "Por favor, entra aquí para ver las instrucciones - es fácil"
+
+#: admin/Notices.php:161
+msgid "Can you translate? Want to improve MetaSlider for speakers of your language?"
+msgstr "¿Sabes traducir? ¿Quieres mejorar MetaSlider para los usuarios de tu idioma?"
+
+#: admin/Notices.php:152
+msgid "Upgrade today to benefit from many more premium features. Find out more."
+msgstr "Mejora hoy para beneficiarte de muchas otras características premium. Aprende más."
+
+#: admin/Notices.php:151
+msgid "Increase your revenue and conversion with video slides and many more features"
+msgstr "Mejora tus beneficios y conversiones con diapositivas de video y muchas otras caracteríscticas"
+
+#: admin/Notices.php:141
+msgid "Spice up your site with animated layers and video slides"
+msgstr "Anima tu sitio con capas animadas y diapositivas de video"
+
+#: admin/Notices.php:110
+msgid "Save Time and Money. Manage multiple WordPress sites from one location."
+msgstr "Ahorra tiempo y dinero. Gestiona muchos sitios web desde un sólo lugar."
+
+#: admin/Notices.php:100
+msgid "No more forgotten passwords. Find out more about our revolutionary new WordPress plugin"
+msgstr "No más contraseñas olvidadas. Descubre más acerca de nuestro nuevo y revolucionario plugin de WordPress"
+
+#: admin/Notices.php:88
+msgid "Always backup WordPress to avoid losing your site!"
+msgstr "¡Haz siempre una copia de seguridad para evitar perder tu sitio!"
+
+#. Author of the plugin
+msgid "Team Updraft"
+msgstr "Equipo Updraft"
+
+#: ml-slider.php:511
+msgid "Layer Slide"
+msgstr "Capa de corte"
+
+#: ml-slider.php:510
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ml-slider.php:509
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ml-slider.php:508
+msgid "Post Feed"
+msgstr "Feed de la entrada"
+
+#. Description of the plugin
+msgid "Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides."
+msgstr "Plugin de presentación de diapositivas fácil de usar. Crea presentaciones de diapositivas optimizadas para SEO y adaptables a todo tipo de dispositivos con Nivo Slider, Flex Slider, Coin Slider y Responsive Slides."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.metaslider.com"
+msgstr "https://www.metaslider.com"
+
+#: ml-slider.php:1837
+msgid "Insert slideshow"
+msgstr "Insertar presentación de diapositivas"
+
+#: ml-slider.php:1831
+msgid "Choose slideshow"
+msgstr "Elige presentación de diapositivas"
+
+#: ml-slider.php:1795
+msgid "Add slider"
+msgstr "Agregar Slider"
+
+#: ml-slider.php:1792
+msgid "Select slideshow to insert into post"
+msgstr "Selecciona presentación de diapositivas para insertar en la entrada"
+
+#: ml-slider.php:1740
+msgid "Delay adding the flexslider class to the slideshow"
+msgstr "Retardo agregando la clase flexslider a la presentación de diapositivas"
+
+#: ml-slider.php:1737
+msgid "No conflict mode"
+msgstr "Sin modo de conflicto"
+
+#: ml-slider.php:1732
+msgid "Uncheck this is you would like to include your own Javascript"
+msgstr "Desmarca esto si quieres incluír tu propio javascript"
+
+#: ml-slider.php:1729
+msgid "Print JS"
+msgstr "Imprimir JS"
+
+#: ml-slider.php:1724
+msgid "Uncheck this is you would like to include your own CSS"
+msgstr "Marca esta si quieres incluir tu propio CSS"
+
+#: ml-slider.php:1721
+msgid "Print CSS"
+msgstr "Imprimir CSS"
+
+#: ml-slider.php:1715
+msgid "Specify any custom CSS Classes you would like to be added to the slider wrapper"
+msgstr "Añadir las clases CSS personalizadas en el pase de diapositivas"
+
+#: ml-slider.php:1713
+msgid "CSS classes"
+msgstr "Clases CSS"
+
+#: ml-slider.php:1708
+msgid "Developer options"
+msgstr "Opciones de desarrollador"
+
+#: ml-slider.php:1701
+msgid "Set the fade in speed of the caption"
+msgstr "Ajustar el fundido en la velocidad del subtítulo"
+
+#: ml-slider.php:1699
+msgid "Caption speed"
+msgstr "Velocidad del subtítulo"
+
+#: ml-slider.php:1688
+msgid "Opacity of title and navigation"
+msgstr "Opacidad del título y navegación"
+
+#: ml-slider.php:1686
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: ml-slider.php:1675
+msgid "Delay between squares in ms"
+msgstr "Retardo entre cuadros en ms"
+
+#: ml-slider.php:1673
+msgid "Square delay"
+msgstr "Retardo entre cuadros"
+
+#: ml-slider.php:1662
+msgid "Set the text for the 'next' direction item"
+msgstr "Introducir el texto de \"siguiente\" en la dirección del elemento"
+
+#: ml-slider.php:1660
+msgid "Next text"
+msgstr "Texto \"siguiente\""
+
+#: ml-slider.php:1654
+msgid "Set the text for the 'previous' direction item"
+msgstr "Introducir el texto de \"anterior\" en la dirección del elemento"
+
+#: ml-slider.php:1652
+msgid "Previous text"
+msgstr "Texto \"previo\""
+
+#: ml-slider.php:1645
+msgid "Animation easing effect"
+msgstr "Efecto de la animación suavizado"
+
+#: ml-slider.php:1643
+msgid "Easing"
+msgstr "Suavizado"
+
+#: ml-slider.php:1637
+msgid "Vertical"
+msgstr "Vertical"
+
+#: ml-slider.php:1636
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: ml-slider.php:1633
+msgid "Select the sliding direction"
+msgstr "Seleccionar la dirección del pase"
+
+#: ml-slider.php:1631
+msgid "Slide direction"
+msgstr "Dirección del pase"
+
+#: ml-slider.php:1610 ml-slider.php:1612 ml-slider.php:1623 ml-slider.php:1625
+msgid "Number of squares"
+msgstr "Nmúero de cuadros"
+
+#: ml-slider.php:1597 ml-slider.php:1599
+msgid "Number of slices"
+msgstr "Número de cortes"
+
+#: ml-slider.php:1586
+msgid "Set the speed of animations, in milliseconds"
+msgstr "Ajustar la duración de las animaciones en milisegundos"
+
+#: ml-slider.php:1584
+msgid "Animation speed"
+msgstr "Velocidad de la animación"
+
+#: ml-slider.php:1573
+msgid "How long to display each slide, in milliseconds"
+msgstr "Cuanto tiempo se muestra cada diapositiva en milisegundos"
+
+#: ml-slider.php:1571
+msgid "Slide delay"
+msgstr "Retraso de la diapositiva"
+
+#: ml-slider.php:1561
+msgid "Reverse the animation direction"
+msgstr "Invertir orden de la animación"
+
+#: ml-slider.php:1558
+msgid "Reverse"
+msgstr "Invertir"
+
+#: ml-slider.php:1553
+msgid "Pause the slideshow when hovering over slider, then resume when no longer hovering."
+msgstr "Pausa la presentación de diapositivas al pasar el cursor sobre la misma, luego vuelve a ponerse en marcha cuando quites el cursor."
+
+#: ml-slider.php:1550
+msgid "Hover pause"
+msgstr "Pausar cuando situes el ratón encima"
+
+#: ml-slider.php:1545
+msgid "Randomise the order of the slides"
+msgstr "Ordenar aleatoriamente las diapositivas"
+
+#: ml-slider.php:1528
+msgid "Pixel margin between slides in carousel."
+msgstr "Margen en píxeles entre diapositivas en el carrusel."
+
+#: ml-slider.php:1525
+msgid "Carousel margin"
+msgstr "Margen de carrusel"
+
+#: ml-slider.php:1517
+msgid "Display multiple slides at once. Slideshow output will be 100% wide."
+msgstr "Mostrar varias diapositivas a la vez. La presentación de diapositivas será de un ancho del 100%."
+
+#: ml-slider.php:1514
+msgid "Carousel mode"
+msgstr "Modo carrusel"
+
+#: ml-slider.php:1509
+msgid "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size"
+msgstr "El recorte inteligente asegura que tus diapositivas adaptables sean recortadas en una proporción correcta respecto a la presentación de diapositivas."
+
+#: ml-slider.php:1507
+msgid "Disabled (Smart Pad)"
+msgstr "Disabled (Smart Pad)"
+
+#: ml-slider.php:1506
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: ml-slider.php:1505
+msgid "Standard"
+msgstr "Estándar"
+
+#: ml-slider.php:1504
+msgid "Smart Crop"
+msgstr "Recorte inteligente"
+
+#: ml-slider.php:1500
+msgid "Image Crop"
+msgstr "Recorte de la imagen"
+
+#: ml-slider.php:1495
+msgid "Transition between slides automatically"
+msgstr "Transición entre diapositivas automáticamente"
+
+#: ml-slider.php:1492
+msgid "Auto play"
+msgstr "Auto arranque"
+
+#: ml-slider.php:1487
+msgid "Center align the slideshow"
+msgstr "Centrar la presentación de diapositivas"
+
+#: ml-slider.php:1484
+msgid "Center align"
+msgstr "Centrar"
+
+#: ml-slider.php:1479
+msgid "Stretch the slideshow output to fill it's parent container"
+msgstr "Ensanchar la presentación de diapositivas hasta rellenar el contenedor padre"
+
+#: ml-slider.php:1477
+msgid "100% wide output"
+msgstr "100% de ancho de salida"
+
+#: ml-slider.php:1475
+msgid "Stretch"
+msgstr "Estirar"
+
+#: ml-slider.php:1466
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: ml-slider.php:1433
+msgid "Slideshow title"
+msgstr "Título de la presentación de diapositivas"
+
+#: ml-slider.php:1432
+msgid "Title"
+msgstr "Título"
+
+#: ml-slider.php:1413
+msgid "Dots"
+msgstr "Puntos"
+
+#: ml-slider.php:1412
+msgid "Hidden"
+msgstr "Oculto"
+
+#: ml-slider.php:1410
+msgid "Show the slide navigation bullets"
+msgstr "Mostrar iconos de navegación de slider."
+
+#: ml-slider.php:1407
+msgid "Navigation"
+msgstr "Navegación"
+
+#: ml-slider.php:1402
+msgid "Show the previous/next arrows"
+msgstr "Mostrar las flechas anterior/siguiente"
+
+#: ml-slider.php:1399
+msgid "Arrows"
+msgstr "Flechas"
+
+#: ml-slider.php:1393
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: ml-slider.php:1392
+msgid "Box Rain Grow Reverse"
+msgstr "Box Rain Grow Reverse"
+
+#: ml-slider.php:1391
+msgid "Box Rain Reverse"
+msgstr "Box Rain Reverse"
+
+#: ml-slider.php:1390
+msgid "Box Rain"
+msgstr "Box Rain"
+
+#: ml-slider.php:1389
+msgid "Box Random"
+msgstr "Caja al azar"
+
+#: ml-slider.php:1388
+msgid "Slide In Left"
+msgstr "Diapositiva a la izquierda"
+
+#: ml-slider.php:1387
+msgid "Slide In Right"
+msgstr "Diapositiva a la derecha"
+
+#: ml-slider.php:1386
+msgid "Fade"
+msgstr "Fundido"
+
+#: ml-slider.php:1385
+msgid "Fold"
+msgstr "Doblar"
+
+#: ml-slider.php:1384
+msgid "Slide Up Down Left"
+msgstr "Corte de arriba a abajo a la izquierda"
+
+#: ml-slider.php:1383
+msgid "Slice Up Down"
+msgstr "Corte de arriba a abajo"
+
+#: ml-slider.php:1382
+msgid "Slide Up Left"
+msgstr "Diapositiva arriba a la izquierda"
+
+#: ml-slider.php:1381
+msgid "Slice Up"
+msgstr "Cortar"
+
+#: ml-slider.php:1380
+msgid "Slide Down"
+msgstr "Dirección del pase"
+
+#: ml-slider.php:1379
+msgid "Straight"
+msgstr "Recto"
+
+#: ml-slider.php:1378
+msgid "Rain"
+msgstr "Lluvia"
+
+#: ml-slider.php:1377
+msgid "Swirl"
+msgstr "Remolino"
+
+#: ml-slider.php:1376 ml-slider.php:1542
+msgid "Random"
+msgstr "Aleatorio"
+
+#: ml-slider.php:1374
+msgid "Slide transition effect"
+msgstr "Efecto de la transición entre diapositivas"
+
+#: ml-slider.php:1372
+msgid "Effect"
+msgstr "Efecto"
+
+#: ml-slider.php:1365
+msgid "Slideshow height"
+msgstr "Altura de la presentación de diapositivas"
+
+#: ml-slider.php:1363 ml-slider.php:1623
+msgid "Height"
+msgstr "Alto"
+
+#: ml-slider.php:1353 ml-slider.php:1366 ml-slider.php:1529
+msgid "px"
+msgstr "px"
+
+#: ml-slider.php:1352
+msgid "Slideshow width"
+msgstr "Anchura de la presentación de diapositivas"
+
+#: ml-slider.php:1350 ml-slider.php:1610
+msgid "Width"
+msgstr "Ancho"
+
+#: ml-slider.php:1322
+msgid "Save"
+msgstr "Guardar"
+
+#: ml-slider.php:1275
+msgid "Add Slide"
+msgstr "Añadir diapositiva"
+
+#: admin/views/pages/parts/header.php:14
+msgid "Add a New Slideshow"
+msgstr "Añadir nueva presentación de diapositivas"
+
+#: ml-slider.php:2063
+msgid "Switch to tabs view"
+msgstr "Cambiar a vista de pestañas"
+
+#: ml-slider.php:2063
+msgid "Switch to dropdown view"
+msgstr "Cambiar a vista de lista desplegable"
+
+#: ml-slider.php:469
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/Pages.php:90
+msgid "Caution: This setting is for advanced developers only. If you're unsure, leave it checked."
+msgstr "Cuidado: Estos ajustes son solo para desarrolladores avanzados. Si tienes dudas, déjalo marcado."
+
+#: admin/Pages.php:83
+msgid "Select replacement image"
+msgstr "Selecciona la imagen de sustitución"
+
+#: ml-slider.php:2018
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/slide/metaslide.image.class.php:355
+msgid "Crop"
+msgstr "Recortar"
+
+#: admin/views/slides/tabs/crop.php:15
+msgid "Bottom Right"
+msgstr "Inferior derecho"
+
+#: admin/views/slides/tabs/crop.php:14
+msgid "Bottom Center"
+msgstr "Abajo al centro"
+
+#: admin/views/slides/tabs/crop.php:13
+msgid "Bottom Left"
+msgstr "Inferior izquierdo"
+
+#: admin/views/slides/tabs/crop.php:12
+msgid "Center Right"
+msgstr "Centro derecha"
+
+#: admin/views/slides/tabs/crop.php:11
+msgid "Center Center"
+msgstr "Centrado Centrado"
+
+#: admin/views/slides/tabs/crop.php:10
+msgid "Center Left"
+msgstr "Centro izquierda"
+
+#: admin/views/slides/tabs/crop.php:9
+msgid "Top Right"
+msgstr "Superior derecho"
+
+#: admin/views/slides/tabs/crop.php:8
+msgid "Top Center"
+msgstr "Superior centro"
+
+#: admin/views/slides/tabs/crop.php:7
+msgid "Top Left"
+msgstr "Superior izquierdo"
+
+#: admin/views/slides/tabs/crop.php:3
+msgid "Crop Position"
+msgstr "Posición del recorte"
+
+#: inc/slide/metaslide.image.class.php:337
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/slide/metaslide.image.class.php:333
+msgid "General"
+msgstr "General"
+
+#: admin/views/slides/tabs/seo.php:13
+msgid "Image Alt Text"
+msgstr "Texto Alt de la Imagen:"
+
+#: admin/views/slides/tabs/seo.php:3
+msgid "Image Title Text"
+msgstr "Texto del Título de la Imagen"
+
+#: inc/slide/metaslide.image.class.php:322
+msgid "Warning: The image data does not exist. Please re-upload the image."
+msgstr "Advertencia: No existen datos de la imagen. Vuelve a subirla, por favor."
+
+#: admin/Pages.php:74
+msgid "New Window"
+msgstr "Nueva ventana"
+
+#: admin/Pages.php:72 admin/views/slides/tabs/general.php:26
+msgid "URL"
+msgstr "URL"
+
+#: admin/Pages.php:73
+msgid "Caption"
+msgstr "Subtítulo"
+
+#: inc/slide/metaslide.image.class.php:241
+msgid "Image Slide"
+msgstr "Imagen de la diapositiva"
+
+#: inc/slide/metaslide.image.class.php:81
+msgid "Failed to add slide. Slide is not an image."
+msgstr "No se pudo agregar diapositiva. Diapositiva no es una imagen."
+
+#: inc/slide/metaslide.class.php:350
+msgid "Delete slide"
+msgstr "Eliminar diapositiva"
+
+#: ml-slider.php:1839 inc/metaslider.widget.class.php:119
+msgid "No slideshows found"
+msgstr "No se han encontrado presentaciones de diapositivas"
+
+#: inc/metaslider.widget.class.php:109
+msgid "Select Slider:"
+msgstr "Seleccionar pase"
+
+#: inc/metaslider.widget.class.php:106
+msgid "Title:"
+msgstr "Titulo:"
+
+#. Plugin Name of the plugin
+msgid "MetaSlider"
+msgstr "MetaSlider"

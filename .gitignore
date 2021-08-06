@@ -1,0 +1,8 @@
+wp-admin
+wp-includes
+*.psd
+slider
+wp-config.php
+wp-content/upload
+wp-content/cache
+wp-content/upgrade

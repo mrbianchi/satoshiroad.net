@@ -1,0 +1,207 @@
+/* Google font */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+
+/* Global */
+
+.wpcs_product_carousel_slider .owl-item .item img {
+    border-radius: 0;
+    box-shadow: none;
+    width: 100%;
+    display: block;
+}
+
+.wpcs_product_carousel_slider .item {
+        padding: 0 8px 0 8px;
+        line-height: 1.714285714;
+}
+
+.wpcs_product_carousel_slider .caption {
+    text-align: center;
+    padding: 0 5px; 
+}
+
+.wpcs_product_carousel_slider {
+    position: relative;
+    margin: 10px 0 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Title */
+
+.wpcs_product_carousel_slider .owl-item .item h4 {
+    padding: 0;
+    margin: 0;
+}
+
+.wpcs_product_carousel_slider .owl-item .item h4.product_name {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin: 10px 0 6px;
+    line-height: normal;
+    text-align: center;
+}
+
+
+
+/* Price */
+
+.wpcs_product_carousel_slider .owl-item .item .price {
+    margin-bottom: 6px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    display: block;
+    color: #444444;
+    text-align: center;
+}
+
+.wpcs_product_carousel_slider .owl-item .item .price del .amount {
+    color: #999;
+    font-size: 15px;
+}
+
+.wpcs_product_carousel_slider .owl-item .item .price del {
+    color: #999;
+}
+
+.wpcs_product_carousel_slider .owl-item .item .price ins {
+    color: #444444;
+    background: none;
+}
+
+/* Star Ratings */
+
+.wpcs_product_carousel_slider .wpcs_rating.woocommerce {
+    padding-bottom: 10px;
+}
+
+.wpcs_product_carousel_slider .woocommerce .woocommerce-product-rating .star-rating {
+    margin: 0 auto;
+    float: none;
+}
+
+/* Cart */
+
+.wpcs_product_carousel_slider .owl-item .item .cart {
+    font-family: 'Open Sans', sans-serif; 
+    text-align: center;
+}
+
+.wpcs_product_carousel_slider .owl-item .item .cart .add_to_cart_button, .wpcs_product_carousel_slider .owl-item .item .cart a.added_to_cart.wc-forward {
+    padding: 9px 11px;
+    display: inline-block;
+    line-height: 1;
+    cursor: pointer;
+    border: 1px solid transparent;
+    vertical-align: middle;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-transition: all 0.4s linear;
+    -moz-transition: all 0.4s linear;
+    -ms-transition: all 0.4s linear;
+    -o-transition: all 0.4s linear;
+    transition: all 0.4s linear;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+}
+
+.wpcs_product_carousel_slider .owl-item .item .cart .add_to_cart_button:hover, .wpcs_product_carousel_slider .owl-item .item .cart a.added_to_cart.wc-forward:hover {
+    text-decoration: none;
+}
+
+.wpcs_product_carousel_slider a.button.add_to_cart_button.product_type_simple.added {
+    display: none;
+}
+
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart::after {
+    opacity: 0;
+}
+
+/* Header Area */
+
+.wpcs_product_carousel_slider .title {
+    border-bottom: 1px solid #F6F6F6!important;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 13px;
+    padding-bottom: 2px;
+}
+
+/* Navigation Arrows */
+
+.wpcs_product_carousel_slider .another_carousel_header i {
+    position: absolute;
+    top: 32%;
+    width:35px;
+    height:35px;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    z-index: 999;
+    border: 0;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    cursor: pointer;
+    opacity: 0.9;
+    -webkit-transition: all 200ms linear;
+    -moz-transition: all 200ms linear;
+    -o-transition: all 200ms linear;
+    -ms-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+.wpcs_product_carousel_slider .another_carousel_header i.fa-angle-left {
+    left: -5px;
+}
+
+.wpcs_product_carousel_slider .another_carousel_header i.fa-angle-right {
+    right: -5px;
+}
+
+/* Product Image Hover Effect */
+
+.wpcs_product_carousel_slider .product_image_container .product_thumb_link {
+    display: block;
+    overflow: hidden;
+    border: 0;
+    box-shadow: none;
+}
+
+.wpcs_product_carousel_slider .product_image_container .product_thumb_link img {
+    -webkit-transition: all 0.30s linear;
+    -moz-transition: all 0.30s linear;
+    -o-transition: all 0.30s linear;
+    -ms-transition: all 0.30s linear;
+    transition: all 0.30s linear;
+}
+
+.wpcs_product_carousel_slider .product_image_container .product_thumb_link:hover img {
+    -webkit-transform: scale(1.1,1.1);
+    -moz-transform: scale(1.1,1.1);
+    -o-transform: scale(1.1,1.1);
+    -ms-transform: scale(1.1,1.1);
+    transform: scale(1.1,1.1);
+}
+
+/* Hide default price and cart style */
+
+.wpcs_product_carousel_slider p.product.woocommerce.add_to_cart_inline {
+    border: none!important;
+    padding: 0!important;
+    margin: 0!important;
+}
+
+.wpcs_product_carousel_slider p.product.woocommerce.add_to_cart_inline .amount {
+    display: none;
+}
+
+.wpcs_product_carousel_slider .owl-item .item .cart .add_to_cart_inline del, .wpcs_product_carousel_slider .owl-item .item .cart .add_to_cart_inline ins {
+    display: none;
+}

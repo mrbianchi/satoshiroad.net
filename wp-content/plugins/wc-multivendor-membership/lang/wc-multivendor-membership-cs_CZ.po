@@ -1,0 +1,1781 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Multivendor Membership\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-03 23:09+0000\n"
+"PO-Revision-Date: 2019-06-09 15:42+0200\n"
+"Last-Translator: Správce tržiště <info@primaraj.cz>\n"
+"Language-Team: Fany VanDaal <fany@vandaal.cz>\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: controllers/wcfmvm-controller-memberships-manage.php:96
+#: core/class-wcfmvm-shortcode.php:64 core/class-wcfmvm-shortcode.php:74
+#: templates/vendor_membership.php:23
+#: views/wcfmvm-view-memberships-manage.php:24
+#: views/wcfmvm-view-memberships-settings.php:34
+msgid "Subscribe Now"
+msgstr "Uhradit"
+
+#: controllers/wcfmvm-controller-memberships-registration.php:227
+#: controllers/wcfmvm-controller-memberships-registration.php:234
+#: core/class-wcfmvm-ajax.php:713 core/class-wcfmvm-ajax.php:720
+#: core/class-wcfmvm-ajax.php:726 core/class-wcfmvm-ajax.php:733
+msgid "Shop Name not available."
+msgstr "Tento název není dostupný, zvolte jiný"
+
+#: controllers/wcfmvm-controller-memberships.php:79
+msgid "Plan type: "
+msgstr ""
+
+#: controllers/wcfmvm-controller-memberships.php:83
+#: views/wcfmvm-view-memberships-manage.php:270
+msgid "One Time"
+msgstr "Jednorázový"
+
+#: controllers/wcfmvm-controller-memberships.php:90
+msgid "Commission: "
+msgstr ""
+
+#: controllers/wcfmvm-controller-memberships.php:98
+#: views/wcfmvm-view-memberships-manage.php:271
+msgid "WC Checkout"
+msgstr ""
+
+#: controllers/wcfmvm-controller-memberships.php:98
+#: views/wcfmvm-view-memberships-manage.php:271
+msgid "Integrate Payment Options"
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:176 core/class-wcfmvm-frontend.php:316
+#: core/class-wcfmvm-frontend.php:615
+msgid "FREE"
+msgstr "ZDARMA"
+
+#: core/class-wcfmvm-ajax.php:194 templates/vendor_registration.php:161
+msgid "First Name"
+msgstr "Křestní jméno"
+
+#: core/class-wcfmvm-ajax.php:200 templates/vendor_registration.php:162
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: core/class-wcfmvm-ajax.php:205
+msgid "Login"
+msgstr "Přihlášení"
+
+#: core/class-wcfmvm-ajax.php:209 templates/vendor_registration.php:68
+#: templates/vendor_registration.php:74
+msgid "Email"
+msgstr "Email"
+
+#: core/class-wcfmvm-ajax.php:213 templates/vendor_registration.php:163
+msgid "Store Name"
+msgstr "Název obchodu"
+
+#: core/class-wcfmvm-ajax.php:218
+msgid "Pay mode"
+msgstr "Typ platby"
+
+#: core/class-wcfmvm-ajax.php:306
+msgid "Rejection Reason"
+msgstr "Důvod odmítnutí"
+
+#: core/class-wcfmvm-ajax.php:312
+msgid "Status Update"
+msgstr "Aktualizace stavu"
+
+#: core/class-wcfmvm-ajax.php:314
+msgid "Approve"
+msgstr "Schválit"
+
+#: core/class-wcfmvm-ajax.php:315
+msgid "Reject"
+msgstr "Odmítnout"
+
+#: core/class-wcfmvm-ajax.php:323
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: core/class-wcfmvm-ajax.php:397
+msgid "Vendor Application Rejected"
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:426
+msgid "Vendor Approval ststus successfully updated."
+msgstr "Status schválení dodavatele byl úspěšně aktualizován."
+
+#: core/class-wcfmvm-ajax.php:430
+msgid "Vendor Approval ststus update failed."
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:446
+msgid "Manual Cancellation"
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:448
+msgid "Your membership successfully cancelled."
+msgstr "Vaše členství bylo úspěšně zrušeno."
+
+#: core/class-wcfmvm-ajax.php:451
+msgid ""
+"Your membership can not be cancelled right now, please contact your store "
+"admin."
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:472
+msgid "Vendor membership successfully changed."
+msgstr "Členství dodavatele bylo úspěšně změněno."
+
+#: core/class-wcfmvm-ajax.php:475
+msgid ""
+"Vendor membership can not be changed right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:507
+msgid "Membership Renewal Update"
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:511
+msgid "Next Renewal"
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:537 core/class-wcfmvm-frontend.php:290
+#: core/class-wcfmvm-frontend.php:333 core/class-wcfmvm-frontend.php:592
+#: core/class-wcfmvm-frontend.php:631
+msgid "Never Expire"
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:540
+msgid "Next renewal successfully updated."
+msgstr "Další obnovení bylo úspěšně aktualizováno."
+
+#: core/class-wcfmvm-ajax.php:571
+msgid "Hi"
+msgstr "Dobrý den,"
+
+#: core/class-wcfmvm-ajax.php:573
+#, php-format
+msgid "Here is your email verification code - <b>%s</b>"
+msgstr "Zde je Váš ověřovací kód - <strong>%s</strong>"
+
+#: core/class-wcfmvm-ajax.php:574 helpers/wcfmvm-core-functions.php:201
+#: helpers/wcfmvm-core-functions.php:215
+#: views/wcfmvm-view-memberships-settings.php:511
+msgid "Thank You"
+msgstr "Děkujeme"
+
+#: core/class-wcfmvm-ajax.php:580
+msgid "Email Verification"
+msgstr "Ověření emailu"
+
+#: core/class-wcfmvm-ajax.php:584
+#, php-format
+msgid "Verification code sent to your email: %s."
+msgstr "Ověřovací kód byl odeslán na váš email: %s."
+
+#: core/class-wcfmvm-ajax.php:586
+msgid "Email verification not working right now, please try after sometime."
+msgstr "Ověřování emailu je dočasně mimo provoz. Zkuste to později."
+
+#: core/class-wcfmvm-ajax.php:620
+msgid "Your verification code is"
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:689
+#, php-format
+msgid "Verification code sent to your phone: %s."
+msgstr ""
+
+#: core/class-wcfmvm-ajax.php:695
+msgid "Phone verification not working right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:127 core/class-wcfmvm-frontend.php:193
+#: views/wcfmvm-view-memberships-manage.php:185
+#: views/wcfmvm-view-memberships-settings.php:308
+#: views/wcfmvm-view-memberships.php:24
+msgid "Memberships"
+msgstr "Členství"
+
+#: core/class-wcfmvm-frontend.php:130
+msgid "Membership Manage"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:133
+#: views/wcfmvm-view-memberships-settings.php:298
+msgid "Membership Settings"
+msgstr "Nastavení členství"
+
+#: core/class-wcfmvm-frontend.php:162 core/class-wcfmvm-frontend.php:478
+#: core/class-wcfmvm-frontend.php:480 core/class-wcfmvm-frontend.php:488
+#: core/class-wcfmvm-frontend.php:504 core/class-wcfmvm-frontend.php:524
+#: views/wcfmvm-view-memberships.php:53 views/wcfmvm-view-memberships.php:63
+msgid "Membership"
+msgstr "Členství"
+
+#: core/class-wcfmvm-frontend.php:163 helpers/wcfmvm-core-functions.php:199
+#: helpers/wcfmvm-core-functions.php:212
+#: views/wcfmvm-view-memberships-settings.php:368
+#: includes/shortcodes/class-wcfmvm-shortcode-vendor-registration.php:32
+msgid "Registration"
+msgstr "Registrace prodejce"
+
+#: core/class-wcfmvm-frontend.php:244 core/class-wcfmvm-frontend.php:547
+#: core/class-wcfmvm-frontend.php:1044 core/class-wcfmvm.php:1146
+#: templates/vendor_membership.php:127 templates/vendor_payment.php:117
+#: views/wcfmvm-view-memberships-manage.php:163
+msgid "Day(s)"
+msgstr "Den(y)"
+
+#: core/class-wcfmvm-frontend.php:244 core/class-wcfmvm-frontend.php:547
+#: core/class-wcfmvm-frontend.php:1044 core/class-wcfmvm.php:1146
+#: templates/vendor_membership.php:127 templates/vendor_payment.php:117
+#: views/wcfmvm-view-memberships-manage.php:163
+msgid "Month(s)"
+msgstr "Měsíc(e)"
+
+#: core/class-wcfmvm-frontend.php:244 core/class-wcfmvm-frontend.php:547
+#: core/class-wcfmvm-frontend.php:1044 core/class-wcfmvm.php:1146
+#: templates/vendor_membership.php:127 templates/vendor_payment.php:117
+#: views/wcfmvm-view-memberships-manage.php:163
+msgid "Year(s)"
+msgstr "rok"
+
+#: core/class-wcfmvm-frontend.php:251
+msgid "Vendor's subscription details:"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:277 core/class-wcfmvm-frontend.php:580
+msgid "Pricing Details: "
+msgstr "Podrobnosti o účtu:"
+
+#: core/class-wcfmvm-frontend.php:282 core/class-wcfmvm-frontend.php:585
+#: templates/vendor_payment.php:93
+msgid "FREE Plan!!! There is no payment option for this."
+msgstr ""
+"Plán Zdarma. Za tento členský účet nehradíte žádné pravidelné poplatky."
+
+#: core/class-wcfmvm-frontend.php:285 core/class-wcfmvm-frontend.php:325
+#: core/class-wcfmvm-frontend.php:331 core/class-wcfmvm-frontend.php:588
+#: core/class-wcfmvm-frontend.php:624 core/class-wcfmvm-frontend.php:630
+msgid "Expire on: "
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:294 core/class-wcfmvm-frontend.php:337
+msgid "Set or update member next renewal date."
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:320 core/class-wcfmvm-frontend.php:619
+msgid "Pay Mode: "
+msgstr "Typ platby: "
+
+#: core/class-wcfmvm-frontend.php:327 core/class-wcfmvm-frontend.php:626
+msgid "Next payment on: "
+msgstr "Další platba:"
+
+#: core/class-wcfmvm-frontend.php:342 core/class-wcfmvm-frontend.php:637
+#: templates/vendor_membership.php:149 templates/vendor_membership.php:214
+#: templates/vendor_payment.php:125
+msgid "One time payment"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:346 core/class-wcfmvm-frontend.php:641
+#: templates/vendor_membership.php:152 templates/vendor_membership.php:217
+#: templates/vendor_payment.php:128
+#, php-format
+msgid "for each %s %s"
+msgstr "Poplatek na %s %s"
+
+#: core/class-wcfmvm-frontend.php:348 core/class-wcfmvm-frontend.php:643
+#: templates/vendor_membership.php:154 templates/vendor_membership.php:219
+#: templates/vendor_payment.php:130
+#, php-format
+msgid "with %s for first %s %s"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:350 core/class-wcfmvm-frontend.php:645
+#: templates/vendor_membership.php:156 templates/vendor_membership.php:221
+#: templates/vendor_payment.php:132
+#, php-format
+msgid "with %s %s free trial"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:366
+msgid "Cancel vendor membership: "
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:367 core/class-wcfmvm-frontend.php:662
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: core/class-wcfmvm-frontend.php:377
+msgid "Vendor not yet subscribed for a membership!"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:387
+msgid "Change or Upgrade:"
+msgstr "Změna nebo upgrade:"
+
+#: core/class-wcfmvm-frontend.php:391
+msgid "-- Choose Membership --"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:427 core/class-wcfmvm-frontend.php:680
+msgid "Additional Info"
+msgstr "Doplňující Informace"
+
+#: core/class-wcfmvm-frontend.php:554
+msgid "Your subscription details:"
+msgstr "Detaily předplatného:"
+
+#: core/class-wcfmvm-frontend.php:661
+msgid "Cancel my membership: "
+msgstr "Zrušit členství: "
+
+#: core/class-wcfmvm-frontend.php:672
+msgid "You are not subscribed for a membership yet!"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:718 core/class-wcfmvm-frontend.php:743
+#, php-format
+msgid "%sChange or Upgrade your current membership plan >>%s"
+msgstr "%sZměna nebo Upgrade aktuálního plánu členství >> %s"
+
+#: core/class-wcfmvm-frontend.php:734
+msgid "OR"
+msgstr "NEBO"
+
+#: core/class-wcfmvm-frontend.php:748 core/class-wcfmvm.php:1035
+#: core/class-wcfmvm.php:1107
+msgid "New Vendor"
+msgstr "Nový prodejce"
+
+#: core/class-wcfmvm-frontend.php:749
+msgid "New Membership"
+msgstr "Nový člen"
+
+#: core/class-wcfmvm-frontend.php:750
+msgid "Approve Membership"
+msgstr "Schválit členství"
+
+#: core/class-wcfmvm-frontend.php:751
+msgid "Reminder Membership"
+msgstr "Připomenout členství"
+
+#: core/class-wcfmvm-frontend.php:752
+msgid "Cancel Membership"
+msgstr "Členství zrušeno"
+
+#: core/class-wcfmvm-frontend.php:753
+msgid "Expire Membership"
+msgstr "Zánik členství"
+
+#: core/class-wcfmvm-frontend.php:754
+msgid "Disable Vendor"
+msgstr "Vypnutí účtu prodejce"
+
+#: core/class-wcfmvm-frontend.php:755
+msgid "Enable Vendor"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:1091
+msgid "Stripe Plan ID missing."
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:1092
+#: views/wcfmvm-view-memberships-manage.php:290
+#, php-format
+msgid "%sHow can I have this?%s"
+msgstr ""
+
+#: core/class-wcfmvm-frontend.php:1101
+msgid "Pay"
+msgstr "Uhradit"
+
+#: core/class-wcfmvm-frontend.php:1105 templates/vendor_payment.php:99
+#: templates/vendor_payment.php:146 templates/vendor_payment.php:159
+#: templates/vendor_payment.php:176
+msgid "Proceed"
+msgstr "Pokračovat"
+
+#: core/class-wcfmvm-library.php:118 core/class-wcfmvm-library.php:125
+#: core/class-wcfmvm-library.php:132
+msgid ""
+"Do you want to cancel this membership?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: core/class-wcfmvm-non-ajax.php:31
+msgid "View WCFM Membership Settings"
+msgstr ""
+
+#: core/class-wcfmvm-non-ajax.php:38 core/class-wcfmvm-non-ajax.php:65
+msgid "Add custom capability with each Membership Level."
+msgstr ""
+
+#: core/class-wcfmvm-non-ajax.php:38 core/class-wcfmvm-non-ajax.php:65
+msgid "WCFM - Groups & Staffs"
+msgstr ""
+
+#: core/class-wcfmvm-non-ajax.php:56
+msgid "View WCFM Membership documentation"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:61
+#: core/class-wcfmvm-pay-for-product.php:65
+#: core/class-wcfmvm-pay-for-product.php:268
+#: core/class-wcfmvm-pay-for-product.php:286 core/class-wcfmvm.php:244
+msgid "Pay for Product"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:70
+msgid "Cost"
+msgstr "Cena"
+
+#: core/class-wcfmvm-pay-for-product.php:70
+msgid "Cost for purchasing product limit credit."
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:71
+msgid "Product Limit Credit"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:71
+msgid "No. of product(s) limit will be credited to the account."
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:72
+msgid "Default Product Limit"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:72
+msgid "As per capability"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:72
+msgid "No Limit - 0"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:72
+msgid ""
+"You may overwrite any other product limit setting by this and may set NO "
+"LIMIT to enforce vendors to purchase credit for adding new products."
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:105
+msgid "Product limit credit purchase"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:183
+msgid "Increase You product Limit .."
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:191
+#, php-format
+msgid "Increase Limit By %s"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:194
+msgid "Buy Now"
+msgstr "Koupit teď"
+
+#: core/class-wcfmvm-pay-for-product.php:218
+msgid "Pay for Product succes!"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:222
+msgid "Pay for Product failed!"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:256
+msgid "Pay for Product Credit Limit"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:259
+#, php-format
+msgid "%s has just purchased product credit limit: %s."
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:275
+msgid "Product Limit Credited"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:278
+#: core/class-wcfmvm-pay-for-product.php:297
+#, php-format
+msgid "You have just received product credit limit: %s"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:293
+#, php-format
+msgid "%s has just received product credit limit: %s"
+msgstr ""
+
+#: core/class-wcfmvm-pay-for-product.php:309
+msgid "Pay for Product Credit"
+msgstr ""
+
+#: core/class-wcfmvm-shortcode.php:46 templates/vendor_membership.php:267
+#: templates/vendor_membership.php:287
+msgid "Kindly logout from Admin account to have \"Subscribe Now\" button."
+msgstr ""
+
+#: core/class-wcfmvm-shortcode.php:59 templates/vendor_membership.php:260
+#: templates/vendor_membership.php:280
+msgid "Your Plan"
+msgstr ""
+
+#: core/class-wcfmvm.php:268
+msgid "Progress Bar Color"
+msgstr "Barva progress baru"
+
+#: core/class-wcfmvm.php:269
+msgid "Table Border Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:270
+msgid "Table Text Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:271
+msgid "Table Background Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:272
+msgid "Table Cell Heighlighter Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:273
+msgid "Table Head Background Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:274
+msgid "Membership Title Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:275
+msgid "Membership Price Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:276
+msgid "Membership Price Description Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:277
+msgid "Membership Description Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:278
+msgid "Button Color"
+msgstr "Barva tlačítka"
+
+#: core/class-wcfmvm.php:279
+msgid "Button Hover Color"
+msgstr "Barva tlačítka při přejetí myší"
+
+#: core/class-wcfmvm.php:280
+msgid "Button Text Color"
+msgstr "Barva textu tlačítka"
+
+#: core/class-wcfmvm.php:281
+msgid "Preview Box Background Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:282
+msgid "Preview Box Text Color"
+msgstr ""
+
+#: core/class-wcfmvm.php:919
+msgid "Plan Details"
+msgstr "Vybraný plán:"
+
+#: core/class-wcfmvm.php:977 core/class-wcfmvm.php:1033
+#: core/class-wcfmvm.php:1082 core/class-wcfmvm.php:1106
+msgid "Visit now ..."
+msgstr ""
+
+#: core/class-wcfmvm.php:983 core/class-wcfmvm.php:1085
+msgid "Welcome to the store!"
+msgstr "Vítejte v obchodě!"
+
+#: core/class-wcfmvm.php:985 core/class-wcfmvm.php:1037
+msgid "Membership Subscription Change"
+msgstr ""
+
+#: core/class-wcfmvm.php:1044
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) subscribed for <b>%s</b> membership plan."
+msgstr ""
+
+#: core/class-wcfmvm.php:1046
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) has changed membership plan to <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmvm.php:1052
+#, php-format
+msgid "You have subscribed for <b>%s</b> membership plan."
+msgstr "Aktivován <b>%s</b> ."
+
+#: core/class-wcfmvm.php:1054
+#, php-format
+msgid "You have changed membership plan to <b>%s</b>."
+msgstr "Změnili jste plán na <b>%s</b> ."
+
+#: core/class-wcfmvm.php:1090
+msgid "{site_name}: A new vendor registered"
+msgstr "{site_name}: Registrace nového prodejce"
+
+#: core/class-wcfmvm.php:1112
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) successfully registered to our site."
+msgstr "<b>%s</b> (Obchod: <b> %s</b> ) úspěšně zaregistrován na našem webu."
+
+#: core/class-wcfmvm.php:1116
+msgid "You have successfully registered to our site."
+msgstr "Úspěšně jste se zaregistrovali na našich stránkách."
+
+#: core/class-wcfmvm.php:1335
+msgid "WC Subscription Cancellation"
+msgstr ""
+
+#: core/class-wcfmvm.php:1411
+msgid "No Membership"
+msgstr ""
+
+#: core/class-wcfmvm.php:1415
+msgid "Check Here ..."
+msgstr "Zkontrolujte zde ..."
+
+#: core/class-wcfmvm.php:1416
+msgid "Vendor Approval"
+msgstr ""
+
+#: core/class-wcfmvm.php:1429
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) vendor application waiting for approval."
+msgstr ""
+
+#: core/class-wcfmvm.php:1431
+#, php-format
+msgid ""
+"<b>%s</b> (Store: <b>%s</b>) subscription for <b>%s</b> plan waiting for "
+"approval."
+msgstr ""
+"<b>%s</b> (Obchod: <b> %s</b> ) předplatné typu <b>%s</b> čekání na "
+"schválení."
+
+#: core/class-wcfmvm.php:1489
+msgid "Membership Subscription Cancel"
+msgstr ""
+
+#: core/class-wcfmvm.php:1495
+#, php-format
+msgid ""
+"<b>%s</b> (Store: <b>%s</b>) membership plan <b>%s</b> has been cancelled."
+msgstr ""
+
+#: core/class-wcfmvm.php:1501
+#, php-format
+msgid "Your membership plan <b>%s</b> has been cancelled."
+msgstr ""
+
+#: core/class-wcfmvm.php:1595
+msgid "Membership Subscription Expired"
+msgstr ""
+
+#: core/class-wcfmvm.php:1601
+#, php-format
+msgid ""
+"<b>%s</b> (Store: <b>%s</b>) membership plan <b>%s</b> has been expired."
+msgstr ""
+
+#: core/class-wcfmvm.php:1607
+#, php-format
+msgid "Your membership plan <b>%s</b> has been expired."
+msgstr ""
+
+#: core/class-wcfmvm.php:1697
+#, php-format
+msgid "Subscription cancelled at %s"
+msgstr ""
+
+#: core/class-wcfmvm.php:1850 core/class-wcfmvm.php:1853
+msgid "in"
+msgstr "v"
+
+#: core/class-wcfmvm.php:1850 core/class-wcfmvm.php:1853
+msgid "Days"
+msgstr "Dnů"
+
+#: core/class-wcfmvm.php:1857
+msgid "Today"
+msgstr "Dnes"
+
+#: core/class-wcfmvm.php:1883
+msgid "Membership Subscription Renewal"
+msgstr ""
+
+#: core/class-wcfmvm.php:1885
+msgid "Subscription Next Payment"
+msgstr ""
+
+#: core/class-wcfmvm.php:1893
+#, php-format
+msgid "<b>%s</b> membership plan (<strong>%s</strong>) will expire <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmvm.php:1895
+#, php-format
+msgid ""
+"<b>%s</b> membership plan (<strong>%s</strong>) subscription next billing "
+"date <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmvm.php:1903
+#, php-format
+msgid "Your membership plan (<strong>%s</strong>) will expire <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmvm.php:1905
+#, php-format
+msgid ""
+"Your membership plan (<strong>%s</strong>) subscription next billing date <b>"
+"%s</b>."
+msgstr ""
+
+#: helpers/class-wcfmvm-install.php:98
+msgid "Vendor Membership"
+msgstr ""
+
+#: helpers/class-wcfmvm-install.php:99
+msgid "Vendor Registration"
+msgstr "Registrace prodejce"
+
+#: helpers/wcfmvm-core-functions.php:151
+msgid "PayPal"
+msgstr "PayPal"
+
+#: helpers/wcfmvm-core-functions.php:152
+msgid "Stripe"
+msgstr "Stripe"
+
+#: helpers/wcfmvm-core-functions.php:153
+msgid "Bank Transfer"
+msgstr "Bankovní převod"
+
+#: helpers/wcfmvm-core-functions.php:198 helpers/wcfmvm-core-functions.php:213
+#: templates/vendor_registration.php:405
+msgid "Plans"
+msgstr "Úroveň členství"
+
+#: helpers/wcfmvm-core-functions.php:200 helpers/wcfmvm-core-functions.php:214
+#: templates/vendor_payment.php:91
+msgid "Confirmation"
+msgstr "Potvrzení"
+
+#: helpers/wcfmvm-core-functions.php:224
+msgid "Payment"
+msgstr "Platba"
+
+#: helpers/wcfmvm-core-functions.php:229
+msgid "Profile"
+msgstr "Profil"
+
+#: helpers/wcfmvm-core-functions.php:296
+msgid "Please insert Membership Name before submit."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:297
+msgid "Membership Saving Failed."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:298
+msgid "Membership Successfully Saved."
+msgstr "Členství bylo úspěšně uloženo."
+
+#: helpers/wcfmvm-core-functions.php:310
+msgid "Please insert Username before submit."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:311
+msgid "Please insert Email before submit."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:312
+msgid ""
+"This Username already exists. Please login to the site and apply as vendor."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:313
+msgid ""
+"This Email already exists. Please login to the site and apply as vendor."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:314
+msgid "Email verification code invalid."
+msgstr "Ověřovací kód je chybný"
+
+#: helpers/wcfmvm-core-functions.php:315
+msgid "Phone verification code (OTP) invalid."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:316
+msgid "Registration Failed."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:317
+msgid "Registration Successfully Completed."
+msgstr "Registrace byla úspěšně dokončena."
+
+#: helpers/wcfmvm-core-functions.php:329
+msgid "No Membership ID found, please try again."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:330
+msgid "Subscription Failed."
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:331
+msgid "Subscription Successfully Completed."
+msgstr "Předplatné bylo úspěšně dokončeno."
+
+#: helpers/wcfmvm-core-functions.php:366 helpers/wcfmvm-core-functions.php:383
+#: views/wcfmvm-view-memberships-settings.php:499
+msgid "Tax"
+msgstr "DPH"
+
+#: helpers/wcfmvm-core-functions.php:370
+msgid "will be applied"
+msgstr ""
+
+#: helpers/wcfmvm-core-functions.php:371
+msgid "applied"
+msgstr ""
+
+#: templates/vendor_membership.php:135 templates/vendor_membership.php:200
+msgid "Most Popular"
+msgstr "Doporučujeme"
+
+#: templates/vendor_membership.php:145 templates/vendor_membership.php:210
+msgid "No payment required"
+msgstr "Bez poplatků za aktivaci obchodu"
+
+#: templates/vendor_membership.php:257 templates/vendor_membership.php:277
+msgid "Extend Subscription"
+msgstr ""
+
+#: templates/vendor_membership_block.php:18
+#, php-format
+msgid ""
+"Restricted: You are not allowed to access this page. May be you already have "
+"a %sMembership Plan%s or your %sUser Role%s does not allow for this action. "
+"%sPlease contact %sStore Admin%s for more details."
+msgstr ""
+
+#: templates/vendor_no_free_membership.php:18
+#, php-format
+msgid ""
+"Restricted: There is no %sFREE Membership Plan%s in the system or you are "
+"not allowed to access this page. Please contact %sStore Admin%s for more "
+"details."
+msgstr ""
+
+#: templates/vendor_payment.php:54
+msgid ""
+"Something Wrong: You are not allowed to access this page now. Please contact "
+"Store Admin for more details."
+msgstr ""
+
+#: templates/vendor_payment.php:65
+msgid "Review your plan:"
+msgstr "Vybraný plán:"
+
+#: templates/vendor_payment.php:106
+msgid "Payment options:"
+msgstr "Možnosti platby:"
+
+#: templates/vendor_registration.php:67 templates/vendor_registration.php:73
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: templates/vendor_registration.php:96
+msgid "Email already verified"
+msgstr "Email byl ověřen"
+
+#: templates/vendor_registration.php:105
+msgid "Email Verification Code: "
+msgstr "Ověřovací kód z emailu : "
+
+#: templates/vendor_registration.php:105
+msgid "Verification Code"
+msgstr "Ověřovací kód"
+
+#: templates/vendor_registration.php:106 templates/vendor_registration.php:147
+msgid "Re-send Code"
+msgstr "Zaslat kód"
+
+#: templates/vendor_registration.php:137
+msgid "Phone already verified"
+msgstr ""
+
+#: templates/vendor_registration.php:146
+msgid "Phone Verification Code: "
+msgstr ""
+
+#: templates/vendor_registration.php:146
+msgid "OTP"
+msgstr ""
+
+#: templates/vendor_registration.php:182
+msgid "your_store"
+msgstr "vas_nazev_obchodu"
+
+#: templates/vendor_registration.php:184
+msgid "Available"
+msgstr "K dispozici"
+
+#: templates/vendor_registration.php:184
+msgid "Un-available"
+msgstr "Tento název obchodu je již používán, zvolte si jiný"
+
+#: templates/vendor_registration.php:354
+msgid "Password"
+msgstr "Heslo"
+
+#: templates/vendor_registration.php:354
+msgid "Password and Confirm-password are not same."
+msgstr "Hesla se liší."
+
+#: templates/vendor_registration.php:356
+msgid "Confirm Password"
+msgstr "Potvrzení hesla"
+
+#: templates/vendor_registration.php:365 templates/vendor_registration.php:370
+msgid "Agree"
+msgstr "Akceptuji "
+
+#: templates/vendor_registration.php:365 templates/vendor_registration.php:373
+#: templates/vendor_registration.php:375
+msgid "Terms & Conditions"
+msgstr "Smluvní podmínky"
+
+#: templates/vendor_registration.php:403
+msgid "Confirm"
+msgstr "Potvrdit"
+
+#: templates/vendor_registration.php:403
+msgid "Register"
+msgstr "Registrovat se"
+
+#: templates/vendor_registration.php:408
+msgid "Your user role not allowed to subscription!"
+msgstr ""
+
+#: templates/vendor_thankyou.php:61
+msgid "Goto Dashboard"
+msgstr ""
+
+#: templates/vendor_thankyou.php:62
+msgid "Setup your store"
+msgstr "Nastavení vašeho obchodu"
+
+#: views/wcfmvm-view-capability.php:31
+msgid "Analytics"
+msgstr "Analytics"
+
+#: views/wcfmvm-view-memberships-disable.php:21
+#, php-format
+msgid ""
+"Restricted: You are not allowed to access this page. May be you do not have "
+"a %sMulti-vendor Plugin%s on your site."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:125
+msgid "- Choose a Group -"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:165
+msgid "Percent"
+msgstr "Procent"
+
+#: views/wcfmvm-view-memberships-manage.php:165
+msgid "Fixed"
+msgstr "Opraveno"
+
+#: views/wcfmvm-view-memberships-manage.php:174
+msgid "Manage Membership"
+msgstr "Nastavení členství"
+
+#: views/wcfmvm-view-memberships-manage.php:181
+msgid "Edit Membership"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:181
+msgid "Add Membership"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:187
+#: views/wcfmvm-view-memberships-settings.php:310
+#: views/wcfmvm-view-memberships.php:36
+msgid "Add New Membership"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:189
+#: views/wcfmvm-view-memberships-settings.php:312
+#: views/wcfmvm-view-memberships.php:38
+msgid "Membership Plan Table"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:190
+#: views/wcfmvm-view-memberships-settings.php:313
+#: views/wcfmvm-view-memberships.php:39
+msgid "Tutorial"
+msgstr "Tutoriál"
+
+#: views/wcfmvm-view-memberships-manage.php:207
+msgid "Disable Membership"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:208
+msgid "Hide from Plan Table"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:208
+msgid "Set this ON to hide this mebership level from Membership plan table."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:209
+msgid "One Time Subscription"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:209
+msgid ""
+"Enable this to restrict users from subscribe more than once to this plan."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:210
+msgid "Name"
+msgstr "Jméno"
+
+#: views/wcfmvm-view-memberships-manage.php:211
+#: views/wcfmvm-view-memberships-settings.php:371
+msgid "Subscribe Button Label"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:212
+msgid "Description"
+msgstr "Popis"
+
+#: views/wcfmvm-view-memberships-manage.php:213
+msgid "Subscribe Button"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:213
+msgid ""
+"Add this short code anywhere to your site to show subscribe button for this "
+"membership plan. Default button label `Subscribe Now`, change using "
+"parameter `subscribe_now`. e.g. [wcfmvm_subscribe id=\"599\" subscribe_now="
+"\"Register Now\"]"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:226
+#: views/wcfmvm-view-memberships-settings.php:400
+msgid "Features"
+msgstr "Vlastnosti"
+
+#: views/wcfmvm-view-memberships-manage.php:244
+msgid "First setup membership basic settings"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:244
+#: views/wcfmvm-view-memberships-manage.php:247
+msgid "here"
+msgstr "zde"
+
+#: views/wcfmvm-view-memberships-manage.php:247
+msgid "Define feature list from membership basic settings"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:258
+msgid "Subscription"
+msgstr "Předplatné"
+
+#: views/wcfmvm-view-memberships-manage.php:264
+msgid "Free Membership"
+msgstr "Bezplatné členství"
+
+#: views/wcfmvm-view-memberships-manage.php:270
+msgid "Subscription Type"
+msgstr "Typ předplatného"
+
+#: views/wcfmvm-view-memberships-manage.php:270
+msgid "Recurring"
+msgstr "Opakovaně"
+
+#: views/wcfmvm-view-memberships-manage.php:271
+msgid "Payment Mode"
+msgstr "Mód platby"
+
+#: views/wcfmvm-view-memberships-manage.php:271
+msgid ""
+"WC Checkout option will allow to process payment using WC default checkout "
+"page, all WC payment gateways supported."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:272
+msgid "This product will be used at WC checkout for membership purchase."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:281
+msgid "Payment Amount"
+msgstr "Částka: "
+
+#: views/wcfmvm-view-memberships-manage.php:281
+msgid ""
+"Enter payment amount. Example values: 10.00 or 19.50 or 299.95 etc (do not "
+"put currency symbol)."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:290
+msgid "Stripe Plan ID"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:290
+msgid "ID of the plan that you want subscribers to be assigned to."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:295
+msgid ""
+"Trial Billing Details (Leave empty if you are not offering a trial period)"
+msgstr "Zkušební období (ponechte prázdné, pokud nenabízíte zkušební dobu)"
+
+#: views/wcfmvm-view-memberships-manage.php:299
+msgid "Trial Billing Amount"
+msgstr "Částka za zkušební období"
+
+#: views/wcfmvm-view-memberships-manage.php:299
+msgid ""
+"Amount to be charged for the trial period. Enter 0 if you want to offer a "
+"free trial period."
+msgstr ""
+"Částka, která bude účtována za zkušební období. Zadejte 0, pokud chcete "
+"nabídnout bezplatné zkušební období."
+
+#: views/wcfmvm-view-memberships-manage.php:300
+msgid "Trial Billing Period"
+msgstr "Délka zkušebního období"
+
+#: views/wcfmvm-view-memberships-manage.php:300
+msgid ""
+"Length of the trial period. Leave empty to disable trial period for this "
+"subscription."
+msgstr ""
+"Délka zkušební doby. Chcete-li zakázat zkušební období pro toto předplatné, "
+"ponechte prázdné."
+
+#: views/wcfmvm-view-memberships-manage.php:305
+msgid "Billing Details"
+msgstr "Fakturační údaje"
+
+#: views/wcfmvm-view-memberships-manage.php:309
+msgid "Billing Amount Each Cycle"
+msgstr "Částka za období"
+
+#: views/wcfmvm-view-memberships-manage.php:309
+msgid ""
+"Amount to be charged on every billing cycle. If used with a trial period "
+"then this amount will be charged after the trial period is over. Example "
+"values: 10.00 or 19.50 or 299.95 etc (do not put currency symbol)."
+msgstr ""
+"Částka, která má být účtována za každé fakturační období. Pokud se použije "
+"ve zkušební době, bude tato částka účtována po skončení zkušební doby. "
+"Příklad hodnoty: 10.00 nebo 19.50 nebo 299.95 atd. (Neuvádějte symbol měny)."
+
+#: views/wcfmvm-view-memberships-manage.php:310
+msgid "Billing Cycle"
+msgstr "Zúčtovací období"
+
+#: views/wcfmvm-view-memberships-manage.php:310
+msgid ""
+"Set the interval of the recurring payment. Example value: 1 Month (if you "
+"want to charge every month)"
+msgstr ""
+"Nastavte interval opakované platby. Příklad hodnoty: 1 měsíc (chcete-li "
+"účtovat každý měsíc)"
+
+#: views/wcfmvm-view-memberships-manage.php:312
+msgid "Billing Cycle Count"
+msgstr "Počet účtovacích cyklů"
+
+#: views/wcfmvm-view-memberships-manage.php:312
+msgid ""
+"After how many cycles should billing stop. Leave this field empty (or enter "
+"0) if you want the payment to continue until the subscription is canceled."
+msgstr ""
+"Po kolika cyklech by se mělo zastavit účtování. Pokud chcete, aby platba "
+"pokračovala až do zrušení předplatného, ponechte toto pole prázdné (nebo "
+"zadejte 0)."
+
+#: views/wcfmvm-view-memberships-manage.php:313
+msgid "Re-attempt on Failure"
+msgstr "Opakujte pokus při selhání platby"
+
+#: views/wcfmvm-view-memberships-manage.php:313
+msgid ""
+"When checked, the payment will be re-attempted two more times if the payment "
+"fails. After the third failure, the subscription will be canceled."
+msgstr ""
+"Pokud je zaškrtnuto, pokusí se o zopakování platby, pokud se platba "
+"nezdařila. Po třetím selhání bude předplatné zrušeno."
+
+#: views/wcfmvm-view-memberships-manage.php:321
+msgid "Expire After"
+msgstr "Vyprší po"
+
+#: views/wcfmvm-view-memberships-manage.php:321
+msgid ""
+"Length of the subscripton period. Set `Never Expire` leave this field empty."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:334
+msgid "Approval"
+msgstr "Schválení"
+
+#: views/wcfmvm-view-memberships-manage.php:340
+#: views/wcfmvm-view-memberships-settings.php:351
+msgid "Required Approval"
+msgstr "Vyžaduje schválení"
+
+#: views/wcfmvm-view-memberships-manage.php:340
+#: views/wcfmvm-view-memberships-settings.php:351
+msgid "Whether user required Admin Approval to become vendor or not!"
+msgstr "Pokud je zaškrtnuto, musí správce tržiště ručně schválit prodejce!"
+
+#: views/wcfmvm-view-memberships-manage.php:341
+#: views/wcfmvm-view-memberships-settings.php:723
+msgid "If Application Rejected?"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:341
+#: views/wcfmvm-view-memberships-settings.php:723
+msgid "Keep as normal user"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:341
+#: views/wcfmvm-view-memberships-settings.php:723
+msgid "Delete user from system"
+msgstr "Odstranit uživatele ze systému"
+
+#: views/wcfmvm-view-memberships-manage.php:341
+#: views/wcfmvm-view-memberships-settings.php:723
+msgid "This rule will be applicable if a vendor application reject by Admin."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:352
+msgid "Commission"
+msgstr "Provize"
+
+#: views/wcfmvm-view-memberships-manage.php:358
+msgid "Commission Type"
+msgstr "Typ provize"
+
+#: views/wcfmvm-view-memberships-manage.php:359
+msgid "Commission Value"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:372
+msgid "Capability"
+msgstr "Možnosti"
+
+#: views/wcfmvm-view-memberships-manage.php:376
+msgid "Capability Controller"
+msgstr "Ovladač možností"
+
+#: views/wcfmvm-view-memberships-manage.php:382
+msgid "Associate Group"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:386
+msgid "Associate Capability"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:399
+msgid "Badges"
+msgstr "Odznaky"
+
+#: views/wcfmvm-view-memberships-manage.php:408
+msgid "Member Badges"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-manage.php:410
+#, php-format
+msgid "<a target=\"_blank\" href=\"%s\">Know more about WCFM Badges.</a>"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:278
+msgid "- Choose Membership -"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:305
+msgid "Membership General Options"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:357
+msgid "OPT Verification on Registration"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:363
+msgid "Email Verification on Registration"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:364
+msgid "Custom Plan Page"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:364
+msgid ""
+"You have created your own membership plan page then set that here. It is "
+"important when vendors will change plan."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:365
+msgid "Custom Thank You Page"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:365
+msgid "You have created your own thank you page then set that here."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:368
+msgid "Subscription First Step"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:368
+msgid "Choose Plan"
+msgstr "Vybrat plán"
+
+#: views/wcfmvm-view-memberships-settings.php:368
+msgid ""
+"This will ensure which will be first step of membership subscription - Plan "
+"selection or Registration."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:369
+msgid "Basic Membership"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:369
+msgid ""
+"This membership will auto-assign to vendors when subscription expired or "
+"recurring subscription cancelled."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:370
+msgid "Featured Membership"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:374
+msgid "Membership plan display visibility priority (Left to Right)"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:383
+msgid "Priority"
+msgstr "Priorita"
+
+#: views/wcfmvm-view-memberships-settings.php:388
+msgid "Please define some membership level first."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:406
+msgid "Features List"
+msgstr "Seznam vlastností"
+
+#: views/wcfmvm-view-memberships-settings.php:407
+msgid "Feature"
+msgstr "Funkce"
+
+#: views/wcfmvm-view-memberships-settings.php:408
+msgid "Help Message"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:419
+msgid "Registration Fields"
+msgstr "Pole registrace"
+
+#: views/wcfmvm-view-memberships-settings.php:423
+msgid "Registration Form Fields"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:427
+msgid "-- Choose Terms Page --"
+msgstr "-- Vyberte stránku --"
+
+#: views/wcfmvm-view-memberships-settings.php:446
+msgid "Registration Form Custom Fields"
+msgstr "Registrační formulář - Vlastní pole"
+
+#: views/wcfmvm-view-memberships-settings.php:470
+msgid "Payment Methods"
+msgstr "Metody platby"
+
+#: views/wcfmvm-view-memberships-settings.php:471
+msgid "Enable Test Mode"
+msgstr "Povolit testovací mód"
+
+#: views/wcfmvm-view-memberships-settings.php:472
+msgid "PayPal Email"
+msgstr "PayPal email"
+
+#: views/wcfmvm-view-memberships-settings.php:476
+msgid "Stripe Live Publishable Key"
+msgstr "Stripe publikovatelné klíče"
+
+#: views/wcfmvm-view-memberships-settings.php:477
+msgid "Stripe Live Secret Key"
+msgstr "Stripe Tajné klíče"
+
+#: views/wcfmvm-view-memberships-settings.php:478
+msgid "Stripe Test Publishable Key"
+msgstr "Stripe publikovatelné klíče"
+
+#: views/wcfmvm-view-memberships-settings.php:479
+msgid "Stripe Test Secret Key"
+msgstr "Stripe Tajné klíče"
+
+#: views/wcfmvm-view-memberships-settings.php:480
+msgid "Bank Details"
+msgstr "Bankovní detaily"
+
+#: views/wcfmvm-view-memberships-settings.php:481
+msgid "Payment Terms"
+msgstr "Platební podmínky"
+
+#: views/wcfmvm-view-memberships-settings.php:498
+msgid "Enable"
+msgstr "Povolit"
+
+#: views/wcfmvm-view-memberships-settings.php:498
+msgid "Enable this to apply tax on subscription costs."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:499
+msgid "Tax Label"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:500
+msgid "Tax Percent (%)"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:515
+msgid "Thank You Page Content"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:520
+msgid "Free Membership Thank You page content"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:520
+msgid "This content will be visible when user subscribe to FREE plan."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:520
+msgid ""
+"Please don't include Dashboard URL, it will be automatically append with the "
+"content."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:524
+msgid "On Approval Thank You Page Content"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:528
+msgid "Subscription membership Thank You page content"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:528
+msgid "This content will be visible when user pay via PayPal."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:540
+msgid "Welcome Email"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:544
+msgid "Vendor Welcome Email"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:548
+msgid "Non-Membership Notification Subject"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:549
+msgid "Non-Membership Notification Content"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:554
+msgid "Membership Notification Subject"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:555
+msgid "Membership Notification Content"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:567
+#: views/wcfmvm-view-memberships-settings.php:601
+msgid "Admin Notification"
+msgstr "Oznámení administrátorovi"
+
+#: views/wcfmvm-view-memberships-settings.php:571
+msgid "New Subscription Notification"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:575
+#: views/wcfmvm-view-memberships-settings.php:584
+#: views/wcfmvm-view-memberships-settings.php:605
+#: views/wcfmvm-view-memberships-settings.php:614
+#: views/wcfmvm-view-memberships-settings.php:636
+#: views/wcfmvm-view-memberships-settings.php:658
+#: views/wcfmvm-view-memberships-settings.php:681
+#: views/wcfmvm-view-memberships-settings.php:703
+#: views/wcfmvm-view-memberships-settings.php:725
+msgid "Notification Subject"
+msgstr "Předmět notifikace"
+
+#: views/wcfmvm-view-memberships-settings.php:576
+#: views/wcfmvm-view-memberships-settings.php:585
+#: views/wcfmvm-view-memberships-settings.php:606
+#: views/wcfmvm-view-memberships-settings.php:615
+#: views/wcfmvm-view-memberships-settings.php:637
+#: views/wcfmvm-view-memberships-settings.php:659
+#: views/wcfmvm-view-memberships-settings.php:726
+msgid "Notification Content"
+msgstr "Obsah upozornění"
+
+#: views/wcfmvm-view-memberships-settings.php:580
+msgid "New Subscription Approval Notification"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:597
+msgid "Membership Change"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:610
+msgid "Vendor Notification"
+msgstr "Oznámení prodejci"
+
+#: views/wcfmvm-view-memberships-settings.php:626
+msgid "Next Payment"
+msgstr "Další platba"
+
+#: views/wcfmvm-view-memberships-settings.php:630
+msgid "Recurring Next Payment Notification"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:634
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "First Reminder"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:634
+#: views/wcfmvm-view-memberships-settings.php:635
+#: views/wcfmvm-view-memberships-settings.php:656
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Never"
+msgstr "Nikdy"
+
+#: views/wcfmvm-view-memberships-settings.php:634
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "Before 5 Days"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:634
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "Before 7 Days"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:634
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "Before 10 Days"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:634
+msgid "First next payment notification for recurring subscription."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:635
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Second Reminder"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:635
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Before 3 Days"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:635
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Before 2 Days"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:635
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Before 1 Day"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:635
+msgid "Second next payment notification for recurring subscription."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:648
+msgid "Renewal Notification"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:652
+msgid "Subscription Renewal Notification"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:656
+msgid "First renewal notification for recurring subscription."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:657
+msgid "Second renewal notification for recurring subscription."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:670
+msgid "Cancel Rules"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:674
+msgid "Cancel Rules Setup"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:679
+msgid "If Membership Cancelled?"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:679
+#: views/wcfmvm-view-memberships-settings.php:701
+msgid "Assign Basic Membership"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:679
+#: views/wcfmvm-view-memberships-settings.php:701
+msgid "Disable Vendor User"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:679
+msgid "This rule will be applicable if a vendor cancel his membership."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:680
+#: views/wcfmvm-view-memberships-settings.php:702
+msgid "Product Status?"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:680
+#: views/wcfmvm-view-memberships-settings.php:702
+msgid "Keep as same"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:680
+#: views/wcfmvm-view-memberships-settings.php:702
+msgid "Save as Draft"
+msgstr "Uložit jako koncept"
+
+#: views/wcfmvm-view-memberships-settings.php:680
+#: views/wcfmvm-view-memberships-settings.php:702
+msgid "Delete from site"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:682
+#: views/wcfmvm-view-memberships-settings.php:704
+msgid "Notification content"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:693
+msgid "Expiry Rules"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:697
+msgid "Expiry Rules Setup"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:701
+msgid "If Membership Expireled?"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:701
+msgid "This rule will be applicable if a vendor expire his membership."
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:715
+msgid "Rejection Rules"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:719
+msgid "Application Rejection Notification"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:724
+msgid "Is user notified on rejection?"
+msgstr ""
+
+#: views/wcfmvm-view-memberships-settings.php:741
+msgid "Membership plan display page styling"
+msgstr ""
+
+#: views/wcfmvm-view-memberships.php:31
+msgid "Manage Memberships"
+msgstr "Spravujte členství"
+
+#: views/wcfmvm-view-memberships.php:54 views/wcfmvm-view-memberships.php:64
+msgid "Details"
+msgstr "Detaily"
+
+#: views/wcfmvm-view-memberships.php:55 views/wcfmvm-view-memberships.php:65
+msgid "Pay Mode"
+msgstr "Typ platby"
+
+#: views/wcfmvm-view-memberships.php:56 views/wcfmvm-view-memberships.php:66
+msgid "Group"
+msgstr "Skupina"
+
+#: views/wcfmvm-view-memberships.php:57 views/wcfmvm-view-memberships.php:67
+msgid "User(s)"
+msgstr ""
+
+#: views/wcfmvm-view-memberships.php:58 views/wcfmvm-view-memberships.php:68
+msgid "Actions"
+msgstr "Akce"
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Multivendor Membership"
+msgstr ""
+
+#. Description of the plugin
+msgid "A simple membership plugin for your multi-vendor marketplace."
+msgstr ""
+"Jednoduchý plugin pro členství více dodavatelů. <strong>Překlad: Fany "
+"VanDaal</strong> (https://vandaal.cz)."
+
+#. URI of the plugin
+msgid "https://wclovers.com/product/woocommerce-multivendor-membership"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC Lovers"
+
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"

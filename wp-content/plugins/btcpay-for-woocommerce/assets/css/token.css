@@ -1,0 +1,60 @@
+@import url("//fonts.googleapis.com/css?family=Ubuntu:400");
+.btcpay-token {
+	background: #0F3723;
+	font-family: 'Ubuntu', sans-serif;
+	color: #fff;
+	border-left: 4px solid #0F3723;
+	display: inline-block;
+	position: relative;
+	padding-bottom: 1em;
+	border-radius: 4px;
+}
+.btcpay-token--hidden {
+	display: none;
+}
+.btcpay-token--testnet {
+	border-color: #cc0;
+}
+.btcpay-token__prop {
+	padding: 0 1em;
+	font-size: 0.85em;
+	color: #ccddff;
+}
+.btcpay-token__label {
+	color: #fff;
+	display: inline-block;
+	min-width: 4em;
+}
+.btcpay-token__header {
+	margin-bottom: 1em;
+	margin-top: 0.3em;
+	white-space: nowrap;
+}
+.btcpay-token__logo {
+	width: 5em;
+	display: inline-block;
+	box-sizing: border-box;
+	text-align: center;
+	margin-right: 3em;
+}
+.btcpay-token__logo img {
+	margin-bottom: -13px;
+}
+.btcpay-token__logo:after {
+	display: inline;
+	color: #0f0;
+}
+.btcpay-token--testnet .btcpay-token__logo:after {
+	color: #cc0;
+}
+.btcpay-token__revoke {
+	display: block;
+	float: right;
+	padding: 0.5em 0.75em;
+	color: #f00;
+	text-decoration: none;
+	text-align: right;
+	border: none;
+	background: transparent;
+	cursor: pointer;
+}

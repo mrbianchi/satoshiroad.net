@@ -1,0 +1,4 @@
+2019-06-23T18:53:45+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 323
+
+2019-06-23T18:53:45+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 323
+

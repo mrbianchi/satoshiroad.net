@@ -1,0 +1,26 @@
+
+
+
+#nimblesquirrel_div { width: auto !important; }
+html #nimblesquirrel_main { border-bottom: initial;}
+
+#nimblesquirrel_main {
+	background: inherit !important;
+	border: 0 !important;
+}
+
+
+
+#nimblesquirrel_div {
+    width: 100% !important;
+}
+
+.nps_score { width: 18px !important; }
+
+.nps_score_box {
+    width: 230px !important;
+    display: block;
+    margin-left: auto ;
+    margin-right: auto;
+    overflow: auto;
+}

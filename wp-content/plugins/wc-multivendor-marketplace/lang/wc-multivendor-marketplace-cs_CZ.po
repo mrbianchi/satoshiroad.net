@@ -1,0 +1,3756 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Multivendor Marketplace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-08 20:58+0000\n"
+"PO-Revision-Date: 2019-06-09 15:42+0200\n"
+"Last-Translator: Správce tržiště <info@primaraj.cz>\n"
+"Language-Team: Fany VanDaal <fany@vandaal.cz>\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: core/class-wcfmmp-admin.php:100
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace: Multi Vendor Plugin Conflict "
+"Detected !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:103
+#, php-format
+msgid ""
+"<p %s>WCFM - Marketplace is installed and active. But there is another multi-"
+"vendor plugin found in your site. Now this is not possible to run a site "
+"with more than one multi-vendor plugins at a time. %sDisable <b><u>%s</u></"
+"b> to make your site stable and run smoothly.</p>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:125
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace Inactive: WCFM Core Missing !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:128
+msgid ""
+"<p>WCFM Marketplace is inactive. WooCommerce Frontend Manager (WCFM Core) "
+"must be active for the WCFM Marketplace to work. Please install & activate "
+"WooCommerce Frontend Manager.</p>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:133
+msgid "WCFM >>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:151
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace: Vendor Registration Disable !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:154
+msgid ""
+"<p>WCFM - Membership is essential for WCFM Marketplace to register new "
+"vendors. You may additionally setup vendor membership using this as well. "
+"Recurring subscription also possible using PayPal and Stripe.</p>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:159
+msgid "Registration >>"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:171 core/class-wcfmmp-admin.php:172
+msgid "Marketplace"
+msgstr "Tržiště"
+
+#: core/class-wcfmmp-admin.php:177 core/class-wcfmmp-admin.php:201
+#: core/class-wcfmmp-admin.php:250 core/class-wcfmmp-settings.php:60
+#: core/class-wcfmmp-vendor.php:199 core/class-wcfmmp-vendor.php:1419
+#: helpers/class-wcfmmp-store-setup.php:57 views/media/wcfmmp-view-media.php:70
+#: views/media/wcfmmp-view-media.php:83
+#: views/product_multivendor/wcfmmp-view-more-offers.php:37
+#: views/refund/wcfmmp-view-refund-requests.php:62
+#: views/refund/wcfmmp-view-refund-requests.php:74
+#: views/reviews/wcfmmp-view-reviews.php:89
+#: views/reviews/wcfmmp-view-reviews.php:101
+msgid "Store"
+msgstr "Obchod"
+
+#: core/class-wcfmmp-admin.php:206
+msgid "Commission"
+msgstr "Provize"
+
+#: core/class-wcfmmp-admin.php:268 core/class-wcfmmp-admin.php:355
+#: core/class-wcfmmp-admin.php:440 core/class-wcfmmp-admin.php:487
+#: core/class-wcfmmp-frontend.php:381 core/class-wcfmmp-product.php:133
+#: core/class-wcfmmp-product.php:181 core/class-wcfmmp-vendor.php:903
+#: core/class-wcfmmp-vendor.php:917
+msgid "By Global Rule"
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:285 core/class-wcfmmp-admin.php:449
+#: core/class-wcfmmp-admin.php:500 core/class-wcfmmp-frontend.php:408
+#: core/class-wcfmmp-product.php:156 core/class-wcfmmp-settings.php:320
+#: core/class-wcfmmp-vendor.php:956
+msgid "Commission For"
+msgstr "Provize obdrží"
+
+#: core/class-wcfmmp-admin.php:287 core/class-wcfmmp-admin.php:451
+#: core/class-wcfmmp-admin.php:500 core/class-wcfmmp-frontend.php:408
+#: core/class-wcfmmp-product.php:156 core/class-wcfmmp-settings.php:320
+#: core/class-wcfmmp-vendor.php:956
+msgid "Vendor"
+msgstr "Prodejce"
+
+#: core/class-wcfmmp-admin.php:287 core/class-wcfmmp-admin.php:451
+#: core/class-wcfmmp-admin.php:500 core/class-wcfmmp-frontend.php:408
+#: core/class-wcfmmp-product.php:156 core/class-wcfmmp-settings.php:320
+#: core/class-wcfmmp-vendor.php:956
+msgid "Admin"
+msgstr "Admin"
+
+#: core/class-wcfmmp-admin.php:289 core/class-wcfmmp-admin.php:453
+#: core/class-wcfmmp-admin.php:500 core/class-wcfmmp-frontend.php:408
+#: core/class-wcfmmp-product.php:156 core/class-wcfmmp-vendor.php:956
+msgid "Always applicable as per global rule."
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:292 core/class-wcfmmp-admin.php:371
+#: core/class-wcfmmp-admin.php:456 core/class-wcfmmp-admin.php:504
+#: core/class-wcfmmp-frontend.php:409 core/class-wcfmmp-product.php:157
+#: core/class-wcfmmp-product.php:188 core/class-wcfmmp-settings.php:321
+#: core/class-wcfmmp-vendor.php:957
+msgid "Commission Mode"
+msgstr "Režim poplatků"
+
+#: core/class-wcfmmp-admin.php:296 core/class-wcfmmp-admin.php:375
+#: core/class-wcfmmp-admin.php:460 core/class-wcfmmp-admin.php:504
+#: core/class-wcfmmp-product.php:157 core/class-wcfmmp-product.php:188
+msgid ""
+"Keep this as Global to apply commission rule as per vendor or marketplace "
+"commission setup."
+msgstr ""
+
+#: core/class-wcfmmp-admin.php:299 core/class-wcfmmp-admin.php:385
+#: core/class-wcfmmp-admin.php:463 core/class-wcfmmp-admin.php:508
+#: core/class-wcfmmp-frontend.php:410 core/class-wcfmmp-frontend.php:416
+#: core/class-wcfmmp-frontend.php:423 core/class-wcfmmp-frontend.php:430
+#: core/class-wcfmmp-product.php:158 core/class-wcfmmp-product.php:189
+#: core/class-wcfmmp-settings.php:322 core/class-wcfmmp-settings.php:328
+#: core/class-wcfmmp-settings.php:335 core/class-wcfmmp-settings.php:342
+#: core/class-wcfmmp-vendor.php:958 core/class-wcfmmp-vendor.php:964
+#: core/class-wcfmmp-vendor.php:971 core/class-wcfmmp-vendor.php:978
+msgid "Commission Percent(%)"
+msgstr "Procentuální poplatek (%) "
+
+#: core/class-wcfmmp-admin.php:305 core/class-wcfmmp-admin.php:399
+#: core/class-wcfmmp-admin.php:469 core/class-wcfmmp-admin.php:512
+#: core/class-wcfmmp-frontend.php:411 core/class-wcfmmp-frontend.php:417
+#: core/class-wcfmmp-frontend.php:424 core/class-wcfmmp-frontend.php:431
+#: core/class-wcfmmp-product.php:159 core/class-wcfmmp-product.php:190
+#: core/class-wcfmmp-settings.php:323 core/class-wcfmmp-settings.php:329
+#: core/class-wcfmmp-settings.php:336 core/class-wcfmmp-settings.php:343
+#: core/class-wcfmmp-vendor.php:959 core/class-wcfmmp-vendor.php:965
+#: core/class-wcfmmp-vendor.php:972 core/class-wcfmmp-vendor.php:979
+msgid "Commission Fixed"
+msgstr "Fixní poplatek "
+
+#: core/class-wcfmmp-ajax.php:108
+#, php-format
+msgid "<b>%s</b> order item <b>%s</b> status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:218
+#: views/shipping/wcfmmp-view-edit-method-popup.php:248
+#: views/store-lists/wcfmmp-view-store-lists-card.php:40
+msgid "N/A"
+msgstr "N/A"
+
+#: core/class-wcfmmp-ajax.php:375
+msgid "Back to Zone List"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:381 core/class-wcfmmp-ajax.php:384
+#: views/shipping/wcfmmp-view-shipping-settings.php:171
+msgid "Zone Name"
+msgstr "Název zóny"
+
+#: core/class-wcfmmp-ajax.php:393 core/class-wcfmmp-ajax.php:397
+msgid "Zone Location"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:430
+msgid "Limit Zone Location"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:445
+msgid "Select Specific Countries"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:461
+msgid "Select Specific States"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:478
+msgid "Select Specific City"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:495
+msgid "Set your postcode"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:500
+msgid "Postcodes need to be comma separated"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:512
+#: views/shipping/wcfmmp-view-shipping-settings.php:173
+msgid "Shipping Method"
+msgstr "Metoda doručování"
+
+#: core/class-wcfmmp-ajax.php:515
+msgid "Add your shipping method for appropiate zone"
+msgstr "Přidejte doručovací metodu pro příslušnou zónu"
+
+#: core/class-wcfmmp-ajax.php:523
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:78
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:138
+#: views/shipping/wcfmmp-view-edit-method-popup.php:43
+#: views/shipping/wcfmmp-view-edit-method-popup.php:91
+#: views/shipping/wcfmmp-view-edit-method-popup.php:162
+msgid "Method Title"
+msgstr "Název metody"
+
+#: core/class-wcfmmp-ajax.php:524 views/ledger/wcfmmp-view-ledger.php:107
+#: views/ledger/wcfmmp-view-ledger.php:117
+#: views/reviews/wcfmmp-view-reviews-manage.php:167
+#: views/reviews/wcfmmp-view-reviews.php:84
+#: views/reviews/wcfmmp-view-reviews.php:96
+msgid "Status"
+msgstr "Status"
+
+#: core/class-wcfmmp-ajax.php:525
+#: views/shipping/wcfmmp-view-edit-method-popup.php:73
+#: views/shipping/wcfmmp-view-edit-method-popup.php:144
+#: views/shipping/wcfmmp-view-edit-method-popup.php:215
+msgid "Description"
+msgstr "Popis"
+
+#: core/class-wcfmmp-ajax.php:533
+msgid "No shipping method found"
+msgstr "Nenalezena žádná doručovací metoda"
+
+#: core/class-wcfmmp-ajax.php:553
+#: views/shipping/wcfmmp-view-shipping-settings.php:188
+msgid "Edit"
+msgstr "Upravit"
+
+#: core/class-wcfmmp-ajax.php:558
+#: controllers/media/wcfmmp-controller-media.php:139
+#: controllers/reviews/wcfmmp-controller-reviews.php:127
+msgid "Delete"
+msgstr "Vymazat"
+
+#: core/class-wcfmmp-ajax.php:593
+#: views/shipping/wcfmmp-view-add-method-popup.php:37
+msgid "Add Shipping Method"
+msgstr "Přidat doručovací metodu"
+
+#: core/class-wcfmmp-ajax.php:631
+msgid "Shipping method added successfully"
+msgstr "Metoda odesílání byla úspěšně přidána"
+
+#: core/class-wcfmmp-ajax.php:654
+msgid "Shipping method enabled successfully"
+msgstr "Metoda odesílání byla úspěšně povolena"
+
+#: core/class-wcfmmp-ajax.php:654
+msgid "Shipping method disabled successfully"
+msgstr "Metoda odesílání byla úspěšně vypnuta"
+
+#: core/class-wcfmmp-ajax.php:677
+msgid "Shipping method deleted"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:693
+msgid "Shipping title must be required"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:700
+msgid "Shipping method updated"
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:750
+#, php-format
+msgid "Your Store: <b>%s</b> has been set off-line."
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:753
+msgid "Vendor Store Off-line."
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:771
+#, php-format
+msgid "Your Store: <b>%s</b> has been set on-line."
+msgstr ""
+
+#: core/class-wcfmmp-ajax.php:774
+msgid "Vendor Store On-line."
+msgstr ""
+
+#: core/class-wcfmmp-commission.php:526
+#, php-format
+msgid "<b>%s</b> order status updated to <b>%s</b>"
+msgstr "<b>%s</b> status objednávky aktualizován na : <b>%s</b>"
+
+#: core/class-wcfmmp-frontend.php:326 core/class-wcfmmp-frontend.php:328
+msgid "Become a Vendor"
+msgstr "Registrovat se jako prodejce"
+
+#: core/class-wcfmmp-frontend.php:342
+msgid "Store Manager"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:412 core/class-wcfmmp-settings.php:324
+#: core/class-wcfmmp-vendor.php:960
+msgid "Commission By Sales Rule(s)"
+msgstr "Pravidla poplatků podle prodejních pravidel"
+
+#: core/class-wcfmmp-frontend.php:412 core/class-wcfmmp-settings.php:324
+#: core/class-wcfmmp-vendor.php:960
+#, php-format
+msgid ""
+"Commission rules depending upon vendors total sales. e.g 50&#37; commission "
+"when sales < %s1000, 75&#37; commission when sales > %s1000 but < %s2000 and "
+"so on. You may define any number of such rules. Please be sure, do not set "
+"conflicting rules."
+msgstr ""
+"Pravidla poplatků v závislosti na celkovém prodeji prodejců. např. 50&#37; "
+"provize při prodeji < %s1000, 75&#37; provize při prodeji  > %s1000 až < "
+"%s2000 a tak dále. Můžete definovat libovolný počet takových pravidel. "
+"Ujistěte se prosím, že nenastavujete konfliktní pravidla."
+
+#: core/class-wcfmmp-frontend.php:413 core/class-wcfmmp-settings.php:325
+#: core/class-wcfmmp-vendor.php:961
+msgid "Sales"
+msgstr "Podle tržby"
+
+#: core/class-wcfmmp-frontend.php:414 core/class-wcfmmp-frontend.php:421
+#: core/class-wcfmmp-frontend.php:428 core/class-wcfmmp-settings.php:326
+#: core/class-wcfmmp-settings.php:333 core/class-wcfmmp-settings.php:340
+#: core/class-wcfmmp-vendor.php:962 core/class-wcfmmp-vendor.php:969
+#: core/class-wcfmmp-vendor.php:976
+msgid "Rule"
+msgstr "Pravidlo"
+
+#: core/class-wcfmmp-frontend.php:414 core/class-wcfmmp-frontend.php:421
+#: core/class-wcfmmp-frontend.php:428 core/class-wcfmmp-settings.php:326
+#: core/class-wcfmmp-settings.php:333 core/class-wcfmmp-settings.php:340
+#: core/class-wcfmmp-vendor.php:962 core/class-wcfmmp-vendor.php:969
+#: core/class-wcfmmp-vendor.php:976
+msgid "Up to"
+msgstr "Až do"
+
+#: core/class-wcfmmp-frontend.php:414 core/class-wcfmmp-frontend.php:421
+#: core/class-wcfmmp-frontend.php:428 core/class-wcfmmp-settings.php:326
+#: core/class-wcfmmp-settings.php:333 core/class-wcfmmp-settings.php:340
+#: core/class-wcfmmp-vendor.php:962 core/class-wcfmmp-vendor.php:969
+#: core/class-wcfmmp-vendor.php:976
+msgid "More than"
+msgstr "Více než"
+
+#: core/class-wcfmmp-frontend.php:415 core/class-wcfmmp-frontend.php:422
+#: core/class-wcfmmp-frontend.php:429 core/class-wcfmmp-settings.php:327
+#: core/class-wcfmmp-settings.php:334 core/class-wcfmmp-settings.php:341
+#: core/class-wcfmmp-vendor.php:963 core/class-wcfmmp-vendor.php:970
+#: core/class-wcfmmp-vendor.php:977
+msgid "Commission Type"
+msgstr "Typ provize"
+
+#: core/class-wcfmmp-frontend.php:415 core/class-wcfmmp-frontend.php:422
+#: core/class-wcfmmp-frontend.php:429 core/class-wcfmmp-settings.php:327
+#: core/class-wcfmmp-settings.php:334 core/class-wcfmmp-settings.php:341
+#: core/class-wcfmmp-settings.php:535 core/class-wcfmmp-vendor.php:963
+#: core/class-wcfmmp-vendor.php:970 core/class-wcfmmp-vendor.php:977
+#: core/class-wcfmmp-vendor.php:1013 helpers/wcfmmp-core-functions.php:377
+msgid "Percent"
+msgstr "Procenta"
+
+#: core/class-wcfmmp-frontend.php:415 core/class-wcfmmp-frontend.php:422
+#: core/class-wcfmmp-frontend.php:429 core/class-wcfmmp-settings.php:327
+#: core/class-wcfmmp-settings.php:334 core/class-wcfmmp-settings.php:341
+#: core/class-wcfmmp-settings.php:535 core/class-wcfmmp-vendor.php:963
+#: core/class-wcfmmp-vendor.php:970 core/class-wcfmmp-vendor.php:977
+#: core/class-wcfmmp-vendor.php:1013 helpers/wcfmmp-core-functions.php:378
+msgid "Fixed"
+msgstr "Fixní"
+
+#: core/class-wcfmmp-frontend.php:415 core/class-wcfmmp-frontend.php:422
+#: core/class-wcfmmp-frontend.php:429 core/class-wcfmmp-settings.php:327
+#: core/class-wcfmmp-settings.php:334 core/class-wcfmmp-settings.php:341
+#: core/class-wcfmmp-settings.php:535 core/class-wcfmmp-vendor.php:963
+#: core/class-wcfmmp-vendor.php:970 core/class-wcfmmp-vendor.php:977
+#: core/class-wcfmmp-vendor.php:1013 helpers/wcfmmp-core-functions.php:379
+msgid "Percent + Fixed"
+msgstr "Procenta + Fixní"
+
+#: core/class-wcfmmp-frontend.php:419 core/class-wcfmmp-settings.php:331
+#: core/class-wcfmmp-vendor.php:967
+msgid "Commission By Product Price"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:419 core/class-wcfmmp-settings.php:331
+#: core/class-wcfmmp-vendor.php:967
+#, php-format
+msgid ""
+"Commission rules depending upon product price. e.g 80&#37; commission when "
+"product cost < %s1000, %s100 fixed commission when product cost > %s1000 and "
+"so on. You may define any number of such rules. Please be sure, do not set "
+"conflicting rules."
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:420 core/class-wcfmmp-settings.php:332
+#: core/class-wcfmmp-vendor.php:968
+msgid "Product Cost"
+msgstr "Cena produktu"
+
+#: core/class-wcfmmp-frontend.php:426 core/class-wcfmmp-settings.php:338
+#: core/class-wcfmmp-vendor.php:974
+msgid "Commission By Purchase Quantity"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:426 core/class-wcfmmp-settings.php:338
+#: core/class-wcfmmp-vendor.php:974
+msgid ""
+"Commission rules depending upon purchased product quantity. e.g 80&#37; "
+"commission when purchase quantity 2, 80&#37; commission when purchase "
+"quantity > 2 and so on. You may define any number of such rules. Please be "
+"sure, do not set conflicting rules."
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:427 core/class-wcfmmp-settings.php:339
+#: core/class-wcfmmp-vendor.php:975
+msgid "Purchase Quantity"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:433 core/class-wcfmmp-settings.php:345
+#: core/class-wcfmmp-vendor.php:981
+msgid "Shipping cost goes to vendor?"
+msgstr "Přepravní náklady uhradí prodejce?"
+
+#: core/class-wcfmmp-frontend.php:434 core/class-wcfmmp-settings.php:346
+#: core/class-wcfmmp-vendor.php:982
+msgid "Tax goes to vendor?"
+msgstr "DPH vyplatit prodejci? (uhradí jej státu sám?)"
+
+#: core/class-wcfmmp-frontend.php:435 core/class-wcfmmp-settings.php:347
+#: core/class-wcfmmp-vendor.php:983
+msgid "Commission after consider Vendor Coupon?"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:435 core/class-wcfmmp-settings.php:347
+#: core/class-wcfmmp-vendor.php:983
+msgid "Generate vendor commission after deduct Vendor Coupon discounts."
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:436 core/class-wcfmmp-settings.php:348
+#: core/class-wcfmmp-vendor.php:984
+msgid "Commission after consider Admin Coupon?"
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:436 core/class-wcfmmp-settings.php:348
+#: core/class-wcfmmp-vendor.php:984
+msgid "Generate vendor commission after deduct Admin Coupon discounts."
+msgstr ""
+
+#: core/class-wcfmmp-frontend.php:538
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:58
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:68
+msgid "Choose Category"
+msgstr "Vyberte kategorii"
+
+#: core/class-wcfmmp-frontend.php:538
+msgid "Choose Location"
+msgstr "Vyberte umístění"
+
+#: core/class-wcfmmp-frontend.php:538
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:91
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:97
+msgid "Choose State"
+msgstr ""
+
+#: core/class-wcfmmp-ledger.php:67 core/class-wcfmmp-ledger.php:98
+#: views/ledger/wcfmmp-view-ledger.php:34
+#: views/ledger/wcfmmp-view-ledger.php:41
+msgid "Ledger Book"
+msgstr "Účetní kniha"
+
+#: core/class-wcfmmp-ledger.php:177 views/emails/store-new-order.php:70
+#: views/ledger/wcfmmp-view-ledger.php:52
+#: views/reviews/wcfmmp-view-reviews-manage.php:77
+#: views/emails/plain/store-new-order.php:70
+msgid "Order"
+msgstr "Objednávka"
+
+#: core/class-wcfmmp-ledger.php:178 views/ledger/wcfmmp-view-ledger.php:53
+msgid "Withdrawal"
+msgstr "Žádost o vyplacení"
+
+#: core/class-wcfmmp-ledger.php:179 views/emails/store-new-order.php:405
+#: views/ledger/wcfmmp-view-ledger.php:47
+#: views/ledger/wcfmmp-view-ledger.php:57
+#: views/emails/plain/store-new-order.php:405
+msgid "Refunded"
+msgstr "Vráceno"
+
+#: core/class-wcfmmp-ledger.php:180 views/ledger/wcfmmp-view-ledger.php:58
+msgid "Partial Refunded"
+msgstr ""
+
+#: core/class-wcfmmp-ledger.php:181 views/ledger/wcfmmp-view-ledger.php:59
+msgid "Charges"
+msgstr "Poplatky"
+
+#: core/class-wcfmmp-media.php:70 core/class-wcfmmp-media.php:101
+#: core/class-wcfmmp.php:331
+msgid "Media"
+msgstr "Média"
+
+#: core/class-wcfmmp-notification-manager.php:57
+#: core/class-wcfmmp-notification-manager.php:61
+msgid "Notification Manager"
+msgstr "Správce oznámení"
+
+#: core/class-wcfmmp-notification-manager.php:66
+msgid "Notification Sound"
+msgstr "Zvuk oznámení"
+
+#: core/class-wcfmmp-notification-manager.php:75
+msgid "Admin Notification"
+msgstr "Oznámení správce"
+
+#: core/class-wcfmmp-notification-manager.php:76
+msgid "Vendor Notification"
+msgstr "Oznámení prodejci"
+
+#: core/class-wcfmmp-notification-manager.php:79
+msgid "Notification Type"
+msgstr "Typ oznámení"
+
+#: core/class-wcfmmp-notification-manager.php:80
+#: core/class-wcfmmp-notification-manager.php:87
+#: core/class-wcfmmp-store.php:596
+msgid "Email"
+msgstr "Email"
+
+#: core/class-wcfmmp-notification-manager.php:81
+#: core/class-wcfmmp-notification-manager.php:88
+msgid "Message"
+msgstr "Zpráva"
+
+#: core/class-wcfmmp-notification-manager.php:83
+#: core/class-wcfmmp-notification-manager.php:90
+msgid "SMS"
+msgstr "SMS"
+
+#: core/class-wcfmmp-product-multivendor.php:96
+msgid "Sell Items Catalog"
+msgstr ""
+
+#: core/class-wcfmmp-product-multivendor.php:142
+#: core/class-wcfmmp-product-multivendor.php:283
+#: controllers/product_multivendor/wcfmmp-controller-sell-items-catalog.php:251
+msgid "Add to My Store"
+msgstr ""
+
+#: core/class-wcfmmp-product-multivendor.php:234
+msgid "Title edit disabeled, it has other sellers!"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:187
+msgid "Commission Rule"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:397
+#: views/shipping/wcfmmp-view-shipping-settings.php:49
+msgid "Processing Time"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:397
+#: views/shipping/wcfmmp-view-shipping-settings.php:49
+msgid "The time required before sending the product for delivery"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:412
+msgid "Override Shipping"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:412
+msgid "Override your store's default shipping cost for this product"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:413
+msgid "Additional Price"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:413
+msgid "First product of this type will be charged with this price"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:414 core/class-wcfmmp-settings.php:666
+#: views/shipping/wcfmmp-view-shipping-settings.php:77
+msgid "Per Qty Additional Price"
+msgstr ""
+
+#: core/class-wcfmmp-product.php:414 core/class-wcfmmp-settings.php:666
+#: views/shipping/wcfmmp-view-shipping-settings.php:77
+msgid "Every second product of same type will be charged with this price"
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:82
+#: views/refund/wcfmmp-view-refund-requests-popup.php:79
+#: views/refund/wcfmmp-view-refund-requests.php:23
+#: views/refund/wcfmmp-view-refund-requests.php:30
+msgid "Refund Requests"
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:128 core/class-wcfmmp-refund.php:331
+msgid "Refund"
+msgstr "Vrácení peněz"
+
+#: core/class-wcfmmp-refund.php:271
+#: views/refund/wcfmmp-view-refund-requests-popup.php:70
+msgid "Refund Request"
+msgstr "Žádost o vrácení peněz"
+
+#: core/class-wcfmmp-refund.php:585
+#, php-format
+msgid "Your Refund Request approved for Order <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:587 core/class-wcfmmp-refund.php:615
+#: core/class-wcfmmp-refund.php:651 core/class-wcfmmp-refund.php:668
+#: core/class-wcfmmp-withdraw.php:416 core/class-wcfmmp-withdraw.php:455
+#: core/class-wcfmmp-withdraw.php:496 core/class-wcfmmp-withdraw.php:541
+msgid "Note"
+msgstr "Poznámka"
+
+#: core/class-wcfmmp-refund.php:613
+#, php-format
+msgid "Refund Request approved for Order <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:649 core/class-wcfmmp-refund.php:713
+#, php-format
+msgid "Your Refund Request cancelled for Order <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmmp-refund.php:666
+#, php-format
+msgid "Refund Request cancelled for Order <b>%s</b>."
+msgstr ""
+
+#: core/class-wcfmmp-reviews.php:84 core/class-wcfmmp-reviews.php:115
+#: core/class-wcfmmp-store.php:136 core/class-wcfmmp-store.php:177
+#: core/class-wcfmmp.php:330 views/reviews/wcfmmp-view-reviews.php:38
+msgid "Reviews"
+msgstr "Recenze"
+
+#: core/class-wcfmmp-reviews.php:458
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Hodnoceno %s z 5"
+
+#: core/class-wcfmmp-reviews.php:458
+msgid "No reviews yet!"
+msgstr ""
+
+#: core/class-wcfmmp-reviews.php:460
+#: controllers/reviews/wcfmmp-controller-reviews.php:106
+msgid "out of 5"
+msgstr "z 5"
+
+#: core/class-wcfmmp-reviews.php:628
+#: controllers/reviews/wcfmmp-controller-reviews-submit.php:136
+#, php-format
+msgid "You have received a new Review from <b>%s</b>"
+msgstr "Obdrželi jste nové hodnocení od uživatele <b>%s</b>"
+
+#: core/class-wcfmmp-reviews.php:637
+msgid "Store Review"
+msgstr "Hodnocení obchodu"
+
+#: core/class-wcfmmp-settings.php:91 core/class-wcfmmp-settings.php:95
+msgid "Marketplace Settings"
+msgstr "Nastavení tržiště"
+
+#: core/class-wcfmmp-settings.php:100
+msgid "Vendor Store URL"
+msgstr "URL adresa prodejce"
+
+#: core/class-wcfmmp-settings.php:100
+#, php-format
+msgid "Define the seller store URL  (%s/[this-text]/[seller-name])"
+msgstr "Definujte adresu URL prodejce ( %s / [tento text] / [název-prodejce])"
+
+#: core/class-wcfmmp-settings.php:101
+msgid "Visible Sold By"
+msgstr "Zobrazit kdo prodává"
+
+#: core/class-wcfmmp-settings.php:101
+msgid "Uncheck this to disable Sold By display for products."
+msgstr ""
+"Zrušte zaškrtnutí tohoto políčka, chcete-li zakázat zobrazení prodávajícího "
+"produktu."
+
+#: core/class-wcfmmp-settings.php:102
+msgid "Sold By Label"
+msgstr "Označení kdo prodává"
+
+#: core/class-wcfmmp-settings.php:102
+msgid "Sold By label along with store name under product archive pages."
+msgstr "Označení kdo prodává u produktů."
+
+#: core/class-wcfmmp-settings.php:103
+msgid "Sold By Template"
+msgstr "Šablona pro údaje prodejce"
+
+#: core/class-wcfmmp-settings.php:103
+msgid "Simple"
+msgstr "Jednoduchá"
+
+#: core/class-wcfmmp-settings.php:103
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: core/class-wcfmmp-settings.php:103
+msgid "As Tab"
+msgstr "Jako záložku"
+
+#: core/class-wcfmmp-settings.php:103
+msgid "Single product page Sold By template."
+msgstr "Zobrazení kdo prodává na stránce produktu."
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Sold By Position"
+msgstr "Pozice údaje kdo prodává"
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Below Price"
+msgstr "Pod cenou"
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Below Short Description"
+msgstr "Pod krátkým popisem"
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Below Add to Cart"
+msgstr "Pod Vložit do košíku"
+
+#: core/class-wcfmmp-settings.php:107
+msgid "Sold by display position at Single Product Page."
+msgstr ""
+"Pozice umístění na stránce produktu (pouze když je zvoleno zobrazení "
+"Jednoduché/Pokročilé)"
+
+#: core/class-wcfmmp-settings.php:108 core/class-wcfmmp-vendor.php:785
+msgid "Store Name Position"
+msgstr "Umístění názvu obchodu"
+
+#: core/class-wcfmmp-settings.php:108 core/class-wcfmmp-vendor.php:785
+msgid "On Banner"
+msgstr "Na baneru"
+
+#: core/class-wcfmmp-settings.php:108 core/class-wcfmmp-vendor.php:785
+msgid "At Header"
+msgstr "V záhlaví"
+
+#: core/class-wcfmmp-settings.php:108
+msgid "Store name position at Vendor Store Page."
+msgstr "Umístění názvu obchodu na stránce Prodejce."
+
+#: core/class-wcfmmp-settings.php:110 core/class-wcfmmp-sidebar-widgets.php:58
+msgid "Store List Sidebar"
+msgstr "Boční panel na seznamu obchodů"
+
+#: core/class-wcfmmp-settings.php:110
+msgid "Uncheck this to disable store list sidebar."
+msgstr ""
+"Zrušte zaškrtnutí tohoto políčka, chcete-li vypnout boční panel seznamu "
+"prodejců."
+
+#: core/class-wcfmmp-settings.php:111
+msgid "Store Sidebar"
+msgstr "Boční panel obchodu"
+
+#: core/class-wcfmmp-settings.php:111
+msgid "Uncheck this to disable vendor store sidebar."
+msgstr ""
+"Zrušte zaškrtnutí tohoto políčka, chcete-li vypnout boční panel prodejce."
+
+#: core/class-wcfmmp-settings.php:112
+msgid "Store Sidebar Position"
+msgstr "Poloha bočního panelu"
+
+#: core/class-wcfmmp-settings.php:112
+msgid "At Left"
+msgstr "Vlevo"
+
+#: core/class-wcfmmp-settings.php:112
+msgid "At Right"
+msgstr "Vpravo"
+
+#: core/class-wcfmmp-settings.php:113
+msgid "Store Related Products"
+msgstr "Související produkty"
+
+#: core/class-wcfmmp-settings.php:113
+msgid "As per WC Default Rule"
+msgstr "Produkty prodejců ve stejné skupině"
+
+#: core/class-wcfmmp-settings.php:113
+msgid "Only same Store Products"
+msgstr "Pouze produkty stejného prodejce"
+
+#: core/class-wcfmmp-settings.php:114 core/class-wcfmmp-vendor.php:786
+msgid "Products per page"
+msgstr "Produktů na stránce"
+
+#: core/class-wcfmmp-settings.php:116
+msgid "Order Sync"
+msgstr "Synchronizace objednávky"
+
+#: core/class-wcfmmp-settings.php:116
+msgid ""
+"Enable this to sync WC main order status when vendors update their order "
+"status."
+msgstr ""
+"Aktivujte tuto možnost, chcete-li synchronizovat stav hlavní objednávky WC, "
+"když prodejci aktualizují stav své objednávky."
+
+#: core/class-wcfmmp-settings.php:118
+msgid "Google Map API Key"
+msgstr "Google MAP API klíč"
+
+#: core/class-wcfmmp-settings.php:118
+#, php-format
+msgid "%sAPI Key%s is needed to display map on store page"
+msgstr "%sAPI Klíč%s je potřeba k zobrazení mapy na stránce obchodu"
+
+#: core/class-wcfmmp-settings.php:120
+msgid "Store Default Logo"
+msgstr "Výchozí logo prodejce"
+
+#: core/class-wcfmmp-settings.php:121
+msgid "Store Default Banner"
+msgstr "Výchozí banner prodejce"
+
+#: core/class-wcfmmp-settings.php:122
+msgid "Store List Default Banner"
+msgstr "Výchozí banner prodejce na stránce seznamu prodejců"
+
+#: core/class-wcfmmp-settings.php:123
+msgid "Banner Dimension(s)"
+msgstr "Rozměry baneru"
+
+#: core/class-wcfmmp-settings.php:124
+msgid "Width"
+msgstr "Šířka"
+
+#: core/class-wcfmmp-settings.php:124
+msgid "Store banner preferred width in pixels."
+msgstr "Doporučená šířka banneru v pixelech."
+
+#: core/class-wcfmmp-settings.php:125
+msgid "Height"
+msgstr "Výška"
+
+#: core/class-wcfmmp-settings.php:125
+msgid "Store banner preferred height in pixels."
+msgstr "Doporučená výška banneru v pixelech."
+
+#: core/class-wcfmmp-settings.php:126
+msgid "Width (Mob)"
+msgstr "Šířka (Mobil)"
+
+#: core/class-wcfmmp-settings.php:126
+msgid "Store banner preferred width for mobile in pixels."
+msgstr "Doporučená šířka banneru v pixelech pro mobilní zobrazení."
+
+#: core/class-wcfmmp-settings.php:127
+msgid "Height (Mob)"
+msgstr "Výška (Mobil)"
+
+#: core/class-wcfmmp-settings.php:127
+msgid "Store banner preferred heightfor mobile in pixels."
+msgstr "Doporučená výška banneru v pixelech pro mobilní zobrazení."
+
+#: core/class-wcfmmp-settings.php:130
+msgid "Disable Store Setup Widget"
+msgstr "Zakázat widget pro nastavení obchodu"
+
+#: core/class-wcfmmp-settings.php:132
+msgid "Enable GEO Locate"
+msgstr "Povolit GEO umístění"
+
+#: core/class-wcfmmp-settings.php:132
+msgid "Check this to enable store list auto-filter by user's location."
+msgstr ""
+"Zaškrtnutím tohoto políčka povolíte automatické filtrování seznamu úložišť "
+"podle umístění uživatele."
+
+#: core/class-wcfmmp-settings.php:134
+msgid "On Uninstall"
+msgstr "Při odinstalaci"
+
+#: core/class-wcfmmp-settings.php:134
+msgid ""
+"Delete all marketplace data on uninstall. Be careful, there is no way to "
+"retrieve those data if once deleted!"
+msgstr ""
+"Odstranit všechna data tržiště při odinstalaci. Buďte opatrní, neexistuje "
+"žádný způsob, jak tyto údaje vrátit zpět, pokud jsou odstraněny! Vytvořte si "
+"předem zálohu databáze!"
+
+#: core/class-wcfmmp-settings.php:139
+msgid "Store List Page"
+msgstr "Stránka Seznam obchodů"
+
+#: core/class-wcfmmp-settings.php:145
+#, php-format
+msgid ""
+"You just have to create a page using short code – %swcfm_stores%s\n"
+"\t\t\t\t\t\t\tYou may specify “per_row” attribute to specify number of store "
+"in one row, by default it’s “2”.%s\n"
+"\t\t\t\t\t\t\tAlso specify “per_page” attribute to set how many stores you "
+"want to show in a page. Default value is 10.%s\n"
+"\t\t\t\t\t\t\tYou may also specify “excludes” attribute (comma separated "
+"store ids) to excludes some store from list."
+msgstr ""
+"Musíte vytvořit stránku pomocí krátkého kódu - %swcfm_stores %s\n"
+"\t\t\t\t\t\t\tMůžete zadat atribut „per_row“ pro určení počtu prodejců v "
+"jednom řádku, standardně je to „2“. %s\n"
+"\t\t\t\t\t\t\tTaké zadejte atribut „per_page“ pro nastavení počtu prodejců, "
+"které chcete zobrazit na stránce. Výchozí hodnota je 10. %s\n"
+"\t\t\t\t\t\t\tMůžete také zadat atribut „excludes“ (id prodejce oddělené "
+"čárkami), abyste je vyloučili ze seznamu."
+
+#: core/class-wcfmmp-settings.php:311
+msgid "Commission Settings"
+msgstr "Nastavení poplatků"
+
+#: core/class-wcfmmp-settings.php:315
+msgid "Marketplace Commission Settings"
+msgstr "Nastavení poplatků tržiště"
+
+#: core/class-wcfmmp-settings.php:479
+msgid "Withdrawal Settings"
+msgstr "Nastavení vyplacení"
+
+#: core/class-wcfmmp-settings.php:483
+msgid "Marketplace Withdrawal Settings"
+msgstr "Nastavení vyplacení tržiště"
+
+#: core/class-wcfmmp-settings.php:488 core/class-wcfmmp-vendor.php:1009
+msgid "Request auto-approve?"
+msgstr "Automatické schválení žádostí?"
+
+#: core/class-wcfmmp-settings.php:488
+msgid ""
+"Check this to automatically disburse payments to vendors on request, no "
+"admin approval required. Auto disbursement only works for auto-payment "
+"gateways, e.g. PayPal, Stripe etc. Bank Transfer or other non-autopay mode "
+"always requires approval, as these are manual transactions."
+msgstr ""
+"Zaškrtnutím tohoto políčka se automaticky vyplatí platby prodejcům na "
+"požádání, nevyžaduje se žádné schválení správcem. Automatická výplata "
+"funguje pouze u automatických platebních bran, např. PayPal, Stripe atd. "
+"Bankovní převod nebo jiný režim bez autoplatby vždy vyžaduje schválení, "
+"protože se jedná o ruční transakce."
+
+#: core/class-wcfmmp-settings.php:490
+msgid "Generate auto-withdrawal?"
+msgstr "Vytvořit automatické vyplacení?"
+
+#: core/class-wcfmmp-settings.php:490
+msgid ""
+"Check this to generate withdrawal request automatically when order status "
+"reach at certain status."
+msgstr ""
+"Zaškrtněte toto políčko, chcete-li automaticky vygenerovat požadavek na "
+"výplatu, když stav objednávky dosáhne určitého stavu."
+
+#: core/class-wcfmmp-settings.php:491
+msgid "Order Status for Generate Withdrawal"
+msgstr "Stav objednávky pro generování výběru"
+
+#: core/class-wcfmmp-settings.php:493
+msgid "Allowed Order Status for Withdrawal"
+msgstr "Povolený stav objednávky pro výplatu"
+
+#: core/class-wcfmmp-settings.php:493
+msgid "Allowed order statuses for which vendor may request for withdrawal."
+msgstr ""
+"Povolené stavy objednávek, při kterých může prodejce požádat o vyplacení."
+
+#: core/class-wcfmmp-settings.php:497 core/class-wcfmmp-vendor.php:1011
+msgid "Minimum Withdraw Limit"
+msgstr "Minimální limit pro výplatu"
+
+#: core/class-wcfmmp-settings.php:497 core/class-wcfmmp-vendor.php:1011
+msgid ""
+"Minimum balance required to make a withdraw request. Leave blank to set no "
+"minimum limits."
+msgstr ""
+"Minimální zůstatek na účtu prodejce nutný k podání žádosti o výplatu. "
+"Ponechte prázdné, pokud nechcete nastavovat žádný minimální limit."
+
+#: core/class-wcfmmp-settings.php:498 core/class-wcfmmp-vendor.php:1012
+msgid "Withdraw Threshold"
+msgstr "Ochranná lhůta pro žádost výplaty"
+
+#: core/class-wcfmmp-settings.php:498 core/class-wcfmmp-vendor.php:1012
+msgid ""
+"Withdraw Threshold Days, (Make order matured to make a withdraw request). "
+"Leave empty to inactive this option."
+msgstr ""
+"Nastavte počet dní, kdy nemůže prodejce požádat o výplatu zisku z "
+"objednávky. Například 14 pro ochrannou lhůtu, ve které zákazník může produkt "
+"vrátit v zákonné lhůtě a pokud by se tak stalo, neměl by mít prodejce nárok "
+"na výplatu zisku z tohoto produktu."
+
+#: core/class-wcfmmp-settings.php:503 core/class-wcfmmp-vendor.php:1054
+msgid "Payment Setup"
+msgstr "Nastavení platby"
+
+#: core/class-wcfmmp-settings.php:507
+msgid "Withdraw Payment Methods"
+msgstr "Způsoby vyplácení zisku"
+
+#: core/class-wcfmmp-settings.php:509
+msgid "Stripe Split Pay Mode"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:509
+msgid "Direct Charges"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:509
+msgid "Destination Charges"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:509
+msgid "Transfer Charges"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:509
+msgid "Set your preferred Stripe Split pay mode."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:510
+msgid "Enable Test Mode"
+msgstr "Povolit testovací mód"
+
+#: core/class-wcfmmp-settings.php:514 core/class-wcfmmp-settings.php:522
+msgid "PayPal Client ID"
+msgstr "ID klienta PayPal"
+
+#: core/class-wcfmmp-settings.php:515 core/class-wcfmmp-settings.php:523
+msgid "PayPal Secret Key"
+msgstr "PayPal tajný klíč"
+
+#: core/class-wcfmmp-settings.php:516 core/class-wcfmmp-settings.php:524
+msgid "Stripe Client ID"
+msgstr "ID klienta Stripe"
+
+#: core/class-wcfmmp-settings.php:516 core/class-wcfmmp-settings.php:524
+#, php-format
+msgid "Set redirect URL: %s"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:517 core/class-wcfmmp-settings.php:525
+msgid "Stripe Publish Key"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:518 core/class-wcfmmp-settings.php:526
+msgid "Stripe Secret Key"
+msgstr "Stripe Tajné klíče"
+
+#: core/class-wcfmmp-settings.php:531 core/class-wcfmmp-vendor.php:1013
+msgid "Withdrawal Charges"
+msgstr "Poplatky za výplatu provize"
+
+#: core/class-wcfmmp-settings.php:535
+msgid "Charge Type"
+msgstr "Typ poplatku"
+
+#: core/class-wcfmmp-settings.php:535 core/class-wcfmmp-vendor.php:1013
+msgid "No Charge"
+msgstr "Bez poplatku"
+
+#: core/class-wcfmmp-settings.php:535 core/class-wcfmmp-vendor.php:1013
+msgid "Charges applicable for each withdarwal."
+msgstr ""
+"Nastavte poplatky za provedení výplaty, které se naúčtují prodejci a budou "
+"strženy z vyplácené částky."
+
+#: core/class-wcfmmp-settings.php:538 core/class-wcfmmp-vendor.php:1017
+msgid "PayPal Charge"
+msgstr "PayPal poplatek"
+
+#: core/class-wcfmmp-settings.php:539 core/class-wcfmmp-settings.php:544
+#: core/class-wcfmmp-settings.php:549 core/class-wcfmmp-settings.php:554
+#: core/class-wcfmmp-vendor.php:1018 core/class-wcfmmp-vendor.php:1023
+#: core/class-wcfmmp-vendor.php:1028 core/class-wcfmmp-vendor.php:1033
+msgid "Percent Charge(%)"
+msgstr "Procentní poplatek (%)"
+
+#: core/class-wcfmmp-settings.php:540 core/class-wcfmmp-settings.php:545
+#: core/class-wcfmmp-settings.php:550 core/class-wcfmmp-settings.php:555
+#: core/class-wcfmmp-vendor.php:1019 core/class-wcfmmp-vendor.php:1024
+#: core/class-wcfmmp-vendor.php:1029 core/class-wcfmmp-vendor.php:1034
+msgid "Fixed Charge"
+msgstr "Pevný poplatek"
+
+#: core/class-wcfmmp-settings.php:541 core/class-wcfmmp-settings.php:546
+#: core/class-wcfmmp-settings.php:551 core/class-wcfmmp-settings.php:556
+#: core/class-wcfmmp-vendor.php:1020 core/class-wcfmmp-vendor.php:1025
+#: core/class-wcfmmp-vendor.php:1030 core/class-wcfmmp-vendor.php:1035
+msgid "Charge Tax"
+msgstr "Daň z poplatků"
+
+#: core/class-wcfmmp-settings.php:541 core/class-wcfmmp-settings.php:546
+#: core/class-wcfmmp-settings.php:551 core/class-wcfmmp-settings.php:556
+#: core/class-wcfmmp-vendor.php:1020 core/class-wcfmmp-vendor.php:1025
+#: core/class-wcfmmp-vendor.php:1030 core/class-wcfmmp-vendor.php:1035
+msgid "Tax for withdrawal charge, calculate in percent."
+msgstr "Daň za poplatek za výplatu, počítá se v procentech."
+
+#: core/class-wcfmmp-settings.php:543 core/class-wcfmmp-vendor.php:1022
+msgid "Stripe Charge"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:548 core/class-wcfmmp-vendor.php:1027
+msgid "Skrill Charge"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:553 core/class-wcfmmp-vendor.php:1032
+msgid "Bank Transfer Charge"
+msgstr "Poplatek za bankovní převod"
+
+#: core/class-wcfmmp-settings.php:563
+msgid "Marketplace Reverse Withdrawal Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:568 views/ledger/wcfmmp-view-ledger.php:55
+msgid "Reverse Withdrawal"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:568
+msgid ""
+"Enable this to keep track reverse withdrawals. In case vendor receive full "
+"payment (e.g. COD) from customer then they have to reverse-pay admin "
+"commission. This is only applicable for reverse-withdrawal payment methods."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:569
+msgid "Reverse or No Withdrawal Payment Methods"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:569
+msgid ""
+"Order Payment Methods which are not applicable for vendor withdrawal "
+"request. e.g Order payment method COD and vendor receiving that amount "
+"directly from customers. So, no more require withdrawal request. You may "
+"also enable Reverse Withdrawal to track reverse pending payments for such "
+"payment options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:572
+msgid "Reverse Withdraw Limit"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:572
+msgid ""
+"Set reverse withdrawal threshold limit, if reverse-pay balance reach this "
+"limit then vendor will not allow to withdrawal anymore. Leave empty to "
+"inactive this option."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:615
+msgid "Shipping Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:619
+msgid "Store Shipping Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:625 core/class-wcfmmp-vendor.php:835
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:52
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:194
+msgid "Store Shipping"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:625
+msgid "Uncheck this to disable vendor wise store shipping options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:631
+msgid "Shipping By Zone"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:637 core/class-wcfmmp-settings.php:650
+#: core/class-wcfmmp-settings.php:760
+msgid "Enable"
+msgstr "Povolit"
+
+#: core/class-wcfmmp-settings.php:637
+msgid "Uncheck this to disable zone wise shipping options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:644
+#: views/shipping/wcfmmp-view-shipping-settings.php:66
+msgid "Shipping By Country"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:650
+msgid "Uncheck this to disable country wise shipping options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:664
+#: views/shipping/wcfmmp-view-shipping-settings.php:75
+msgid "Default Shipping Price"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:664
+#: views/shipping/wcfmmp-view-shipping-settings.php:75
+msgid ""
+"This is the base price and will be the starting shipping price for each "
+"product"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:665
+#: views/shipping/wcfmmp-view-shipping-settings.php:76
+msgid "Per Product Additional Price"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:665
+#: views/shipping/wcfmmp-view-shipping-settings.php:76
+msgid ""
+"If a customer buys more than one type product from your store, first product "
+"of the every second type will be charged with this price"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:667
+#: views/shipping/wcfmmp-view-shipping-settings.php:78
+msgid "Free Shipping Minimum Order Amount"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:667
+#: views/shipping/wcfmmp-view-shipping-settings.php:78
+msgid "NO Free Shipping"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:667
+#: views/shipping/wcfmmp-view-shipping-settings.php:78
+msgid ""
+"Free shipping will be available if order amount more than this. Leave empty "
+"to disable Free Shipping."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:668
+#: views/shipping/wcfmmp-view-shipping-settings.php:79
+msgid "Ships from:"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:668
+#: views/shipping/wcfmmp-view-shipping-settings.php:79
+msgid ""
+"Location from where the products are shipped for delivery. Usually it is "
+"same as the store."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:699
+#: views/shipping/wcfmmp-view-shipping-settings.php:110
+msgid "Shipping Rates by Country"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:703
+#: views/shipping/wcfmmp-view-shipping-settings.php:114
+msgid ""
+"Add the countries you deliver your products to. You can specify states as "
+"well. If the shipping price is same except some countries, there is an "
+"option Everywhere Else, you can use that."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:707 core/class-wcfmmp-settings.php:792
+#: views/shipping/wcfmmp-view-shipping-settings.php:117
+#: views/shipping/wcfmmp-view-shipping-settings.php:274
+msgid "Country"
+msgstr "Země"
+
+#: core/class-wcfmmp-settings.php:714 core/class-wcfmmp-settings.php:733
+#: core/class-wcfmmp-settings.php:829
+#: views/shipping/wcfmmp-view-edit-method-popup.php:106
+#: views/shipping/wcfmmp-view-edit-method-popup.php:177
+#: views/shipping/wcfmmp-view-shipping-settings.php:124
+#: views/shipping/wcfmmp-view-shipping-settings.php:144
+#: views/shipping/wcfmmp-view-shipping-settings.php:312
+msgid "Cost"
+msgstr "Náklady"
+
+#: core/class-wcfmmp-settings.php:722
+#: views/shipping/wcfmmp-view-shipping-settings.php:133
+msgid "State Shipping Rates"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:727
+#: views/shipping/wcfmmp-view-shipping-settings.php:138
+msgid "State"
+msgstr "Stát"
+
+#: core/class-wcfmmp-settings.php:736 core/class-wcfmmp-settings.php:824
+#: core/class-wcfmmp-settings.php:831 helpers/wcfmmp-core-functions.php:792
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:161
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:99
+#: views/shipping/wcfmmp-view-shipping-settings.php:147
+#: views/shipping/wcfmmp-view-shipping-settings.php:306
+#: views/shipping/wcfmmp-view-shipping-settings.php:314
+msgid "Free Shipping"
+msgstr "Doprava zdarma"
+
+#: core/class-wcfmmp-settings.php:754
+#: views/shipping/wcfmmp-view-shipping-settings.php:235
+msgid "Shipping By Weight"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:760
+msgid "Uncheck this to disable weight based shipping options."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:784
+#: views/shipping/wcfmmp-view-shipping-settings.php:267
+msgid "Country and Weight wise Shipping Rate Calculation"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:788
+#: views/shipping/wcfmmp-view-shipping-settings.php:271
+msgid ""
+"Add the countries you deliver your products to and specify rates for weight "
+"range. If the shipping price is same except some countries/states, there is "
+"an option Everywhere Else, you can use that."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:799
+#: views/shipping/wcfmmp-view-shipping-settings.php:281
+msgid "Country default cost if no matching rule"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:807
+#: views/shipping/wcfmmp-view-shipping-settings.php:289
+msgid "Weight-Cost Rules"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:812
+#: views/shipping/wcfmmp-view-shipping-settings.php:294
+msgid "Weight Rule"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:817
+#: views/shipping/wcfmmp-view-shipping-settings.php:299
+msgid "Weight up to"
+msgstr "Hmotnost do"
+
+#: core/class-wcfmmp-settings.php:818
+#: views/shipping/wcfmmp-view-shipping-settings.php:300
+msgid "Weight more than"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:822
+#: views/shipping/wcfmmp-view-shipping-settings.php:304
+msgid "Weight"
+msgstr "Hmotnost"
+
+#: core/class-wcfmmp-settings.php:953
+msgid "Refund Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:957
+msgid "Store Refund Settings"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:962
+msgid "Refund auto-approve?"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:963
+msgid "Refund by Customer?"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:963
+msgid ""
+"Enable this to allow customers make refund requests. Customers refund "
+"requests never auto-approve, admin always has to manually approve this."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:964
+msgid "Refund Threshold"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:964
+msgid ""
+"Refund Threshold Days, (Allow an order available to make a refund request). "
+"Leave empty to inactive this option."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1004
+msgid "Review Settings"
+msgstr "Nastavení recenzí"
+
+#: core/class-wcfmmp-settings.php:1008
+msgid "Store Review Settings"
+msgstr "Nastavení recenzí obchodu"
+
+#: core/class-wcfmmp-settings.php:1013
+msgid "Review auto-approve?"
+msgstr "Automatické schválení hodnocení?"
+
+#: core/class-wcfmmp-settings.php:1014
+msgid "Review only store users?"
+msgstr "Hodnotit mohou pouze zákazníci obchodu?"
+
+#: core/class-wcfmmp-settings.php:1014
+msgid ""
+"Enable this to allow only users to review the store who already purchased "
+"something from this store."
+msgstr ""
+"Chcete-li povolte, aby hodnotit mohli pouze uživatelé, kteří již něco z "
+"tohoto obchodu zakoupil."
+
+#: core/class-wcfmmp-settings.php:1015
+msgid "Product review sync?"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1015
+msgid "Enable this to allow vendor's products review consider as store review."
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1016
+msgid "Review Categories"
+msgstr "Kategorie hodnocení"
+
+#: core/class-wcfmmp-settings.php:1017
+#: views/reviews/wcfmmp-view-reviews-manage.php:86
+msgid "Category"
+msgstr "Kategorie"
+
+#: core/class-wcfmmp-settings.php:1063
+msgid "Vendor Registration"
+msgstr "Registrace prodejce"
+
+#: core/class-wcfmmp-settings.php:1067
+msgid "Vendor Registration Settings"
+msgstr "Nastavení registrace prodejce"
+
+#: core/class-wcfmmp-settings.php:1072
+msgid "Required Approval"
+msgstr "Vyžaduje schválení"
+
+#: core/class-wcfmmp-settings.php:1072
+msgid "Whether user required Admin Approval to become vendor or not!"
+msgstr "Pokud je zaškrtnuto, musí správce tržiště ručně schválit prodejce!"
+
+#: core/class-wcfmmp-settings.php:1073
+msgid "Email Verification"
+msgstr "Ověření emailu"
+
+#: core/class-wcfmmp-settings.php:1078
+msgid "SMS (via OTP) Verification"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1083
+msgid "Registration Form Fields"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1087
+msgid "-- Choose Terms Page --"
+msgstr "--- Vyberte stránku --"
+
+#: core/class-wcfmmp-settings.php:1097
+msgid "User Name"
+msgstr "Uživatelské jméno"
+
+#: core/class-wcfmmp-settings.php:1100
+msgid "Terms & Conditions"
+msgstr "Smluvní podmínky"
+
+#: core/class-wcfmmp-settings.php:1101
+msgid "Terms Page"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1106
+msgid "Registration Form Custom Fields"
+msgstr "Registrační formulář - Vlastní pole"
+
+#: core/class-wcfmmp-settings.php:1165
+msgid "Store Name"
+msgstr "Název obchodu"
+
+#: core/class-wcfmmp-settings.php:1166
+msgid "Header Background"
+msgstr "Pozadí záhlaví"
+
+#: core/class-wcfmmp-settings.php:1167
+msgid "Header Social Background"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1168
+msgid "Header Text"
+msgstr "Text hlavičky"
+
+#: core/class-wcfmmp-settings.php:1169
+msgid "Header Icon"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1170
+msgid "Sidebar Background"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1171
+msgid "Sidebar Heading"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1172
+msgid "Sidebar Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1173
+msgid "Tabs Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1174
+msgid "Tabs Active Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1175
+msgid "Store Card Highlight Color"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1176
+msgid "Store Card Text Color"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1177
+msgid "Button Background"
+msgstr "Tlačítko pozadí"
+
+#: core/class-wcfmmp-settings.php:1178
+msgid "Button Text"
+msgstr "Text tlačítka"
+
+#: core/class-wcfmmp-settings.php:1179
+msgid "Button Hover Background"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1180
+msgid "Button Hover Text"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1181
+msgid "Star Rating"
+msgstr "Hodnocení hvězdami"
+
+#: core/class-wcfmmp-settings.php:1194
+msgid "Store Style"
+msgstr ""
+
+#: core/class-wcfmmp-settings.php:1198
+msgid "Store Display Setting"
+msgstr ""
+
+#: core/class-wcfmmp-shipping-zone.php:95
+msgid "No shipping method found for adding"
+msgstr ""
+
+#: core/class-wcfmmp-shipping-zone.php:120
+msgid "Shipping method not added successfully"
+msgstr ""
+
+#: core/class-wcfmmp-shipping-zone.php:141
+msgid "Shipping method not deleted"
+msgstr ""
+
+#: core/class-wcfmmp-shipping-zone.php:165
+msgid "Lets you charge a rate for shipping"
+msgstr "Umožňuje Vám stanovit cenu doručení"
+
+#: core/class-wcfmmp-shipping-zone.php:225
+msgid "Method enable or disable not working"
+msgstr ""
+
+#: core/class-wcfmmp-shipping.php:210
+msgid "Item will be shipped in"
+msgstr ""
+
+#: core/class-wcfmmp-shipping.php:389 views/emails/store-new-order.php:221
+#: views/emails/store-new-order.php:359
+#: views/emails/plain/store-new-order.php:221
+#: views/emails/plain/store-new-order.php:359
+msgid "Shipping"
+msgstr "Doručení"
+
+#: core/class-wcfmmp-shipping.php:449
+#, php-format
+msgid "Shop for %s%d more to get free shipping"
+msgstr ""
+
+#: core/class-wcfmmp-shortcode.php:601 core/class-wcfmmp-store-hours.php:69
+#: core/class-wcfmmp-store-hours.php:206 core/class-wcfmmp-vendor.php:1206
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:108
+msgid "Monday"
+msgstr "Pondělí"
+
+#: core/class-wcfmmp-shortcode.php:601 core/class-wcfmmp-store-hours.php:69
+#: core/class-wcfmmp-store-hours.php:206 core/class-wcfmmp-vendor.php:1206
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:108
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: core/class-wcfmmp-shortcode.php:601 core/class-wcfmmp-store-hours.php:69
+#: core/class-wcfmmp-store-hours.php:206 core/class-wcfmmp-vendor.php:1206
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:108
+msgid "Wednesday"
+msgstr "Středa"
+
+#: core/class-wcfmmp-shortcode.php:601 core/class-wcfmmp-store-hours.php:69
+#: core/class-wcfmmp-store-hours.php:206 core/class-wcfmmp-vendor.php:1206
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:108
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: core/class-wcfmmp-shortcode.php:601 core/class-wcfmmp-store-hours.php:69
+#: core/class-wcfmmp-store-hours.php:206 core/class-wcfmmp-vendor.php:1206
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:108
+msgid "Friday"
+msgstr "Pátek"
+
+#: core/class-wcfmmp-shortcode.php:601 core/class-wcfmmp-store-hours.php:69
+#: core/class-wcfmmp-store-hours.php:206 core/class-wcfmmp-vendor.php:1206
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:108
+msgid "Saturday"
+msgstr "Sobota"
+
+#: core/class-wcfmmp-shortcode.php:601 core/class-wcfmmp-store-hours.php:69
+#: core/class-wcfmmp-store-hours.php:206 core/class-wcfmmp-vendor.php:1206
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:108
+msgid "Sunday"
+msgstr "Neděle"
+
+#: core/class-wcfmmp-shortcode.php:604 core/class-wcfmmp-store-hours.php:59
+#: core/class-wcfmmp-store-hours.php:193 core/class-wcfmmp.php:333
+#: helpers/wcfmmp-core-functions.php:523
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:159
+msgid "Store Hours"
+msgstr "Otevírací hodiny"
+
+#: core/class-wcfmmp-sidebar-widgets.php:41
+msgid "Vendor Store Sidebar"
+msgstr "Boční panel prodejce"
+
+#: core/class-wcfmmp-store-hours.php:64
+msgid "Default Store Hours Setting"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:69 core/class-wcfmmp-store-hours.php:206
+#: core/class-wcfmmp-vendor.php:1206
+msgid "Set Week OFF"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:75 core/class-wcfmmp-store-hours.php:212
+#: core/class-wcfmmp-vendor.php:1211
+msgid "Daily Basis Opening & Closing Hours"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:80 core/class-wcfmmp-store-hours.php:217
+#: core/class-wcfmmp-vendor.php:1216
+msgid "Monday Time Slots"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:81 core/class-wcfmmp-store-hours.php:86
+#: core/class-wcfmmp-store-hours.php:91 core/class-wcfmmp-store-hours.php:96
+#: core/class-wcfmmp-store-hours.php:101 core/class-wcfmmp-store-hours.php:106
+#: core/class-wcfmmp-store-hours.php:111 core/class-wcfmmp-store-hours.php:218
+#: core/class-wcfmmp-store-hours.php:223 core/class-wcfmmp-store-hours.php:228
+#: core/class-wcfmmp-store-hours.php:233 core/class-wcfmmp-store-hours.php:238
+#: core/class-wcfmmp-store-hours.php:243 core/class-wcfmmp-store-hours.php:248
+#: core/class-wcfmmp-vendor.php:1217 core/class-wcfmmp-vendor.php:1222
+#: core/class-wcfmmp-vendor.php:1227 core/class-wcfmmp-vendor.php:1232
+#: core/class-wcfmmp-vendor.php:1237 core/class-wcfmmp-vendor.php:1242
+#: core/class-wcfmmp-vendor.php:1247
+msgid "Opening"
+msgstr "Otevřeno"
+
+#: core/class-wcfmmp-store-hours.php:82 core/class-wcfmmp-store-hours.php:87
+#: core/class-wcfmmp-store-hours.php:92 core/class-wcfmmp-store-hours.php:97
+#: core/class-wcfmmp-store-hours.php:102 core/class-wcfmmp-store-hours.php:107
+#: core/class-wcfmmp-store-hours.php:112 core/class-wcfmmp-store-hours.php:219
+#: core/class-wcfmmp-store-hours.php:224 core/class-wcfmmp-store-hours.php:229
+#: core/class-wcfmmp-store-hours.php:234 core/class-wcfmmp-store-hours.php:239
+#: core/class-wcfmmp-store-hours.php:244 core/class-wcfmmp-store-hours.php:249
+#: core/class-wcfmmp-vendor.php:1218 core/class-wcfmmp-vendor.php:1223
+#: core/class-wcfmmp-vendor.php:1228 core/class-wcfmmp-vendor.php:1233
+#: core/class-wcfmmp-vendor.php:1238 core/class-wcfmmp-vendor.php:1243
+#: core/class-wcfmmp-vendor.php:1248
+msgid "Closing"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:85 core/class-wcfmmp-store-hours.php:222
+#: core/class-wcfmmp-vendor.php:1221
+msgid "Tuesday Time Slots"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:90 core/class-wcfmmp-store-hours.php:227
+#: core/class-wcfmmp-vendor.php:1226
+msgid "Wednesday Time Slots"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:95 core/class-wcfmmp-store-hours.php:232
+#: core/class-wcfmmp-vendor.php:1231
+msgid "Thursday Time Slots"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:100 core/class-wcfmmp-store-hours.php:237
+#: core/class-wcfmmp-vendor.php:1236
+msgid "Friday Time Slots"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:105 core/class-wcfmmp-store-hours.php:242
+#: core/class-wcfmmp-vendor.php:1241
+msgid "Saturday Time Slots"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:110 core/class-wcfmmp-store-hours.php:247
+#: core/class-wcfmmp-vendor.php:1246
+msgid "Sunday Time Slots"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:198 core/class-wcfmmp-vendor.php:1198
+msgid "Store Hours Setting"
+msgstr "Nastavení otevíracích hodin"
+
+#: core/class-wcfmmp-store-hours.php:204 core/class-wcfmmp-vendor.php:1204
+msgid "Enable Store Hours"
+msgstr "Povolit otevírací hodiny"
+
+#: core/class-wcfmmp-store-hours.php:205 core/class-wcfmmp-vendor.php:1205
+msgid "Disable Purchase During OFF Time"
+msgstr ""
+
+#: core/class-wcfmmp-store-hours.php:304 core/class-wcfmmp-store-hours.php:344
+msgid "This store is now close!"
+msgstr ""
+
+#: core/class-wcfmmp-store.php:132
+msgid "Products"
+msgstr "Produkty"
+
+#: core/class-wcfmmp-store.php:133
+msgid "Articles"
+msgstr "Články"
+
+#: core/class-wcfmmp-store.php:134
+msgid "About"
+msgstr "O prodejci"
+
+#: core/class-wcfmmp-store.php:135 core/class-wcfmmp-vendor.php:1867
+#: helpers/class-wcfmmp-store-setup.php:67
+msgid "Policies"
+msgstr "Zásady/pravidla"
+
+#: core/class-wcfmmp-store.php:137 core/class-wcfmmp-store.php:149
+msgid "Followers"
+msgstr "Sledující"
+
+#: core/class-wcfmmp-store.php:138 core/class-wcfmmp-store.php:155
+msgid "Followings"
+msgstr "Sledujících"
+
+#: core/class-wcfmmp-store.php:597
+msgid "Phone"
+msgstr "Telefon"
+
+#: core/class-wcfmmp-vendor.php:396 core/class-wcfmmp-vendor.php:497
+#: helpers/wcfmmp-core-functions.php:600
+msgid "Shipped"
+msgstr "Odesláno"
+
+#: core/class-wcfmmp-vendor.php:496 helpers/wcfmmp-core-functions.php:599
+#: views/reviews/wcfmmp-view-reviews.php:22
+msgid "Pending"
+msgstr "Čekající"
+
+#: core/class-wcfmmp-vendor.php:674
+msgid "General Setting"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:779
+msgid "Visibility Setup"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:917
+msgid "Vendor Specific Rule"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:942
+msgid "Commission & Withdrawal"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1008
+msgid "Withdrawal Mode"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1324
+msgid "Store Orders"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1493 core/class-wcfmmp-vendor.php:1499
+msgid "Additional Info"
+msgstr "Doplňující Informace"
+
+#: core/class-wcfmmp-vendor.php:1646
+#, php-format
+msgid "Commission for %s order #%s."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1658
+msgid "Withdrawal Charges."
+msgstr "Poplatky za výplatu zisku."
+
+#: core/class-wcfmmp-vendor.php:1664
+msgid "Auto withdrawal by paymode."
+msgstr "Automatická výplata."
+
+#: core/class-wcfmmp-vendor.php:1666
+msgid "Withdrawal by Stripe Split Pay."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1668
+msgid "Withdrawal by request."
+msgstr "Žádost o vyplacení."
+
+#: core/class-wcfmmp-vendor.php:1679
+msgid "Reverse pay for auto withdrawal."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1694
+msgid "Request by Vendor."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1696
+msgid "Request by Admin."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1698
+msgid "Request by Customer."
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1951
+msgid "Off-line Vendor Store"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:1953
+msgid "On-line Vendor Store"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:2143
+msgid "Add Store Logo"
+msgstr "Přidejte logo obchodu"
+
+#: core/class-wcfmmp-vendor.php:2151
+msgid "Add Store Name"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:2159
+msgid "Add Store Banner"
+msgstr "Přidejte baner obchodu"
+
+#: core/class-wcfmmp-vendor.php:2167
+msgid "Add Store Phone"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:2174
+msgid "Add Store Description"
+msgstr "Přidejte popis obchodu"
+
+#: core/class-wcfmmp-vendor.php:2181
+msgid "Add Store Address"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:2189
+msgid "Add Store Location"
+msgstr "Přidejte umístění obchodu"
+
+#: core/class-wcfmmp-vendor.php:2195
+msgid "Set your payment method"
+msgstr "Nastavte způsob výplaty"
+
+#: core/class-wcfmmp-vendor.php:2202
+msgid "Setup Store Policies"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:2210
+msgid "Setup Store Customer Support"
+msgstr ""
+
+#: core/class-wcfmmp-vendor.php:2218
+msgid "Setup Store SEO"
+msgstr "Nastavte SEO obchodu"
+
+#: core/class-wcfmmp-vendor.php:2233
+msgid "Complete!"
+msgstr "Hotovo!"
+
+#: core/class-wcfmmp-vendor.php:2236
+msgid "Loading"
+msgstr "Načítání"
+
+#: core/class-wcfmmp-vendor.php:2239
+msgid "Suggestion(s)"
+msgstr "Návrh(y)"
+
+#: core/class-wcfmmp-withdraw.php:138
+msgid "Auto Withdrawal Request processing failed, please contact Store Admin."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:143
+#, php-format
+msgid "Vendor <b>%s</b> has placed a Withdrawal Request #%s."
+msgstr "Prodejce <b>%s</b> požádal o výplatu # %s."
+
+#: core/class-wcfmmp-withdraw.php:150
+msgid "Auto withdrawal request failed, please try after sometime."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:335
+msgid "Payment Processed"
+msgstr "Platba zpracována"
+
+#: core/class-wcfmmp-withdraw.php:364
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:561
+msgid "Something went wrong please try again later."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:368
+msgid "Invalid payment method."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:372
+msgid "No vendor for payment processing."
+msgstr ""
+
+#: core/class-wcfmmp-withdraw.php:414 core/class-wcfmmp-withdraw.php:453
+#, php-format
+msgid "Your withdrawal request #%s %s."
+msgstr "Vaše žádost o výplatu #%s dostala status %s."
+
+#: core/class-wcfmmp-withdraw.php:494 core/class-wcfmmp-withdraw.php:539
+#, php-format
+msgid "Reverse withdrawal for order #%s %s."
+msgstr ""
+
+#: core/class-wcfmmp.php:332
+msgid "Vendor Ledger"
+msgstr "Účetní kniha"
+
+#: core/class-wcfmmp.php:334
+msgid "Product Multivendor"
+msgstr ""
+
+#: core/class-wcfmmp.php:334
+msgid ""
+"Keep this enable to allow vendors to sell other vendors' products, single "
+"product multiple seller."
+msgstr ""
+
+#: core/class-wcfmmp.php:335
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:15
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:23
+msgid "Add to My Store Catalog"
+msgstr ""
+
+#: core/class-wcfmmp.php:335
+msgid ""
+"Other vendors' products catalog, vendors will able to add those directly to "
+"their store."
+msgstr ""
+
+#: helpers/class-wcfmmp-install.php:363
+msgid "Store Vendor"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:88 helpers/class-wcfmmp-setup.php:298
+#: helpers/class-wcfmmp-setup.php:508
+msgid "WCFM Marketplace &rsaquo; Setup Wizard"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:159
+msgid "WCFM Marketplace requires WooCommerce plugin to be active!"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:161
+msgid "Install WooCommerce"
+msgstr "Nainstalovat WooCommerce"
+
+#: helpers/class-wcfmmp-setup.php:255 helpers/class-wcfmmp-setup.php:465
+#: helpers/class-wcfmmp-setup.php:675
+#, php-format
+msgid ""
+"%1$s could not be installed (%2$s). <a href=\"%3$s\">Please install it "
+"manually by clicking here.</a>"
+msgstr ""
+"%1$s nelze nainstalovat (%2$s). <a href=\"%3$s\">Prosím nainstalujte je "
+"manuálně klepnutím sem.</a>"
+
+#: helpers/class-wcfmmp-setup.php:275 helpers/class-wcfmmp-setup.php:485
+#: helpers/class-wcfmmp-setup.php:695
+#, php-format
+msgid ""
+"%1$s was installed but could not be activated. <a href=\"%2$s\">Please "
+"activate it manually by clicking here.</a>"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:369
+msgid "Setup WCFM Maketplace vendor registration:"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:371
+msgid "Setup Registration"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:579
+msgid "WCFM Maketplace requires WCfM Dashboard plugin to be active!"
+msgstr ""
+
+#: helpers/class-wcfmmp-setup.php:581
+msgid "Install WCfM Dashboard"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:62
+msgid "Payment"
+msgstr "Placení"
+
+#: helpers/class-wcfmmp-store-setup.php:72
+msgid "Customer Support"
+msgstr "Zákaznická podpora"
+
+#: helpers/class-wcfmmp-store-setup.php:231
+msgid "Vendor Store &rsaquo; Setup Wizard"
+msgstr ""
+
+#: helpers/class-wcfmmp-store-setup.php:254
+msgid "Store Setup"
+msgstr "Nastavení obchodu"
+
+#: helpers/class-wcfmmp-store-setup.php:295
+#, php-format
+msgid "Welcome to %s!"
+msgstr "Vítejte na %s :-)"
+
+#: helpers/class-wcfmmp-store-setup.php:296
+#, php-format
+msgid ""
+"Thank you for choosing %s! This quick setup wizard will help you to "
+"configure the basic settings and you will have your store ready in no time."
+msgstr ""
+"Děkujeme, že jste si vybrali %s :-). Tento průvodce rychlým nastavením Vám "
+"pomůže nakonfigurovat základní parametry Vášeho obchodu, který tak bude "
+"připraven k okamžitému použití."
+
+#: helpers/class-wcfmmp-store-setup.php:297
+msgid ""
+"If you don't want to go through the wizard right now, you can skip and "
+"return to the dashboard. You may setup your store from dashboard &rsaquo; "
+"setting anytime!"
+msgstr ""
+"Průvodce můžete přeskočit a k nastavení se vrátit kdykoliv z prostředí "
+"Vašeho obchodu. Přístup : hlavní panel -> záložka nastavení!"
+
+#: helpers/class-wcfmmp-store-setup.php:363
+msgid "Store setup"
+msgstr "Nastavení obchodu"
+
+#: helpers/class-wcfmmp-store-setup.php:399
+msgid "Store Address 1"
+msgstr "Obchod - adresa 1"
+
+#: helpers/class-wcfmmp-store-setup.php:400
+msgid "Store Address 2"
+msgstr "Obchod - adresa 2"
+
+#: helpers/class-wcfmmp-store-setup.php:401
+msgid "Store City/Town"
+msgstr "Obchod - město"
+
+#: helpers/class-wcfmmp-store-setup.php:402
+msgid "Store Postcode/Zip"
+msgstr "Obchod - PSČ"
+
+#: helpers/class-wcfmmp-store-setup.php:403
+msgid "Store Country"
+msgstr "Obchod - stát"
+
+#: helpers/class-wcfmmp-store-setup.php:404
+msgid "Store State/County"
+msgstr "Obchod - stát/země"
+
+#: helpers/class-wcfmmp-store-setup.php:411
+#: helpers/wcfmmp-core-functions.php:519
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:105
+#: views/store/wcfmmp-view-store-sidebar.php:36
+msgid "Store Location"
+msgstr "Lokace obchodu"
+
+#: helpers/class-wcfmmp-store-setup.php:461
+msgid "Payment setup"
+msgstr "Nastavení platby"
+
+#: helpers/class-wcfmmp-store-setup.php:647
+msgid "Policy setup"
+msgstr "Nastavení zásad a pravidel"
+
+#: helpers/class-wcfmmp-store-setup.php:701
+msgid "Support setup"
+msgstr "Nastavení zák. podpory"
+
+#: helpers/class-wcfmmp-store-setup.php:739
+msgid ""
+"Your store is ready. It's time to experience the things more Easily and "
+"Peacefully. Add your products and start counting sales, have fun!!"
+msgstr ""
+"Váš obchod je připraven. Nastal čas obchodovat snadněji a klidněji. Vystavte "
+"své produkty a začněte počítat tržby. Hodně štěstí ;-) !"
+
+#: helpers/class-wcfmmp-store-setup.php:892
+msgid "How to use dashboard?"
+msgstr "Jak používat nástěnku obchodu?"
+
+#: helpers/wcfmmp-core-functions.php:6
+#, php-format
+msgid ""
+"%sWCFM Marketplace is inactive.%s The %sWooCommerce plugin%s must be active "
+"for the WCFM Marketplace to work. Please %sinstall & activate WooCommerce%s"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:16
+#, php-format
+msgid ""
+"%sWCFM Marketplace is inactive.%s The %sWooCommerce Frontend Manager%s must "
+"be active for the WCFM Marketplace to work. Please %sinstall & activate "
+"WooCommerce Frontend Manager%s"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:26
+msgid ""
+"%WCFM Marketplace - Stripe Gateway%s requires PHP 5.6 or greater. We "
+"recommend upgrading to PHP %s or greater."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:36 helpers/wcfmmp-core-functions.php:46
+#: helpers/wcfmmp-core-functions.php:56
+msgid ""
+"%WCFM Marketplace - Stripe Gateway depends on the %s PHP extension. Please "
+"enable it, or ask your hosting provider to enable it."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:380
+msgid "By Vendor Sales"
+msgstr "Podle tržeb prodejce"
+
+#: helpers/wcfmmp-core-functions.php:381
+msgid "By Product Price"
+msgstr "Podle ceny produktu"
+
+#: helpers/wcfmmp-core-functions.php:382
+msgid "By Purchase Quantity"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:392
+#: includes/payment-gateways/class-wcfmmp-gateway-skrill.php:17
+msgid "Skrill"
+msgstr "Skrill"
+
+#: helpers/wcfmmp-core-functions.php:393
+#: includes/payment-gateways/class-wcfmmp-gateway-bank_transfer.php:16
+msgid "Bank Transfer"
+msgstr "Bankovní převod"
+
+#: helpers/wcfmmp-core-functions.php:394
+#: includes/payment-gateways/class-wcfmmp-gateway-by_cash.php:16
+msgid "Cash Pay"
+msgstr "Hotově"
+
+#: helpers/wcfmmp-core-functions.php:396
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:299
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:405
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:546
+msgid "Stripe Split Pay"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:506
+msgid "Feature"
+msgstr "Funkce"
+
+#: helpers/wcfmmp-core-functions.php:507
+msgid "Varity"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:508
+msgid "Flexibility"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:509
+msgid "Delivery"
+msgstr "Dodání"
+
+#: helpers/wcfmmp-core-functions.php:520
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:17
+msgid "Store Info"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:521
+msgid "Store Category"
+msgstr "Kategorie obchodu"
+
+#: helpers/wcfmmp-core-functions.php:522
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:107
+msgid "Store Taxonomies"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:524
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:17
+msgid "Store Shipping Rules"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:525
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:148
+msgid "Store Coupons"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:526
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:17
+msgid "Store Product Search"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:527
+msgid "Store Top Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:528
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:17
+msgid "Store Top Rated Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:529
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:17
+msgid "Store Recent Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:530
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:17
+msgid "Store Featured Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:531
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:17
+msgid "Store On Sale Products"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:532
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:17
+msgid "Store Recent Articles"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:533
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:16
+msgid "Store Top Rated Vendors"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:534
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:16
+msgid "Store Best Selling Vendors"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:536
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:17
+msgid "Store Lists Search"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:537
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:17
+msgid "Store Lists Category Filter"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:538
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:17
+msgid "Store Lists Location Filter"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:539
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:17
+msgid "Store Lists Radius Filter"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:558
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:16
+msgid "Store New Order"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:569
+msgid "Please insert your comment before submit."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:570
+msgid "Please rate atleast one category before submit."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:571
+msgid "Your review successfully submited, will publish after approval!"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:572
+msgid "Your review successfully submited."
+msgstr "Vaše recenze byla úspěšně odeslána."
+
+#: helpers/wcfmmp-core-functions.php:573
+msgid "Your review response successfully submited."
+msgstr "Vaše odpověď na hodnocení byla úspěšně odeslána."
+
+#: helpers/wcfmmp-core-functions.php:574 helpers/wcfmmp-core-functions.php:589
+msgid "Your refund request failed, please try after sometime."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:575 helpers/wcfmmp-core-functions.php:590
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:56
+msgid "Refund requests successfully approved."
+msgstr "Žádosti o vrácení peněz byly úspěšně schváleny."
+
+#: helpers/wcfmmp-core-functions.php:587
+msgid "Please insert your refund reason before submit."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:588
+msgid "Your refund request successfully sent."
+msgstr "Váš požadavek na vrácení peněz byl úspěšně odeslán."
+
+#: helpers/wcfmmp-core-functions.php:601 views/ledger/wcfmmp-view-ledger.php:45
+msgid "Completed"
+msgstr "Dokončeno"
+
+#: helpers/wcfmmp-core-functions.php:602
+msgid "Cancelled"
+msgstr "Zrušeno"
+
+#: helpers/wcfmmp-core-functions.php:603
+msgid "Requested"
+msgstr "Požadáno"
+
+#: helpers/wcfmmp-core-functions.php:654
+msgid "More Offers"
+msgstr "Další nabídky"
+
+#: helpers/wcfmmp-core-functions.php:678
+msgid "Location"
+msgstr "Lokace"
+
+#: helpers/wcfmmp-core-functions.php:758
+msgid "Select Shipping Type..."
+msgstr "Vyberte metodu doručování .."
+
+#: helpers/wcfmmp-core-functions.php:759
+msgid "Shipping by Country"
+msgstr "Doručování podle zemí"
+
+#: helpers/wcfmmp-core-functions.php:760
+msgid "Shipping by Zone"
+msgstr "Doručování podle zón"
+
+#: helpers/wcfmmp-core-functions.php:761
+msgid "Shipping by Weight"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:770
+msgid "Ready to ship in..."
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:771
+msgid "1 business day"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:772
+msgid "1-2 business day"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:773
+msgid "1-3 business day"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:774
+msgid "3-5 business day"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:775
+msgid "1-2 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:776
+msgid "2-3 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:777
+msgid "3-4 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:778
+msgid "4-6 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:779
+msgid "6-8 weeks"
+msgstr ""
+
+#: helpers/wcfmmp-core-functions.php:789
+msgid "-- Select a Method --"
+msgstr "-- Vyberte metodu --"
+
+#: helpers/wcfmmp-core-functions.php:790
+msgid "Flat Rate"
+msgstr "Paušální sazba"
+
+#: helpers/wcfmmp-core-functions.php:791
+msgid "Local Pickup"
+msgstr "Místní vyzvednutí"
+
+#: controllers/product_multivendor/wcfmmp-controller-sell-items-catalog.php:251
+msgid "Click here add to your store"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:34
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:100
+msgid "There has some error in submitted data."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:50
+msgid "Refund processing failed, please check wcfm log."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:58
+msgid "No refunds selected for approve"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:117
+msgid "Refund request(s) successfully rejected."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:119
+msgid "No refund(s) selected for approve"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:92
+msgid "Refund request amount more than item value."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:110
+#, php-format
+msgid ""
+"Refund <b>%s</b> has been processed for Order <b>%s</b> item <b>%s</b> by <b>"
+"%s</b>"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:118
+msgid "Refund requests successfully processed."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:120
+msgid "Refund processing failed, please contact site admin."
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:124
+#, php-format
+msgid ""
+"You have recently received a Refund Request <b>%s</b> for Order <b>%s</b> "
+"item <b>%s</b>"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:85
+msgid "Refund Completed"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:87
+msgid "Refund Cancelled"
+msgstr ""
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:110
+#: views/refund/wcfmmp-view-refund-requests-popup.php:81
+msgid "Partial Refund"
+msgstr "Částečné vrácení peněz"
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:112
+#: views/refund/wcfmmp-view-refund-requests-popup.php:81
+msgid "Full Refund"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:68
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:79
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:170
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:181
+msgid "Support Ticket Reply"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:68
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:75
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:170
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:177
+#: views/reviews/wcfmmp-view-reviews-manage.php:60
+msgid "Ticket"
+msgstr "Tiket"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:69
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:171
+msgid "Hi"
+msgstr "Dobrý den"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:71
+#, php-format
+msgid ""
+"You have received reply for your \"%s\" support request. Please check below "
+"for the details: "
+msgstr ""
+"Obdrželi jste odpověď na žádost o podporu „%s“.\n"
+"<br />Podrobnosti naleznete níže: "
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:75
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:177
+msgid "Check more details here"
+msgstr "Podívejte se na další podrobnosti zde"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:76
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:178
+msgid "Thank You"
+msgstr "Děkujeme Vám"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:90
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:192
+msgid "Reply to Support Ticket"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:173
+msgid ""
+"You have received reply for your \"{product_title}\" support request. Please "
+"check below for the details: "
+msgstr ""
+"Obdrželi jste odpověď na žádost o podporu „{product_title}“. \n"
+"<br />Podrobnosti naleznete níže: "
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:197
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:211
+#, php-format
+msgid "You have received reply for Support Ticket <b>%s</b>"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews-submit.php:132
+#, php-format
+msgid "%s has received a new Review from <b>%s</b>"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:91
+#: views/reviews/wcfmmp-view-reviews.php:21
+msgid "Approved"
+msgstr "Schváleno"
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:93
+msgid "Waiting Approval"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:106
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Hodnoceno %d z 5"
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:122
+msgid "Unapprove"
+msgstr ""
+
+#: controllers/reviews/wcfmmp-controller-reviews.php:124
+#: views/refund/wcfmmp-view-refund-requests.php:100
+msgid "Approve"
+msgstr "Schválit"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-bank_transfer.php:39
+#: includes/payment-gateways/class-wcfmmp-gateway-by_cash.php:33
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:62
+#: includes/payment-gateways/class-wcfmmp-gateway-skrill.php:36
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:73
+msgid "New transaction has been initiated"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:27
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:74
+msgid ""
+"PayPal Payout setting is not configured properly please contact site "
+"administrator"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:77
+msgid "Please update your PayPal email to receive commission"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:105
+#, php-format
+msgid "Payment recieved from %1$s as commission at %2$s on %3$s"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:34
+msgid "Stripe connect"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:85
+msgid "Please connect with Stripe account"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:88
+msgid ""
+"Stripe setting is not configured properly please contact site administrator"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:102
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:105
+msgid "Payout for withdrawal ID #"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:42
+msgid "WCFM Stripe Split Pay"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:64
+msgid "Credit Card (Stripe)"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:65
+msgid "Pay with your credit card via Stripe."
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:235
+msgid ""
+"An error has occurred while processing your payment, please try again. Or "
+"contact us for assistance."
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:316
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:422
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:498
+msgid "Stripe Charge Error: "
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:322
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:428
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:504
+msgid "Stripe Split Pay Error: "
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:342
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:448
+#, php-format
+msgid "Payment for Order #%s"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:570
+msgid "Error creating transfer record with Stripe: "
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:586
+msgid "Stripe Payment Error"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:650
+msgid "Split Pay for Order #"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:651
+msgid "Payment for Order #"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:762
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:72
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:132
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:164
+msgid "Enable/Disable"
+msgstr "Zapnout/vypnout"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:797
+msgid "Error creating customer record with Stripe: "
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:864
+#, php-format
+msgid "Refund Processed Via Stripe ( Refund ID: #%s )"
+msgstr ""
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:915
+#, php-format
+msgid ""
+"<strong>Stripe Gateway is disabled.</strong> Please re-check %swithdrawal "
+"setting panel%s. This occurs mostly due to absence of Stripe Secret Key"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:25
+msgid "Marketplace Shipping by Country"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:26
+msgid "Enable vendors to set marketplace shipping per country"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:32
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:32
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:141
+msgid "Shipping Cost"
+msgstr "Cena poštovného"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:74
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:134
+#: views/shipping/wcfmmp-view-shipping-settings.php:48
+msgid "Enable Shipping"
+msgstr "Povolit doručování"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:80
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:140
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:193
+msgid "This controls the title which the user sees during checkout."
+msgstr "To ovládá titul, který uživatel vidí při placení."
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:81
+msgid "Regular Shipping"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:85
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:145
+#: views/shipping/wcfmmp-view-edit-method-popup.php:124
+#: views/shipping/wcfmmp-view-edit-method-popup.php:195
+msgid "Tax Status"
+msgstr "Daňový status"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:89
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:149
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:203
+#: views/shipping/wcfmmp-view-edit-method-popup.php:131
+#: views/shipping/wcfmmp-view-edit-method-popup.php:202
+msgid "Taxable"
+msgstr "Zdanit DPH"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:90
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:150
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:204
+msgctxt "Tax status"
+msgid "None"
+msgstr "Žádný"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:25
+msgid "Marketplace Shipping by Weight"
+msgstr "Doprava podle váhy"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:26
+msgid "Enable vendors to set marketplace shipping by weight range"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:30
+msgid "Cloning this class could cause catastrophic disasters!"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:39
+msgid "Unserializing is forbidden!"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:53
+msgid "Charge varying rates based on user defined conditions"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:191
+msgid "Method title"
+msgstr ""
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:198
+msgid "Tax status"
+msgstr "Daňový status"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:17
+msgid "New order notification emails are sent when order is processing."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:37
+msgid "[{site_title}] New Store Order ({order_number}) - {order_date}"
+msgstr "[{site_title}] Nová objednávka obchodu ({order_number}) - {order_date}"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:47
+msgid "New Store Order"
+msgstr "Nová objednávka"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:166
+msgid "Enable this email notification."
+msgstr "Povolit toto emailové upozornění."
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:170
+msgid "Subject"
+msgstr "Předmět"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:172
+#, php-format
+msgid ""
+"This controls the email subject line. Leave it blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:177
+msgid "Email Heading"
+msgstr "Hlavička emailu"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:179
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave it blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:184
+msgid "Email Type"
+msgstr "Typ emailu"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:186
+msgid "Choose which format of email to be sent."
+msgstr ""
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:190
+msgid "Plain Text"
+msgstr "Prostý text"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:191
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:192
+msgid "Multipart"
+msgstr "Složený"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:17
+msgid "Marketplace: Best Selling Vendors"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:83
+msgid "Best Selling Vendors"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:91
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:112
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:154
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:187
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:165
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:235
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:152
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:101
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:90
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:111
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:185
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:96
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:142
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:181
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:128
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:117
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:184
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:182
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:94
+msgid "Title:"
+msgstr "Název:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:95
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:98
+msgid "Number of vendors to show:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:104
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:88
+msgid "Store Categories"
+msgstr "Kategorie obchodu"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:18
+msgid "Vendor Store: Category"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:105
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:109
+msgid "Enable Toggle"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:117
+msgid "Enable toggle to show child categories"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:18
+msgid "Vendor Store: Coupons"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:108
+msgid "FREE Shipping Coupon"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:108
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:110
+msgid "Expiry Date: "
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:18
+msgid "Vendor Store: Featured Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:177
+msgid "Featured Products"
+msgstr "Speciální nabídka"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:191
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:189
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:185
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:188
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:186
+msgid "Number of products to show:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:195
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:193
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:189
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:192
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:190
+msgid "Hide Free Products:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:18
+msgid "Vendor Store: Opening/Closing Hours"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:18
+msgid "Vendor Store: Info"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:18
+msgid "Store List: Category Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:229
+msgid "Search by Category"
+msgstr "Hledat podle kategorie"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:18
+msgid "Store List: Location Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:103
+msgid "Search by City"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:107
+msgid "Search by ZIP"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:140
+msgid "Search by Location"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:141
+msgid "State Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:142
+msgid "City Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:143
+msgid "ZIP Code Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:157
+msgid "Disable State Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:161
+msgid "Disable City Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:165
+msgid "Disable ZIP Code Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:18
+msgid "Store List: Radius Filter"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:54
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:210
+msgid "Insert your address .."
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:95
+msgid "Search by Radius"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:18
+msgid "Store List: Search"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:51
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:59
+msgid "Search &hellip;"
+msgstr "HLEDAT &hellip;"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:51
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:59
+msgid "Search store &hellip;"
+msgstr "Hledat prodejce &hellip;"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:84
+#: views/store/wcfmmp-view-store-sidebar.php:32
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:34
+msgid "Search"
+msgstr "Hledat"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:18
+msgid "Vendor Store: Location"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:18
+msgid "Vendor Store: On Sale Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:175
+msgid "On Sale Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:18
+msgid "Vendor Store: Product Search"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:90
+msgid "Product Search"
+msgstr "Vyhledávač produktů"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:18
+msgid "Vendor Store: Recent Articles"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:134
+msgid "Recent Articles"
+msgstr "Nedávné články"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:146
+msgid "Number of articles to show:"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:18
+msgid "Vendor Store: Recent Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:171
+msgid "Recent Products"
+msgstr "Nové produkty"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:18
+msgid "Vendor Store: Shipping Rules"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:122
+msgid "Shipping Rules"
+msgstr "Pravidla přepravy"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:18
+msgid "Vendor Store: Taxonomy"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:108
+msgid "Choose Taxonomy"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:122
+msgid "Taxonomy:"
+msgstr "Taxanomie:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:124
+msgid "-- Taxonomy --"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:141
+msgid "Enable toggle to show child taxonomies"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:17
+msgid "Store Top Selling Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:18
+msgid "Vendor Store: Top Selling Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:174
+msgid "Top Selling Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:18
+msgid "Vendor Store: Top Rated Products"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:172
+msgid "Top Rated Products"
+msgstr "Nejlépe hodnocené zboží"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:17
+msgid "Marketplace: Top Rated Vendors"
+msgstr ""
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:86
+msgid "Top Rated Vendors"
+msgstr "Nejlépe hodnocení prodejci"
+
+#: views/emails/store-new-order.php:28
+#: views/emails/plain/store-new-order.php:28
+msgid "Standard"
+msgstr "Standardní"
+
+#: views/emails/store-new-order.php:68
+#: views/emails/plain/store-new-order.php:68
+#, php-format
+msgid "A new order was received from %s. Order details is as follows:"
+msgstr ""
+"Byla přijata nová objednávka od %s. \n"
+"Podrobnosti objednávky jsou následující (ceny jsou uvedeny bez DPH):"
+
+#: views/emails/store-new-order.php:110
+#: views/emails/plain/store-new-order.php:110
+msgid "SKU:"
+msgstr "SKU:"
+
+#: views/emails/store-new-order.php:113
+#: views/emails/plain/store-new-order.php:113
+msgid "Variation ID:"
+msgstr "Varianta ID:"
+
+#: views/emails/store-new-order.php:117
+#: views/emails/plain/store-new-order.php:117
+msgid "No longer exists"
+msgstr ""
+
+#: views/emails/store-new-order.php:288
+#: views/emails/plain/store-new-order.php:288
+msgid "Fee"
+msgstr "Poplatek"
+
+#: views/emails/store-new-order.php:348
+#: views/emails/plain/store-new-order.php:348
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr ""
+
+#: views/emails/store-new-order.php:348
+#: views/emails/plain/store-new-order.php:348
+msgid "Discount"
+msgstr "Sleva"
+
+#: views/emails/store-new-order.php:359
+#: views/emails/plain/store-new-order.php:359
+msgid "This is the shipping and handling total costs for the order."
+msgstr "Jedná se o přepravní a manipulační náklady na objednávku."
+
+#: views/emails/store-new-order.php:393
+#: views/emails/plain/store-new-order.php:393
+msgid "Order Total"
+msgstr "Cena celkem"
+
+#: views/emails/store-new-order.php:416
+#: views/emails/plain/store-new-order.php:416
+msgid "Customer Details"
+msgstr "Detail zákazníka"
+
+#: views/emails/store-new-order.php:418
+#: views/emails/plain/store-new-order.php:418
+msgid "Customer Name:"
+msgstr "Jméno zákazníka:"
+
+#: views/emails/store-new-order.php:419
+#: views/emails/plain/store-new-order.php:419
+msgid "Email:"
+msgstr "Email:"
+
+#: views/emails/store-new-order.php:422
+#: views/emails/plain/store-new-order.php:422
+msgid "Telephone:"
+msgstr "Telefon:"
+
+#: views/emails/store-new-order.php:438
+#: views/emails/plain/store-new-order.php:437
+msgid "Billing address"
+msgstr "Fakturační adresa"
+
+#: views/emails/store-new-order.php:445
+#: views/emails/plain/store-new-order.php:446
+msgid "Shipping address"
+msgstr "Dodací adresa"
+
+#: views/ledger/wcfmmp-view-ledger.php:75
+msgid "total earning"
+msgstr "celkový zisk"
+
+#: views/ledger/wcfmmp-view-ledger.php:84
+msgid "total withdrawal"
+msgstr "celkem vyplaceno"
+
+#: views/ledger/wcfmmp-view-ledger.php:94
+msgid "total refund"
+msgstr ""
+
+#: views/ledger/wcfmmp-view-ledger.php:108
+#: views/ledger/wcfmmp-view-ledger.php:118 views/media/wcfmmp-view-media.php:68
+#: views/media/wcfmmp-view-media.php:81
+#: views/refund/wcfmmp-view-refund-requests.php:64
+#: views/refund/wcfmmp-view-refund-requests.php:76
+msgid "Type"
+msgstr "Typ"
+
+#: views/ledger/wcfmmp-view-ledger.php:109
+#: views/ledger/wcfmmp-view-ledger.php:119
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:59
+#: views/product_multivendor/wcfmmp-view-more-offers.php:39
+msgid "Details"
+msgstr "Detaily"
+
+#: views/ledger/wcfmmp-view-ledger.php:110
+#: views/ledger/wcfmmp-view-ledger.php:120
+msgid "Credit"
+msgstr "Kredit"
+
+#: views/ledger/wcfmmp-view-ledger.php:111
+#: views/ledger/wcfmmp-view-ledger.php:121
+msgid "Debit"
+msgstr "Debet"
+
+#: views/ledger/wcfmmp-view-ledger.php:112
+#: views/ledger/wcfmmp-view-ledger.php:122
+#: views/reviews/wcfmmp-view-reviews.php:90
+#: views/reviews/wcfmmp-view-reviews.php:102
+msgid "Dated"
+msgstr "Datum"
+
+#: views/media/wcfmmp-view-media.php:25 views/media/wcfmmp-view-media.php:32
+msgid "Media Manager"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:36
+msgid "Total Disk Space Usage: "
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:47
+msgid "Bulk Delete"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:65 views/media/wcfmmp-view-media.php:78
+msgid "Select all for delete"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:69 views/media/wcfmmp-view-media.php:82
+msgid "Associate"
+msgstr ""
+
+#: views/media/wcfmmp-view-media.php:71 views/media/wcfmmp-view-media.php:84
+msgid "Size"
+msgstr "Velikost"
+
+#: views/media/wcfmmp-view-media.php:72 views/media/wcfmmp-view-media.php:85
+#: views/reviews/wcfmmp-view-reviews.php:91
+#: views/reviews/wcfmmp-view-reviews.php:103
+msgid "Actions"
+msgstr "Akce"
+
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:37
+msgid "Admin Product"
+msgstr ""
+
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:57
+msgid "Add to Cart"
+msgstr "Vložit do košíku"
+
+#: views/product_multivendor/wcfmmp-view-more-offers.php:26
+#: views/product_multivendor/wcfmmp-view-more-offers.php:59
+msgid "No more offers for this product!"
+msgstr "Nejsou žádné další nabídky pro tento produkt!"
+
+#: views/product_multivendor/wcfmmp-view-more-offers.php:38
+msgid "Price"
+msgstr "Cena"
+
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:38
+msgid "Bulk Add"
+msgstr ""
+
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:111
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:125
+msgid "Select multiple and add to My Store"
+msgstr ""
+
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:145
+msgid "Bulk Add to My Store"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:74
+msgid "Product"
+msgstr "Produkt"
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:84
+msgid "Refund Amount"
+msgstr "Vrácená částka"
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:89
+msgid "Refund Requests Reason"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:156
+msgid "Submit"
+msgstr "Odeslat"
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:161
+msgid "This order's item(s) are already requested for refund!"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests.php:59
+#: views/refund/wcfmmp-view-refund-requests.php:71
+msgid "Requests"
+msgstr "Žádosti"
+
+#: views/refund/wcfmmp-view-refund-requests.php:60
+#: views/refund/wcfmmp-view-refund-requests.php:72
+msgid "Request ID"
+msgstr ""
+
+#: views/refund/wcfmmp-view-refund-requests.php:61
+#: views/refund/wcfmmp-view-refund-requests.php:73
+msgid "Order ID"
+msgstr "ID objednávky"
+
+#: views/refund/wcfmmp-view-refund-requests.php:63
+#: views/refund/wcfmmp-view-refund-requests.php:75
+msgid "Amount"
+msgstr "Částka"
+
+#: views/refund/wcfmmp-view-refund-requests.php:65
+#: views/refund/wcfmmp-view-refund-requests.php:77
+msgid "Reason"
+msgstr "Důvod"
+
+#: views/refund/wcfmmp-view-refund-requests.php:66
+#: views/refund/wcfmmp-view-refund-requests.php:78
+msgid "Date"
+msgstr "Datum"
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:34
+msgid "rated"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:42
+#: views/store/wcfmmp-view-store-reviews.php:47
+msgid "reviews"
+msgstr "recenze"
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:50
+msgid "Review via Product"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:56
+msgid "Reply"
+msgstr "Odpovědět"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:50
+msgid "and"
+msgstr "a"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:50
+msgid "others have"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:51
+msgid "No user has"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:52
+#, fuzzy
+msgid "has"
+msgstr "má"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:53
+msgid "reviewed this store"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:53
+msgid "Support Ticket"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:64
+msgid "Support Tickets"
+msgstr "Podpora"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:64
+msgid "Tickets"
+msgstr "Tikety"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:93
+msgid "Open"
+msgstr "Otevřeno"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:95
+msgid "Closed"
+msgstr "Zavřeno"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:111
+msgid "Replies"
+msgstr "Odpovědi"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:158
+msgid "New Reply"
+msgstr "Nová odpověď"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:166
+msgid "Priority"
+msgstr "Priorita"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:181
+msgid "Send"
+msgstr "Odeslat"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:28
+#: views/reviews/wcfmmp-view-reviews-new.php:36
+msgid "write a review"
+msgstr "Napsat hodnocení"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:30
+msgid "your review"
+msgstr "vaše hodnocení"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:31
+msgid "Add Your Review"
+msgstr "Odeslat hodnocení"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:36
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:45
+msgid "Poor"
+msgstr "Slabé"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:48
+msgid "Fair"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-new.php:51
+msgid "Good"
+msgstr "Dobré"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:54
+msgid "Excellent"
+msgstr "Vynikající"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:57
+msgid "WOW!!!"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews-new.php:70
+msgid "Publish Review"
+msgstr "Odeslat hodnocení"
+
+#: views/reviews/wcfmmp-view-reviews-pagination.php:24
+#: views/store-lists/wcfmmp-view-store-lists-pagination.php:24
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/reviews/wcfmmp-view-reviews-pagination.php:25
+#: views/store-lists/wcfmmp-view-store-lists-pagination.php:25
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/reviews/wcfmmp-view-reviews.php:47
+#, php-format
+msgid "All (%s)"
+msgstr ""
+
+#: views/reviews/wcfmmp-view-reviews.php:86
+#: views/reviews/wcfmmp-view-reviews.php:98
+msgid "Author"
+msgstr "Autor"
+
+#: views/reviews/wcfmmp-view-reviews.php:87
+#: views/reviews/wcfmmp-view-reviews.php:99
+msgid "Comment"
+msgstr "Komentář"
+
+#: views/reviews/wcfmmp-view-reviews.php:88
+#: views/reviews/wcfmmp-view-reviews.php:100
+msgid "Rating"
+msgstr "Hodnocení"
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:10
+msgid "Add Shipping Methods"
+msgstr "Přidat metody doručování"
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:15
+msgid ""
+"Choose the shipping method you wish to add. Only shipping methods which "
+"support zones are listed."
+msgstr ""
+"Zvolte způsob dopravy, který chcete přidat. Zobrazují se pouze doručovací "
+"metody, které podporují zóny."
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:22
+msgid "Select Shipping Method"
+msgstr "Vyberte doručovací metodu"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:9
+msgid "Edit Shipping Methods"
+msgstr "Úprava doručovacích metod"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:48
+#: views/shipping/wcfmmp-view-edit-method-popup.php:96
+#: views/shipping/wcfmmp-view-edit-method-popup.php:167
+msgid "Enter method title"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:58
+msgid "Minimum order amount for free shipping"
+msgstr "Min. výše objednávky pro doručení zdarma"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:63
+#: views/shipping/wcfmmp-view-edit-method-popup.php:111
+#: views/shipping/wcfmmp-view-edit-method-popup.php:182
+msgid "0.00"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:130
+#: views/shipping/wcfmmp-view-edit-method-popup.php:201
+msgid "None"
+msgstr "Žádný"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:227
+msgid "Shipping Class Cost"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:229
+msgid ""
+"These costs can be optionally entered based on the shipping class set per "
+"product( This cost will be added with the shipping cost above)."
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:236
+msgid "No Shipping Classes set by Admin"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:243
+msgid "Cost of Shipping Class: \""
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:255
+msgid "Enter a cost (excl. tax) or sum, e.g. <code>10.00 * [qty]</code>."
+msgstr ""
+"Zadejte cenu (bez daně) nebo částku, např. <code> 10.00 * [qty] </ code>."
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:255
+msgid ""
+"Use <code>[qty]</code> for the number of items, <br/><code>[cost]</code> for "
+"the total cost of items, and <code>[fee percent=\"10\" min_fee=\"20\" "
+"max_fee=\"\"]</code> for percentage based fees."
+msgstr ""
+"Použijte <code>[qty]</code> pro počet položek <br/><code>[cost]</code> pro "
+"celkové náklady na položky a <code>[fee percent =\"10\" min_fee =\"20\" "
+"max_fee =\"\"]</code> pro procentní poplatky."
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:262
+msgid "Calculation type"
+msgstr "Typ výpočtu"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:268
+msgid "Per class: Charge shipping for each shipping class individually"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:269
+msgid "Per order: Charge shipping for the most expensive shipping class"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:288
+msgid "Save Method Settings"
+msgstr "Uložit nastavení metody"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:48
+msgid "Check this if you want to enable shipping for your store"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:51
+msgid "Shipping Type"
+msgstr "Metoda doručování"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:58
+msgid "Select shipping type for your store"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:69
+msgid ""
+"Shipping By Country is disabled by Admin. Please contact admin for details"
+msgstr ""
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:172
+msgid "Region(s)"
+msgstr "Region(y)"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:203
+msgid "No method found&nbsp;"
+msgstr "Nenalezena žádná metoda&nbsp;"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:204
+msgid " Add Shipping Methods"
+msgstr " Přidat metody doručování"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:208
+msgid " Edit Shipping Methods"
+msgstr " Úprava doručovacích metod"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:222
+msgid ""
+"No shipping zone found for configuration. Please contact with admin for "
+"manage your store shipping"
+msgstr ""
+"Nenalezena zóna pro nastavení. Kontaktujte správce pro nastavení doručování "
+"pro Váš obchod"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:238
+msgid ""
+"Shipping By Weight is disabled by Admin. Please contact admin for details"
+msgstr ""
+
+#: views/store/wcfmmp-view-store-sidebar.php:34
+msgid "Categories"
+msgstr "Kategorie"
+
+#: views/store-lists/wcfmmp-view-store-lists-card.php:110
+msgid "Visit <span>Store</span>"
+msgstr "Obchod"
+
+#: views/store-lists/wcfmmp-view-store-lists-loop.php:63
+msgid "No store found!"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:43
+msgid "Sort by newness: old to new"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:44
+msgid "Sort by newness: new to old"
+msgstr ""
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:45
+msgid "Sort by average rating: low to high"
+msgstr "Seřadit podle hodnocení: od nejnižšího"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:46
+msgid "Sort by average rating: high to low"
+msgstr "Seřadit podle hodnocení: od nejvyššího"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:47
+msgid "Sort by Alphabetical: A to Z"
+msgstr "Seřadit podle abecedy: od A do Z"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:48
+msgid "Sort by Alphabetical: Z to A"
+msgstr "Seřadit podle abecedy: Z do A"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:64
+#, php-format
+msgid "Showing %s–%s of %s results"
+msgstr "Zobrazují se %s- %s z nalezených  %s"
+
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:53
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Výsledky hledání pro : %s"
+
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:36
+msgid "Filter by Category"
+msgstr "Filtrovat podle kategorie"
+
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:38
+msgid "Filter by Location"
+msgstr "Filtrovat podle umístění"
+
+#: views/store/widgets/wcfmmp-view-store-category.php:23
+msgid "All Categories"
+msgstr "Všechny kategorie"
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:29
+msgid "Shipping Rules:"
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:45
+#, php-format
+msgid "Available for shopping more than <b>%s%d</b>."
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:48
+msgid "Available"
+msgstr "Dostupné"
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:66
+msgid "Delivery Time"
+msgstr ""
+
+#: views/store/widgets/wcfmmp-view-store-taxonomy.php:24
+msgid "Show All"
+msgstr "Zobrazit vše"
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Multivendor Marketplace"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Most featured and flexible marketplace solution for your e-commerce store. "
+"Simply and Smoothly."
+msgstr ""
+"Nejčastější a nejflexibilnější řešení pro vaše e-commerce tržiště. Jednoduše "
+"a plynule. <strong>Překlad: Fany VanDaal</strong> (https://vandaal.cz)."
+
+#. URI of the plugin
+msgid "https://wclovers.com/knowledgebase_category/wcfm-marketplace/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC Lovers"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"

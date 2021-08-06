@@ -1,0 +1,5196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wplivechat\n"
+"POT-Creation-Date: 2019-05-03 12:59+0300\n"
+"PO-Revision-Date: 2019-05-03 14:30+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: wp-live-chat-support\n"
+"X-Poedit-SearchPath-1: wp-live-chat-support-pro\n"
+"X-Poedit-SearchPath-2: wp-live-chat-support-mobile-and-desktop-app\n"
+
+#: ajax.php:192 modules/api/wplc-api-functions.php:809
+#: wp-live-chat-support.php:3021 wp-live-chat-support.php:5363
+msgid "Admin"
+msgstr "관리자"
+
+#: ajax.php:327 modules/api/wplc-api-functions.php:923
+msgid "Admin has closed and ended the chat"
+msgstr "관리자가 채팅을 껏거나 종료했습니다."
+
+#: extra-functions.php:62 wp-live-chat-support.php:4217
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: extra-functions.php:174 extra-functions.php:180 extra-functions.php:185
+#: modules/node_server.php:1099
+msgid "Quick Responses"
+msgstr "다수의 빠른 답장"
+
+#: extra-functions.php:175 includes/settings_page.php:328
+msgid "Quick Response"
+msgstr "빠른 답장"
+
+#: extra-functions.php:176 extra-functions.php:179
+msgid "New Quick Response"
+msgstr "새로운 빠른 답장"
+
+#: extra-functions.php:177 modules/node_server.php:1108
+msgid "Add New Quick Response"
+msgstr "새로운 빠른 답장 추가"
+
+#: extra-functions.php:178
+msgid "Edit Quick Response"
+msgstr "빠른 답장 수정"
+
+#: extra-functions.php:181
+msgid "View Quick Responses"
+msgstr "빠른 답장 보기"
+
+#: extra-functions.php:182
+msgid "Search Quick Responses"
+msgstr "빠른 답장 검색"
+
+#: extra-functions.php:183
+msgid "No Quick Responses found"
+msgstr "빠른 답장들을 찾을 수 없습니다."
+
+#: extra-functions.php:184
+msgid "No Quick Responses found in the Trash"
+msgstr "휴지통안에서 빠른 답장들을 찾을 수 없습니다."
+
+#: extra-functions.php:189
+#, fuzzy
+#| msgid "Quick Responses for WP Live Chat Support Pro"
+msgid "Quick Responses for WP Live Chat Support"
+msgstr "WP Live Chat Support 프로를 위한 빠른 답장"
+
+#: extra-functions.php:220
+#, fuzzy
+#| msgid "Support desk"
+msgid "Sort Order"
+msgstr "Support desk"
+
+#: extra-functions.php:256 includes/settings_page.php:337
+msgid "Title"
+msgstr ""
+
+#: extra-functions.php:257 includes/settings_page.php:345
+msgid "Order"
+msgstr ""
+
+#: extra-functions.php:258 includes/settings_page.php:1327
+msgid "Author"
+msgstr "글 작성자"
+
+#: extra-functions.php:259 functions.php:1700 includes/settings_page.php:338
+#: wp-live-chat-support.php:3646 wp-live-chat-support.php:3772
+msgid "Date"
+msgstr "날짜"
+
+#: extra-functions.php:338 extra-functions.php:342
+msgid "Assign Quick Response"
+msgstr "빠른 답장 배정"
+
+#: extra-functions.php:345 includes/settings_page.php:1309
+msgid "Select"
+msgstr "선택"
+
+#: extra-functions.php:351
+msgid "What is this?"
+msgstr "이게 뭡니까?"
+
+#: extra-functions.php:410 extra-functions.php:3496
+#, php-format
+msgid "Incoming chat from %s (%s) on %s"
+msgstr "대기중인 채팅 %s (%s) (안에서 %s)"
+
+#: extra-functions.php:416 extra-functions.php:3502
+#, php-format
+msgid "%s (%s) wants to chat with you. <br /><br />Log in: %s"
+msgstr "%s (%s)가 당신과 채팅하기를 원합니다. <br /><br /> 로그인: %s"
+
+#: extra-functions.php:869
+#, fuzzy
+#| msgid "Status: "
+msgid "Status (Online)"
+msgstr "상태:"
+
+#: extra-functions.php:870 includes/settings_page.php:1288
+msgid "Online"
+msgstr "온라인"
+
+#: extra-functions.php:871
+#, fuzzy
+#| msgid "Online"
+msgid "Offline"
+msgstr "온라인"
+
+#: extra-functions.php:872
+msgid "Status (Offline)"
+msgstr ""
+
+#: extra-functions.php:886
+msgid ""
+"You have set your status to offline. To view visitors and accept chats "
+"please set your status to online using the switch above."
+msgstr ""
+"당신은 상태를 오프라인으로 설정해왔습니다. 방문자를 보고, 채팅을 받아들이기 "
+"위해서는 위의 스위치를 사용하여 상태를 온라인으로 변경하십시오."
+
+#: extra-functions.php:983
+msgid "Encryption"
+msgstr "암호화"
+
+#: extra-functions.php:989 includes/settings_page.php:1370
+msgid "Business Hours"
+msgstr ""
+
+#: extra-functions.php:1327
+msgid "Initiate Chat"
+msgstr "채팅 초기화"
+
+#: extra-functions.php:1437 includes/settings_page.php:180
+#: wp-live-chat-support.php:413 wp-live-chat-support.php:2941
+#: wp-live-chat-support.php:3988
+msgid "Guest"
+msgstr "손님"
+
+#: extra-functions.php:1442
+msgid "Attempting to open the chat window... Please be patient."
+msgstr "채팅창 열기를 시도하는 중... 얌전히 기다리세요."
+
+#: extra-functions.php:1467
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+"당신은 채팅 에이전트가 아닙니다. 방문자에게 채팅을 시도하는 것 이전에, 당신"
+"이 채팅 에이전트라는 것을 확인하세요."
+
+#: extra-functions.php:1666 extra-functions.php:1682 extra-functions.php:1697
+msgid "Chat Agent"
+msgstr "채팅 에이전트"
+
+#: extra-functions.php:1671 extra-functions.php:1687
+msgid "Make this user a chat agent"
+msgstr "이 사용자를 채팅 에이전트로 만듭니다."
+
+#: extra-functions.php:1701
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr ""
+"당신의 사용자 권한이 당신 스스로를 채팅 에이전트로 만드는 것을 허용하지 않습"
+"니다."
+
+#: extra-functions.php:1702
+msgid "Please contact the administrator of this website to change this."
+msgstr "이것을 바꾸기 위해서는, 이 웹사이트의 관리자와 연락하세요."
+
+#: extra-functions.php:1721
+msgid "This chat has already been answered by another agent."
+msgstr "이 채팅은 또다른 에이전트에 의해서 이미 응답되었습니다."
+
+#: extra-functions.php:1969 wp-live-chat-support.php:2322
+msgid "Agent(s) online"
+msgstr "에이전트(다수) 온라인"
+
+#: extra-functions.php:2025
+msgid "Chat Agent Online"
+msgstr "채팅 에이전트 (온라인)"
+
+#: extra-functions.php:2027 extra-functions.php:2032
+msgid "Chat Agents Online"
+msgstr "채팅 에이전트들 (온라인)"
+
+#: extra-functions.php:2179 includes/settings_page.php:1298
+#: wp-live-chat-support.php:2244
+msgid "Remove"
+msgstr "삭제"
+
+#: extra-functions.php:2182 wp-live-chat-support.php:2247
+msgid "Typing..."
+msgstr ""
+
+#: extra-functions.php:2471 extra-functions.php:2479
+msgid "Experience Rating"
+msgstr "사용경험 평점"
+
+#: extra-functions.php:2559
+msgid "User Experience Ratings"
+msgstr "사용자 경험 평점"
+
+#: extra-functions.php:2566
+msgid "Agent Statistics"
+msgstr "에이전트 통계"
+
+#: extra-functions.php:2612
+msgid "Satisfaction Rating"
+msgstr "평점 통계"
+
+#: extra-functions.php:2613
+msgid "Rating Count"
+msgstr "평점수"
+
+#: extra-functions.php:2613 extra-functions.php:2627
+msgid "Good"
+msgstr "좋음"
+
+#: extra-functions.php:2613 extra-functions.php:2627
+msgid "Bad"
+msgstr "나쁨"
+
+#: extra-functions.php:2621
+msgid "No Ratings for this agent"
+msgstr "이 에이전트에게 평점이 없습니다."
+
+#: extra-functions.php:2630
+msgid "View"
+msgstr ""
+
+#: extra-functions.php:2676
+msgid "WP Live Chat Support Reporting"
+msgstr "WP Live Chat Support 리포팅"
+
+#: extra-functions.php:2679 includes/wplc_roi.php:130
+msgid "Overview"
+msgstr "요약"
+
+#: extra-functions.php:2680
+msgid "Popular Pages"
+msgstr "인기있는 페이지"
+
+#: extra-functions.php:2698
+msgid "Total Agents"
+msgstr "모든 에이전트"
+
+#: extra-functions.php:2698
+msgid "Total number of agents that used the live chat"
+msgstr "실시간 채팅에서 사용되어지는 모든 에이전트들의 수"
+
+#: extra-functions.php:2699
+msgid "Total Chats"
+msgstr "모든 채팅"
+
+#: extra-functions.php:2699
+msgid "Total number of chats received"
+msgstr "받은 모든 채팅의 수"
+
+#: extra-functions.php:2700
+msgid "Total URLs"
+msgstr "모든 URL"
+
+#: extra-functions.php:2700
+msgid "Total number of URLs a chat was initiated on"
+msgstr "채팅이 시작된 모든 URL의 수"
+
+#: extra-functions.php:2701
+msgid "Chats per day"
+msgstr "일간 채팅"
+
+#: extra-functions.php:2702
+msgid "Popular pages a chat was initiated on"
+msgstr "채팅이 유도된 인기있는 페이지"
+
+#: extra-functions.php:2732 includes/wplc_custom_fields.php:296
+msgid "Unknown"
+msgstr ""
+
+#: extra-functions.php:2778 functions.php:1703 wp-live-chat-support.php:3649
+msgid "URL"
+msgstr "URL"
+
+#: extra-functions.php:2779
+msgid "Count"
+msgstr "갯수"
+
+#: extra-functions.php:2805
+msgid "Disable initiate chat feature:"
+msgstr "채팅 유도 기능을 비허용"
+
+#: extra-functions.php:2805
+msgid ""
+"This will substantially improve performance. If you are experiencing "
+"performance issues on your site, you should disable the initiate chat "
+"feature and only enable it when you need it."
+msgstr ""
+"이것은 잠정적으로 퍼포먼스를 향상시킬 것입니다. 만약 당신이 퍼포먼스 이슈를 "
+"사이트에서 개선중이라면, 당신은 채팅 유도 기능을 비허용해야만 합니다. 당신이 "
+"필요할 때만 이것을 사용하세요."
+
+#: extra-functions.php:2909
+#, fuzzy
+#| msgid "Thank you for your feedback. We will be in touch soon"
+msgid "Thank you for inquiry. We will get back to you shortly"
+msgstr "당신의 피드백에 감사드립니다. 조만간 연락하겟습니다."
+
+#: extra-functions.php:3207
+#, php-format
+msgid ""
+"The Live Chat box is currently disabled on your website due to : <a href=\"%s"
+"\">Business Hours Settings</a>"
+msgstr ""
+
+#: extra-functions.php:3263
+msgid "Edit Profile"
+msgstr ""
+
+#: extra-functions.php:3274 modules/node_server.php:916
+msgid "Drag Files Here"
+msgstr ""
+
+#: extra-functions.php:3300 extra-functions.php:3346
+#: includes/wplc_custom_fields.php:114 includes/wplc_data_triggers.php:453
+#: includes/wplc_data_triggers.php:584 includes/wplc_departments.php:180
+#: includes/wplc_departments.php:457 includes/wplc_roi.php:141
+#: includes/wplc_roi.php:545 modules/webhooks_manager.php:239
+msgid "Delete"
+msgstr "삭제"
+
+#: extra-functions.php:3301
+#, fuzzy
+#| msgid "Send"
+msgid "Send..."
+msgstr "보내기"
+
+#: extra-functions.php:3302 extra-functions.php:3348
+msgid "Play voice note"
+msgstr ""
+
+#: extra-functions.php:3347
+msgid "Save..."
+msgstr ""
+
+#: functions.php:410 functions.php:424
+msgid "Accept Chat"
+msgstr "채팅 수용"
+
+#: functions.php:416 functions.php:429
+msgid "Open Chat"
+msgstr "공개 채팅"
+
+#: functions.php:418
+#, fuzzy
+#| msgid "Chat answered by another agent"
+msgid "In progress with another agent"
+msgstr "또다른 에이전트에 의해서 채팅이 응답됬었습니다."
+
+#: functions.php:432
+msgid "Only chat agents can accept chats"
+msgstr "오직 채팅 에이전트만이 채팅을 받을 수 있습니다."
+
+#: functions.php:483 modules/api/wplc-api-functions.php:579
+#: wp-live-chat-support.php:2613
+msgid "IP Address not recorded"
+msgstr "IP 주소가 기록되지 않았습니다."
+
+#: functions.php:485 wp-live-chat-support.php:2615
+msgid "Whois for"
+msgstr "대상"
+
+#: functions.php:508 modules/api/wplc-api-functions.php:595
+msgid "New"
+msgstr "새"
+
+#: functions.php:510 modules/api/wplc-api-functions.php:597
+msgid "Returning"
+msgstr "반환중"
+
+#: functions.php:631
+msgid "No agent was able to answer your chat request. Please try again."
+msgstr ""
+
+#: functions.php:645
+#, fuzzy
+#| msgid "requesting chat"
+msgid "Request new chat"
+msgstr "채팅을 요청하는 중"
+
+#: functions.php:1113
+msgid "complete"
+msgstr "완료됨"
+
+#: functions.php:1116
+msgid "pending"
+msgstr "중지됨"
+
+#: functions.php:1119
+msgid "active"
+msgstr "활성화"
+
+#: functions.php:1122
+msgid "deleted"
+msgstr "삭제됨"
+
+#: functions.php:1125
+msgid "browsing"
+msgstr "살펴보는 중"
+
+#: functions.php:1128
+msgid "requesting chat"
+msgstr "채팅을 요청하는 중"
+
+#: functions.php:1131
+msgid "Chat Ended - User still browsing"
+msgstr "채팅 종료 - 유저가 여전히 보고있음"
+
+#: functions.php:1134
+msgid "User is browsing but doesn't want to chat"
+msgstr "유저는 계속 보고있지만 채팅하기를 원하지 않습니다."
+
+#: functions.php:1364 includes/settings_page.php:853
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "WP Live Chat Support - 오프라인 메세지"
+
+#: functions.php:1365 functions.php:1701 includes/settings_page.php:167
+#: includes/wplc_custom_fields.php:72 includes/wplc_data_triggers.php:440
+#: includes/wplc_departments.php:171 includes/wplc_roi.php:129
+#: wp-live-chat-support.php:1407 wp-live-chat-support.php:1422
+#: wp-live-chat-support.php:1611 wp-live-chat-support.php:3647
+#: wp-live-chat-support.php:3773
+msgid "Name"
+msgstr "이름"
+
+#: functions.php:1366 functions.php:1702 includes/settings_page.php:163
+#: wp-live-chat-support.php:1408 wp-live-chat-support.php:1416
+#: wp-live-chat-support.php:1612 wp-live-chat-support.php:3648
+#: wp-live-chat-support.php:3774
+msgid "Email"
+msgstr "이메일"
+
+#: functions.php:1367 wp-live-chat-support.php:1613
+#: wp-live-chat-support.php:3775 wp-live-chat-support.php:4534
+#: wp-live-chat-support.php:4592
+msgid "Message"
+msgstr "메세지"
+
+#: functions.php:1368
+msgid "Via WP Live Chat Support"
+msgstr "WP Live Chat Support를 통해"
+
+#: functions.php:1408 wp-live-chat-support.php:373
+#: wp-live-chat-support.php:2983 wp-live-chat-support.php:4711
+msgid ""
+"Please standby for an agent. While you wait for the agent you may type your "
+"message."
+msgstr ""
+
+#: functions.php:1678 wp-live-chat-support.php:3605
+msgid "Error: Could not delete chat"
+msgstr "에러: 채팅을 삭제할 수 없습니다."
+
+#: functions.php:1682 wp-live-chat-support.php:3609
+msgid "Chat Deleted"
+msgstr "채팅 삭제됨"
+
+#: functions.php:1689 wp-live-chat-support.php:3616
+msgid "Are you sure you would like to delete this chat?"
+msgstr "이 채팅을 삭제하기를 원합니까?"
+
+#: functions.php:1690 includes/settings_page.php:145
+#: includes/wplc_custom_fields.php:255 wp-live-chat-support.php:3617
+msgid "Yes"
+msgstr "네"
+
+#: functions.php:1690 includes/settings_page.php:146
+#: includes/wplc_custom_fields.php:255 wp-live-chat-support.php:3617
+msgid "No"
+msgstr "아니오"
+
+#: functions.php:1704 includes/wplc_custom_fields.php:76
+#: includes/wplc_data_triggers.php:445 includes/wplc_departments.php:172
+#: includes/wplc_roi.php:133 modules/webhooks_manager.php:227
+#: wp-live-chat-support.php:2400 wp-live-chat-support.php:3651
+msgid "Action"
+msgstr "액션"
+
+#: functions.php:1720
+msgid "You have not missed any chat requests."
+msgstr "당신은 놓친 채팅 요청이 없습니다."
+
+#: functions.php:1728 wp-live-chat-support.php:3670
+msgid "View Chat History"
+msgstr "채팅 기록 보기"
+
+#: functions.php:1728 wp-live-chat-support.php:3670
+msgid "Download Chat History"
+msgstr "채팅 기록 다운로드"
+
+#: functions.php:1748 wp-live-chat-support.php:3689
+#: wp-live-chat-support.php:3812
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:1749 wp-live-chat-support.php:3690
+#: wp-live-chat-support.php:3813
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:1930
+msgid "Open chat window via"
+msgstr "채팅창 열기 (로부터)"
+
+#: functions.php:1934
+msgid "Click"
+msgstr "클릭"
+
+#: functions.php:1935
+msgid "Hover"
+msgstr "호버"
+
+#: functions.php:1937
+msgid "element with"
+msgstr "엘리먼트 폭"
+
+#: functions.php:1939
+msgid "Class"
+msgstr "클래스"
+
+#: functions.php:1940 includes/wplc_custom_fields.php:71
+#: includes/wplc_data_triggers.php:439 includes/wplc_departments.php:170
+#: includes/wplc_roi.php:128
+msgid "ID"
+msgstr "아이디:"
+
+#: includes/credits.php:2
+msgid ""
+"WP Live Chat Support is supported by an international team of developers."
+msgstr ""
+
+#: includes/credits.php:3
+msgid "Project Leaders"
+msgstr ""
+
+#: includes/credits.php:9
+msgid "Founder"
+msgstr ""
+
+#: includes/credits.php:9 includes/credits.php:14 includes/credits.php:26
+#: includes/credits.php:32 includes/credits.php:38 includes/credits.php:57
+#: includes/credits.php:63
+msgid "Developer"
+msgstr ""
+
+#: includes/credits.php:9 includes/credits.php:14 includes/credits.php:26
+#: includes/credits.php:32 includes/credits.php:38 includes/credits.php:45
+#: includes/credits.php:57 includes/credits.php:63 wp-live-chat-support.php:659
+#: wp-live-chat-support.php:4234
+msgid "Support"
+msgstr "서포트"
+
+#: includes/credits.php:14
+msgid "Project Manager"
+msgstr ""
+
+#: includes/credits.php:17
+#, fuzzy
+#| msgid "Contributor"
+msgid "Contributors"
+msgstr "기여자"
+
+#: includes/credits.php:26 includes/credits.php:32 includes/credits.php:38
+#: includes/credits.php:75
+#, fuzzy
+#| msgid "Settings"
+msgid "Testing"
+msgstr "셋팅"
+
+#: includes/credits.php:51
+#, fuzzy
+#| msgid "Main Settings"
+msgid "Marketing"
+msgstr "메인 셋팅"
+
+#: includes/credits.php:69
+msgid "Marketing &amp; Support"
+msgstr ""
+
+#: includes/credits.php:75 wp-live-chat-support.php:4238
+msgid "Documentation"
+msgstr "문서"
+
+#: includes/credits.php:81
+msgid "InfoSec"
+msgstr ""
+
+#: includes/credits.php:86
+msgid "CSS"
+msgstr ""
+
+#: includes/credits.php:89
+msgid "Want to see your name on this page?"
+msgstr ""
+
+#: includes/credits.php:89
+msgid "Get involved on GitHub."
+msgstr ""
+
+#: includes/credits.php:91 includes/welcome_page.php:101
+msgid "OK! Let's start"
+msgstr ""
+
+#: includes/dashboard_page.php:20
+#, fuzzy
+#| msgid "WP Live Chat Support Pro"
+msgid "WP Live Chat Support Dashboard"
+msgstr "WP Live Support 프로"
+
+#: includes/dashboard_page.php:27
+#, fuzzy, php-format
+#| msgid "Welcome to "
+msgid "Welcome, %s"
+msgstr "환영합니다 "
+
+#: includes/dashboard_page.php:46 wp-live-chat-support.php:3776
+msgid "Actions"
+msgstr "액션"
+
+#: includes/dashboard_page.php:47
+#, fuzzy
+#| msgid "Chat with us"
+msgid "Chat with Visitors"
+msgstr "우리와 채팅하세요."
+
+#: includes/dashboard_page.php:48 wp-live-chat-support.php:642
+msgid "Settings"
+msgstr "셋팅"
+
+#: includes/dashboard_page.php:52
+#, fuzzy
+#| msgid "Active Chats"
+msgid "Active Visitors"
+msgstr "채팅 활성화"
+
+#: includes/dashboard_page.php:54
+#, fuzzy
+#| msgid "Chat Box"
+msgid "Chat now"
+msgstr "채팅 박스"
+
+#: includes/dashboard_page.php:58
+#, fuzzy
+#| msgid "Total Conversions"
+msgid "Conversations"
+msgstr "전체 대화"
+
+#: includes/dashboard_page.php:58
+#, fuzzy
+#| msgid "Last 30 Days"
+msgid "Last 90 days"
+msgstr "최근 30일"
+
+#: includes/documentation_suggestions.php:135
+#: includes/notification_control.php:33 includes/notification_control.php:72
+#: includes/notification_control.php:135 includes/wplc_transfer_chats.php:469
+#: includes/wplc_transfer_chats.php:490 includes/wplc_transfer_chats.php:549
+#: includes/wplc_transfer_chats.php:581
+#: modules/documentation_suggestions.php:395
+#: modules/documentation_suggestions.php:417
+#, fuzzy
+#| msgid "Chat notifications"
+msgid "System notification"
+msgstr "채팅 알림"
+
+#: includes/modal_control.php:24 modules/node_server.php:909
+msgid "Please Confirm"
+msgstr ""
+
+#: includes/modal_control.php:28
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/modal_control.php:36 includes/wplc_data_triggers.php:585
+#: includes/wplc_departments.php:246 includes/wplc_departments.php:458
+#: includes/wplc_roi.php:546 modules/node_server.php:911
+#: modules/webhooks_manager.php:315
+msgid "Cancel"
+msgstr "취소"
+
+#: includes/modal_control.php:37 modules/node_server.php:910
+#: modules/webhooks_manager.php:314
+msgid "Confirm"
+msgstr ""
+
+#: includes/notification_control.php:26
+#, php-format
+msgid "User is browsing <small><a href='%s' target='_BLANK'>%s</a></small>"
+msgstr ""
+
+#: includes/notification_control.php:130
+#, fuzzy
+#| msgid "User has opened the chat window"
+msgid "has joined the chat."
+msgstr "사용자가 채팅창을 열었습니다."
+
+#: includes/settings_page.php:64
+msgid "WP Live Chat Support Settings"
+msgstr "WP Live Chat Support 셋팅"
+
+#: includes/settings_page.php:101 includes/settings_page.php:139
+msgid "General Settings"
+msgstr "일반 셋팅"
+
+#: includes/settings_page.php:106
+msgid "Chat Box"
+msgstr "채팅 박스"
+
+#: includes/settings_page.php:111 includes/settings_page.php:781
+#: modules/advanced_tools.php:75 wp-live-chat-support.php:654
+msgid "Offline Messages"
+msgstr "오프라인 메세지"
+
+#: includes/settings_page.php:116 includes/settings_page.php:1012
+msgid "Styling"
+msgstr "스타일링"
+
+#: includes/settings_page.php:121 modules/node_server.php:915
+msgid "Agents"
+msgstr "에이전트"
+
+#: includes/settings_page.php:126
+msgid "Blocked Visitors"
+msgstr "차단된 방문자"
+
+#: includes/settings_page.php:142
+msgid "Chat enabled"
+msgstr "허용된 채팅"
+
+#: includes/settings_page.php:154
+#, fuzzy
+#| msgid "Offline Chat Box Title"
+msgid "Required Chat Box Fields"
+msgstr "오프라인 채팅박스 제목"
+
+#: includes/settings_page.php:154
+msgid "Set default fields that will be displayed when users starting a chat"
+msgstr ""
+
+#: includes/settings_page.php:159
+#, fuzzy
+#| msgid "Require Name And Email"
+msgid "Name and email"
+msgstr "이름과 이메일을 요구합니다."
+
+#: includes/settings_page.php:171
+msgid "No fields"
+msgstr ""
+
+#: includes/settings_page.php:177
+msgid "Default visitor name"
+msgstr ""
+
+#: includes/settings_page.php:177
+msgid "This name will be displayed for all not logged in visitors"
+msgstr ""
+
+#: includes/settings_page.php:185
+msgid "Input Field Replacement Text"
+msgstr "대체 문구를 넣으세요."
+
+#: includes/settings_page.php:185
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "이름과 이메일 필드 대신에 대체되어 보여질 것인 텍스트입니다."
+
+#: includes/settings_page.php:193
+msgid "Use Logged In User Details"
+msgstr "로그인된 사용자에 대한 세부사항"
+
+#: includes/settings_page.php:193
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"로그인 되어졌다면, 사용자의 이름과 이메일 주소는 기본적으로 사용되어질 것입니"
+"다."
+
+#: includes/settings_page.php:201
+msgid "Enable On Mobile Devices"
+msgstr "모바일 기기 허용"
+
+#: includes/settings_page.php:201
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"이것을 비허용 하는 것은, 채팅박스가 모바일 기기에서 보이지 않을 것을 의미합니"
+"다. (스마트폰과 태블릿)"
+
+#: includes/settings_page.php:211
+#, fuzzy
+#| msgid "Play a sound when a new message is received"
+msgid "Play a sound when there is a new visitor"
+msgstr "새로운 메세지가 도착했을때, 사운드를 재생합니다."
+
+#: includes/settings_page.php:211
+#, fuzzy
+#| msgid ""
+#| "Disable this to mute the sound that is played when a new chat message is "
+#| "received"
+msgid ""
+"Disable this to mute the sound that is played when a new visitor arrives"
+msgstr ""
+"새로운 메세지가 도착했을때 사운드가 재생되는것을 뮤트하기 위해서는 이것을 비"
+"허용하세요."
+
+#: includes/settings_page.php:220
+msgid "Play a sound when a new message is received"
+msgstr "새로운 메세지가 도착했을때, 사운드를 재생합니다."
+
+#: includes/settings_page.php:220
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr ""
+"새로운 메세지가 도착했을때 사운드가 재생되는것을 뮤트하기 위해서는 이것을 비"
+"허용하세요."
+
+#: includes/settings_page.php:229
+msgid "Enable Font Awesome set"
+msgstr ""
+
+#: includes/settings_page.php:229
+msgid "Disable this if you have Font Awesome set included with your theme"
+msgstr ""
+
+#: includes/settings_page.php:237
+msgid "Enable chat dashboard and notifications on all admin pages"
+msgstr ""
+
+#: includes/settings_page.php:237
+msgid "This will load the chat dashboard on every admin page."
+msgstr ""
+
+#: includes/settings_page.php:248
+msgid "Choose when I want to be online"
+msgstr "내가 온라인이 되었을때 선택하기"
+
+#: includes/settings_page.php:248
+msgid ""
+"Checking this will allow you to change your status to Online or Offline on "
+"the Live Chat page."
+msgstr ""
+"이것을 체크하는것은 Live Chat 페이지에서 당신이 온라인 혹은 오프라인 상태를 "
+"바꿀수 있게 허용할 것입니다."
+
+#: includes/settings_page.php:260
+msgid "Exclude chat from 'Home' page:"
+msgstr "'메인' 페이지로부터 채팅을 제외:  "
+
+#: includes/settings_page.php:260
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your home "
+"page."
+msgstr ""
+"이것을 체크되지 않는 상태로 놔두는 것은 당신의 홈페이지에서 채팅창을 보여주"
+"게 할 것입니다."
+
+#: includes/settings_page.php:268
+msgid "Exclude chat from 'Archive' pages:"
+msgstr "'Archive' 페이지로부터 채팅 제외:"
+
+#: includes/settings_page.php:268
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your archive "
+"pages."
+msgstr ""
+"이것을 체크하지 않는것은 당신의 아카이브 페이지들로부터 채팅창을 보여주게 할 "
+"것입니다."
+
+#: includes/settings_page.php:276
+msgid "Include chat window on the following pages:"
+msgstr "뒤따르는 페이지에서 채팅창을 포함:"
+
+#: includes/settings_page.php:276
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+"뒤따르는 페이지에서 채팅창을 보여줍니다. 전부 보여주려면 공백으로 유지하세"
+"요. (페이지 아이디들을 콤마로 구분하여 사용)"
+
+#: includes/settings_page.php:284
+msgid "Exclude chat window on the following pages:"
+msgstr "뒤따르는 페이지에서 채팅창을 배척:"
+
+#: includes/settings_page.php:284
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"뒤따르는 페이지에서 채팅창을 보여주지 않습니다. 모든 페이지에서 보여주려면 공"
+"백으로 유지하세요. (콤마로 분리된 페이지 아이디들을 사용)"
+
+#: includes/settings_page.php:292
+#, fuzzy
+#| msgid "Exclude chat window on the following pages"
+msgid "Exclude chat window on selected post types"
+msgstr "뒤따르는 페이지에서 채팅창을 제외합니다."
+
+#: includes/settings_page.php:292
+#, fuzzy
+#| msgid "Include chat window on the following pages"
+msgid "Do not show the chat window on the following post types pages."
+msgstr "따르는 페이지에서 채팅창을 포함합니다."
+
+#: includes/settings_page.php:312
+#, fuzzy
+#| msgid "No secret token found"
+msgid "No post types found."
+msgstr "비밀 토큰을 찾을 수 없습니다."
+
+#: includes/settings_page.php:318
+msgid "Allow any user to make themselves a chat agent"
+msgstr "어떤 유저라도 그들자신을 채팅 에이전트로 만드는것을 허용"
+
+#: includes/settings_page.php:318
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+"그들의 프로필을 수정할때, 어떤 당신의 사용자라도 그들자신을 채팅 에이전트로 "
+"만든는 것을 허용시키려면 이것을 체크하세요."
+
+#: includes/settings_page.php:333
+msgid "Order by"
+msgstr ""
+
+#: includes/settings_page.php:339
+msgid "Number"
+msgstr ""
+
+#: includes/settings_page.php:349
+#, fuzzy
+#| msgid "pending"
+msgid "Descending"
+msgstr "중지됨"
+
+#: includes/settings_page.php:350
+#, fuzzy
+#| msgid "pending"
+msgid "Ascending"
+msgstr "중지됨"
+
+#: includes/settings_page.php:361
+msgid "Enable Voice Notes on admin side"
+msgstr ""
+
+#: includes/settings_page.php:363
+msgid ""
+"Enabling this will allow you to record the voice during the chat and send it "
+"to visitor once you hold on CTRL + SPACEBAR in main chat window"
+msgstr ""
+
+#: includes/settings_page.php:374
+msgid "Enable Voice Notes on visitor side"
+msgstr ""
+
+#: includes/settings_page.php:376
+msgid ""
+"Enabling this will allow the visitors to record the voice during the chat "
+"and send it to agent once they hold on CTRL + SPACEBAR"
+msgstr ""
+
+#: includes/settings_page.php:392
+msgid "Chat Window Settings"
+msgstr "채팅창 설정"
+
+#: includes/settings_page.php:395
+msgid "Chat box alignment"
+msgstr "채팅 박스 정렬"
+
+#: includes/settings_page.php:398
+msgid "Bottom left"
+msgstr "하단 좌측"
+
+#: includes/settings_page.php:399
+msgid "Bottom right"
+msgstr "하단 우측"
+
+#: includes/settings_page.php:400
+msgid "Left"
+msgstr "좌측"
+
+#: includes/settings_page.php:401
+msgid "Right"
+msgstr "우측"
+
+#: includes/settings_page.php:407
+msgid "Auto Pop-up"
+msgstr "자동 팝업"
+
+#: includes/settings_page.php:407
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"채팅 박스를 자동적으로 확장합니다. (사용자가 이름과 이메일 주소를 쓰도록 촉"
+"구)"
+
+#: includes/settings_page.php:416
+#, fuzzy
+#| msgid "Display name and avatar in chat"
+msgid "Display details in chat message"
+msgstr "채팅에서 이름과 아바타를 보여줌"
+
+#: includes/settings_page.php:420
+#, fuzzy
+#| msgid "Goal Name"
+msgid "Show Name"
+msgstr "목표명"
+
+#: includes/settings_page.php:422
+#, fuzzy
+#| msgid "Show After"
+msgid "Show Avatar"
+msgstr "이후에 보여주기"
+
+#: includes/settings_page.php:427
+msgid "Only show the chat window to users that are logged in"
+msgstr "사용자가 로그인 되어졌을때만 채팅창을 보여줍니다."
+
+#: includes/settings_page.php:427
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr "이것을 체크함에 의해서, 로그인된 사용자는 당신과 채팅하게 될 것입니다."
+
+#: includes/settings_page.php:439
+#, fuzzy
+#| msgid "User has maximized the chat window"
+msgid "Display a timestamp in the chat window"
+msgstr "사용자가 채팅창을 최대화했습니다."
+
+#: includes/settings_page.php:443
+#, fuzzy
+#| msgid "Show After"
+msgid "Show Date"
+msgstr "이후에 보여주기"
+
+#: includes/settings_page.php:445
+#, fuzzy
+#| msgid "Show After"
+msgid "Show Time"
+msgstr "이후에 보여주기"
+
+#: includes/settings_page.php:450
+msgid "Redirect user to thank you page when chat is ended"
+msgstr ""
+
+#: includes/settings_page.php:450
+msgid ""
+"By checking this, users will be redirected to your thank you page when a "
+"chat is completed."
+msgstr ""
+
+#: includes/settings_page.php:454
+msgid "Thank You Page URL"
+msgstr ""
+
+#: includes/settings_page.php:464
+msgid "Disable Emojis"
+msgstr ""
+
+#: includes/settings_page.php:486
+msgid "Display typing indicator"
+msgstr "타이핑 지시자를 보여줍니다."
+
+#: includes/settings_page.php:486
+msgid ""
+"Display the \"typing...\" animation in the chat window as soon as an agent "
+"or visitor is typing."
+msgstr ""
+"에이전트 혹은 방문자가 타이핑하자마자 \"typing...\"  애니메이션을 보여줍니다."
+
+#: includes/settings_page.php:492
+msgid ""
+"For non-cloud server users, please note that this will increase the amount "
+"of server resources required."
+msgstr ""
+"비 클라우드 서버사용자를 위해서, 필요한 서버의 자원이 증설될 것임을 알아주기"
+"를 부탁드립니다."
+
+#: includes/settings_page.php:501
+msgid "Name "
+msgstr "이름"
+
+#: includes/settings_page.php:509
+msgid "Use WordPress name instead"
+msgstr "워드프레스 이름을 대신 사용"
+
+#: includes/settings_page.php:512
+msgid "Note: 'Name' field will be ignored"
+msgstr "알림: \"이름\" 필드가 무시되어질 것입니다."
+
+#: includes/settings_page.php:530
+msgid "Incoming chat ring tone"
+msgstr "대기중인 통화 연결음"
+
+#: includes/settings_page.php:535 includes/settings_page.php:596
+msgid "Default"
+msgstr "기본"
+
+#: includes/settings_page.php:591
+#, fuzzy
+#| msgid "Incoming chat ring tone"
+msgid "Incoming message tone"
+msgstr "대기중인 통화 연결음"
+
+#: includes/settings_page.php:636
+msgid "Icon"
+msgstr ""
+
+#: includes/settings_page.php:644
+#, fuzzy
+#| msgid "Upload Logo"
+msgid "Upload Icon"
+msgstr "로고 업로드"
+
+#: includes/settings_page.php:645 includes/settings_page.php:651
+#, fuzzy
+#| msgid "Select a survey"
+msgid "Select Default Icon"
+msgstr "설문조사 선택"
+
+#: includes/settings_page.php:647
+#, fuzzy
+#| msgid "Remove Logo"
+msgid "Remove Icon"
+msgstr "로고 삭제"
+
+#: includes/settings_page.php:648
+#, fuzzy
+#| msgid "Recomended Size 250px x 40px"
+msgid "Recomended Size 50px x 50px"
+msgstr "250px x 40px 의 사이즈를 추천합니다."
+
+#: includes/settings_page.php:687
+msgid "Picture"
+msgstr "사진"
+
+#: includes/settings_page.php:695
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: includes/settings_page.php:697
+msgid "Remove Image"
+msgstr "이미지 삭제"
+
+#: includes/settings_page.php:698
+msgid "Recomended Size 60px x 60px"
+msgstr "60px x 60px 의 사이즈를 추천합니다."
+
+#: includes/settings_page.php:705
+msgid "Logo"
+msgstr "로고"
+
+#: includes/settings_page.php:713
+msgid "Upload Logo"
+msgstr "로고 업로드"
+
+#: includes/settings_page.php:715
+msgid "Remove Logo"
+msgstr "로고 삭제"
+
+#: includes/settings_page.php:716
+msgid "Recomended Size 250px x 40px"
+msgstr "250px x 40px 의 사이즈를 추천합니다."
+
+#: includes/settings_page.php:722
+msgid "Chat delay (seconds)"
+msgstr "채팅 지연 ( 몇초가 지연됨 )"
+
+#: includes/settings_page.php:722
+msgid "How long it takes for your chat window to pop up"
+msgstr "당신의 채팅창이 팝업되는것에 대해서 얼마나 오래 걸렸는지."
+
+#: includes/settings_page.php:731
+msgid "Chat notifications"
+msgstr "채팅 알림"
+
+#: includes/settings_page.php:731
+msgid "Alert me via email as soon as someone wants to chat (while online only)"
+msgstr ""
+"누군가가 채팅을 원하자마자 이메일을 통해서 나에게 알림 (온라인일 동안만)"
+
+#: includes/settings_page.php:740
+msgid "User Experience"
+msgstr "사용자 경험"
+
+#: includes/settings_page.php:745
+msgid "Enable Text Editor"
+msgstr "텍스트 에디터 허용"
+
+#: includes/settings_page.php:745
+msgid ""
+"Adds advanced text editor features, such as links, text styling, and more!"
+msgstr ""
+"링크, 텍스트 스타일링 이외에도 많은 텍스트 에디터들의 특징을 추가하세요!"
+
+#: includes/settings_page.php:749
+msgid "Enable File Sharing"
+msgstr "파일 공유 허가"
+
+#: includes/settings_page.php:749
+msgid "Adds file sharing to your chat box!"
+msgstr "당신의 채팅 박스에 파일 공유를 추가합니다!"
+
+#: includes/settings_page.php:753
+msgid "Enable Experience Ratings"
+msgstr "경험 평가를 허용"
+
+#: includes/settings_page.php:753
+msgid "Allows users to rate the chat experience with an agent."
+msgstr "유저가 에이전트와의 경험을 평가하기 위해서 허용"
+
+#: includes/settings_page.php:759 includes/settings_page.php:1127
+msgid "Social"
+msgstr "소셜"
+
+#: includes/settings_page.php:765 includes/wplc_agent_data.php:50
+msgid "Facebook URL"
+msgstr "페이스북 URL"
+
+#: includes/settings_page.php:765
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr ""
+"당신의 페이스북 페이지를 이곳에 연결하세요. 숨기기 위해서는 블랭크를 유지하세"
+"요."
+
+#: includes/settings_page.php:766
+msgid "Facebook URL..."
+msgstr "페이스북 URL..."
+
+#: includes/settings_page.php:769 includes/wplc_agent_data.php:42
+msgid "Twitter URL"
+msgstr "트위터 URL..."
+
+#: includes/settings_page.php:769
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr ""
+"당신의 트위터 페이지를 이곳에 연결하세요. 숨기기 위해서는 공백으로 유지하세"
+"요."
+
+#: includes/settings_page.php:770
+msgid "Twitter URL..."
+msgstr "트위터 URL..."
+
+#: includes/settings_page.php:785
+msgid "Do not allow users to send offline messages"
+msgstr "사용자가 오프라인 메세지를 보내는 것을 허용하지 않습니다."
+
+#: includes/settings_page.php:785
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"오프라인 일때, 채팅창이 숨겨질 것입니다. 사용자는 당신에게 오프라인 메세지를 "
+"보낼 수 없을 것입니다."
+
+#: includes/settings_page.php:796
+msgid "Offline Chat Box Title"
+msgstr "오프라인 채팅박스 제목"
+
+#: includes/settings_page.php:804
+msgid "Offline Text Fields"
+msgstr "오프라인 텍스트 필드"
+
+#: includes/settings_page.php:814
+#, fuzzy
+#| msgid "Offline Chat Box Title"
+msgid "Offline Button Text"
+msgstr "오프라인 채팅박스 제목"
+
+#: includes/settings_page.php:820
+#, fuzzy
+#| msgid "Offline Chat Box Title"
+msgid "Offline Send Button Text"
+msgstr "오프라인 채팅박스 제목"
+
+#: includes/settings_page.php:826
+msgid "Custom fields"
+msgstr ""
+
+#: includes/settings_page.php:834
+#, fuzzy
+#| msgid "Main Settings"
+msgid "Email settings"
+msgstr "메인 셋팅"
+
+#: includes/settings_page.php:840
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: includes/settings_page.php:840
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+"오프라인 메세지가 전달될 이메일 주소입니다. 하나의 이메일 주소보다 더 많은 이"
+"메일 주소에 보내려면, 콤마로 구분된 이메일 주소를 사용하세요."
+
+#: includes/settings_page.php:850
+msgid "Subject"
+msgstr ""
+
+#: includes/settings_page.php:850
+msgid "User name will be appended to the end of the subject."
+msgstr ""
+
+#: includes/settings_page.php:861
+msgid "Sending Method"
+msgstr "전송 방식"
+
+#: includes/settings_page.php:862
+msgid "WP Mail"
+msgstr "WP 메일"
+
+#: includes/settings_page.php:863
+msgid "PHP Mailer"
+msgstr "PHP 메일러"
+
+#: includes/settings_page.php:879
+msgid "Host"
+msgstr "호스트"
+
+#: includes/settings_page.php:887
+msgid "Port"
+msgstr "포트"
+
+#: includes/settings_page.php:895
+msgid "Username"
+msgstr "사용자명"
+
+#: includes/settings_page.php:903
+msgid "Password"
+msgstr "비밀번호"
+
+#: includes/settings_page.php:913
+msgid "Enable an Auto Responder"
+msgstr ""
+
+#: includes/settings_page.php:913
+msgid "Send your visitors an email as soon as they send you an offline message"
+msgstr ""
+
+#: includes/settings_page.php:919
+msgid "Auto Responder 'From' Name"
+msgstr ""
+
+#: includes/settings_page.php:925
+msgid "Auto Responder 'From' Email Address"
+msgstr ""
+
+#: includes/settings_page.php:931
+msgid "Auto Responder Subject Line"
+msgstr ""
+
+#: includes/settings_page.php:937
+#, fuzzy
+#| msgid "API Response Codes"
+msgid "Auto Responder Body"
+msgstr "API 응답 코드"
+
+#: includes/settings_page.php:940
+msgid "HTML and the following shortcodes can be used"
+msgstr ""
+
+#: includes/settings_page.php:940
+#, fuzzy
+#| msgid "Username"
+msgid "User's name"
+msgstr "사용자명"
+
+#: includes/settings_page.php:940
+#, fuzzy
+#| msgid "Email Address"
+msgid "User's email address"
+msgstr "이메일 주소"
+
+#: includes/settings_page.php:1017
+msgid "Choose a theme"
+msgstr "테마를 서낵하세요."
+
+#: includes/settings_page.php:1022 includes/settings_page.php:1023
+msgid "Classic"
+msgstr "클래식"
+
+#: includes/settings_page.php:1026 includes/settings_page.php:1027
+msgid "Modern"
+msgstr "모던"
+
+#: includes/settings_page.php:1043
+#, fuzzy
+#| msgid "Colour Scheme"
+msgid "Color Scheme"
+msgstr "컬러 스킴"
+
+#: includes/settings_page.php:1098
+msgid "Choose"
+msgstr "선택"
+
+#: includes/settings_page.php:1099
+msgid "Your"
+msgstr "당신"
+
+#: includes/settings_page.php:1100
+msgid "Colors"
+msgstr "다양한 컬러"
+
+#: includes/settings_page.php:1101
+msgid "Below"
+msgstr "아래에"
+
+#: includes/settings_page.php:1120
+#, fuzzy
+#| msgid "Chat Dashboard"
+msgid "Chat background"
+msgstr "채팅 대쉬보드"
+
+#: includes/settings_page.php:1124
+msgid "Cloudy"
+msgstr ""
+
+#: includes/settings_page.php:1125
+msgid "Geometry"
+msgstr ""
+
+#: includes/settings_page.php:1126
+msgid "Tech"
+msgstr ""
+
+#: includes/settings_page.php:1128 includes/wplc_roi.php:147
+#: modules/node_server.php:970
+msgid "None"
+msgstr "없음"
+
+#: includes/settings_page.php:1133
+msgid "Palette Color 1"
+msgstr "팔레트 컬러 1"
+
+#: includes/settings_page.php:1139
+msgid "Palette Color 2"
+msgstr "팔레트 컬러 2"
+
+#: includes/settings_page.php:1145
+msgid "Palette Color 3"
+msgstr "팔레트 컬러 3"
+
+#: includes/settings_page.php:1151
+msgid "Palette Color 4"
+msgstr "팔레트 컬러 4"
+
+#: includes/settings_page.php:1158
+msgid "I'm using a localization plugin"
+msgstr "나는 개인적인 플러그인을 사용중입니다."
+
+#: includes/settings_page.php:1161
+#, php-format
+msgid ""
+"Enable this if you are using a localization plugin. Should you wish to "
+"change the below strings with this option enabled, please visit the "
+"documentation %s"
+msgstr ""
+
+#: includes/settings_page.php:1161 modules/node_server.php:577
+msgid "here"
+msgstr "이곳"
+
+#: includes/settings_page.php:1167
+msgid "First Section Text"
+msgstr "첫번째 영역 텍스트"
+
+#: includes/settings_page.php:1174
+msgid "Intro Text"
+msgstr "인사말"
+
+#: includes/settings_page.php:1180
+msgid "Second Section Text"
+msgstr "두번째 영역 텍스트"
+
+#: includes/settings_page.php:1187
+msgid "Reactivate Chat Section Text"
+msgstr "재활성화된 채팅 영역 텍스트"
+
+#: includes/settings_page.php:1195
+#, fuzzy
+#| msgid "Delete Message"
+msgid "Welcome message"
+msgstr "메세지 삭제"
+
+#: includes/settings_page.php:1197
+msgid ""
+"This text is shown as soon as a user starts a chat and waits for an agent to "
+"join"
+msgstr ""
+
+#: includes/settings_page.php:1201
+msgid "No answer"
+msgstr ""
+
+#: includes/settings_page.php:1203 wp-live-chat-support.php:4101
+#, fuzzy
+#| msgid "There is No Answer. Please Try Again Later"
+msgid "There is No Answer. Please Try Again Later."
+msgstr "응답이 없습니다. 나중에 다시 시도해주세요."
+
+#: includes/settings_page.php:1203
+#, fuzzy
+#| msgid "This text is shown above the user chat input field"
+msgid ""
+"This text is shown to the user when an agent has failed to answer a chat "
+msgstr "이 텍스트는 사용자의 채팅 입력 필드에 보여질 것입니다."
+
+#: includes/settings_page.php:1207
+msgid "Other text"
+msgstr "다른 텍스트"
+
+#: includes/settings_page.php:1210 wp-live-chat-support.php:947
+#: wp-live-chat-support.php:2980
+#, fuzzy
+#| msgid "The chat has been ended"
+msgid "The chat has been ended by the operator."
+msgstr "해당 채팅이 종료되었습니다."
+
+#: includes/settings_page.php:1215
+msgid "Choose an animation"
+msgstr "애니메이션 선택"
+
+#: includes/settings_page.php:1223
+msgid "Slide Up"
+msgstr "슬라이드 업"
+
+#: includes/settings_page.php:1229
+msgid "Slide From The Side"
+msgstr "슬라이드로부터 슬라이드"
+
+#: includes/settings_page.php:1235
+msgid "Fade In"
+msgstr "페이드 인"
+
+#: includes/settings_page.php:1241
+msgid "No Animation"
+msgstr "애니메이션 없음"
+
+#: includes/settings_page.php:1259
+msgid "Auto First Response Message"
+msgstr ""
+
+#: includes/settings_page.php:1262
+msgid ""
+"This message will be sent automatically after the first message is sent from "
+"the user side. Leave empty to disable."
+msgstr ""
+
+#: includes/settings_page.php:1277
+msgid "Current Users that are Chat Agents"
+msgstr "채팅 에이전트인 현재 사용자들"
+
+#: includes/settings_page.php:1307
+msgid "Add New Agent"
+msgstr "새 에이전트 추가"
+
+#: includes/settings_page.php:1315
+msgid "Administrator"
+msgstr "관리자"
+
+#: includes/settings_page.php:1321
+msgid "Editor"
+msgstr "에디터"
+
+#: includes/settings_page.php:1331
+msgid "Add Agent"
+msgstr "에이전트 추가"
+
+#: includes/settings_page.php:1337
+msgid ""
+"Should you wish to add a user that has a role less than 'Author', please go "
+"to the <a href='./users.php'>Users</a> page, select the relevant user, click "
+"Edit and scroll to the bottom of the page and enable the 'Chat Agent' "
+"checkbox."
+msgstr ""
+"'글 작성자보다' 못한 역할을 가진 유저에게 추가하기를 원한다면, <a href='./"
+"users.php'>사용자</a> 페이지를 방문하시고, 관련된 사용자를 선택하시고, 수정"
+"을 선택하고 페이지의 하단까지 스크롤하시고 '채팅 에이전트' 체크박스를 허용하"
+"세요."
+
+#: includes/settings_page.php:1338
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr ""
+"온라인에 채팅 에이전트가 없다면, 채팅은 오프라인으로써 보여질 것입니다."
+
+#: includes/settings_page.php:1343
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "차단된 방문자 - IP 주소에 기반"
+
+#: includes/settings_page.php:1347
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "차단하기를 원하는 각각의 IP 주소를 개행과 함께 입력하세요."
+
+#: includes/settings_page.php:1358
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"이곳에서 사용자의 IP 주소를 차단하는 것은, 당신과 채팅하는것을 방지해야하기 "
+"때문에 그들로부터 채팅창을 숨길 것입니다. 각각의 IP 주소는 반드시 다른행에 기"
+"록되어져야만 합니다."
+
+#: includes/settings_page.php:1374
+msgid "Enable Business Hours"
+msgstr ""
+
+#: includes/settings_page.php:1380
+#, fuzzy
+#| msgid "Display survey"
+msgid "Display Interval"
+msgstr "설문조사 노출"
+
+#: includes/settings_page.php:1384
+msgid "Daily"
+msgstr ""
+
+#: includes/settings_page.php:1385
+msgid "Week Days"
+msgstr ""
+
+#: includes/settings_page.php:1386
+msgid "Weekends"
+msgstr ""
+
+#: includes/settings_page.php:1401
+msgid " Between "
+msgstr ""
+
+#: includes/settings_page.php:1418
+msgid " and "
+msgstr ""
+
+#: includes/settings_page.php:1441
+msgid "Current Site Time"
+msgstr ""
+
+#: includes/settings_page.php:1454
+msgid "Chat Encryption"
+msgstr "채팅 암호화"
+
+#: includes/settings_page.php:1457
+msgid "Enable Encryption"
+msgstr "암호화 허용"
+
+#: includes/settings_page.php:1457
+msgid ""
+"All messages will be encrypted when being sent to and from the user and "
+"agent."
+msgstr ""
+"유저와 에이전트로부터 메세지가 보내질때에, 모든 메세지는 암호화 되어질 것입니"
+"다."
+
+#: includes/settings_page.php:1466
+#, fuzzy
+#| msgid ""
+#| "Please note: Chat messages will only be encrypted and decreypted if you "
+#| "have inserted your WP Live Chat Support Pro API Key on the <a href="
+#| "\"admin.php?page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgid ""
+"Please note: Chat messages will only be encrypted and decrypted if you have "
+"inserted your WP Live Chat Support API Key on the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgstr ""
+"알림: 만약 당신이 WP Live Chat Support 프로 APK 키를 <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API 키 페이지</a>에 입력해뒀다면, 채팅 "
+"메세지들은 암호화될것이며 복호화될 것입니다."
+
+#: includes/settings_page.php:1467
+msgid ""
+"Once enabled, all messages sent will be encrypted. This cannot be undone."
+msgstr ""
+"한번 허용한다면, 보내진 모든 메세지는 암호화 될 것입니다. 암호화된 메세지는 "
+"되돌려질 수 없습니다."
+
+#: includes/settings_page.php:1477
+msgid "Save Settings"
+msgstr "셋팅 저장하기"
+
+#: includes/surveys.php:8 includes/surveys.php:20 includes/surveys.php:338
+msgid "Surveys & Lead Forms"
+msgstr ""
+
+#: includes/surveys.php:23
+#, fuzzy
+#| msgid "Enable Surveys"
+msgid "Enable Surveys & Lead Forms"
+msgstr "설문조사 허용"
+
+#: includes/surveys.php:23
+#, fuzzy
+#| msgid ""
+#| "Enable surveys within your live chat box, either before or after a live "
+#| "chat session."
+msgid ""
+"Enable surveys and lead forms within your live chat box, either before or "
+"after a live chat session."
+msgstr ""
+"실시간 채팅 세션 이후 혹은 이전에, 실시간 채팅박스 안에서 설문조사를 허용합니"
+"다."
+
+#: includes/surveys.php:29
+msgid ""
+"Choosing a survey will reset the lead form selection: the items are "
+"alternatives, if you select a survey no lead form can be selected."
+msgstr ""
+
+#: includes/surveys.php:32
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+"생성된 설문조사가 없습니다. <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">에서 설문조사를 생성하시고 이 페이지를 새로고침하세요.</a>"
+
+#: includes/surveys.php:39
+msgid "Select a survey"
+msgstr "설문조사 선택"
+
+#: includes/surveys.php:65
+msgid ""
+"Choosing a lead form will reset the survey selection: the items are "
+"alternatives, if you select a lead form no survey can be selected."
+msgstr ""
+
+#: includes/surveys.php:68
+#, fuzzy, php-format
+#| msgid ""
+#| "No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+#| "\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgid ""
+"No lead forms created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a lead form and then refresh this page.</a>"
+msgstr ""
+"생성된 설문조사가 없습니다. <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">에서 설문조사를 생성하시고 이 페이지를 새로고침하세요.</a>"
+
+#: includes/surveys.php:75
+#, fuzzy
+#| msgid "Select a survey"
+msgid "Select a lead form"
+msgstr "설문조사 선택"
+
+#: includes/surveys.php:97
+#, fuzzy
+#| msgid "Display survey"
+msgid "Display survey/form"
+msgstr "설문조사 노출"
+
+#: includes/surveys.php:100
+msgid "Before chat"
+msgstr "채팅전"
+
+#: includes/surveys.php:101
+msgid "After chat"
+msgstr "채팅후"
+
+#: includes/surveys.php:106
+msgid "Chat button text"
+msgstr "채팅 버튼 텍스트"
+
+#: includes/surveys.php:112
+msgid "Change title of chat box when chat ended to"
+msgstr "채팅이 끝났을때, 채팅 박스의 타이틀을 변경합니다."
+
+#: includes/surveys.php:294 wp-live-chat-support.php:368
+#: wp-live-chat-support.php:2968 wp-live-chat-support.php:4706
+msgid "Or chat to an agent now"
+msgstr "혹은 채팅 에이전트와 지금당장 채팅하세요."
+
+#: includes/surveys.php:299 wp-live-chat-support.php:362
+#: wp-live-chat-support.php:2977 wp-live-chat-support.php:4700
+msgid "Leave a message"
+msgstr "메세지를 남깁니다."
+
+#: includes/surveys.php:333
+#, fuzzy
+#| msgid "WP Live Chat Surveys with Nimble Squirrel"
+msgid "WP Live Chat Surveys & Lead Forms with Nimble Squirrel"
+msgstr "칠갑산 다람쥐와 함께하는 WP Live Chat 설문조사 "
+
+#: includes/surveys.php:339
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+"당신의 응답을 보기위해서는, 아래의 버튼을 클릭하시고 당신의 칠갑산다람쥐 계정"
+"에 로그인하세요."
+
+#: includes/surveys.php:351
+#, fuzzy, php-format
+#| msgid ""
+#| "Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+#| "\">NimbleSquirrel</a> (It's free.)"
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (It's free)"
+msgstr ""
+"a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel\">칠갑산다람쥐</a> 에 "
+"가입 (이것은 무료입니다.)"
+
+#: includes/surveys.php:354
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a survey</"
+"a>."
+msgstr ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">설문조사 생성</a>."
+
+#: includes/surveys.php:361
+msgid "Add a Survey to your live chat box"
+msgstr "당신의 실시간 채팅박스에 설문조사를 추가"
+
+#: includes/surveys.php:362
+msgid "Three simple steps:"
+msgstr "간단한 세가지 단계:"
+
+#: includes/surveys.php:366
+#, fuzzy
+#| msgid ""
+#| "Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+#| "settings'>settings page</a>."
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings#tabs-survey'>settings page</a>."
+msgstr ""
+"<a href='admin.php?page=wplivechat-menu-settings'>설정 페이지</a>. 에서 당신"
+"의 실시간 채팅 설문조사를 허용하세요."
+
+#: includes/update_control.class.php:84
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"API 요청중 예상하지 못한 HTTP 에러가 발생하였습니다.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">다시 </a>"
+
+#: includes/update_control.class.php:89
+msgid "An unknown error occurred"
+msgstr "알수없는 에러가 발생했습니다."
+
+#: includes/welcome_page.php:4
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "Welcome to WP Live Chat Support v8"
+msgstr "WP Live Chat Support"
+
+#: includes/welcome_page.php:6
+msgid ""
+"WP Live Chat Support is the most cost effective, feature rich, amazingly "
+"supported and most positively reviewed live chat plugin on WordPress!"
+msgstr ""
+
+#: includes/welcome_page.php:8
+#, fuzzy
+#| msgid "You are not accepting chats"
+msgid "Skip intro and start accepting chats"
+msgstr "당신은 채팅들을 받을수 없는 중입니다."
+
+#: includes/welcome_page.php:28
+#, fuzzy
+#| msgid "Welcome to "
+msgid "Welcome"
+msgstr "환영합니다 "
+
+#: includes/welcome_page.php:29
+msgid "Credits"
+msgstr ""
+
+#: includes/welcome_page.php:37
+#, fuzzy
+#| msgid "Dedicated server"
+msgid "Incredibly fast server"
+msgstr "독립된 서버"
+
+#: includes/welcome_page.php:39
+msgid "Use our server to handle the load and save 1000%+ on server resources!"
+msgstr ""
+
+#: includes/welcome_page.php:42
+#, fuzzy
+#| msgid "Chat Dashboard"
+msgid "New Dashboard"
+msgstr "채팅 대쉬보드"
+
+#: includes/welcome_page.php:43
+msgid "Handle all your chats in one area, on any admin page."
+msgstr ""
+
+#: includes/welcome_page.php:46
+msgid "Emojis!"
+msgstr ""
+
+#: includes/welcome_page.php:47
+msgid "Add a touch of your own personality with emojis!"
+msgstr ""
+
+#: includes/welcome_page.php:54
+msgid "Typing Preview"
+msgstr ""
+
+#: includes/welcome_page.php:56
+msgid "See what your customers are typing before they even send it!"
+msgstr ""
+
+#: includes/welcome_page.php:59
+#, fuzzy
+#| msgid "Multiple Chats"
+msgid "Multiple Agents Per Chat"
+msgstr "다수의 채팅"
+
+#: includes/welcome_page.php:61
+msgid "More than one agent can join and be involved in a chat."
+msgstr ""
+
+#: includes/welcome_page.php:64
+msgid "Agent to Agent Chat"
+msgstr ""
+
+#: includes/welcome_page.php:66
+msgid "Chat directly to other agents on our new dashboard."
+msgstr ""
+
+#: includes/welcome_page.php:71
+#, fuzzy
+#| msgid "Message"
+msgid "Edit Messages"
+msgstr "메세지"
+
+#: includes/welcome_page.php:73
+msgid ""
+"Simply press the UP arrow or use the EDIT link to edit a message that you "
+"have already sent."
+msgstr ""
+
+#: includes/welcome_page.php:76
+msgid "Event Monitoring"
+msgstr ""
+
+#: includes/welcome_page.php:78
+msgid "Know exactly what the user is doing in real time."
+msgstr ""
+
+#: includes/welcome_page.php:81
+msgid "iOS app"
+msgstr ""
+
+#: includes/welcome_page.php:83
+msgid "The new iOS app is finally here!"
+msgstr ""
+
+#: includes/welcome_page.php:93
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "New to WP Live Chat Support?"
+msgstr "WP Live Chat Support"
+
+#: includes/welcome_page.php:94
+msgid "You may want to"
+msgstr ""
+
+#: includes/welcome_page.php:94
+#, fuzzy
+#| msgid "documentation"
+msgid "review our documentation"
+msgstr "문서"
+
+#: includes/welcome_page.php:94
+msgid ""
+"before you get started. If you're a tech-savvy individual, you may skip this "
+"step."
+msgstr ""
+
+#: includes/welcome_page.php:97
+msgid "Help me!"
+msgstr ""
+
+#: includes/wplc_agent_data.php:7
+#, fuzzy
+#| msgid "WP Live Chat Support Triggers"
+msgid "WP Live Chat Support - User Fields"
+msgstr "WP Live Chat Support 트리거"
+
+#: includes/wplc_agent_data.php:11
+#, fuzzy
+#| msgid "Username"
+msgid "User tagline"
+msgstr "사용자명"
+
+#: includes/wplc_agent_data.php:17 includes/wplc_agent_data.php:30
+msgid "This will show up at the top of the chatbox - Leave blank to disable."
+msgstr ""
+
+#: includes/wplc_agent_data.php:24
+msgid "User bio"
+msgstr ""
+
+#: includes/wplc_agent_data.php:37
+msgid "User social accounts"
+msgstr ""
+
+#: includes/wplc_agent_data.php:46
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/wplc_agent_data.php:54
+#, fuzzy
+#| msgid "Twitter URL"
+msgid "Website URL"
+msgstr "트위터 URL..."
+
+#: includes/wplc_agent_data.php:56
+msgid ""
+"This will show up at the top of the chatbox, in the agent's description - "
+"Leave each item blank to disable it."
+msgstr ""
+
+#: includes/wplc_agent_data.php:276
+#, fuzzy
+#| msgid "Twitter URL"
+msgid "Twitter"
+msgstr "트위터 URL..."
+
+#: includes/wplc_agent_data.php:279
+#, fuzzy
+#| msgid "Linked Domains"
+msgid "LinkedIn"
+msgstr "연결된 도메인들"
+
+#: includes/wplc_agent_data.php:282
+#, fuzzy
+#| msgid "Facebook URL"
+msgid "Facebook"
+msgstr "페이스북 URL"
+
+#: includes/wplc_agent_data.php:285
+#, fuzzy
+#| msgid "Your Website"
+msgid "Website"
+msgstr "웹사이트"
+
+#: includes/wplc_custom_fields.php:60 includes/wplc_data_triggers.php:5
+#: includes/wplc_departments.php:135 includes/wplc_roi.php:83
+#: modules/webhooks_manager.php:56 modules/webhooks_manager.php:295
+msgid "Add New"
+msgstr "추가"
+
+#: includes/wplc_custom_fields.php:64
+#, fuzzy
+#| msgid "WP Live Chat Support Settings"
+msgid "WP Live Chat Support Custom Fields"
+msgstr "WP Live Chat Support 셋팅"
+
+#: includes/wplc_custom_fields.php:73 includes/wplc_data_triggers.php:441
+#: wp-live-chat-support.php:2396
+msgid "Type"
+msgstr "타입:"
+
+#: includes/wplc_custom_fields.php:74 includes/wplc_data_triggers.php:443
+msgid "Content"
+msgstr "내용"
+
+#: includes/wplc_custom_fields.php:75 includes/wplc_data_triggers.php:444
+#: wp-live-chat-support.php:2399 wp-live-chat-support.php:3650
+msgid "Status"
+msgstr "상태"
+
+#: includes/wplc_custom_fields.php:106 wp-live-chat-support.php:2609
+msgid "Active"
+msgstr "활성화"
+
+#: includes/wplc_custom_fields.php:108
+#, fuzzy
+#| msgid "active"
+msgid "Inactive"
+msgstr "활성화"
+
+#: includes/wplc_custom_fields.php:113 includes/wplc_data_triggers.php:452
+#: includes/wplc_departments.php:179 includes/wplc_roi.php:140
+#: modules/webhooks_manager.php:238
+msgid "Edit"
+msgstr "수정"
+
+#: includes/wplc_custom_fields.php:124
+msgid "Create your first custom field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:142
+msgid "Create a Custom Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:147 includes/wplc_custom_fields.php:208
+#, fuzzy
+#| msgid "Trigger Name"
+msgid "Field Name"
+msgstr "트리거 이름"
+
+#: includes/wplc_custom_fields.php:151 includes/wplc_custom_fields.php:216
+#, fuzzy
+#| msgid "Trigger Type"
+msgid "Field Type"
+msgstr "트리거 타입"
+
+#: includes/wplc_custom_fields.php:154 includes/wplc_custom_fields.php:221
+msgid "Text"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:155 includes/wplc_custom_fields.php:222
+msgid "Drop Down"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:160 includes/wplc_custom_fields.php:212
+msgid "Default Field Value"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:164 includes/wplc_custom_fields.php:227
+msgid "Drop Down Contents"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:165 includes/wplc_custom_fields.php:228
+#, fuzzy
+#| msgid "Enter each IP Address you would like to block on a new line"
+msgid "Enter each option on a new line"
+msgstr "차단하기를 원하는 각각의 IP 주소를 개행과 함께 입력하세요."
+
+#: includes/wplc_custom_fields.php:169
+msgid "Create Custom Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:203
+msgid "Edit a Custom Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:232
+msgid "Update Custom Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:241
+msgid "Custom Field Not Found"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:242
+msgid "Back"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:254
+#, fuzzy
+#| msgid "Are you sure you would like to delete this chat?"
+msgid "Are you sure you want to delete this custom field?"
+msgstr "이 채팅을 삭제하기를 원합니까?"
+
+#: includes/wplc_custom_fields.php:290
+#, fuzzy
+#| msgid "Offline Text Fields"
+msgid "Text Field"
+msgstr "오프라인 텍스트 필드"
+
+#: includes/wplc_custom_fields.php:293
+msgid "Dropdown"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:358
+msgid "Custom Field Data"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:8
+msgid "WP Live Chat Support Triggers"
+msgstr "WP Live Chat Support 트리거"
+
+#: includes/wplc_data_triggers.php:16 includes/wplc_roi.php:111
+#: modules/documentation_suggestions.php:62
+msgid "Update now"
+msgstr "지금 업데이트"
+
+#: includes/wplc_data_triggers.php:68
+msgid "Trigger Name"
+msgstr "트리거 이름"
+
+#: includes/wplc_data_triggers.php:73
+msgid "Trigger Type"
+msgstr "트리거 타입"
+
+#: includes/wplc_data_triggers.php:77
+msgid "Page Trigger"
+msgstr "페이지 트리거"
+
+#: includes/wplc_data_triggers.php:78
+msgid "Time Trigger"
+msgstr "시간 트리거"
+
+#: includes/wplc_data_triggers.php:79
+msgid "Scroll Trigger"
+msgstr "스크롤 트리거"
+
+#: includes/wplc_data_triggers.php:80
+msgid "Page Leave Trigger"
+msgstr "페이지 종료 트리거"
+
+#: includes/wplc_data_triggers.php:81
+msgid ""
+"Note: When using page trigger with a the basic theme, no hovercard is shown "
+"by default. We suggest using the time trigger for this instead."
+msgstr ""
+"알림: 기본 테마와 함께 페이지 트리거를 사용할때, 어떠한 정보팝업도 기본적으"
+"로 보여지지 않습니다. 이것 대신에 시간 트리거를 사용하는것을 우리는 제안합니"
+"다."
+
+#: includes/wplc_data_triggers.php:87
+msgid "Page ID"
+msgstr "페이지 아이디"
+
+#: includes/wplc_data_triggers.php:88
+msgid "Note: Leave empty for 'all' pages"
+msgstr "알림: '모든' 페이지들에 대해서 공백으로 남기세요."
+
+#: includes/wplc_data_triggers.php:92
+msgid "Show After"
+msgstr "이후에 보여주기"
+
+#: includes/wplc_data_triggers.php:93
+msgid "Seconds"
+msgstr "수초"
+
+#: includes/wplc_data_triggers.php:97
+msgid "Show After Scrolled"
+msgstr "스크롤되어진 이후에 보여줍니다."
+
+#: includes/wplc_data_triggers.php:98
+msgid "(%) Percent of page height"
+msgstr "(%) 페이지 높이의 퍼센트"
+
+#: includes/wplc_data_triggers.php:102
+msgid "Content Replacement"
+msgstr "내용 대체"
+
+#: includes/wplc_data_triggers.php:113
+msgid "Replace Content"
+msgstr "내용을 대체합니다."
+
+#: includes/wplc_data_triggers.php:118
+msgid "Enable Trigger"
+msgstr "트리거 허용"
+
+#: includes/wplc_data_triggers.php:124 includes/wplc_roi.php:237
+#: modules/node_server.php:503 wp-live-chat-support.php:5167
+msgid "Close"
+msgstr "닫기"
+
+#: includes/wplc_data_triggers.php:133 includes/wplc_departments.php:255
+#: includes/wplc_roi.php:246
+msgid "Please review your submission"
+msgstr "당신의 제안을 남기기를 부탁드립니다."
+
+#: includes/wplc_data_triggers.php:273
+msgid "Trigger has been edited."
+msgstr "트리거가 수정되었습니다."
+
+#: includes/wplc_data_triggers.php:426
+msgid "Conflict with page"
+msgstr "페이지와 함께 제한하기"
+
+#: includes/wplc_data_triggers.php:428
+msgid "Trigger ID: "
+msgstr "트리거 아이디:"
+
+#: includes/wplc_data_triggers.php:429
+msgid ""
+"It is possible that this trigger may override another trigger, or be "
+"overridden by another trigger."
+msgstr ""
+
+#: includes/wplc_data_triggers.php:442 includes/wplc_roi.php:131
+#: modules/node_server.php:933
+msgid "Page"
+msgstr "페이지"
+
+#: includes/wplc_data_triggers.php:461 includes/wplc_roi.php:657
+msgid "All"
+msgstr "전부"
+
+#: includes/wplc_data_triggers.php:465
+msgid "Click to change trigger status"
+msgstr "트리거 상태를 변경하기 위해서는 클릭하세요"
+
+#: includes/wplc_data_triggers.php:475
+msgid "No Triggers Found..."
+msgstr "어떤 트리거들도 찾을수 없습니다..."
+
+#: includes/wplc_data_triggers.php:579
+msgid "Are you sure you would like to delete trigger"
+msgstr "트리거를 삭제하길 확신합니까?"
+
+#: includes/wplc_departments.php:55 includes/wplc_departments.php:59
+#: includes/wplc_departments.php:83 includes/wplc_departments.php:525
+#: includes/wplc_departments.php:643 includes/wplc_transfer_chats.php:92
+msgid "No Department"
+msgstr ""
+
+#: includes/wplc_departments.php:79
+#, fuzzy
+#| msgid "Chat Deleted"
+msgid "Chat Department"
+msgstr "채팅 삭제됨"
+
+#: includes/wplc_departments.php:124 includes/wplc_departments.php:497
+#: includes/wplc_departments.php:515
+msgid "Departments"
+msgstr ""
+
+#: includes/wplc_departments.php:137
+#, fuzzy
+#| msgid "Main Settings"
+msgid "Department Settings"
+msgstr "메인 셋팅"
+
+#: includes/wplc_departments.php:140
+#, fuzzy
+#| msgid "WP Live Chat Support Reporting"
+msgid "WP Live Chat Support Departments"
+msgstr "WP Live Chat Support 리포팅"
+
+#: includes/wplc_departments.php:190
+#, fuzzy
+#| msgid "No Triggers Found..."
+msgid "No Departments Found..."
+msgstr "어떤 트리거들도 찾을수 없습니다..."
+
+#: includes/wplc_departments.php:240
+msgid "Department Name"
+msgstr ""
+
+#: includes/wplc_departments.php:316
+#, fuzzy
+#| msgid "Goal has been edited."
+msgid "Department has been edited."
+msgstr "목표가 수정되었습니다."
+
+#: includes/wplc_departments.php:452
+#, fuzzy
+#| msgid "Are you sure you would like to delete goal"
+msgid "Are you sure you would like to delete department"
+msgstr "목표를 삭제하길 확신합니까?"
+
+#: includes/wplc_departments.php:520
+msgid "Default Department"
+msgstr ""
+
+#: includes/wplc_departments.php:521
+msgid "Default department a new chat is assigned to"
+msgstr ""
+
+#: includes/wplc_departments.php:536
+msgid "Create or Edit Departments"
+msgstr ""
+
+#: includes/wplc_departments.php:542
+msgid "User Department Selection"
+msgstr ""
+
+#: includes/wplc_departments.php:543
+msgid "Allow user to select a department before starting a chat?"
+msgstr ""
+
+#: includes/wplc_departments.php:552
+msgid ""
+"Note: Chats will be transferred in the event that agents are not available "
+"within the selected department"
+msgstr ""
+
+#: includes/wplc_departments.php:563
+#, php-format
+msgid "Create departments <a href='%s'>here</a>."
+msgstr ""
+
+#: includes/wplc_departments.php:622
+msgid "Department you have been assigned to as an agent"
+msgstr ""
+
+#: includes/wplc_departments.php:622 includes/wplc_transfer_chats.php:41
+#: modules/node_server.php:935
+msgid "Department"
+msgstr ""
+
+#: includes/wplc_departments.php:730
+#, fuzzy
+#| msgid "Select a survey"
+msgid "Select Department"
+msgstr "설문조사 선택"
+
+#: includes/wplc_roi.php:72
+msgid "ROI Goals"
+msgstr "ROI 목표"
+
+#: includes/wplc_roi.php:84
+#, fuzzy
+#| msgid "Reports"
+msgid "View Reports"
+msgstr "리포트"
+
+#: includes/wplc_roi.php:87
+msgid "WP Live Chat Support ROI Goals"
+msgstr "WP Live Chat Support ROI 목표"
+
+#: includes/wplc_roi.php:132
+msgid "Value"
+msgstr "값"
+
+#: includes/wplc_roi.php:154
+msgid "No ROI Goals Found..."
+msgstr "어떠한 ROI 목표들도 찾을수 없습니다..."
+
+#: includes/wplc_roi.php:212
+msgid "Goal Name"
+msgstr "목표명"
+
+#: includes/wplc_roi.php:217
+msgid "Goal Overview"
+msgstr "목표 요약"
+
+#: includes/wplc_roi.php:222
+msgid "Goal Page"
+msgstr "목표 페이지"
+
+#: includes/wplc_roi.php:231
+msgid "Goal Value"
+msgstr "목표값"
+
+#: includes/wplc_roi.php:377
+msgid "Goal has been edited."
+msgstr "목표가 수정되었습니다."
+
+#: includes/wplc_roi.php:540
+msgid "Are you sure you would like to delete goal"
+msgstr "목표를 삭제하길 확신합니까?"
+
+#: includes/wplc_roi.php:622
+msgid "ROI Reporting"
+msgstr "보고중인 ROI"
+
+#: includes/wplc_roi.php:636
+msgid "Goal Statistics"
+msgstr "목표 통계"
+
+#: includes/wplc_roi.php:648
+msgid "No Goals Found"
+msgstr "어떠한 목표도 찾을수 없습니다."
+
+#: includes/wplc_roi.php:658
+msgid "Last 30 Days"
+msgstr "최근 30일"
+
+#: includes/wplc_roi.php:659
+msgid "Last 15 Days"
+msgstr "최근 15일"
+
+#: includes/wplc_roi.php:660
+msgid "Last 7 Days"
+msgstr "최근 1주일"
+
+#: includes/wplc_roi.php:661
+msgid "Last 24 Hours"
+msgstr "최근 24시간"
+
+#: includes/wplc_roi.php:713
+msgid "Value Per Conversion"
+msgstr "인당 대화 수치"
+
+#: includes/wplc_roi.php:719
+msgid "Total Value"
+msgstr "전체 수치"
+
+#: includes/wplc_roi.php:724
+msgid "Total Conversions"
+msgstr "전체 대화"
+
+#: includes/wplc_roi.php:756
+msgid "Value By Date"
+msgstr "날짜에 의한 수치"
+
+#: includes/wplc_roi.php:759
+msgid "Value By Agent"
+msgstr "에이전트에 의한 수치"
+
+#: includes/wplc_roi.php:765
+msgid "No data available yet..."
+msgstr "아직 어떤 데이터도 찾지 못했습니다..."
+
+#: includes/wplc_transfer_chats.php:13 modules/node_server.php:917
+#: modules/node_server.php:922
+msgid "Transfer"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:25
+#, fuzzy
+#| msgid "Start Chat"
+msgid "Transfer Chat"
+msgstr "채팅이 시작되었습니다."
+
+#: includes/wplc_transfer_chats.php:39
+#, fuzzy
+#| msgid "Are you sure you would like to delete this chat?"
+msgid "Would you like to transfer this chat to"
+msgstr "이 채팅을 삭제하기를 원합니까?"
+
+#: includes/wplc_transfer_chats.php:40
+#, fuzzy
+#| msgid "Agents"
+msgid "Agent"
+msgstr "에이전트"
+
+#: includes/wplc_transfer_chats.php:46
+msgid "Please select an agent to transfer to"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:53
+msgid "Please select a department to transfer to"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:71
+#, fuzzy
+#| msgid "Agents"
+msgid "No Agent"
+msgstr "에이전트"
+
+#: includes/wplc_transfer_chats.php:77
+#, fuzzy
+#| msgid "Your"
+msgid "You"
+msgstr "당신"
+
+#: includes/wplc_transfer_chats.php:118
+#, fuzzy
+#| msgid "Chat Agents Online"
+msgid "Checking if agent is online"
+msgstr "채팅 에이전트들 (온라인)"
+
+#: includes/wplc_transfer_chats.php:119
+msgid "Agent is not online, transfer cannot be made"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:121
+msgid "Checking if agents in department are online"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:122
+msgid ""
+"No agent within the department are available to accept the transfer, "
+"transfer cannot be made"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:124
+msgid "Agent(s) available, safe to transfer"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:126
+msgid "Transfer Complete. Closing Window..."
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:127
+#, fuzzy
+#| msgid "There is No Answer. Please Try Again Later"
+msgid "Transfer Failed. Please try again later..."
+msgstr "응답이 없습니다. 나중에 다시 시도해주세요."
+
+#: includes/wplc_transfer_chats.php:370
+msgid "Transfer for"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:373
+#, fuzzy
+#| msgid "Accept Chat"
+msgid "Accept Transfer"
+msgstr "채팅 수용"
+
+#: includes/wplc_transfer_chats.php:456
+msgid ""
+"Department took too long to respond, we are transferring this chat to the "
+"next available agent."
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:458
+msgid ""
+"took too long to respond, we are transferring this chat to the next "
+"available agent."
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:461
+#, fuzzy
+#| msgid "Chat answered by another agent"
+msgid "has transferred the chat."
+msgstr "또다른 에이전트에 의해서 채팅이 응답됬었습니다."
+
+#: includes/wplc_transfer_chats.php:484
+msgid "User received this message"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:530
+#, fuzzy
+#| msgid "No data available yet..."
+msgid "No agents available in"
+msgstr "아직 어떤 데이터도 찾지 못했습니다..."
+
+#: includes/wplc_transfer_chats.php:532
+msgid "selected department"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:536
+msgid "automatically transferring you to"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:538
+#, fuzzy
+#| msgid "No chats available at the moment"
+msgid "the next available department"
+msgstr "지금 가능한 채팅이 없습니다."
+
+#: includes/wplc_transfer_chats.php:564
+msgid "User has been transfered from "
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:566
+msgid "department"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:572
+msgid " to "
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:574
+msgid "as there were no agents online"
+msgstr ""
+
+#: modules/advanced_features.php:14
+#, fuzzy
+#| msgid "Advanced settings"
+msgid "Advanced Features"
+msgstr "고급 셋팅"
+
+#: modules/advanced_features.php:33
+#, fuzzy
+#| msgid "No secret token found"
+msgid "No token found"
+msgstr "비밀 토큰을 찾을 수 없습니다."
+
+#: modules/advanced_features.php:49
+#, fuzzy
+#| msgid "Cloud Server"
+msgid "Chat Server"
+msgstr "클라우드 서버"
+
+#: modules/advanced_features.php:57
+#, fuzzy
+#| msgid "Use our server to host your chat server."
+msgid "Use our server to handle chats"
+msgstr "당신의 채팅 서버에 호스팅하기 위해서 우리의 서버를 사용하세요."
+
+#: modules/advanced_features.php:57
+msgid ""
+"Disabling this will result in the plugin reverting back to using the legacy "
+"chat dashboard."
+msgstr ""
+
+#: modules/advanced_features.php:61
+msgid ""
+"Disabling this will revert the chat dashboard back to the legacy version."
+msgstr ""
+
+#: modules/advanced_features.php:66
+#, fuzzy
+#| msgid "Chat Deleted"
+msgid "Chat server token"
+msgstr "채팅 삭제됨"
+
+#: modules/advanced_features.php:66
+msgid ""
+"Security token for accessing chats on the node server. Changing this will "
+"remove current chats"
+msgstr ""
+
+#: modules/advanced_features.php:70 modules/api/wplc-api.php:80
+msgid "Generate New"
+msgstr "새것을 생성"
+
+#: modules/advanced_features.php:71
+msgid "Copy"
+msgstr ""
+
+#: modules/advanced_features.php:76
+msgid "Server end point override"
+msgstr ""
+
+#: modules/advanced_features.php:76
+msgid ""
+"Do not change this unless advised to do so by a WP Live Chat Support "
+"representative"
+msgstr ""
+
+#: modules/advanced_features.php:79
+msgid "Leave empty unless advised by a WP Live Chat Support representative"
+msgstr ""
+
+#: modules/advanced_features.php:84
+msgid "Disable Typing Previews"
+msgstr ""
+
+#: modules/advanced_features.php:84
+msgid ""
+"This option disables the typing preview from showing up to agents, which "
+"means agents will not be able to see what the user is typing in realtime."
+msgstr ""
+
+#: modules/advanced_features.php:92
+#, fuzzy
+#| msgid "Incoming chat ring tone"
+msgid "Limit chat ring amount"
+msgstr "대기중인 통화 연결음"
+
+#: modules/advanced_features.php:92
+msgid "Limit the amount of time the new chat ringer will play"
+msgstr ""
+
+#: modules/advanced_features.php:101
+msgid "Did you know?"
+msgstr ""
+
+#: modules/advanced_features.php:101
+msgid ""
+"You can copy this node server token to multiple sites in order to manage "
+"more than one domain from a single chat dashboard"
+msgstr ""
+
+#: modules/advanced_features.php:155
+#, fuzzy
+#| msgid "End chat"
+msgid "End Chat"
+msgstr "채팅 종료"
+
+#: modules/advanced_tools.php:11
+msgid "Tools"
+msgstr ""
+
+#: modules/advanced_tools.php:19
+#, fuzzy
+#| msgid "WP Live Chat Support Pro"
+msgid "WP Live Chat Support - Tools"
+msgstr "WP Live Support 프로"
+
+#: modules/advanced_tools.php:31
+#, fuzzy
+#| msgid "Chat ID"
+msgid "Chat Data"
+msgstr "채팅 아이디"
+
+#: modules/advanced_tools.php:39
+#, fuzzy
+#| msgid "Chat Window Settings"
+msgid "Chat Settings"
+msgstr "채팅창 설정"
+
+#: modules/advanced_tools.php:43
+#, fuzzy
+#| msgid "Main Settings"
+msgid "Export Settings"
+msgstr "메인 셋팅"
+
+#: modules/advanced_tools.php:46 modules/advanced_tools.php:98
+#, fuzzy
+#| msgid "Main Settings"
+msgid "Import Settings"
+msgstr "메인 셋팅"
+
+#: modules/advanced_tools.php:53 modules/node_server.php:914
+#, fuzzy
+#| msgid "View Chat History"
+msgid "Chat History"
+msgstr "채팅 기록 보기"
+
+#: modules/advanced_tools.php:57
+#, fuzzy
+#| msgid "View Chat History"
+msgid "Export History"
+msgstr "채팅 기록 보기"
+
+#: modules/advanced_tools.php:64
+#, fuzzy
+#| msgid "Status"
+msgid "Chat Ratings"
+msgstr "상태"
+
+#: modules/advanced_tools.php:68
+#, fuzzy
+#| msgid "Experience Rating"
+msgid "Export Ratings"
+msgstr "사용경험 평점"
+
+#: modules/advanced_tools.php:79
+#, fuzzy
+#| msgid "Offline Messages"
+msgid "Export Offline Messages"
+msgstr "오프라인 메세지"
+
+#: modules/advanced_tools.php:106
+msgid "CSV File"
+msgstr ""
+
+#: modules/advanced_tools.php:117
+msgid "Please note: Import CSV must have been exported using the Export tool"
+msgstr ""
+
+#: modules/advanced_tools.php:125
+#, fuzzy
+#| msgid "Support"
+msgid "Import"
+msgstr "서포트"
+
+#: modules/advanced_tools.php:125
+msgid "This cannot be undone"
+msgstr ""
+
+#: modules/advanced_tools.php:156
+msgid "Import Failed - Could Not Process File"
+msgstr ""
+
+#: modules/advanced_tools.php:170
+msgid "Import Failed - Could Not Find File"
+msgstr ""
+
+#: modules/advanced_tools.php:182
+#, fuzzy
+#| msgid "complete"
+msgid "Import Complete"
+msgstr "완료됨"
+
+#: modules/advanced_tools.php:190
+#, fuzzy
+#| msgid "Your settings have been saved."
+msgid "Thank you, all settings have been updated"
+msgstr "당신의 셋팅이 저장되었습니다."
+
+#: modules/api/wplc-api-functions.php:308
+#: modules/api/wplc-api-functions.php:1114 modules/node_server.php:214
+#: modules/node_server.php:284
+#, fuzzy
+#| msgid "Actions"
+msgid "Action not set"
+msgstr "액션"
+
+#: modules/api/wplc-api-functions.php:1635
+msgid "Security Violation - MIME Type not allowed"
+msgstr ""
+
+#: modules/api/wplc-api-functions.php:1638
+msgid "File could not be uploaded"
+msgstr ""
+
+#: modules/api/wplc-api-functions.php:1641
+msgid "Security Violation - Does not match allowed file types"
+msgstr ""
+
+#: modules/api/wplc-api-functions.php:1644
+msgid "Security Violation - File unsafe"
+msgstr ""
+
+#: modules/api/wplc-api.php:44 modules/api/wplc-api.php:71
+msgid "REST API"
+msgstr "REST API"
+
+#: modules/api/wplc-api.php:62
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+"REST API 를 사용하는기 위해서는, REST API가 허용된 워드프레스 버전을 사용하"
+"고 있다는 것을 보증하세요."
+
+#: modules/api/wplc-api.php:64
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr ""
+"대안적으로, 워드프레스로부터 공식적인 Rest API 플러그인을 설치해주세요."
+
+#: modules/api/wplc-api.php:76
+msgid "Secret Token"
+msgstr "비밀 토큰"
+
+#: modules/api/wplc-api.php:79
+msgid "No secret token found"
+msgstr "비밀 토큰을 찾을 수 없습니다."
+
+#: modules/api/wplc-api.php:85
+msgid "Supported API Calls"
+msgstr "지원되는 API Call"
+
+#: modules/api/wplc-api.php:89 modules/api/wplc-api.php:97
+#: modules/api/wplc-api.php:105 modules/api/wplc-api.php:113
+#: modules/api/wplc-api.php:121 modules/api/wplc-api.php:130
+msgid "Try"
+msgstr "재시도"
+
+#: modules/api/wplc-api.php:138
+msgid "API Response Codes"
+msgstr "API 응답 코드"
+
+#: modules/api/wplc-api.php:281
+msgid "Rest Console "
+msgstr "Rest 콘솔"
+
+#: modules/api/wplc-api.php:288
+msgid "Try it!"
+msgstr "재시도 하세요!"
+
+#: modules/cta_animations.php:16
+#, fuzzy
+#| msgid "No Animation"
+msgid "Call To Action Animation"
+msgstr "애니메이션 없음"
+
+#: modules/documentation_suggestions.php:9
+#, fuzzy
+#| msgid "Documentation"
+msgid "Doc Suggestions"
+msgstr "문서"
+
+#: modules/documentation_suggestions.php:27
+#, fuzzy
+#| msgid "Documentation"
+msgid "Documentation Suggestions"
+msgstr "문서"
+
+#: modules/documentation_suggestions.php:33
+msgid "Enable Documentation Suggestions"
+msgstr ""
+
+#: modules/documentation_suggestions.php:33
+msgid ""
+"When a user sends a message the plugin will automatically detect if there "
+"are posts or pages that can be suggested to the user in order for the user "
+"to get more information about what they are asking. This is useful when the "
+"user has typed their message and is still waiting for an agent to answer "
+"their chat."
+msgstr ""
+
+#: modules/documentation_suggestions.php:170
+msgid "The following was sent to the user as suggested documents:"
+msgstr ""
+
+#: modules/documentation_suggestions.php:172
+msgid "While you wait for the agent, perhaps these documents may help?"
+msgstr ""
+
+#: modules/gdpr.php:27
+msgid "Enabled GDPR Compliance"
+msgstr ""
+
+#: modules/gdpr.php:27
+msgid "Disabling will disable all GDPR related options, this is not advised."
+msgstr ""
+
+#: modules/gdpr.php:31
+msgid "Importance of GDPR Compliance"
+msgstr ""
+
+#: modules/gdpr.php:37
+#, fuzzy
+#| msgid "Goal Name"
+msgid "Company Name"
+msgstr "목표명"
+
+#: modules/gdpr.php:46
+msgid "Retention Purpose"
+msgstr ""
+
+#: modules/gdpr.php:49 modules/gdpr.php:354
+#, fuzzy
+#| msgid "Support"
+msgid "Chat/Support"
+msgstr "서포트"
+
+#: modules/gdpr.php:55
+msgid "Retention Period"
+msgstr ""
+
+#: modules/gdpr.php:58
+msgid "days"
+msgstr ""
+
+#: modules/gdpr.php:64
+msgid "GDPR Notice"
+msgstr ""
+
+#: modules/gdpr.php:65
+msgid ""
+"Users will be asked to accept the notice shown here, in the form of a check "
+"box."
+msgstr ""
+
+#: modules/gdpr.php:116
+msgid "GDPR"
+msgstr ""
+
+#: modules/gdpr.php:125
+#, fuzzy
+#| msgid "WP Live Chat Support Pro"
+msgid "WP Live Chat Support - GDPR"
+msgstr "WP Live Support 프로"
+
+#: modules/gdpr.php:127
+msgid ""
+"Search is performed on chat sessions, messages, and offline messages. Data "
+"will also be deleted automatically per your retention policy."
+msgstr ""
+
+#: modules/gdpr.php:138
+#, fuzzy
+#| msgid "Leave a message"
+msgid "Name, Email, Message"
+msgstr "메세지를 남깁니다."
+
+#: modules/gdpr.php:142
+#, fuzzy
+#| msgid "Search Term"
+msgid "Search"
+msgstr "검색 단어"
+
+#: modules/gdpr.php:155
+#, php-format
+msgid "Search Results in %%TABLE%%"
+msgstr ""
+
+#: modules/gdpr.php:183
+#, php-format
+msgid "Delete Chat (%%CID%%)"
+msgstr ""
+
+#: modules/gdpr.php:184
+#, fuzzy, php-format
+#| msgid "Download Chat History"
+msgid "Download Chat (%%CID%%)"
+msgstr "채팅 기록 다운로드"
+
+#: modules/gdpr.php:188 wp-live-chat-support.php:4532
+#: wp-live-chat-support.php:4590
+msgid "Chat ID"
+msgstr "채팅 아이디"
+
+#: modules/gdpr.php:209
+msgid "Please perform a search using the input field above"
+msgstr ""
+
+#: modules/gdpr.php:272
+#, fuzzy
+#| msgid "Chat Deleted"
+msgid "Data Deleted"
+msgstr "채팅 삭제됨"
+
+#: modules/gdpr.php:352
+#, php-format
+msgid ""
+"I agree for my personal data to be processed and for the use of cookies in "
+"order to engage in a chat processed by %%COMPANY%%, for the purpose of "
+"%%PURPOSE%%, for the time of %%PERIOD%% day(s) as per the GDPR."
+msgstr ""
+
+#: modules/gdpr.php:373 modules/gdpr.php:571 modules/gdpr.php:593
+msgid "Privacy Policy"
+msgstr ""
+
+#: modules/gdpr.php:374
+#, php-format
+msgid ""
+"We use WP Live Chat Support as our live chat platform. By clicking below to "
+"submit this form, you acknowledge that the information you provide now and "
+"during the chat will be transferred to WP Live Chat Support for processing "
+"in accordance with their %%POLICY_LINK%%."
+msgstr ""
+
+#: modules/gdpr.php:396
+#, php-format
+msgid ""
+"Please note as per the GDPR settings you have selected, all chat data will "
+"be retained for %%PERIOD%% day(s)."
+msgstr ""
+
+#: modules/gdpr.php:399
+#, php-format
+msgid ""
+"After this period of time, all chat data older than %%PERIOD%% day(s), will "
+"be permanently removed from your server. "
+msgstr ""
+
+#: modules/gdpr.php:403
+msgid "GDPR - Data Retention"
+msgstr ""
+
+#: modules/gdpr.php:409 modules/gdpr.php:573
+#, fuzzy
+#| msgid "Main Settings"
+msgid "Privacy Settings"
+msgstr "메인 셋팅"
+
+#: modules/gdpr.php:424
+msgid "Once every 6 hours"
+msgstr ""
+
+#: modules/gdpr.php:539
+#, fuzzy
+#| msgid "Chat ended"
+msgid "Chat Ended"
+msgstr "채팅 종료"
+
+#: modules/gdpr.php:564
+msgid ""
+"GDPR compliance has been disabled, read more about the implications of this "
+"here"
+msgstr ""
+
+#: modules/gdpr.php:565
+#, fuzzy
+#| msgid " with the Pro add-on of WP Live Chat Support"
+msgid "Additionally please take a look at WP Live Chat Support"
+msgstr "WP Live Chat Support 프로 애드온과 함께"
+
+#: modules/gdpr.php:566
+msgid ""
+"It is highly recommended that you enable GDPR compliance to ensure your user "
+"data is regulated."
+msgstr ""
+
+#: modules/gdpr.php:569
+msgid "Warning - GDPR Compliance Disabled - Action Required"
+msgstr ""
+
+#: modules/gdpr.php:570
+msgid "EU GDPR"
+msgstr ""
+
+#: modules/gdpr.php:574
+msgid "Dismiss & Accept Responsibility"
+msgstr ""
+
+#: modules/gdpr.php:591
+#, php-format
+msgid "Please refer to our %%PRIVACY_LINK%% for information on Data Processing"
+msgstr ""
+
+#: modules/gdpr.php:641
+msgid "GDPR Compliance Enabled - Server Selection Limited to EU"
+msgstr ""
+
+#: modules/gdpr.php:674
+msgid ""
+"Pro is active - Deleting a chat will resilt in user experience ratings being "
+"deleted along with chat data"
+msgstr ""
+
+#: modules/gdpr.php:683
+msgid "Pro data will also be removed as a part of this automatic process."
+msgstr ""
+
+#: modules/google_analytics.php:12
+msgid "Google Analytics Integration"
+msgstr ""
+
+#: modules/google_analytics.php:17
+msgid "Enable Google Analytics Integration"
+msgstr ""
+
+#: modules/module_gif.php:144
+#, fuzzy
+#| msgid "Iterations"
+msgid "GIF Integration"
+msgstr "반복"
+
+#: modules/module_gif.php:150
+#, fuzzy
+#| msgid "Enable Encryption"
+msgid "Enable GIF Integration"
+msgstr "암호화 허용"
+
+#: modules/module_gif.php:150
+msgid ""
+"If you enable GIF Integration you're going to be able to send GIFs by typing "
+"commands such as '/gif happy' when writing a message."
+msgstr ""
+
+#: modules/module_gif.php:158
+#, fuzzy
+#| msgid "Select a survey"
+msgid "Select a GIF provider"
+msgstr "설문조사 선택"
+
+#: modules/module_gif.php:158
+msgid ""
+"A GIF provider is the source of the GIFs that are going to show when you "
+"type a command like '/gif happy' on a message."
+msgstr ""
+
+#: modules/module_gif.php:162
+msgid "Giphy"
+msgstr ""
+
+#: modules/module_gif.php:163
+msgid "Tenor"
+msgstr ""
+
+#: modules/module_gif.php:169 modules/module_gif.php:172
+#, fuzzy
+#| msgid "This API key is "
+msgid "Giphy API key"
+msgstr "이 API 키는"
+
+#: modules/module_gif.php:169
+msgid "The API key created for you when you register an app on Giphy"
+msgstr ""
+
+#: modules/module_gif.php:177 modules/module_gif.php:180
+#, fuzzy
+#| msgid "This API key is "
+msgid "Tenor API key"
+msgstr "이 API 키는"
+
+#: modules/module_gif.php:177
+msgid "The API key created for you when you register an app on Tenor"
+msgstr ""
+
+#: modules/node_server.php:36
+#, fuzzy
+#| msgid "Via WP Live Chat Support"
+msgid "Thank you for using WP Live Chat Support."
+msgstr "WP Live Chat Support를 통해"
+
+#: modules/node_server.php:199 modules/node_server.php:208
+#: modules/node_server.php:269 modules/node_server.php:278
+msgid "Success"
+msgstr ""
+
+#: modules/node_server.php:211 modules/node_server.php:281
+msgid "Message data is corrupt"
+msgstr ""
+
+#: modules/node_server.php:217 modules/node_server.php:287
+msgid "Message data array not set"
+msgstr ""
+
+#: modules/node_server.php:220 modules/node_server.php:290
+#, fuzzy
+#| msgid "Chat with us"
+msgid "Chat ID is not set"
+msgstr "우리와 채팅하세요."
+
+#: modules/node_server.php:224 modules/node_server.php:294
+#, fuzzy
+#| msgid "No secret token found"
+msgid "No security nonce found"
+msgstr "비밀 토큰을 찾을 수 없습니다."
+
+#: modules/node_server.php:312
+msgid "Error"
+msgstr ""
+
+#: modules/node_server.php:313
+#, fuzzy
+#| msgid "Only chat agents can accept chats"
+msgid "Only chat agents can access this page."
+msgstr "오직 채팅 에이전트만이 채팅을 받을 수 있습니다."
+
+#: modules/node_server.php:501 wp-live-chat-support.php:5165
+#, fuzzy
+#| msgid "Sending message..."
+msgid "Sending transcript..."
+msgstr "메세지 보내는중..."
+
+#: modules/node_server.php:502 wp-live-chat-support.php:5166
+msgid "Sending Transcript"
+msgstr ""
+
+#: modules/node_server.php:504 wp-live-chat-support.php:5168
+#, fuzzy
+#| msgid "The chat has been ended"
+msgid "The chat transcript has been emailed."
+msgstr "해당 채팅이 종료되었습니다."
+
+#: modules/node_server.php:505 wp-live-chat-support.php:5169
+msgid "There was a problem emailing the chat."
+msgstr ""
+
+#: modules/node_server.php:534
+msgid "Connection Error"
+msgstr ""
+
+#: modules/node_server.php:535
+msgid ""
+"We are having some trouble contacting the server. Please try again later."
+msgstr ""
+
+#: modules/node_server.php:576
+msgid "Chat is disabled in settings area, re-enable"
+msgstr ""
+
+#: modules/node_server.php:606
+msgid "User received notification:"
+msgstr ""
+
+#: modules/node_server.php:625 wp-live-chat-support.php:2163
+msgid "New chat received"
+msgstr "도착한 새로운 채팅"
+
+#: modules/node_server.php:626 wp-live-chat-support.php:2165
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr ""
+"새로운 채팅이 도착했습니다. 채팅을 받기위해서, '실시간 채팅' 페이지로 뛰어가"
+"세요."
+
+#: modules/node_server.php:741
+#, fuzzy
+#| msgid "Dear Pro User"
+msgid "Dear User,"
+msgstr "친애하는 프로 사용자에게"
+
+#: modules/node_server.php:742
+msgid "Your API Key could not be validated, some functionality may be limited"
+msgstr ""
+
+#: modules/node_server.php:747
+msgid "You are not a verified agent, chat dashboard has been disabled"
+msgstr ""
+
+#: modules/node_server.php:818
+#, fuzzy
+#| msgid "Via WP Live Chat Support"
+msgid "Welcome to V8 of WP Live Chat Support"
+msgstr "WP Live Chat Support를 통해"
+
+#: modules/node_server.php:819
+msgid ""
+"Did you know, this version features high speed message delivery, agent to "
+"agent chat, and a single window layout?"
+msgstr ""
+
+#: modules/node_server.php:820
+msgid ""
+"To activate this functionality please navigate to Live Chat -> Settings -> "
+"Advanced Features -> And enable our Chat Server option."
+msgstr ""
+
+#: modules/node_server.php:823
+#, fuzzy
+#| msgid "Show After"
+msgid "Show me!"
+msgstr "이후에 보여주기"
+
+#: modules/node_server.php:824
+msgid "Don't Show This Again"
+msgstr ""
+
+#: modules/node_server.php:908
+msgid "Connecting..."
+msgstr ""
+
+#: modules/node_server.php:912
+#, fuzzy
+#| msgid "Active Chats"
+msgid " Active visitors"
+msgstr "채팅 활성화"
+
+#: modules/node_server.php:913
+#, fuzzy
+#| msgid "Agent(s) online"
+msgid "Agent(s) Online"
+msgstr "에이전트(다수) 온라인"
+
+#: modules/node_server.php:918
+msgid "Department Transfer"
+msgstr ""
+
+#: modules/node_server.php:919 modules/node_server.php:923
+#: wp-live-chat-support.php:4278
+msgid "Direct User To Page"
+msgstr ""
+
+#: modules/node_server.php:920
+#, fuzzy
+#| msgid "Before chat"
+msgid "Leave chat"
+msgstr "채팅전"
+
+#: modules/node_server.php:921 wp-live-chat-support.php:2629
+msgid "End chat"
+msgstr "채팅 종료"
+
+#: modules/node_server.php:924
+#, fuzzy
+#| msgid "Agents"
+msgid "Events"
+msgstr "에이전트"
+
+#: modules/node_server.php:925
+#, fuzzy
+#| msgid "End chat"
+msgid "Join chat"
+msgstr "채팅 종료"
+
+#: modules/node_server.php:926
+msgid "Filters"
+msgstr ""
+
+#: modules/node_server.php:927
+#, fuzzy
+#| msgid "Visitors online"
+msgid "New Visitors (3 Min)"
+msgstr "온라인인 방문자들"
+
+#: modules/node_server.php:928
+msgid "Active Chats"
+msgstr "채팅 활성화"
+
+#: modules/node_server.php:929
+msgid "Clear Filters"
+msgstr ""
+
+#: modules/node_server.php:930
+#, fuzzy
+#| msgid "Active Chats"
+msgid "Active visitors"
+msgstr "채팅 활성화"
+
+#: modules/node_server.php:931 wp-live-chat-support.php:2394
+msgid "Visitor"
+msgstr "방문자"
+
+#: modules/node_server.php:932
+#, fuzzy
+#| msgid "Site Info"
+msgid "Info"
+msgstr "사이트 정보"
+
+#: modules/node_server.php:934
+#, fuzzy
+#| msgid "Status"
+msgid "Chat Status"
+msgstr "상태"
+
+#: modules/node_server.php:936
+#, fuzzy
+#| msgid "Search Term"
+msgid "Search Results"
+msgstr "검색 단어"
+
+#: modules/node_server.php:937
+#, fuzzy
+#| msgid "No Goals Found"
+msgid "No emoji found"
+msgstr "어떠한 목표도 찾을수 없습니다."
+
+#: modules/node_server.php:1049
+msgid ""
+"You can transfer chats from within a chat by clicking on the in chat menu, "
+"and selecting Transfer Chat or Transfer Department"
+msgstr ""
+
+#: modules/node_server.php:1050
+msgid ""
+"You can share files quickly when in a chat, by simply dragging a file into "
+"the chat window!"
+msgstr ""
+
+#: modules/node_server.php:1051
+msgid "You can now move between chats without ending/closing an open chat"
+msgstr ""
+
+#: modules/node_server.php:1108
+#, fuzzy
+#| msgid "No Quick Responses found"
+msgid "No quick responses found"
+msgstr "빠른 답장들을 찾을 수 없습니다."
+
+#: modules/offline_messages_custom_fields.php:6
+#, php-format
+msgid ""
+"Use the <a href='%s'>Contact Form Ready</a> plugin (free) in order to "
+"customise the input fields of the offline message form.</a>"
+msgstr ""
+
+#: modules/privacy.php:17 modules/privacy.php:31
+msgid "Privacy"
+msgstr ""
+
+#: modules/webhooks_manager.php:8
+#, fuzzy
+#| msgid "Agent(s) online"
+msgid "Agent Login"
+msgstr "에이전트(다수) 온라인"
+
+#: modules/webhooks_manager.php:9
+#, fuzzy
+#| msgid "Visitor"
+msgid "New Visitor"
+msgstr "방문자"
+
+#: modules/webhooks_manager.php:10
+#, fuzzy
+#| msgid "Chat Deleted"
+msgid "Chat Request"
+msgstr "채팅 삭제됨"
+
+#: modules/webhooks_manager.php:11
+msgid "Agent Accept"
+msgstr ""
+
+#: modules/webhooks_manager.php:12
+#, fuzzy
+#| msgid "Settings"
+msgid "Settings Changed"
+msgstr "셋팅"
+
+#: modules/webhooks_manager.php:45
+msgid "Webhooks"
+msgstr ""
+
+#: modules/webhooks_manager.php:59
+#, fuzzy
+#| msgid "WP Live Chat Support Pro"
+msgid "WP Live Chat Support - Webhooks"
+msgstr "WP Live Support 프로"
+
+#: modules/webhooks_manager.php:81
+msgid "Webhook created"
+msgstr ""
+
+#: modules/webhooks_manager.php:83
+msgid "Webhook could not be created"
+msgstr ""
+
+#: modules/webhooks_manager.php:90
+msgid "Webhook edited"
+msgstr ""
+
+#: modules/webhooks_manager.php:92
+msgid "Webhook could not be edited"
+msgstr ""
+
+#: modules/webhooks_manager.php:100
+#, fuzzy
+#| msgid "deleted"
+msgid "Webhook deleted"
+msgstr "삭제됨"
+
+#: modules/webhooks_manager.php:102
+#, fuzzy
+#| msgid "Error: Could not delete chat"
+msgid "Webhook could not be delete"
+msgstr "에러: 채팅을 삭제할 수 없습니다."
+
+#: modules/webhooks_manager.php:224 modules/webhooks_manager.php:275
+msgid "Event"
+msgstr ""
+
+#: modules/webhooks_manager.php:225 modules/webhooks_manager.php:280
+#, fuzzy
+#| msgid "Total URLs"
+msgid "Target URL"
+msgstr "모든 URL"
+
+#: modules/webhooks_manager.php:226 modules/webhooks_manager.php:285
+#, fuzzy
+#| msgid "Sending Method"
+msgid "Method"
+msgstr "전송 방식"
+
+#: modules/webhooks_manager.php:247
+msgid "No Webhooks"
+msgstr ""
+
+#: modules/webhooks_manager.php:288
+msgid "GET"
+msgstr ""
+
+#: modules/webhooks_manager.php:289
+msgid "POST"
+msgstr ""
+
+#: modules/webhooks_manager.php:295
+#, fuzzy
+#| msgid "Save Settings"
+msgid "Save Changes"
+msgstr "셋팅 저장하기"
+
+#: modules/webhooks_manager.php:309
+#, fuzzy
+#| msgid "Are you sure you would like to delete this chat?"
+msgid "Are you sure you want to delete this webhook?"
+msgstr "이 채팅을 삭제하기를 원합니까?"
+
+#: wp-live-chat-support.php:357 wp-live-chat-support.php:1859
+#: wp-live-chat-support.php:2972 wp-live-chat-support.php:4695
+msgid "Chat offline. Leave a message"
+msgstr "채팅 오프라인. 메세지를 남기세요."
+
+#: wp-live-chat-support.php:358 wp-live-chat-support.php:1565
+#: wp-live-chat-support.php:2973 wp-live-chat-support.php:4696
+msgid "Hello. Please input your details so that I may help you."
+msgstr "안녕하세요. 도움을 원한다면 세부사항을 입력해주세요."
+
+#: wp-live-chat-support.php:359 wp-live-chat-support.php:960
+#: wp-live-chat-support.php:1604 wp-live-chat-support.php:2974
+#: wp-live-chat-support.php:4697
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+"지금 우리는 오프라인입니다. 메세지를 남겨주시면 빠른시간안에 돌아올껍니다."
+
+#: wp-live-chat-support.php:360 wp-live-chat-support.php:961
+#: wp-live-chat-support.php:2975 wp-live-chat-support.php:4698
+msgid "Sending message..."
+msgstr "메세지 보내는중..."
+
+#: wp-live-chat-support.php:361 wp-live-chat-support.php:962
+#: wp-live-chat-support.php:2976 wp-live-chat-support.php:4699
+msgid "Thank you for your message. We will be in contact soon."
+msgstr "당신의 메세지에 감사드립니다. 우리는 금방 돌아올거에요."
+
+#: wp-live-chat-support.php:363 wp-live-chat-support.php:2978
+#: wp-live-chat-support.php:4701
+msgid "Send message"
+msgstr "메세지 보내기"
+
+#: wp-live-chat-support.php:364 wp-live-chat-support.php:1840
+#: wp-live-chat-support.php:2964 wp-live-chat-support.php:4702
+msgid "Questions?"
+msgstr "질문?"
+
+#: wp-live-chat-support.php:365 wp-live-chat-support.php:1841
+#: wp-live-chat-support.php:2965 wp-live-chat-support.php:4703
+msgid "Chat with us"
+msgstr "우리와 채팅하세요."
+
+#: wp-live-chat-support.php:366 wp-live-chat-support.php:2966
+#: wp-live-chat-support.php:4704
+msgid "Start live chat"
+msgstr "실시간 채팅 시작"
+
+#: wp-live-chat-support.php:367 wp-live-chat-support.php:2967
+#: wp-live-chat-support.php:4705
+msgid "Start Chat"
+msgstr "채팅이 시작되었습니다."
+
+#: wp-live-chat-support.php:369 wp-live-chat-support.php:2969
+#: wp-live-chat-support.php:4707
+msgid "Chat ended"
+msgstr "채팅 종료"
+
+#: wp-live-chat-support.php:370 wp-live-chat-support.php:1658
+#: wp-live-chat-support.php:1761 wp-live-chat-support.php:2970
+#: wp-live-chat-support.php:4708
+msgid "Connecting. Please be patient..."
+msgstr "연결중. 얌전히 기다리세요..."
+
+#: wp-live-chat-support.php:371 wp-live-chat-support.php:2020
+#: wp-live-chat-support.php:2073 wp-live-chat-support.php:2971
+#: wp-live-chat-support.php:4709
+msgid "Reactivating your previous chat..."
+msgstr "당신의 이전 채팅을 재활성화 하는중입니다..."
+
+#: wp-live-chat-support.php:372 wp-live-chat-support.php:1765
+#: wp-live-chat-support.php:2982 wp-live-chat-support.php:4710
+msgid "Welcome. How may I help you?"
+msgstr "환영합니다. 도움이 필요하세요?"
+
+#: wp-live-chat-support.php:374 wp-live-chat-support.php:2979
+#: wp-live-chat-support.php:4712
+msgid "Press ENTER to send your message"
+msgstr "메세지를 보내기 위해서는 엔터를 누르세요."
+
+#: wp-live-chat-support.php:375 wp-live-chat-support.php:2981
+#: wp-live-chat-support.php:4713
+msgid "close"
+msgstr "닫기"
+
+#: wp-live-chat-support.php:418 wp-live-chat-support.php:2940
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "에이전트와의 채팅을 유도하기 위해서는 \\채팅 시작\\ 을 클릭하세요."
+
+#: wp-live-chat-support.php:640
+msgid "Live Chat"
+msgstr "실시간 채팅"
+
+#: wp-live-chat-support.php:641
+#, fuzzy
+#| msgid "Chat Dashboard"
+msgid "Dashboard"
+msgstr "채팅 대쉬보드"
+
+#: wp-live-chat-support.php:643
+msgid "Surveys"
+msgstr "설문조사"
+
+#: wp-live-chat-support.php:650
+msgid "History"
+msgstr "기록"
+
+#: wp-live-chat-support.php:651
+msgid "Missed Chats"
+msgstr "놓친 채팅"
+
+#: wp-live-chat-support.php:669
+msgid "API Keys"
+msgstr "API 키"
+
+#: wp-live-chat-support.php:681
+msgid "Reporting"
+msgstr "리포팅"
+
+#: wp-live-chat-support.php:682
+msgid "Triggers"
+msgstr "트리거"
+
+#: wp-live-chat-support.php:683
+msgid "Custom Fields"
+msgstr ""
+
+#: wp-live-chat-support.php:688
+#, fuzzy
+#| msgid "WP Live Chat Support Pro"
+msgid "WP Live Chat Support API Key"
+msgstr "WP Live Support 프로"
+
+#: wp-live-chat-support.php:689
+#, fuzzy
+#| msgid ""
+#| "To find and manage your premium API keys, please visit your <a "
+#| "target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+#| "page."
+msgid ""
+"To find and manage your API key, please visit your <a target='_BLANK' "
+"href='https://wp-livechat.com/my-account/'>my account</a> page."
+msgstr ""
+"당신의 프리미엄 API 키들을 찾고 관리하기 위해서는, <a target='_BLANK' "
+"href='https://wp-livechat.com/my-account/'>내 계정</a>페이지를 방문하세요."
+
+#: wp-live-chat-support.php:944
+#, fuzzy
+#| msgid "Please review your submission"
+msgid "Please enter your name"
+msgstr "당신의 제안을 남기기를 부탁드립니다."
+
+#: wp-live-chat-support.php:945
+#, fuzzy
+#| msgid "Please review your submission"
+msgid "Please enter your email address"
+msgstr "당신의 제안을 남기기를 부탁드립니다."
+
+#: wp-live-chat-support.php:946
+msgid "Connection to server lost. Please reload this page. Error: "
+msgstr ""
+
+#: wp-live-chat-support.php:948
+#, fuzzy
+#| msgid "Leave a message"
+msgid "Please enter a message"
+msgstr "메세지를 남깁니다."
+
+#: wp-live-chat-support.php:949
+msgid "Disconnected, attempting to reconnect..."
+msgstr ""
+
+#: wp-live-chat-support.php:996 wp-live-chat-support.php:997
+#: wp-live-chat-support.php:2739
+msgid " is typing..."
+msgstr ""
+
+#: wp-live-chat-support.php:1000
+msgid " has joined."
+msgstr ""
+
+#: wp-live-chat-support.php:1001
+msgid " has left."
+msgstr ""
+
+#: wp-live-chat-support.php:1002
+#, fuzzy
+#| msgid "User has opened the chat window"
+msgid " has ended the chat."
+msgstr "사용자가 채팅창을 열었습니다."
+
+#: wp-live-chat-support.php:1003
+msgid " has disconnected."
+msgstr ""
+
+#: wp-live-chat-support.php:1004
+msgid "(edited)"
+msgstr ""
+
+#: wp-live-chat-support.php:1005 wp-live-chat-support.php:1798
+#, fuzzy
+#| msgid "type here..."
+msgid "Type here"
+msgstr "이곳에 입력하세요..."
+
+#: wp-live-chat-support.php:1453 wp-live-chat-support.php:1473
+msgid "Start chat"
+msgstr "채팅 시작"
+
+#: wp-live-chat-support.php:1809 wp-live-chat-support.php:2704
+msgid "Send"
+msgstr "보내기"
+
+#: wp-live-chat-support.php:2296
+msgid "Congratulations"
+msgstr "축하합니다"
+
+#: wp-live-chat-support.php:2297
+msgid "You are now accepting live chat requests on your site."
+msgstr "당신의 사이트에서 이제는 새로운 실시간 채팅 요청들을 받을 수 있습니다."
+
+#: wp-live-chat-support.php:2298
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "실시간 채팅 박스가 자동적으로 허용되었습니다."
+
+#: wp-live-chat-support.php:2299
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr "방문자가 요청을 보낸 이후에, 채팅 알림이 나타나기 시작할 겁니다."
+
+#: wp-live-chat-support.php:2300
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+"채팅 박스 셋팅을 수정하기 위해서 당신은 <a href='?page=wplivechat-menu-"
+"settings' target='_BLANK'>로 가야합니다."
+
+#: wp-live-chat-support.php:2301
+msgid "Experiencing issues?"
+msgstr "경험 이슈가 있습니까?"
+
+#: wp-live-chat-support.php:2301
+msgid "Visit our troubleshooting section."
+msgstr "우리의 트러블 슈팅 섹션을 방문하세요."
+
+#: wp-live-chat-support.php:2303
+msgid "Hide"
+msgstr "숨기기"
+
+#: wp-live-chat-support.php:2368
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr "알림: 이 창은 새로운 채팅 알림을 받기위해서 열려져야만 합니다."
+
+#: wp-live-chat-support.php:2380
+msgid "Visitors online"
+msgstr "온라인인 방문자들"
+
+#: wp-live-chat-support.php:2395
+msgid "Time"
+msgstr "시간"
+
+#: wp-live-chat-support.php:2397
+msgid "Device"
+msgstr "기기"
+
+#: wp-live-chat-support.php:2398
+msgid "Data"
+msgstr "데이터"
+
+#: wp-live-chat-support.php:2436
+msgid "Chat Dashboard"
+msgstr "채팅 대쉬보드"
+
+#: wp-live-chat-support.php:2439
+msgid "Oh no!"
+msgstr "망할!"
+
+#: wp-live-chat-support.php:2442
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr ""
+"<strong>당신은 채팅 에이전트가 아닙니다.</strong> 때문에 이 페이지에 접근할 "
+"수 없습니다."
+
+#: wp-live-chat-support.php:2607
+msgid "Previous"
+msgstr "이전"
+
+#: wp-live-chat-support.php:2618
+msgid "Chat with"
+msgstr "채팅 대상"
+
+#: wp-live-chat-support.php:2620
+msgid "Starting Time:"
+msgstr ""
+
+#: wp-live-chat-support.php:2621
+msgid "Ending Time:"
+msgstr ""
+
+#: wp-live-chat-support.php:2663
+msgid "Site Info"
+msgstr "사이트 정보"
+
+#: wp-live-chat-support.php:2665
+msgid "Chat initiated on:"
+msgstr "초기화 위에 있는 채팅:"
+
+#: wp-live-chat-support.php:2669
+msgid "Advanced Info"
+msgstr "고급 정보"
+
+#: wp-live-chat-support.php:2671
+msgid "Browser:"
+msgstr "브라우저:"
+
+#: wp-live-chat-support.php:2672
+msgid "IP Address:"
+msgstr "IP 주소:"
+
+#: wp-live-chat-support.php:2698
+msgid "type here..."
+msgstr "이곳에 입력하세요..."
+
+#: wp-live-chat-support.php:2878
+msgid "is typing..."
+msgstr ""
+
+#: wp-live-chat-support.php:2922
+msgid "User has opened the chat window"
+msgstr "사용자가 채팅창을 열었습니다."
+
+#: wp-live-chat-support.php:2923
+msgid "User has minimized the chat window"
+msgstr "사용자가 채팅창을 최소화했습니다."
+
+#: wp-live-chat-support.php:2924
+msgid "User has maximized the chat window"
+msgstr "사용자가 채팅창을 최대화했습니다."
+
+#: wp-live-chat-support.php:2925
+msgid "The chat has been ended"
+msgstr "해당 채팅이 종료되었습니다."
+
+#: wp-live-chat-support.php:3640
+msgid "Delete History"
+msgstr "기록 삭제"
+
+#: wp-live-chat-support.php:3657
+msgid "No chats available at the moment"
+msgstr "지금 가능한 채팅이 없습니다."
+
+#: wp-live-chat-support.php:3709
+msgid "WP Live Chat History"
+msgstr "WP Live Chat 기록"
+
+#: wp-live-chat-support.php:3736
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat 이 채팅을 놓쳤습니다."
+
+#: wp-live-chat-support.php:3755
+msgid "WP Live Chat Offline Messages"
+msgstr "WP Live Chat 오프라인 메세지"
+
+#: wp-live-chat-support.php:3792
+msgid "You have not received any offline messages."
+msgstr "당신은 어떠한 오프라인 메세지도 받지 못했습니다."
+
+#: wp-live-chat-support.php:3800
+msgid "Delete Message"
+msgstr "메세지 삭제"
+
+#: wp-live-chat-support.php:3990
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "채팅 에이전트의 주의를 끌기 위해서 '채팅 시작'을 클릭하세요."
+
+#: wp-live-chat-support.php:4153
+msgid "Thank You for your feedback!"
+msgstr "당신의 피드백에 감사드립니다!"
+
+#: wp-live-chat-support.php:4163
+msgid "Your settings have been saved."
+msgstr "당신의 셋팅이 저장되었습니다."
+
+#: wp-live-chat-support.php:4192
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"WPLC: set_time_limit() 는 이 서버에서 허용되지 않습니다. 당신은 이것때문에 "
+"WP Live Chat Support 를 사용하는 동안 이 이슈를 경험했습니다. 당신의 웹사이"
+"트 관리자에게 이 기능을 허용하기를 요청하세요."
+
+#: wp-live-chat-support.php:4198
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"WPLC: 안전모드가 이 서버에서 허용되었습니다. 당신은 이것때문에 WP Live Chat "
+"Support를 사용하는 동안 이슈를 경험했습니다. 당신의 웹사이트 관리자에게 안전"
+"모드를 해제하기를 요청하세요."
+
+#: wp-live-chat-support.php:4220
+msgid "Troubleshooting"
+msgstr "트러블슈팅"
+
+#: wp-live-chat-support.php:4222
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"WP Live Chat Support 는 다양하고 넓은 특징들을 가지고 있습니다. 이것은 때때"
+"로, 마켓안에있는 다른 플러그인들 그리고 수천개의 테마들과 함께 충돌할 지도 모"
+"릅니다.."
+
+#: wp-live-chat-support.php:4223
+msgid "Common issues:"
+msgstr "최근의 이슈:"
+
+#: wp-live-chat-support.php:4225
+msgid "My API Key says ‘Invalid’"
+msgstr ""
+
+#: wp-live-chat-support.php:4226
+msgid "My Chat Box is Not Showing"
+msgstr ""
+
+#: wp-live-chat-support.php:4227
+#, fuzzy
+#| msgid "I'm not getting any notifications of a new chat"
+msgid "Not Receiving Notifications of New Chats"
+msgstr "나는 새로운 채팅의 어떤 알림도 받지 못하고 있습니다."
+
+#: wp-live-chat-support.php:4228
+#, fuzzy
+#| msgid "Messages only show when I refresh the chat window"
+msgid "Messages Only Show When I Refresh"
+msgstr "채팅창을 새로고침 할 때, 메세지들이 유일하게 보입니다."
+
+#: wp-live-chat-support.php:4229
+#, fuzzy
+#| msgid "The chat window never goes offline"
+msgid "The Chat Box Never Goes Offline"
+msgstr "채팅창이 오프라인으로 절대 가지 않습니다."
+
+#: wp-live-chat-support.php:4230
+#, fuzzy
+#| msgid "This chat has already been answered by another agent."
+msgid "Error: Chat has already been Answered"
+msgstr "이 채팅은 또다른 에이전트에 의해서 이미 응답되었습니다."
+
+#: wp-live-chat-support.php:4236
+msgid "Still need help? Use one of these links below."
+msgstr "도움이 여전히 필요하세요? 아래의 이러한 링크들중 하나를 사용하세요."
+
+#: wp-live-chat-support.php:4274
+msgid "Initiate Chats"
+msgstr "채팅 유도하기"
+
+#: wp-live-chat-support.php:4275
+msgid "Multiple Chats"
+msgstr "다수의 채팅"
+
+#: wp-live-chat-support.php:4276
+msgid "Add unlimited agents"
+msgstr "무제한으로 에이전트를 추가하세요."
+
+#: wp-live-chat-support.php:4277
+#, fuzzy
+#| msgid "Total Chats"
+msgid "Transfer Chats"
+msgstr "모든 채팅"
+
+#: wp-live-chat-support.php:4299
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"<a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</a>를 사용해주시는 것"
+"에 대해서 감사드립니다! <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> "
+"에서 <a href=\"%2$s\" target=\"_blank\">평가하기</a>를 부탁드립니다."
+
+#: wp-live-chat-support.php:4452
+msgid "API Key"
+msgstr "API 키"
+
+#: wp-live-chat-support.php:4455
+msgid "Verify"
+msgstr "인증됨"
+
+#: wp-live-chat-support.php:4458
+msgid "Status: "
+msgstr "상태:"
+
+#: wp-live-chat-support.php:4461
+msgid "Valid"
+msgstr "허가됨"
+
+#: wp-live-chat-support.php:4462 wp-live-chat-support.php:4466
+#, fuzzy
+#| msgid "Manage this extension"
+msgid "Manage this API Key"
+msgstr "이 익스텐션을 관리하기"
+
+#: wp-live-chat-support.php:4465
+msgid "Invalid"
+msgstr "비허가됨"
+
+#: wp-live-chat-support.php:4471
+msgid "Linked Domains"
+msgstr "연결된 도메인들"
+
+#: wp-live-chat-support.php:4533 wp-live-chat-support.php:4591
+msgid "From"
+msgstr "로부터"
+
+#: wp-live-chat-support.php:4535 wp-live-chat-support.php:4593
+msgid "Timestamp"
+msgstr "타임스탬프"
+
+#: wp-live-chat-support.php:4536 wp-live-chat-support.php:4594
+msgid "Origin"
+msgstr "원본"
+
+#: wp-live-chat-support.php:4541 wp-live-chat-support.php:4599
+msgid "user"
+msgstr "사용자"
+
+#: wp-live-chat-support.php:4543 wp-live-chat-support.php:4601
+msgid "agent"
+msgstr "에이전트"
+
+#: wp-live-chat-support.php:4664
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+"당신의 API 키는 비허가되었습니다. 당신은 미래에 있을 업데이트들을 받을 수 없"
+"습니다. <a href=\"admin.php?page=wplivechat-menu-api-keys-page\">이곳</a>에"
+"서 당신의 API 키를 입력해주세요."
+
+#: wp-live-chat-support.php:4743
+msgid "Advanced settings"
+msgstr "고급 셋팅"
+
+#: wp-live-chat-support.php:4750
+msgid "Only change these settings if you are experiencing performance issues."
+msgstr "만약 퍼포먼스 이슈를 경험하고 있다면, 오직 이러한 셋팅들을 변경하세요."
+
+#: wp-live-chat-support.php:4757
+msgid "What type of environment are you on?"
+msgstr "당신은 어떤 타입의 환경에 있습니까?"
+
+#: wp-live-chat-support.php:4761
+msgid "Shared hosting - low level plan"
+msgstr "공유된 호스팅 - low level plan"
+
+#: wp-live-chat-support.php:4762
+msgid "Shared hosting - normal plan"
+msgstr "공유된 호스팅 - normal plan"
+
+#: wp-live-chat-support.php:4763
+msgid "VPS"
+msgstr "VPS"
+
+#: wp-live-chat-support.php:4764
+msgid "Dedicated server"
+msgstr "독립된 서버"
+
+#: wp-live-chat-support.php:4770
+msgid "Long poll setup"
+msgstr "장기 설치형"
+
+#: wp-live-chat-support.php:4770
+#, fuzzy
+#| msgid ""
+#| "Only change these if you are an experienced developer or if you have "
+#| "received these figures from the Code Cabin Support team."
+msgid ""
+"Only change these if you are an experienced developer or if you have "
+"received these figures from the WP Live Chat Support team."
+msgstr ""
+"당신이 경험있는 개발자이거나, Code Cabin Support team으로부터 이러한 특징들"
+"을 전달받았다면, 이러한 옵션들을 변경하세요."
+
+#: wp-live-chat-support.php:4776
+msgid "Iterations"
+msgstr "반복"
+
+#: wp-live-chat-support.php:4780
+msgid "Sleep between iterations"
+msgstr "반복들 사이에서의 대기"
+
+#: wp-live-chat-support.php:4783
+msgid "microseconds"
+msgstr "마이크로초"
+
+#: wp-live-chat-support.php:4806
+msgid "Display a 'Powered by' link in the chat box"
+msgstr ""
+
+#: wp-live-chat-support.php:4806
+msgid ""
+"Checking this will display a 'Powered by WP Live Chat Support' caption at "
+"the bottom of your chatbox."
+msgstr ""
+
+#: wp-live-chat-support.php:4849
+#, fuzzy
+#| msgid "Powered By WP Live Chat Support"
+msgid "Powered by WP Live Chat Support"
+msgstr "WP Live Chat Support의 지원을 받습니다."
+
+#: wp-live-chat-support.php:4893 wp-live-chat-support.php:4913
+msgid "Custom Scripts"
+msgstr ""
+
+#: wp-live-chat-support.php:4917
+msgid "Custom CSS"
+msgstr ""
+
+#: wp-live-chat-support.php:4922
+msgid "Custom JS"
+msgstr ""
+
+#: wp-live-chat-support.php:5008
+#, php-format
+msgid ""
+"The Live Chat box is currently disabled on your website due to : <a href=\"%s"
+"\">General Settings</a>"
+msgstr ""
+
+#: wp-live-chat-support.php:5125
+msgid ""
+"Please deactivate WP Live Chat Suport - Email Transcript plugin. Since WP "
+"Live Chat Support 8.0.05 there is build in support for Email Transcript."
+msgstr ""
+
+#: wp-live-chat-support.php:5138
+#, php-format
+msgid ""
+"Thank you for chatting with us. If you have any questions, please <a href="
+"\"%1$s\" target=\"_blank\" style=\"font-family: Arial, Helvetica, sans-"
+"serif; font-size: 13px; color: #FFF; font-weight: bold; text-decoration: "
+"underline;\">contact us</a>"
+msgstr ""
+
+#: wp-live-chat-support.php:5155
+msgid "Email transcript to user"
+msgstr ""
+
+#: wp-live-chat-support.php:5239
+#, php-format
+msgid "Your chat transcript from %1$s"
+msgstr ""
+
+#: wp-live-chat-support.php:5337
+#, fuzzy
+#| msgid "Chat Window Settings"
+msgid "Chat Transcript Settings"
+msgstr "채팅창 설정"
+
+#: wp-live-chat-support.php:5340
+msgid "Enable chat transcripts:"
+msgstr ""
+
+#: wp-live-chat-support.php:5351
+msgid "Send transcripts to:"
+msgstr ""
+
+#: wp-live-chat-support.php:5358
+#, fuzzy
+#| msgid "Username"
+msgid "User"
+msgstr "사용자명"
+
+#: wp-live-chat-support.php:5369
+msgid "Send transcripts when chat ends:"
+msgstr ""
+
+#: wp-live-chat-support.php:5380
+#, fuzzy
+#| msgid "Email"
+msgid "Email body"
+msgstr "이메일"
+
+#: wp-live-chat-support.php:5392
+#, fuzzy
+#| msgid "Email Address"
+msgid "Email header"
+msgstr "이메일 주소"
+
+#: wp-live-chat-support.php:5403
+msgid "Email footer"
+msgstr ""
+
+#~ msgid "Mobile and Desktop App"
+#~ msgstr "모바일 & 데스크탑 앱"
+
+#, fuzzy
+#~| msgid "Add Quick Responses to your Live Chat"
+#~ msgid "Add Quick Responses to your Live Chat with our Pro Add-on"
+#~ msgstr "당신의 실시간 채팅에 빠른 답장을 추가하세요."
+
+#, fuzzy
+#~| msgid "Device"
+#~ msgid "Devices"
+#~ msgstr "기기"
+
+#, fuzzy
+#~| msgid "WP Live Chat Support Settings"
+#~ msgid "WP Live Chat Support - Devices"
+#~ msgstr "WP Live Chat Support 셋팅"
+
+#, fuzzy
+#~| msgid "Linked Domains"
+#~ msgid "Linked to"
+#~ msgstr "연결된 도메인들"
+
+#, fuzzy
+#~| msgid "Device"
+#~ msgid "Add Device"
+#~ msgstr "기기"
+
+#, fuzzy
+#~| msgid "Add Agent"
+#~ msgid "For Agent"
+#~ msgstr "에이전트 추가"
+
+#, fuzzy
+#~| msgid "Agents"
+#~ msgid "Agent ID"
+#~ msgstr "에이전트"
+
+#, fuzzy
+#~| msgid "Contact us"
+#~ msgid "Contact Us"
+#~ msgstr "접촉하기"
+
+#, fuzzy
+#~| msgid "View Chat History"
+#~ msgid "New Chat from"
+#~ msgstr "채팅 기록 보기"
+
+#, fuzzy
+#~| msgid "Message"
+#~ msgid "New Message"
+#~ msgstr "메세지"
+
+#~ msgid "Mobile and Desktop App Settings"
+#~ msgstr "모바일 & 데스크탑 앱 셋팅"
+
+#~ msgid "Enable mobile and desktop app"
+#~ msgstr "모바일 & 데스크탑 앱을 허용"
+
+#~ msgid "App"
+#~ msgstr "앱"
+
+#~ msgid "Incoming Chat"
+#~ msgstr "대기중인 채팅"
+
+#~ msgid "You have an incoming chat."
+#~ msgstr "대기중인 채팅을 가지고 있습니다."
+
+#~ msgid "Chat Active"
+#~ msgstr "채팅 활성화"
+
+#~ msgid "This chat is active"
+#~ msgstr "이 채팅은 활성화되었습니다."
+
+#~ msgid "You must be a chat agent to initiate chats"
+#~ msgstr "채팅을 초기화 하려면, 당신은 채팅 에이전트여야 합니다."
+
+#~ msgid "Visitors on site"
+#~ msgstr "사이트 방문자"
+
+#~ msgid "No visitors on-line at the moment"
+#~ msgstr "지금 온라인에 있는 방문자가 없습니다."
+
+#~ msgid "No chat sessions available at the moment"
+#~ msgstr "지금 가능한 채팅 세션들이 없습니다."
+
+#~ msgid "You must be a chat agent to answer chats"
+#~ msgstr "채팅에 대답하기 우해서는 당신은 반드시 채팅 에이전트여야만 합니다."
+
+#~ msgid "Open Chat Window"
+#~ msgstr "채팅창 열기"
+
+#~ msgid "Chat has been answered by another agent"
+#~ msgstr "또다른 에이전트에 의해서 채팅이 응답되어져 왔습니다."
+
+#~ msgid "Chat answered by another agent"
+#~ msgstr "또다른 에이전트에 의해서 채팅이 응답됬었습니다."
+
+#~ msgid "Alert: Someone wants to chat with you on "
+#~ msgstr "알림: 누군가가 당신과 채팅하기를 원합니다"
+
+#~ msgid "Someone wants to chat with you on your website"
+#~ msgstr "누군가가 당신의 웹사이트에서 당신과 채팅하기를 원합니다."
+
+#~ msgid "Log in"
+#~ msgstr "로그인"
+
+#~ msgid "Contributor"
+#~ msgstr "기여자"
+
+#~ msgid "Subscriber"
+#~ msgstr "구독자"
+
+#~ msgid "Dear Pro User"
+#~ msgstr "친애하는 프로 사용자에게"
+
+#~ msgid ""
+#~ "Please enter a valid API key on the 'Live Chat' -> 'Settings' page. "
+#~ "Failing to do this will result in you no longer receiving updates for "
+#~ "this plugin."
+#~ msgstr ""
+#~ "'Live Chat' -> '셋팅' 페이지에서의 인가된 API 키를 입력해주세요. 이것을 실"
+#~ "패한다면, 당신은 이플러그인에 대해서 더이상 업데이트를 받을 수 없습니다."
+
+#~ msgid "You can obtain a copy of your API key "
+#~ msgstr "당신의 API 키의 복사본을 얻을 수 있습니다."
+
+#~ msgid ""
+#~ "An account has been created for you while purchasing the plugin. If you "
+#~ "have lost your password, please reset it "
+#~ msgstr ""
+#~ "플러그인을 구매하는 동안, 당신에게 계정하나가 생성되었습니다. 만약 비밀번"
+#~ "호를 잊어버렸다면, 이것을 리셋하세요."
+
+#~ msgid ""
+#~ "If you feel you are getting this message in error, please try refreshing "
+#~ "the page."
+#~ msgstr ""
+#~ "만약 에러안에서 이 메세지를 받는중이라고 느낀다면, 이 페이지를 새로고침하"
+#~ "기를 시도하세요."
+
+#~ msgid "Chat Agents"
+#~ msgstr "채팅 에이전트"
+
+#~ msgid "Chat Experience Ratings"
+#~ msgstr "채팅 경험 평점"
+
+#~ msgid "Main Settings"
+#~ msgstr "메인 셋팅"
+
+#~ msgid "Find out more."
+#~ msgstr "더 찾아보세요."
+
+#~ msgid "Cloud Server"
+#~ msgstr "클라우드 서버"
+
+#~ msgid "Use our server to host your chat server."
+#~ msgstr "당신의 채팅 서버에 호스팅하기 위해서 우리의 서버를 사용하세요."
+
+#~ msgid "This API key is "
+#~ msgstr "이 API 키는"
+
+#~ msgid "valid"
+#~ msgstr "허가됨"
+
+#~ msgid "invalid"
+#~ msgstr "비허가됨"
+
+#~ msgid ""
+#~ "A valid API key means that you will be able to get the latest version of "
+#~ "the plugin as and when it is released, as well as get access to support "
+#~ "should you require it."
+#~ msgstr ""
+#~ "API 키가 인가되었다는 것은, 최신 릴리즈가 올라왔을때 최신버전의 플러그인"
+#~ "을 제공받을 수 있을것이라는 것 뿐만아니라  도움이 필요하다면 서포트에 접근"
+#~ "할 수 있다는 것을 의미합니다."
+
+#~ msgid "Hide Chat"
+#~ msgstr "채팅 숨기기"
+
+#~ msgid "Hides chat for 24hrs when user clicks X"
+#~ msgstr "유저가 X를 클릭했을때, 24시간동안 채팅을 숨김"
+
+#, fuzzy
+#~| msgid "Show After"
+#~ msgid "Show email"
+#~ msgstr "이후에 보여주기"
+
+#, fuzzy
+#~| msgid "Show After"
+#~ msgid "Show name"
+#~ msgstr "이후에 보여주기"
+
+#~ msgid "Record a visitor's IP Address"
+#~ msgstr "방문자의 IP 주소 기록"
+
+#~ msgid "Disable this to enable anonymity for your visitors"
+#~ msgstr ""
+#~ "당신의 방문자를 위해서 익명성을 허용하기 위해서는 이것을 비허용하세요."
+
+#, fuzzy
+#~| msgid "Recomended Size 250px x 40px"
+#~ msgid "Recommended Size 50px x 50px"
+#~ msgstr "250px x 40px 의 사이즈를 추천합니다."
+
+#, fuzzy
+#~| msgid "Recomended Size 40px x 40px"
+#~ msgid "Recommended Size 40px x 40px"
+#~ msgstr "40px x 40px의 사이즈를 추천합니다."
+
+#, fuzzy
+#~| msgid "Recomended Size 250px x 40px"
+#~ msgid "Recommended Size 250px x 40px"
+#~ msgstr "250px x 40px 의 사이즈를 추천합니다."
+
+#~ msgid "Display name and avatar in chat"
+#~ msgstr "채팅에서 이름과 아바타를 보여줌"
+
+#~ msgid ""
+#~ "Display the agent and user name above each message in the chat window."
+#~ msgstr "채팅창에서 각 메세지들에 사용자와 에이전트의 이름을 표시합니다."
+
+#~ msgid "Theme 1"
+#~ msgstr "테마 1"
+
+#~ msgid "Theme 2"
+#~ msgstr "테마 2"
+
+#~ msgid "Theme 3"
+#~ msgstr "테마 3"
+
+#~ msgid "Theme 4"
+#~ msgstr "테마 4"
+
+#~ msgid "Theme 5"
+#~ msgstr "테마 5"
+
+#~ msgid "Theme 6"
+#~ msgstr "테마 6"
+
+#~ msgid "Custom. Enter Colour Values Below"
+#~ msgstr "커스텀합니다. 아래에 색상값을 입력하세요."
+
+#~ msgid "Chat box fill color"
+#~ msgstr "채팅 박스에 컬러를 채웁니다."
+
+#~ msgid "Chat box font color"
+#~ msgstr "채팅 박스 폰트 컬러"
+
+#~ msgid "documentation"
+#~ msgstr "문서"
+
+#~ msgid ""
+#~ "You will only be able to edit the strings shown in the chat window of the "
+#~ "code now. <br/> This has been done to accommodate as many localization "
+#~ "plugins as possible. <br/> For more information on how to change these "
+#~ "strings, please consult the "
+#~ msgstr ""
+#~ "이제, 채팅창의 코드안에서 보여질 문자들을 수정할 수 있게 될것입니다. <br/"
+#~ "> 이것은 가능한 많은 개인적인 플러그인들을 유지시키기 위해서 수행되어질 것"
+#~ "입니다. <br/> 이 문자열을 변경하는 방법에 대해서는 정보를 더 참조하시고, "
+#~ "우리와 상담하세요."
+
+#~ msgid "User chat welcome"
+#~ msgstr "사용자 채팅을 환영합니다."
+
+#~ msgid "This text is shown above the user chat input field"
+#~ msgstr "이 텍스트는 사용자의 채팅 입력 필드에 보여질 것입니다."
+
+#, fuzzy
+#~| msgid "Chat button text"
+#~ msgid "Close Button Text"
+#~ msgstr "채팅 버튼 텍스트"
+
+#~ msgid ""
+#~ "You are using an outdated version of WP Live Chat Support Basic. Please "
+#~ "update your plugin to allow for animations to function"
+#~ msgstr ""
+#~ "당신은 구식인 WP Live Support basic을 사용하는 중입니다. 기능들에 대해서 "
+#~ "애니메이션을 허용하기 위해서, 당신의 플러그인을 업데이트 해주세요."
+
+#~ msgid ""
+#~ "are only available in the WP Live Chat Support Chat Experience Ratings "
+#~ "add-on"
+#~ msgstr "WP Live Chat Support 채팅 경험 평가 애드온에서만 사용가능합니다."
+
+#, fuzzy
+#~| msgid "Please update to the latest version of WP Live Chat Support Pro"
+#~ msgid ""
+#~ "Departments are not currently supported with the Cloud Server of WP Live "
+#~ "Chat Support."
+#~ msgstr "최신 버전의 WP Live Chat Support 프로를 사용하세요."
+
+#, fuzzy
+#~| msgid "WP Live Chat Support Triggers"
+#~ msgid "WP Live Chat Support - Update Suggested"
+#~ msgstr "WP Live Chat Support 트리거"
+
+#, fuzzy
+#~| msgid ""
+#~| "You are using an outdated version of <strong>WP Live Chat Support Pro</"
+#~| "strong>."
+#~ msgid ""
+#~ "We have detected that you are using a heavily out-dated version of WP "
+#~ "Live Chat Support"
+#~ msgstr ""
+#~ "당신은 구닥다리 <strong>WP Live Chat Support 프로</strong>를 사용하는 중입"
+#~ "니다."
+
+#~ msgid ""
+#~ "WP Live Chat Support Pro <strong>requires WP Live Chat Support version "
+#~ "6+</strong> (basic version). Please <strong><a href=\"%1$s\">update the "
+#~ "plugin</a></strong> in order for the plugin to continue working correctly."
+#~ msgstr ""
+#~ "WP Live Chat Support Pro 가 <strong>WP Live Chat Support version 6+</"
+#~ "strong> (기본 버전) 를 요구합니다. 플러그인이 올바르게 동작하기 위해서는, "
+#~ "<strong><a href=\"%1$s\">플러그인 업데이트</a></strong>를 부탁합니다."
+
+#~ msgid "All Quick Responses"
+#~ msgstr "모든 빠른 답장"
+
+#~ msgid ""
+#~ "Please update your <a href='%s'>basic version</a> to make use of this "
+#~ "feature."
+#~ msgstr ""
+#~ "이 기능을 사용하기 위해서는, 당신의 <a href='%s'>베이직 버전</a>을 업데이"
+#~ "트 해주세요."
+
+#~ msgid ""
+#~ "Please update your <a href='%s'>basic version</a> to make use of these "
+#~ "features."
+#~ msgstr ""
+#~ "이러한 기능들을 사용하기 위해서는 <a href='%s'>기본 버전</a>을 업데이트 해"
+#~ "주세요."
+
+#~ msgid "Get Pro Add-on to accept more chats"
+#~ msgstr "더 많은 채팅을 받기 위해서는, 프로 애드온을 설치하세요."
+
+#, fuzzy
+#~| msgid "Via WP Live Chat Support"
+#~ msgid "WP Live Chat Trigger (WP Live Chat Support)"
+#~ msgstr "WP Live Chat Support를 통해"
+
+#, fuzzy
+#~| msgid "Upload Logo"
+#~ msgid "Block Logo"
+#~ msgstr "로고 업로드"
+
+#, fuzzy
+#~| msgid "Intro Text"
+#~ msgid "Block Text"
+#~ msgstr "인사말"
+
+#, fuzzy
+#~| msgid "Display survey"
+#~ msgid "Display Icon"
+#~ msgstr "설문조사 노출"
+
+#, fuzzy
+#~| msgid "Via WP Live Chat Support"
+#~ msgid "WP Live Chat Box (WP Live Chat Support)"
+#~ msgstr "WP Live Chat Support를 통해"
+
+#~ msgid "Start Live Chat"
+#~ msgstr "실시간 채팅을 시작합니다."
+
+#~ msgid "Connecting you to a sales person. Please be patient."
+#~ msgstr "당신의 요원에게 연결하는 중입니다. 얌전히 기다리세요."
+
+#~ msgid "Include chat window on the following pages"
+#~ msgstr "따르는 페이지에서 채팅창을 포함합니다."
+
+#~ msgid "available in the"
+#~ msgstr "허가합니다 (내부)"
+
+#~ msgid "Pro Add-on"
+#~ msgstr "프로 애드온"
+
+#~ msgid "only"
+#~ msgstr "유일하게"
+
+#~ msgid "Exclude chat window on the following pages"
+#~ msgstr "뒤따르는 페이지에서 채팅창을 제외합니다."
+
+#~ msgid "Display a typing animation as soon as someone starts typing."
+#~ msgstr "누군가가 타이핑을 시작하자마자 타이핑 애니메이션을 보여줍니다."
+
+#~ msgid "Alert me via email as soon as someone wants to chat"
+#~ msgstr "누군가가 채팅하기를 원하자마자 나에게 이메일을 통해서 알림"
+
+#~ msgid ""
+#~ "Need help? <a href='https://wp-livechat.com/contact-us/' "
+#~ "target='_BLANK'>Contact us</a> and we'll get back to you as soon as "
+#~ "possible!"
+#~ msgstr ""
+#~ "도움이 필요하세요? <a href='https://wp-livechat.com/contact-us/' "
+#~ "target='_BLANK'>연락하기</a> 이후에 가능한한 빨리 당신에게 답장하겠습니다!"
+
+#~ msgid "How did you find us?"
+#~ msgstr "어떻게 우리를 찾나요?"
+
+#~ msgid "WordPress.org plugin repository "
+#~ msgstr "WordPress.org 플러그인 저장소"
+
+#~ msgid "Search Term"
+#~ msgstr "검색 단어"
+
+#~ msgid "Google or other search Engine"
+#~ msgstr "구글 혹은 다른 검색 엔진"
+
+#~ msgid "Friend recommendation"
+#~ msgstr "친구의 추천"
+
+#~ msgid "Other"
+#~ msgstr "기타"
+
+#~ msgid "Please Explain"
+#~ msgstr "설명 부탁드립니다."
+
+#~ msgid "Submit"
+#~ msgstr "전송"
+
+#~ msgid "Skip"
+#~ msgstr "건너뛰기"
+
+#, fuzzy
+#~| msgid "Visitor"
+#~ msgid "Visit our"
+#~ msgstr "방문자"
+
+#, fuzzy
+#~| msgid "Support desk"
+#~ msgid "Support Desk"
+#~ msgstr "Support desk"
+
+#~ msgid "Feedback"
+#~ msgstr "피드백"
+
+#, fuzzy
+#~| msgid "Send Feedback"
+#~ msgid "Send us your feedback"
+#~ msgstr "피드백 보내기"
+
+#, fuzzy
+#~| msgid "Download Chat History"
+#~ msgid "Download Chat Data"
+#~ msgstr "채팅 기록 다운로드"
+
+#~ msgid "Contact us"
+#~ msgstr "접촉하기"
+
+#~ msgid " with the Pro add-on of WP Live Chat Support"
+#~ msgstr "WP Live Chat Support 프로 애드온과 함께"
+
+#~ msgid "(once off payment)."
+#~ msgstr "(한번만 지불)"
+
+#~ msgid "With the Pro add-on of WP Live Chat Support, you can"
+#~ msgstr "프로 애드온 그리고 WP Live Chat Support 와 함깨라면, 당신은 "
+
+#~ msgid "see who's online and initiate chats"
+#~ msgstr "누가 온라인인지 채팅을 시작하려 하는지를 볼 수 있습니다."
+
+#~ msgid "initiate chats"
+#~ msgstr "채팅을 유도하세요"
+
+#~ msgid "with your online visitors with the click of a button."
+#~ msgstr "버튼을 클릭함에 의해서 당신의 온라인 방문자에게"
+
+#~ msgid "Buy the Pro add-on now (once off payment)."
+#~ msgstr "당장 프로 애드온 구매하기 (한번만 지불)"
+
+#~ msgid "Buy the Pro add-on now."
+#~ msgstr "프로 애드온을 즉시 구매"
+
+#, fuzzy
+#~| msgid "WP Live Chat Support - Offline Message from "
+#~ msgid "WP Live Chat Support - Offline Mode"
+#~ msgstr "WP Live Chat Support - 오프라인 메세지"
+
+#, fuzzy
+#~| msgid "Upgrade Now"
+#~ msgid "Upgrade"
+#~ msgstr "당장 업그레이드"
+
+#, fuzzy
+#~| msgid "The chat has been ended"
+#~ msgid "Chat has been ended."
+#~ msgstr "해당 채팅이 종료되었습니다."
+
+#, fuzzy
+#~| msgid "Device"
+#~ msgid "Device Linked"
+#~ msgstr "기기"
+
+#, fuzzy
+#~| msgid "Device"
+#~ msgid "Push Devices"
+#~ msgstr "기기"
+
+#, fuzzy
+#~| msgid "Enable Trigger"
+#~ msgid "Event Triggered"
+#~ msgstr "트리거 허용"
+
+#~ msgid "Extensions"
+#~ msgstr "확장"
+
+#~ msgid "Premium Extension API Keys"
+#~ msgstr "프리미엄 확장 API 키"
+
+#~ msgid ""
+#~ "You are using an outdated version of <strong>WP Live Chat Support Pro</"
+#~ "strong>. Please"
+#~ msgstr ""
+#~ "당신은 구닥다리 <strong>WP Live Chat Support 프로</strong>를 사용하는 중입"
+#~ "니다. 부탁하는데"
+
+#~ msgid "update to at least version"
+#~ msgstr "최신 버전으로 업데이트 시키세요."
+
+#~ msgid "to ensure all functionality is in working order"
+#~ msgstr "모든 기능을 보장하는 것이 주문을 만들어냅니다."
+
+#~ msgid ""
+#~ "You're live chat box on your website has been temporarily disabled until "
+#~ "the Pro plugin has been updated. This is to ensure a smooth and hassle-"
+#~ "free user experience for both yourself and your visitors."
+#~ msgstr ""
+#~ "프로 플러그인이 업데이트 되기 전까지, 웹사이트의 실시간 채팅박스가 일시적"
+#~ "으로 비허용 되었습니다. 이것은 스무쓰하고 엄청빠른 사용자 경험을 당신자신"
+#~ "과 당신의 방문자들을 위해서 보장할 것입니다."
+
+#~ msgid ""
+#~ "You can update your plugin <a href='./update-core.php'>here</a>, <a "
+#~ "href='./plugins.php'>here</a> or <a href='https://wp-livechat.com/get-"
+#~ "updated-version/' target='_BLANK'>here</a>."
+#~ msgstr ""
+#~ "<a href='./update-core.php'>여기</a>에서 당신의 플러그인을 업데이트 할 수 "
+#~ "있고, <a href='./plugins.php'>여기</a> 혹은 <a href='https://wp-livechat."
+#~ "com/get-updated-version/' target='_BLANK'>여기</a>.에서도 가능합니다."
+
+#~ msgid "If you are having difficulty updating the plugin, please contact"
+#~ msgstr ""
+#~ "만약 플러그인을 업데이트하는데 어려움을 겪고있다면, 우리와 접촉하세요."
+
+#~ msgid ""
+#~ "You are using an outdated version of <strong>WP Live Chat Support Pro</"
+#~ "strong>."
+#~ msgstr ""
+#~ "당신은 구닥다리 <strong>WP Live Chat Support 프로</strong>를 사용하는 중입"
+#~ "니다."
+
+#~ msgid "Please update to the latest version of WP Live Chat Support Pro"
+#~ msgstr "최신 버전의 WP Live Chat Support 프로를 사용하세요."
+
+#~ msgid "Version 5.0.1"
+#~ msgstr "버전 5.0.1"
+
+#~ msgid "to ensure everything is working correctly."
+#~ msgstr "올바르게 작동하는 것이 모든것에 보장되어 있습니다."
+
+#, fuzzy
+#~| msgid ""
+#~| "<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a "
+#~| "survey</a>."
+#~ msgid "Need help? <a href=\"%s\" target=\"_BLANK\">contact us</a>."
+#~ msgstr ""
+#~ "<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">설문조사 생성</"
+#~ "a>."
+
+#~ msgid "Add-ons"
+#~ msgstr "애드온"
+
+#~ msgid "Get more add-ons"
+#~ msgstr "더많은 애드온을 얻으세요"
+
+#~ msgid "Add Quick Responses to your Live Chat"
+#~ msgstr "당신의 실시간 채팅에 빠른 답장을 추가하세요."
+
+#~ msgid "Pro version only"
+#~ msgstr "프로버전 전용"
+
+#~ msgid ""
+#~ "Please update to the latest version of WP Live Chat Support Pro to start "
+#~ "recording any offline messages."
+#~ msgstr ""
+#~ "어떤 오프라인 메세지들을 기록하는것을 시작하기 위해서 WP Live Chat "
+#~ "Support 프로의 최신버전으로 업데이트하세요."
+
+#~ msgid "This option is only available in the "
+#~ msgstr "이 옵션은 유일하게 가능합니다. (타겟"
+
+#~ msgid "Suggested Plugins"
+#~ msgstr "제안된 플러그인"
+
+#~ msgid "Sola Support Tickets"
+#~ msgstr "Sola Support Tickets"
+
+#~ msgid ""
+#~ "The easiest to use Help Desk & Support Ticket plugin. Create a support "
+#~ "help desk quickly and easily with Sola Support Tickets."
+#~ msgstr ""
+#~ "가장 쉬운방법은 Help Desk & Support Ticket 플러그인을 사용하는 것입니다. "
+#~ "support help desk를 Sola Support Tickets과 함께 빠르고 쉽게설정하세요."
+
+#~ msgid "Get this Plugin"
+#~ msgstr "이 플러그인 얻기"
+
+#~ msgid "Nifty Newsletters"
+#~ msgstr "Nifty Newsletters"
+
+#~ msgid ""
+#~ "Create and send newsletters, automatic post notifications and "
+#~ "autoresponders that are modern and beautiful with Nifty Newsletters."
+#~ msgstr ""
+#~ "뉴스레터, 자동적인 포스트 알림, 자동 응답자를 생성하고 보내세요. 이것은 아"
+#~ "름답고 현대적인 Nifty Newsletters와 함께합니다."
+
+#~ msgid "Price:"
+#~ msgstr "가격:"
+
+#~ msgid "Free"
+#~ msgstr "무료"
+
+#~ msgid "Paid"
+#~ msgstr "지불됨"
+
+#~ msgid "For:"
+#~ msgstr "대상:"
+
+#~ msgid "Both"
+#~ msgstr "둘다"
+
+#~ msgid "Free version"
+#~ msgstr "무료 버전"
+
+#~ msgid "Pro version"
+#~ msgstr "프로 버전"
+
+#~ msgid "Already installed"
+#~ msgstr "이미 설치됨"
+
+#~ msgid ""
+#~ "Getting started? Read through some of these articles to help you along "
+#~ "your way."
+#~ msgstr "시작하려 합니까? 당신의 하려는 것을 위해서, 이 글을 읽고 얻으세요."
+
+#~ msgid "Documentation:"
+#~ msgstr "문서:"
+
+#~ msgid "Minimum System Requirements"
+#~ msgstr "최소 시스템 요구사항"
+
+#~ msgid "Do I have to be logged into the dashboard to chat with visitors?"
+#~ msgstr ""
+#~ "방문자와 함께 채팅하기 위해서, 내가 대쉬보드로 로그인되어져야 합니까?"
+
+#~ msgid "What are Quick Responses?"
+#~ msgstr "빠른 답장이 무엇일까요?"
+
+#~ msgid "Can I use this plugin on my multi-site?"
+#~ msgstr "이 플러그인을 내 멀티사이트에서 사용할 수 있습니까?"
+
+#~ msgid "How do I disable APC Object Cache?"
+#~ msgstr "APC Object Cache 를 내가 어떻게 비허용 할수 있습니까?"
+
+#~ msgid "Do you have a mobile app?"
+#~ msgstr "당신은 어떻게 모바일 앱을 얻습니까?"
+
+#~ msgid "How do I check for JavaScript errors on my site?"
+#~ msgstr "나의 사이트에서 내가 어떻게 자바스크립트 에러를 체크할 수 있습니까?"
+
+#~ msgid "The chat box doesnt show up"
+#~ msgstr "채팅 박스가 떠오르지 않았습니다."
+
+#~ msgid "The chat window disappears when I logout or go offline"
+#~ msgstr "로그아웃하거나 오프라인으로 갈때, 채팅박스가 사라집니다."
+
+#~ msgid "This chat has already been answered. Please close the chat window"
+#~ msgstr "이 채팅은 이미 답장되었습니다. 채팅창을 닫아주세요."
+
+#~ msgid "Support desk"
+#~ msgstr "Support desk"
+
+#~ msgid "accept and handle multiple chats."
+#~ msgstr "다수의 채팅을 조작하고 받아들입니다."
+
+#~ msgid "WP Live Chat Support is a product of"
+#~ msgstr "WP Live Chat Support 는 이런 상품입니다."
+
+#~ msgid "Add as many agents as you need with the "
+#~ msgstr "당신이 필요한 만큼의 많은 에이전트들을 추가하세요."
+
+#~ msgid "Pro version."
+#~ msgstr "프로 버전."
+
+#~ msgid "Change the default chat agent from <strong>%1$s</strong> to "
+#~ msgstr "당신의 기본 채팅 에이전트를 <strong>%1$s</strong> 로부터 변경하세요"
+
+#~ msgid ""
+#~ "Get unlimited agents, initiate chats, advanced chat box control, "
+#~ "encryption and more with the Pro add-on."
+#~ msgstr ""
+#~ "무제한의 에이전트들을 얻고, 채팅을 유도하며, 고급적인 채팅 박스를 제어하"
+#~ "고 암호화하며 더많은 것을 애드온과 함께하세요."
+
+#~ msgid "Get this extension"
+#~ msgstr "이 익스텐션 얻기"
+
+#~ msgid "Mobile & Desktop App"
+#~ msgstr "모바일 & 데스크탑 앱"
+
+#~ msgid ""
+#~ "Answer chats directly from your mobile phone or desktop with our mobile "
+#~ "app and desktop client"
+#~ msgstr ""
+#~ "우리의 모바일 앱과 데스크탑 클라이언트와 함께 당신의 모바일 혹은 데스크탑"
+#~ "으로부터 곧바로 채팅응답을 하세요."
+
+#~ msgid "Relevant Extensions"
+#~ msgstr "관련된 익스텐션"
+
+#~ msgid "Powered By WP Live Chat Support"
+#~ msgstr "WP Live Chat Support의 지원을 받습니다."
+
+#~ msgid "View comprehensive reports regarding your chat and agent activity."
+#~ msgstr "당신의 채팅과 에이전트 활동에 대해서 포괄적인 리포트를 봅니다."
+
+#~ msgid "Reports"
+#~ msgstr "리포트"
+
+#~ msgid "Chat statistics"
+#~ msgstr "채팅 통계"
+
+#~ msgid "Popular pages"
+#~ msgstr "인기있는 페이지들"
+
+#~ msgid ""
+#~ "ROI reporting and tracking (identify which agents produce the most sales)"
+#~ msgstr ""
+#~ "ROI 리포팅과 추적 (어떤 에이전트가 가장 많은 실적을 냈는지를 증명합니다.)"
+
+#~ msgid ""
+#~ "User experience ratings (identify which agents produce the happiest "
+#~ "customers)"
+#~ msgstr ""
+#~ "유저 사용 경험  (어떤 에이전트가 기분좋은 손님들을 만들어냈는지를 증명합니"
+#~ "다.)"
+
+#~ msgid "Get all this and more in the "
+#~ msgstr "이것의 모든것과 더 많은 것을 얻어내세요"
+
+#~ msgid "Pro add-on"
+#~ msgstr "프로 애드온 안에서"
+
+#~ msgid "Upgrade Now"
+#~ msgstr "당장 업그레이드"
+
+#~ msgid ""
+#~ "Create custom data triggers when users view a certain page, spend a "
+#~ "certain amount of time on a page, scroll past a certain point or when "
+#~ "their mouse leaves the window."
+#~ msgstr ""
+#~ "유저가 특정 페이지를 볼때, 커스텀 데이터 트리거들을 생성하세요. 이것은 한 "
+#~ "페이지에서 특정한 시간을 보내며, 이전 특정 포인트들을 스크롤 하거나 손님들"
+#~ "의 마우스가 창을 벗어날 때 작동합니다."
+
+#~ msgid "Trigger Types"
+#~ msgstr "트리거 타입"
+
+#, fuzzy
+#~| msgid "Offline Text Fields"
+#~ msgid "Text Fields"
+#~ msgstr "오프라인 텍스트 필드"
+
+#, fuzzy
+#~| msgid ""
+#~| "Please update your <a href='%s'>basic version</a> to make use of this "
+#~| "feature."
+#~ msgid "Please update your Pro version to create a department"
+#~ msgstr ""
+#~ "이 기능을 사용하기 위해서는, 당신의 <a href='%s'>베이직 버전</a>을 업데이"
+#~ "트 해주세요."
+
+#~ msgid "Chat functionality has been paused."
+#~ msgstr "채팅 기능이 중지되었습니다."
+
+#~ msgid ""
+#~ "Please enter your verified API key in the <a href=\"admin.php?"
+#~ "page=wplivechat-menu-api-keys-page\">API Keys page</a> to activate the "
+#~ "cloud based functionality."
+#~ msgstr ""
+#~ "클라우드에 기반한 기능을 활성화시키기 위해서는, <a href=\"admin.php?"
+#~ "page=wplivechat-menu-api-keys-page\">API 키 페이지</a>안에 있는 인가된 "
+#~ "API 키를 입력하세요."
+
+#~ msgid "Are you sure you would like to delete chat history?"
+#~ msgstr "정말로 채팅 기록을 삭제하기를 원합니까?"
+
+#~ msgid "Are you sure you would like to delete all missed chats?"
+#~ msgstr "정말로 모든 전송실패한 채팅들을 삭제하길 원합니까?"
+
+#~ msgid ""
+#~ "You are currently using our <strong>cloud server</strong> to handle your "
+#~ "chat requests and live chat sessions.<br /><br />To disable this, please "
+#~ "deactivate the WP Live Chat Support - Cloud Server plugin."
+#~ msgstr ""
+#~ "당신의 채팅 요청들과 실시간 채팅 세션들을 조절하기 위해서 당신의 <strong>"
+#~ "클라우드 서버</strong>를 사용하는 중입니다.<br /><br />이것을 원하지 않는"
+#~ "다면, WP Live Chat Support - Cloud Server 플러그인을 비활성화 시키세요."
+
+#~ msgid ""
+#~ "Users will have to enter their Name and Email Address when starting a chat"
+#~ msgstr ""
+#~ "채팅이 시작되었을때, 사용자는 이름과 이메일을 입력해야만 할 것입니다."
+
+#~ msgid "You are currently accepting chats"
+#~ msgstr "당신은 즉각 채팅을 받는중입니다."
+
+#~ msgid "WP Live Chat Support Feedback"
+#~ msgstr "WP Live Chat Support 피드백"
+
+#~ msgid "Your Name"
+#~ msgstr "이름"
+
+#~ msgid "Your Email"
+#~ msgstr "이메일"
+
+#~ msgid "Version 6"
+#~ msgstr "버전 6"
+
+#~ msgid "The most popular live chat plugin!"
+#~ msgstr "가장 유명한 실시간 채팅 플러그인!"
+
+#~ msgid "Rest API"
+#~ msgstr "Rest API"
+
+#~ msgid "Option"
+#~ msgstr "옵션"
+
+#~ msgid ""
+#~ "There was a problem sending your feedback. Please log your feedback on "
+#~ msgstr ""
+#~ "당신의 피드백을 보내는것에 문제가 있습니다. 우리의 피드백에 대한 로그를 보"
+#~ "세요"
+
+#~ msgid ""
+#~ "Reduce the resources required by your server - use our cloud server to "
+#~ "host your chats."
+#~ msgstr ""
+#~ "당신의 서버에 의해서 요구된 리소스들을 줄입니다 - 당신의 채팅을 호스트하"
+#~ "기 위해서 우리의 클라우드 서버를 사용하세요."

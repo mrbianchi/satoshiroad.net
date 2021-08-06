@@ -1,0 +1,5178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wplivechat-bg\n"
+"POT-Creation-Date: 2019-05-03 12:59+0300\n"
+"PO-Revision-Date: 2019-05-03 14:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: wp-live-chat-support\n"
+"X-Poedit-SearchPath-1: wp-live-chat-support-pro\n"
+"X-Poedit-SearchPath-2: wp-live-chat-support-mobile-and-desktop-app\n"
+
+#: ajax.php:192 modules/api/wplc-api-functions.php:809
+#: wp-live-chat-support.php:3021 wp-live-chat-support.php:5363
+msgid "Admin"
+msgstr "Администратор"
+
+#: ajax.php:327 modules/api/wplc-api-functions.php:923
+msgid "Admin has closed and ended the chat"
+msgstr "Администратор е затворил и приключил чата"
+
+#: extra-functions.php:62 wp-live-chat-support.php:4217
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: extra-functions.php:174 extra-functions.php:180 extra-functions.php:185
+#: modules/node_server.php:1099
+msgid "Quick Responses"
+msgstr "Бързи Отговори"
+
+#: extra-functions.php:175 includes/settings_page.php:328
+msgid "Quick Response"
+msgstr "Бърз отговор"
+
+#: extra-functions.php:176 extra-functions.php:179
+msgid "New Quick Response"
+msgstr "Нов бърз отговор"
+
+#: extra-functions.php:177 modules/node_server.php:1108
+msgid "Add New Quick Response"
+msgstr "Добави нов бърз отговор"
+
+#: extra-functions.php:178
+msgid "Edit Quick Response"
+msgstr "Редактиране на бърз отговор"
+
+#: extra-functions.php:181
+msgid "View Quick Responses"
+msgstr "Преглед на бързи отговори"
+
+#: extra-functions.php:182
+msgid "Search Quick Responses"
+msgstr "Търсене на бързи отговори"
+
+#: extra-functions.php:183
+msgid "No Quick Responses found"
+msgstr "Не са намерени бързи отговори"
+
+#: extra-functions.php:184
+msgid "No Quick Responses found in the Trash"
+msgstr "Не са намерени бързи отговори в кошчето"
+
+#: extra-functions.php:189
+#, fuzzy
+#| msgid "Quick Responses for WP Live Chat Support Pro"
+msgid "Quick Responses for WP Live Chat Support"
+msgstr "Бързи отговори за WP Live Chat Support Pro"
+
+#: extra-functions.php:220
+msgid "Sort Order"
+msgstr "Подредба"
+
+#: extra-functions.php:256 includes/settings_page.php:337
+msgid "Title"
+msgstr "Заглавие"
+
+#: extra-functions.php:257 includes/settings_page.php:345
+msgid "Order"
+msgstr "Поръчка"
+
+#: extra-functions.php:258 includes/settings_page.php:1327
+msgid "Author"
+msgstr "Автор"
+
+#: extra-functions.php:259 functions.php:1700 includes/settings_page.php:338
+#: wp-live-chat-support.php:3646 wp-live-chat-support.php:3772
+msgid "Date"
+msgstr "Дата"
+
+#: extra-functions.php:338 extra-functions.php:342
+msgid "Assign Quick Response"
+msgstr "Възлагане на бърз отговор"
+
+#: extra-functions.php:345 includes/settings_page.php:1309
+msgid "Select"
+msgstr "Избери"
+
+#: extra-functions.php:351
+msgid "What is this?"
+msgstr "Какво е това?"
+
+#: extra-functions.php:410 extra-functions.php:3496
+#, php-format
+msgid "Incoming chat from %s (%s) on %s"
+msgstr "Входящ чат от %s (%s) на %s"
+
+#: extra-functions.php:416 extra-functions.php:3502
+#, php-format
+msgid "%s (%s) wants to chat with you. <br /><br />Log in: %s"
+msgstr "%s (%s) иска чат с теб. <br /><br />Вход: %s"
+
+#: extra-functions.php:869
+msgid "Status (Online)"
+msgstr "Статус (Онлайн)"
+
+#: extra-functions.php:870 includes/settings_page.php:1288
+msgid "Online"
+msgstr "Онлайн"
+
+#: extra-functions.php:871
+msgid "Offline"
+msgstr "Офлайн"
+
+#: extra-functions.php:872
+msgid "Status (Offline)"
+msgstr "Статус (Офлайн)"
+
+#: extra-functions.php:886
+msgid ""
+"You have set your status to offline. To view visitors and accept chats "
+"please set your status to online using the switch above."
+msgstr ""
+"Ти промени статуса си на \"офлайн\". За да виждаш потребителите и да приемаш "
+"на чатове, промени статуса си на онлайн използвайки ключа по горе."
+
+#: extra-functions.php:983
+msgid "Encryption"
+msgstr "Криптиране"
+
+#: extra-functions.php:989 includes/settings_page.php:1370
+msgid "Business Hours"
+msgstr "Работно време"
+
+#: extra-functions.php:1327
+msgid "Initiate Chat"
+msgstr "Започни чат"
+
+#: extra-functions.php:1437 includes/settings_page.php:180
+#: wp-live-chat-support.php:413 wp-live-chat-support.php:2941
+#: wp-live-chat-support.php:3988
+msgid "Guest"
+msgstr "Гост"
+
+#: extra-functions.php:1442
+msgid "Attempting to open the chat window... Please be patient."
+msgstr "Опит за отваряне на чат прозорец...Моля, изчакайте."
+
+#: extra-functions.php:1467
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+"Не си чат оператор. Трябва да се добавиш към списъка с чат оператори, за да "
+"можеш да разговаряш с посетители"
+
+#: extra-functions.php:1666 extra-functions.php:1682 extra-functions.php:1697
+msgid "Chat Agent"
+msgstr "Чат оператор"
+
+#: extra-functions.php:1671 extra-functions.php:1687
+msgid "Make this user a chat agent"
+msgstr "Направи този потребител чат оператор"
+
+#: extra-functions.php:1701
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr ""
+"Потребителската ти роля не позволява да оторизираш себе си, като чат "
+"оператор."
+
+#: extra-functions.php:1702
+msgid "Please contact the administrator of this website to change this."
+msgstr "Моля свържете се с администратора на сайта, за да промени това."
+
+#: extra-functions.php:1721
+msgid "This chat has already been answered by another agent."
+msgstr "Този чат вече беше отговорен от друг оператор."
+
+#: extra-functions.php:1969 wp-live-chat-support.php:2322
+msgid "Agent(s) online"
+msgstr "Оператор/и на линия"
+
+#: extra-functions.php:2025
+msgid "Chat Agent Online"
+msgstr "Чат оператор на линия"
+
+#: extra-functions.php:2027 extra-functions.php:2032
+msgid "Chat Agents Online"
+msgstr "Чат оператори на линия"
+
+#: extra-functions.php:2179 includes/settings_page.php:1298
+#: wp-live-chat-support.php:2244
+msgid "Remove"
+msgstr "Премахни"
+
+#: extra-functions.php:2182 wp-live-chat-support.php:2247
+msgid "Typing..."
+msgstr "Пише..."
+
+#: extra-functions.php:2471 extra-functions.php:2479
+msgid "Experience Rating"
+msgstr "Рейтинг"
+
+#: extra-functions.php:2559
+msgid "User Experience Ratings"
+msgstr "Рейтинг от потребителя"
+
+#: extra-functions.php:2566
+msgid "Agent Statistics"
+msgstr "Операторска статистика"
+
+#: extra-functions.php:2612
+msgid "Satisfaction Rating"
+msgstr "Рейтинг за удовлетвореност"
+
+#: extra-functions.php:2613
+msgid "Rating Count"
+msgstr "Брой Рейтинги"
+
+#: extra-functions.php:2613 extra-functions.php:2627
+msgid "Good"
+msgstr "Добре"
+
+#: extra-functions.php:2613 extra-functions.php:2627
+msgid "Bad"
+msgstr "Лошо"
+
+#: extra-functions.php:2621
+msgid "No Ratings for this agent"
+msgstr "Няма рейтинги за този оператор"
+
+#: extra-functions.php:2630
+msgid "View"
+msgstr "Виж"
+
+#: extra-functions.php:2676
+msgid "WP Live Chat Support Reporting"
+msgstr "WP Live Chat Support Доклади"
+
+#: extra-functions.php:2679 includes/wplc_roi.php:130
+msgid "Overview"
+msgstr "Преглед"
+
+#: extra-functions.php:2680
+msgid "Popular Pages"
+msgstr "Популярни страници"
+
+#: extra-functions.php:2698
+msgid "Total Agents"
+msgstr "Общ брой оператори"
+
+#: extra-functions.php:2698
+msgid "Total number of agents that used the live chat"
+msgstr "Общ оператори, които са използвали чата"
+
+#: extra-functions.php:2699
+msgid "Total Chats"
+msgstr "Общ брой чатове"
+
+#: extra-functions.php:2699
+msgid "Total number of chats received"
+msgstr "Общ брой на получените чатове"
+
+#: extra-functions.php:2700
+msgid "Total URLs"
+msgstr "Общо URL-и"
+
+#: extra-functions.php:2700
+msgid "Total number of URLs a chat was initiated on"
+msgstr "Общ брой URL-и, на който е бил инициализиран чат"
+
+#: extra-functions.php:2701
+msgid "Chats per day"
+msgstr "Чатове за ден"
+
+#: extra-functions.php:2702
+msgid "Popular pages a chat was initiated on"
+msgstr "Популярни страници, от които са били инициирани чатове"
+
+#: extra-functions.php:2732 includes/wplc_custom_fields.php:296
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: extra-functions.php:2778 functions.php:1703 wp-live-chat-support.php:3649
+msgid "URL"
+msgstr "URL"
+
+#: extra-functions.php:2779
+msgid "Count"
+msgstr "Брой"
+
+#: extra-functions.php:2805
+msgid "Disable initiate chat feature:"
+msgstr "Забрана за иницииране на чатове:"
+
+#: extra-functions.php:2805
+msgid ""
+"This will substantially improve performance. If you are experiencing "
+"performance issues on your site, you should disable the initiate chat "
+"feature and only enable it when you need it."
+msgstr ""
+"Това значително ще подобри работата. Ако имате проблеми с производителността "
+"на сайта си, трябва да деактивирате функцията за стартиране на чата и да я "
+"активирате само когато имате нужда от нея."
+
+#: extra-functions.php:2909
+msgid "Thank you for inquiry. We will get back to you shortly"
+msgstr "Благодарим ви за запитването. Скоро ще се свържем с вас"
+
+#: extra-functions.php:3207
+#, php-format
+msgid ""
+"The Live Chat box is currently disabled on your website due to : <a href=\"%s"
+"\">Business Hours Settings</a>"
+msgstr ""
+"The Live Chat box-а е неактивен в момента поради: <a href=\"%s\">Настройки "
+"на работно време</a>"
+
+#: extra-functions.php:3263
+msgid "Edit Profile"
+msgstr "Коригирай профил"
+
+#: extra-functions.php:3274 modules/node_server.php:916
+msgid "Drag Files Here"
+msgstr "Плъзни файловете тук"
+
+#: extra-functions.php:3300 extra-functions.php:3346
+#: includes/wplc_custom_fields.php:114 includes/wplc_data_triggers.php:453
+#: includes/wplc_data_triggers.php:584 includes/wplc_departments.php:180
+#: includes/wplc_departments.php:457 includes/wplc_roi.php:141
+#: includes/wplc_roi.php:545 modules/webhooks_manager.php:239
+msgid "Delete"
+msgstr "Изтриване"
+
+#: extra-functions.php:3301
+msgid "Send..."
+msgstr "Изпрати..."
+
+#: extra-functions.php:3302 extra-functions.php:3348
+msgid "Play voice note"
+msgstr "Възпроизведи гласова бележка"
+
+#: extra-functions.php:3347
+msgid "Save..."
+msgstr "Запази..."
+
+#: functions.php:410 functions.php:424
+msgid "Accept Chat"
+msgstr "Приеми чат"
+
+#: functions.php:416 functions.php:429
+msgid "Open Chat"
+msgstr "Отвори чат"
+
+#: functions.php:418
+msgid "In progress with another agent"
+msgstr "Чата се обработва от друг оператор"
+
+#: functions.php:432
+msgid "Only chat agents can accept chats"
+msgstr "Само чат оператори могат да приемат чатове"
+
+#: functions.php:483 modules/api/wplc-api-functions.php:579
+#: wp-live-chat-support.php:2613
+msgid "IP Address not recorded"
+msgstr "IP адреса не е записан"
+
+#: functions.php:485 wp-live-chat-support.php:2615
+msgid "Whois for"
+msgstr "Whois за"
+
+#: functions.php:508 modules/api/wplc-api-functions.php:595
+msgid "New"
+msgstr "Нов"
+
+#: functions.php:510 modules/api/wplc-api-functions.php:597
+msgid "Returning"
+msgstr "Връщащ се"
+
+#: functions.php:631
+msgid "No agent was able to answer your chat request. Please try again."
+msgstr ""
+"Нито един оператор не успя да отговори на запитването. Моля опитайте отново."
+
+#: functions.php:645
+msgid "Request new chat"
+msgstr "Искане за нов чат"
+
+#: functions.php:1113
+msgid "complete"
+msgstr "завършен"
+
+#: functions.php:1116
+msgid "pending"
+msgstr "в очакване"
+
+#: functions.php:1119
+msgid "active"
+msgstr "активен"
+
+#: functions.php:1122
+msgid "deleted"
+msgstr "изтрит"
+
+#: functions.php:1125
+msgid "browsing"
+msgstr "разглежда"
+
+#: functions.php:1128
+msgid "requesting chat"
+msgstr "искане за чат"
+
+#: functions.php:1131
+msgid "Chat Ended - User still browsing"
+msgstr "Чата е приключен - потребителя все още разглежда"
+
+#: functions.php:1134
+msgid "User is browsing but doesn't want to chat"
+msgstr "Потребителя разглежда, но не иска да разговаря"
+
+#: functions.php:1364 includes/settings_page.php:853
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "WP Live Chat Support - Офлайн съобщение от "
+
+#: functions.php:1365 functions.php:1701 includes/settings_page.php:167
+#: includes/wplc_custom_fields.php:72 includes/wplc_data_triggers.php:440
+#: includes/wplc_departments.php:171 includes/wplc_roi.php:129
+#: wp-live-chat-support.php:1407 wp-live-chat-support.php:1422
+#: wp-live-chat-support.php:1611 wp-live-chat-support.php:3647
+#: wp-live-chat-support.php:3773
+msgid "Name"
+msgstr "Име"
+
+#: functions.php:1366 functions.php:1702 includes/settings_page.php:163
+#: wp-live-chat-support.php:1408 wp-live-chat-support.php:1416
+#: wp-live-chat-support.php:1612 wp-live-chat-support.php:3648
+#: wp-live-chat-support.php:3774
+msgid "Email"
+msgstr "И-мейл"
+
+#: functions.php:1367 wp-live-chat-support.php:1613
+#: wp-live-chat-support.php:3775 wp-live-chat-support.php:4534
+#: wp-live-chat-support.php:4592
+msgid "Message"
+msgstr "Съобщение"
+
+#: functions.php:1368
+msgid "Via WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: functions.php:1408 wp-live-chat-support.php:373
+#: wp-live-chat-support.php:2983 wp-live-chat-support.php:4711
+msgid ""
+"Please standby for an agent. While you wait for the agent you may type your "
+"message."
+msgstr ""
+"Моля изчакайте връзка с оператор. Докато чакате, можете да напишете Вашето "
+"запитване."
+
+#: functions.php:1678 wp-live-chat-support.php:3605
+msgid "Error: Could not delete chat"
+msgstr "Грешка: Чатът не беше изтрит"
+
+#: functions.php:1682 wp-live-chat-support.php:3609
+msgid "Chat Deleted"
+msgstr "Чата беше изтрит"
+
+#: functions.php:1689 wp-live-chat-support.php:3616
+msgid "Are you sure you would like to delete this chat?"
+msgstr "Сигурни ли сте, че искате да изтриете този чат?"
+
+#: functions.php:1690 includes/settings_page.php:145
+#: includes/wplc_custom_fields.php:255 wp-live-chat-support.php:3617
+msgid "Yes"
+msgstr "Да"
+
+#: functions.php:1690 includes/settings_page.php:146
+#: includes/wplc_custom_fields.php:255 wp-live-chat-support.php:3617
+msgid "No"
+msgstr "Не"
+
+#: functions.php:1704 includes/wplc_custom_fields.php:76
+#: includes/wplc_data_triggers.php:445 includes/wplc_departments.php:172
+#: includes/wplc_roi.php:133 modules/webhooks_manager.php:227
+#: wp-live-chat-support.php:2400 wp-live-chat-support.php:3651
+msgid "Action"
+msgstr "Действие"
+
+#: functions.php:1720
+msgid "You have not missed any chat requests."
+msgstr "Нямате пропуснати заявки за чат."
+
+#: functions.php:1728 wp-live-chat-support.php:3670
+msgid "View Chat History"
+msgstr "Преглед на историята на чата"
+
+#: functions.php:1728 wp-live-chat-support.php:3670
+msgid "Download Chat History"
+msgstr "Изтегляне на историята на чата"
+
+#: functions.php:1748 wp-live-chat-support.php:3689
+#: wp-live-chat-support.php:3812
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: functions.php:1749 wp-live-chat-support.php:3690
+#: wp-live-chat-support.php:3813
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: functions.php:1930
+msgid "Open chat window via"
+msgstr "Отвори чат прозорец чрез"
+
+#: functions.php:1934
+msgid "Click"
+msgstr "Клик"
+
+#: functions.php:1935
+msgid "Hover"
+msgstr "Hover"
+
+#: functions.php:1937
+msgid "element with"
+msgstr "елемент с"
+
+#: functions.php:1939
+msgid "Class"
+msgstr "Клас"
+
+#: functions.php:1940 includes/wplc_custom_fields.php:71
+#: includes/wplc_data_triggers.php:439 includes/wplc_departments.php:170
+#: includes/wplc_roi.php:128
+msgid "ID"
+msgstr "ID"
+
+#: includes/credits.php:2
+msgid ""
+"WP Live Chat Support is supported by an international team of developers."
+msgstr "WP Live Chat Support е поддържан от международен екип от разработчици."
+
+#: includes/credits.php:3
+msgid "Project Leaders"
+msgstr "Ръководители на проекти"
+
+#: includes/credits.php:9
+msgid "Founder"
+msgstr "Основатели"
+
+#: includes/credits.php:9 includes/credits.php:14 includes/credits.php:26
+#: includes/credits.php:32 includes/credits.php:38 includes/credits.php:57
+#: includes/credits.php:63
+msgid "Developer"
+msgstr "Разработчик"
+
+#: includes/credits.php:9 includes/credits.php:14 includes/credits.php:26
+#: includes/credits.php:32 includes/credits.php:38 includes/credits.php:45
+#: includes/credits.php:57 includes/credits.php:63 wp-live-chat-support.php:659
+#: wp-live-chat-support.php:4234
+msgid "Support"
+msgstr "Поддръжка"
+
+#: includes/credits.php:14
+msgid "Project Manager"
+msgstr "Мениджър на проект"
+
+#: includes/credits.php:17
+msgid "Contributors"
+msgstr "Сътрудници"
+
+#: includes/credits.php:26 includes/credits.php:32 includes/credits.php:38
+#: includes/credits.php:75
+msgid "Testing"
+msgstr "Изпитатели"
+
+#: includes/credits.php:51
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: includes/credits.php:69
+msgid "Marketing &amp; Support"
+msgstr "Маркетинг &amp; Поддръжка"
+
+#: includes/credits.php:75 wp-live-chat-support.php:4238
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/credits.php:81
+msgid "InfoSec"
+msgstr "Инфо секция"
+
+#: includes/credits.php:86
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/credits.php:89
+msgid "Want to see your name on this page?"
+msgstr "Желаете ли да виждате вашето име на тази страница?"
+
+#: includes/credits.php:89
+msgid "Get involved on GitHub."
+msgstr "Включете се на GitHub."
+
+#: includes/credits.php:91 includes/welcome_page.php:101
+msgid "OK! Let's start"
+msgstr "ОК! Нека започваме"
+
+#: includes/dashboard_page.php:20
+#, fuzzy
+#| msgid "WP Live Chat Support Pro"
+msgid "WP Live Chat Support Dashboard"
+msgstr "WP Live Chat Support Pro"
+
+#: includes/dashboard_page.php:27
+#, fuzzy, php-format
+#| msgid "Welcome"
+msgid "Welcome, %s"
+msgstr "Добре дошли"
+
+#: includes/dashboard_page.php:46 wp-live-chat-support.php:3776
+msgid "Actions"
+msgstr "Действия"
+
+#: includes/dashboard_page.php:47
+#, fuzzy
+#| msgid "Chat with us"
+msgid "Chat with Visitors"
+msgstr "Пиши ни"
+
+#: includes/dashboard_page.php:48 wp-live-chat-support.php:642
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/dashboard_page.php:52
+#, fuzzy
+#| msgid "Active visitors"
+msgid "Active Visitors"
+msgstr "Активни потребители"
+
+#: includes/dashboard_page.php:54
+#, fuzzy
+#| msgid "Chat Box"
+msgid "Chat now"
+msgstr "Chat box"
+
+#: includes/dashboard_page.php:58
+#, fuzzy
+#| msgid "Total Conversions"
+msgid "Conversations"
+msgstr "Общо реализации"
+
+#: includes/dashboard_page.php:58
+#, fuzzy
+#| msgid "Last 30 Days"
+msgid "Last 90 days"
+msgstr "Последните 30 дни"
+
+#: includes/documentation_suggestions.php:135
+#: includes/notification_control.php:33 includes/notification_control.php:72
+#: includes/notification_control.php:135 includes/wplc_transfer_chats.php:469
+#: includes/wplc_transfer_chats.php:490 includes/wplc_transfer_chats.php:549
+#: includes/wplc_transfer_chats.php:581
+#: modules/documentation_suggestions.php:395
+#: modules/documentation_suggestions.php:417
+msgid "System notification"
+msgstr "Системни известия"
+
+#: includes/modal_control.php:24 modules/node_server.php:909
+msgid "Please Confirm"
+msgstr "Моля, потвърдете"
+
+#: includes/modal_control.php:28
+msgid "Are you sure?"
+msgstr "Сигурни ли сте?"
+
+#: includes/modal_control.php:36 includes/wplc_data_triggers.php:585
+#: includes/wplc_departments.php:246 includes/wplc_departments.php:458
+#: includes/wplc_roi.php:546 modules/node_server.php:911
+#: modules/webhooks_manager.php:315
+msgid "Cancel"
+msgstr "Отказ"
+
+#: includes/modal_control.php:37 modules/node_server.php:910
+#: modules/webhooks_manager.php:314
+msgid "Confirm"
+msgstr "Потвърждавам"
+
+#: includes/notification_control.php:26
+#, php-format
+msgid "User is browsing <small><a href='%s' target='_BLANK'>%s</a></small>"
+msgstr ""
+"Потребителя разглежда <small><a href='%s' target='_BLANK'>%s</a></small>"
+
+#: includes/notification_control.php:130
+msgid "has joined the chat."
+msgstr "се присъедини към чата."
+
+#: includes/settings_page.php:64
+msgid "WP Live Chat Support Settings"
+msgstr "Настройки на WP Live Chat Support"
+
+#: includes/settings_page.php:101 includes/settings_page.php:139
+msgid "General Settings"
+msgstr "Общи настройки"
+
+#: includes/settings_page.php:106
+msgid "Chat Box"
+msgstr "Chat box"
+
+#: includes/settings_page.php:111 includes/settings_page.php:781
+#: modules/advanced_tools.php:75 wp-live-chat-support.php:654
+msgid "Offline Messages"
+msgstr "Офлайн съобщения"
+
+#: includes/settings_page.php:116 includes/settings_page.php:1012
+msgid "Styling"
+msgstr "Стилизиране"
+
+#: includes/settings_page.php:121 modules/node_server.php:915
+msgid "Agents"
+msgstr "Оператори"
+
+#: includes/settings_page.php:126
+msgid "Blocked Visitors"
+msgstr "Блокирани посетители"
+
+#: includes/settings_page.php:142
+msgid "Chat enabled"
+msgstr "Чат активен"
+
+#: includes/settings_page.php:154
+msgid "Required Chat Box Fields"
+msgstr "Задължителни Chat box полета"
+
+#: includes/settings_page.php:154
+msgid "Set default fields that will be displayed when users starting a chat"
+msgstr ""
+"Задай задължителни полета, които ще се показват когато потребители започнат "
+"чат"
+
+#: includes/settings_page.php:159
+msgid "Name and email"
+msgstr "Име и е-майл"
+
+#: includes/settings_page.php:171
+msgid "No fields"
+msgstr "Без полета"
+
+#: includes/settings_page.php:177
+msgid "Default visitor name"
+msgstr "Име на посетителя по подразбиране"
+
+#: includes/settings_page.php:177
+msgid "This name will be displayed for all not logged in visitors"
+msgstr ""
+"Това име ще бъде показвано за всички потребители, които не са се вписали"
+
+#: includes/settings_page.php:185
+msgid "Input Field Replacement Text"
+msgstr "Смяна на текста в полето за въвеждане"
+
+#: includes/settings_page.php:185
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "Това е текста, който ще се показва на мястото полетата за име и е-майл"
+
+#: includes/settings_page.php:193
+msgid "Use Logged In User Details"
+msgstr "Използвай детайлите на потребителя от профила"
+
+#: includes/settings_page.php:193
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"Името на потребителя и е-майл адреса ще бъдат използвани по подразбиране, "
+"когато са влезли в профила си."
+
+#: includes/settings_page.php:201
+msgid "Enable On Mobile Devices"
+msgstr "Активирай на мобилни устройства"
+
+#: includes/settings_page.php:201
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"Деактивирането на тази опция ще означава, че Chat Box няма да се показва на "
+"мобилни устройства. (смарт телефони и таблети)"
+
+#: includes/settings_page.php:211
+msgid "Play a sound when there is a new visitor"
+msgstr "Възпроизвеждане на звук при появата на нов посетител"
+
+#: includes/settings_page.php:211
+msgid ""
+"Disable this to mute the sound that is played when a new visitor arrives"
+msgstr "Деактивирай това, за да заглушиш звука при появата на нов посетител"
+
+#: includes/settings_page.php:220
+msgid "Play a sound when a new message is received"
+msgstr "Звукова индикация при получаване на ново съобщение"
+
+#: includes/settings_page.php:220
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr "Деактивирай това, за да спреш звука при получаване на ново съобщение"
+
+#: includes/settings_page.php:229
+msgid "Enable Font Awesome set"
+msgstr "Активирай Font Awesome set"
+
+#: includes/settings_page.php:229
+msgid "Disable this if you have Font Awesome set included with your theme"
+msgstr "Деактивирай това ако имаш Font Awesome set включен като част от темата"
+
+#: includes/settings_page.php:237
+msgid "Enable chat dashboard and notifications on all admin pages"
+msgstr ""
+"Активирайте таблото за управление и известията за чат на всички "
+"административни страници"
+
+#: includes/settings_page.php:237
+msgid "This will load the chat dashboard on every admin page."
+msgstr ""
+"Това ще зареди таблото за управление на чата на всяка страница на "
+"администратора."
+
+#: includes/settings_page.php:248
+msgid "Choose when I want to be online"
+msgstr "Избери кога искам да бъда онлайн"
+
+#: includes/settings_page.php:248
+msgid ""
+"Checking this will allow you to change your status to Online or Offline on "
+"the Live Chat page."
+msgstr ""
+"Отбелязвайки това позволява да променяш статуса си от Онлайн на Офлайн на "
+"страницата на Live Chat-а."
+
+#: includes/settings_page.php:260
+msgid "Exclude chat from 'Home' page:"
+msgstr "Премахни чата от 'началната' страница:"
+
+#: includes/settings_page.php:260
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your home "
+"page."
+msgstr ""
+"Ако не е немаркирано, ще чат прозореца ще се показва на началната страница."
+
+#: includes/settings_page.php:268
+msgid "Exclude chat from 'Archive' pages:"
+msgstr "Премахване на чата от страницата на архив:"
+
+#: includes/settings_page.php:268
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your archive "
+"pages."
+msgstr "Ако не е маркирано, позволява чат прозореца на архивираните страници."
+
+#: includes/settings_page.php:276
+msgid "Include chat window on the following pages:"
+msgstr "Показжи чат прозореца в съдържанието на следните страници:"
+
+#: includes/settings_page.php:276
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+"Покажи чат прозореца на следните страници. Оставете не попълнено, за да бъде "
+"показан на всички. (Използвайте запетая за да разделите ID-тата на "
+"страниците)"
+
+#: includes/settings_page.php:284
+msgid "Exclude chat window on the following pages:"
+msgstr "Премахни чат прозореца от следните страници:"
+
+#: includes/settings_page.php:284
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"Не показвай чат прозореца на следните страници. Оставете не попълнено, за да "
+"бъде показан на всички. (Използвайте запетая за да разделите ID-тата на "
+"страниците)"
+
+#: includes/settings_page.php:292
+msgid "Exclude chat window on selected post types"
+msgstr "Премахни чат прозореца от следните пост страници"
+
+#: includes/settings_page.php:292
+msgid "Do not show the chat window on the following post types pages."
+msgstr "Не показвай чат прозореца на следните пост страници."
+
+#: includes/settings_page.php:312
+msgid "No post types found."
+msgstr "Не бяха намерени видове на пост страниците."
+
+#: includes/settings_page.php:318
+msgid "Allow any user to make themselves a chat agent"
+msgstr "Разреши на всеки потребител да се оторизира за чат оператор"
+
+#: includes/settings_page.php:318
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+"Отбелязвайки тази опция, потребителите ще могат да се оторизират за чат "
+"оператори, при корекция на техния профил."
+
+#: includes/settings_page.php:333
+msgid "Order by"
+msgstr "Подредени по"
+
+#: includes/settings_page.php:339
+msgid "Number"
+msgstr "Номер"
+
+#: includes/settings_page.php:349
+msgid "Descending"
+msgstr "Низходящо"
+
+#: includes/settings_page.php:350
+msgid "Ascending"
+msgstr "Възходящо"
+
+#: includes/settings_page.php:361
+msgid "Enable Voice Notes on admin side"
+msgstr "Активирай гласови бележки от административна страна"
+
+#: includes/settings_page.php:363
+msgid ""
+"Enabling this will allow you to record the voice during the chat and send it "
+"to visitor once you hold on CTRL + SPACEBAR in main chat window"
+msgstr ""
+"Активирайки това ще ти позволи да направиш гласово съобщение по време на "
+"чата и да го изпратиш на посетителя, задържайки CTRL+SPACEBAR в главния "
+"прозорец на чата"
+
+#: includes/settings_page.php:374
+msgid "Enable Voice Notes on visitor side"
+msgstr "Активиране на гласовите бележки от страна на посетителите"
+
+#: includes/settings_page.php:376
+msgid ""
+"Enabling this will allow the visitors to record the voice during the chat "
+"and send it to agent once they hold on CTRL + SPACEBAR"
+msgstr ""
+"Активирайки това ще позволиш на посетителите да записват гласови съобщения и "
+"да ги изпращат на чата, като задържат CTRL+SPACEBAR"
+
+#: includes/settings_page.php:392
+msgid "Chat Window Settings"
+msgstr "Настройки на чат прозореца"
+
+#: includes/settings_page.php:395
+msgid "Chat box alignment"
+msgstr "Позициониране на Chat box-а"
+
+#: includes/settings_page.php:398
+msgid "Bottom left"
+msgstr "Долу ляво"
+
+#: includes/settings_page.php:399
+msgid "Bottom right"
+msgstr "Долу дясно"
+
+#: includes/settings_page.php:400
+msgid "Left"
+msgstr "Ляво"
+
+#: includes/settings_page.php:401
+msgid "Right"
+msgstr "Дясно"
+
+#: includes/settings_page.php:407
+msgid "Auto Pop-up"
+msgstr "Автоматично показване"
+
+#: includes/settings_page.php:407
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"Разширяване на Chat box-а автоматично (стимулира потребителите да въведат "
+"тяхното име и е-майл адрес)"
+
+#: includes/settings_page.php:416
+msgid "Display details in chat message"
+msgstr "Покажи детайли в чат съобщението"
+
+#: includes/settings_page.php:420
+msgid "Show Name"
+msgstr "Покажи име"
+
+#: includes/settings_page.php:422
+msgid "Show Avatar"
+msgstr "Покажи аватар"
+
+#: includes/settings_page.php:427
+msgid "Only show the chat window to users that are logged in"
+msgstr ""
+"Показвай чат прозореца само на потребители, които са влезли в профила си"
+
+#: includes/settings_page.php:427
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr ""
+"Отбелязвайки това, само потребители, които са влезли в профила си ще имат "
+"възможността да разговарят с теб."
+
+#: includes/settings_page.php:439
+msgid "Display a timestamp in the chat window"
+msgstr "Показване на времеви отпечатък в чат прозореца"
+
+#: includes/settings_page.php:443
+msgid "Show Date"
+msgstr "Покажи дата"
+
+#: includes/settings_page.php:445
+msgid "Show Time"
+msgstr "Покажи време"
+
+#: includes/settings_page.php:450
+msgid "Redirect user to thank you page when chat is ended"
+msgstr ""
+"Пренасочете потребителя към страницата за благодарности, когато приключи чата"
+
+#: includes/settings_page.php:450
+msgid ""
+"By checking this, users will be redirected to your thank you page when a "
+"chat is completed."
+msgstr ""
+"С поставянето на тази отметка потребителите ще бъдат пренасочени към "
+"страницата ви за благодарност, когато приключи чата."
+
+#: includes/settings_page.php:454
+msgid "Thank You Page URL"
+msgstr "URL на страницата за благодарности"
+
+#: includes/settings_page.php:464
+msgid "Disable Emojis"
+msgstr "Деактивирай емотиконите"
+
+#: includes/settings_page.php:486
+msgid "Display typing indicator"
+msgstr "Покажи индикатора за писане"
+
+#: includes/settings_page.php:486
+msgid ""
+"Display the \"typing...\" animation in the chat window as soon as an agent "
+"or visitor is typing."
+msgstr ""
+"Покажи \"писане...\" анимация в чат прозореца веднага когато агент или "
+"посетител започнат да пишат."
+
+#: includes/settings_page.php:492
+msgid ""
+"For non-cloud server users, please note that this will increase the amount "
+"of server resources required."
+msgstr ""
+"За потребители, които не работят с облачни сървъри, имайте предвид, че това "
+"ще увеличи количеството на необходимите ресурси на сървъра."
+
+#: includes/settings_page.php:501
+msgid "Name "
+msgstr "Име "
+
+#: includes/settings_page.php:509
+msgid "Use WordPress name instead"
+msgstr "Използвай името на WordPress вместо това"
+
+#: includes/settings_page.php:512
+msgid "Note: 'Name' field will be ignored"
+msgstr "Забележка: Полето 'Име' ще бъде игнорирано"
+
+#: includes/settings_page.php:530
+msgid "Incoming chat ring tone"
+msgstr "Звук на входящ чат"
+
+#: includes/settings_page.php:535 includes/settings_page.php:596
+msgid "Default"
+msgstr "По подразбиране"
+
+#: includes/settings_page.php:591
+msgid "Incoming message tone"
+msgstr "Звук на входящо съобщение"
+
+#: includes/settings_page.php:636
+msgid "Icon"
+msgstr "Икона"
+
+#: includes/settings_page.php:644
+msgid "Upload Icon"
+msgstr "Качване на икона"
+
+#: includes/settings_page.php:645 includes/settings_page.php:651
+#, fuzzy
+#| msgid "Select Department"
+msgid "Select Default Icon"
+msgstr "Изберете отдел"
+
+#: includes/settings_page.php:647
+msgid "Remove Icon"
+msgstr "Премахване на икона"
+
+#: includes/settings_page.php:648
+msgid "Recomended Size 50px x 50px"
+msgstr "Препоръчителен размер 50px x 50px"
+
+#: includes/settings_page.php:687
+msgid "Picture"
+msgstr "Снимка"
+
+#: includes/settings_page.php:695
+msgid "Upload Image"
+msgstr "Качи изображение"
+
+#: includes/settings_page.php:697
+msgid "Remove Image"
+msgstr "Изтриване на снимка"
+
+#: includes/settings_page.php:698
+msgid "Recomended Size 60px x 60px"
+msgstr "Препоръчителен размер 60px x 60px"
+
+#: includes/settings_page.php:705
+msgid "Logo"
+msgstr "Лого"
+
+#: includes/settings_page.php:713
+msgid "Upload Logo"
+msgstr "Качване на лого"
+
+#: includes/settings_page.php:715
+msgid "Remove Logo"
+msgstr "Премахване на лого"
+
+#: includes/settings_page.php:716
+msgid "Recomended Size 250px x 40px"
+msgstr "Препоръчителен размер 250px x 40px"
+
+#: includes/settings_page.php:722
+msgid "Chat delay (seconds)"
+msgstr "Закъснение на чата (секунди)"
+
+#: includes/settings_page.php:722
+msgid "How long it takes for your chat window to pop up"
+msgstr "Колко време е необходимо на прозореца да се покаже на ектрана"
+
+#: includes/settings_page.php:731
+msgid "Chat notifications"
+msgstr "Чат известие"
+
+#: includes/settings_page.php:731
+msgid "Alert me via email as soon as someone wants to chat (while online only)"
+msgstr ""
+"Алармирай ме чрез е-майл веднага щом някой иска чат (само когато си онлайн)"
+
+#: includes/settings_page.php:740
+msgid "User Experience"
+msgstr "Преживяване на потребителя"
+
+#: includes/settings_page.php:745
+msgid "Enable Text Editor"
+msgstr "Разрешаване на Текстови Редактор"
+
+#: includes/settings_page.php:745
+msgid ""
+"Adds advanced text editor features, such as links, text styling, and more!"
+msgstr ""
+"Добавя функции за разширен текстов редактор, като връзки, стайлинг на текст "
+"и др!"
+
+#: includes/settings_page.php:749
+msgid "Enable File Sharing"
+msgstr "Разреши споделянето на Файлове"
+
+#: includes/settings_page.php:749
+msgid "Adds file sharing to your chat box!"
+msgstr "Добавя опция за споделяне на файлове в чат прозореца!"
+
+#: includes/settings_page.php:753
+msgid "Enable Experience Ratings"
+msgstr "Разреши чат рейтинги"
+
+#: includes/settings_page.php:753
+msgid "Allows users to rate the chat experience with an agent."
+msgstr ""
+"Разрешава на потребителите да оценят обслужването получено от оператора."
+
+#: includes/settings_page.php:759 includes/settings_page.php:1127
+msgid "Social"
+msgstr "Социални мрежи"
+
+#: includes/settings_page.php:765 includes/wplc_agent_data.php:50
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: includes/settings_page.php:765
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr "Добави Facebook страница тук. За скриване остави празно"
+
+#: includes/settings_page.php:766
+msgid "Facebook URL..."
+msgstr "Facebook URL..."
+
+#: includes/settings_page.php:769 includes/wplc_agent_data.php:42
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: includes/settings_page.php:769
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr "Добави Twitter  страница тук. За скриване остави празно"
+
+#: includes/settings_page.php:770
+msgid "Twitter URL..."
+msgstr "Twitter URL..."
+
+#: includes/settings_page.php:785
+msgid "Do not allow users to send offline messages"
+msgstr "Не позволявай потребители да изпращат офлайн съобщения"
+
+#: includes/settings_page.php:785
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"Чат прозореца ще бъде скрит когато чата е офлайн. Потребителите нямат да "
+"могат да ви изпращат офлайн съобщения"
+
+#: includes/settings_page.php:796
+msgid "Offline Chat Box Title"
+msgstr "Заглавие на офлайн Chat Box-а"
+
+#: includes/settings_page.php:804
+msgid "Offline Text Fields"
+msgstr "Текст на офлайн полетата"
+
+#: includes/settings_page.php:814
+msgid "Offline Button Text"
+msgstr "Текст на офлайн бутона"
+
+#: includes/settings_page.php:820
+msgid "Offline Send Button Text"
+msgstr "Текст на офлайн бутона за изпращане"
+
+#: includes/settings_page.php:826
+msgid "Custom fields"
+msgstr "Персонализирани полета"
+
+#: includes/settings_page.php:834
+msgid "Email settings"
+msgstr "Е-майл настройки"
+
+#: includes/settings_page.php:840
+msgid "Email Address"
+msgstr "И-мейл адрес"
+
+#: includes/settings_page.php:840
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+"Е-майл адрес, на който ще бъдат изпращани офлайн съобщенията. Използвай "
+"запетая да разделиш отделните е-майл адреси, в случай, че желаете повече от "
+"един"
+
+#: includes/settings_page.php:850
+msgid "Subject"
+msgstr "Предмет на съобщението"
+
+#: includes/settings_page.php:850
+msgid "User name will be appended to the end of the subject."
+msgstr "Потребителското име ще бъде добавено в края 'Предмет на съобщението'."
+
+#: includes/settings_page.php:861
+msgid "Sending Method"
+msgstr "Метод за Изпращане"
+
+#: includes/settings_page.php:862
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: includes/settings_page.php:863
+msgid "PHP Mailer"
+msgstr "PHP Mailer"
+
+#: includes/settings_page.php:879
+msgid "Host"
+msgstr "Host"
+
+#: includes/settings_page.php:887
+msgid "Port"
+msgstr "Port"
+
+#: includes/settings_page.php:895
+msgid "Username"
+msgstr "Потребителско Име"
+
+#: includes/settings_page.php:903
+msgid "Password"
+msgstr "Парола"
+
+#: includes/settings_page.php:913
+msgid "Enable an Auto Responder"
+msgstr "Активирай автоматичен отговор"
+
+#: includes/settings_page.php:913
+msgid "Send your visitors an email as soon as they send you an offline message"
+msgstr ""
+"Изпратете на посетителите си е-майл веднага щом ви изпратят офлайн съобщение"
+
+#: includes/settings_page.php:919
+msgid "Auto Responder 'From' Name"
+msgstr "Автоматичен отговор 'От' име"
+
+#: includes/settings_page.php:925
+msgid "Auto Responder 'From' Email Address"
+msgstr "Автоматичен отговор 'От' е-майл адрес"
+
+#: includes/settings_page.php:931
+msgid "Auto Responder Subject Line"
+msgstr "Автоматичен отговор Предмет на съобщението"
+
+#: includes/settings_page.php:937
+msgid "Auto Responder Body"
+msgstr "Съдържание на автоматичния отговор"
+
+#: includes/settings_page.php:940
+msgid "HTML and the following shortcodes can be used"
+msgstr "Могат да се използват HTML и следните shortcodes"
+
+#: includes/settings_page.php:940
+msgid "User's name"
+msgstr "Потребителско Име"
+
+#: includes/settings_page.php:940
+msgid "User's email address"
+msgstr "Е-майл на потребителя"
+
+#: includes/settings_page.php:1017
+msgid "Choose a theme"
+msgstr "Изберете тема"
+
+#: includes/settings_page.php:1022 includes/settings_page.php:1023
+msgid "Classic"
+msgstr "Класически"
+
+#: includes/settings_page.php:1026 includes/settings_page.php:1027
+msgid "Modern"
+msgstr "Модерен"
+
+#: includes/settings_page.php:1043
+msgid "Color Scheme"
+msgstr "Цветова Схема"
+
+#: includes/settings_page.php:1098
+msgid "Choose"
+msgstr "Избери"
+
+#: includes/settings_page.php:1099
+msgid "Your"
+msgstr "Твой"
+
+#: includes/settings_page.php:1100
+msgid "Colors"
+msgstr "Цвят"
+
+#: includes/settings_page.php:1101
+msgid "Below"
+msgstr "По-долу"
+
+#: includes/settings_page.php:1120
+msgid "Chat background"
+msgstr "Фон на чата"
+
+#: includes/settings_page.php:1124
+msgid "Cloudy"
+msgstr "Замъглено"
+
+#: includes/settings_page.php:1125
+msgid "Geometry"
+msgstr "Геометрично"
+
+#: includes/settings_page.php:1126
+msgid "Tech"
+msgstr "Технологично"
+
+#: includes/settings_page.php:1128 includes/wplc_roi.php:147
+#: modules/node_server.php:970
+msgid "None"
+msgstr "Нито един"
+
+#: includes/settings_page.php:1133
+msgid "Palette Color 1"
+msgstr "Палитра 1"
+
+#: includes/settings_page.php:1139
+msgid "Palette Color 2"
+msgstr "Палитра 2"
+
+#: includes/settings_page.php:1145
+msgid "Palette Color 3"
+msgstr "Палитра 3"
+
+#: includes/settings_page.php:1151
+msgid "Palette Color 4"
+msgstr "Палитра 4"
+
+#: includes/settings_page.php:1158
+msgid "I'm using a localization plugin"
+msgstr "Използвам плъгин за локализиране"
+
+#: includes/settings_page.php:1161
+#, php-format
+msgid ""
+"Enable this if you are using a localization plugin. Should you wish to "
+"change the below strings with this option enabled, please visit the "
+"documentation %s"
+msgstr ""
+"Активирай ако използваш плъгин за локализация. Ако желаеш да промениш "
+"връзките, когато тази опция е активна, моля, разгледай следната документация "
+"%s"
+
+#: includes/settings_page.php:1161 modules/node_server.php:577
+msgid "here"
+msgstr "тук"
+
+#: includes/settings_page.php:1167
+msgid "First Section Text"
+msgstr "Текст на първата секция"
+
+#: includes/settings_page.php:1174
+msgid "Intro Text"
+msgstr "Въвеждащ текст"
+
+#: includes/settings_page.php:1180
+msgid "Second Section Text"
+msgstr "Текст на втора секция"
+
+#: includes/settings_page.php:1187
+msgid "Reactivate Chat Section Text"
+msgstr "Ре-активирайте текста в чат секцията"
+
+#: includes/settings_page.php:1195
+msgid "Welcome message"
+msgstr "Приветствие"
+
+#: includes/settings_page.php:1197
+msgid ""
+"This text is shown as soon as a user starts a chat and waits for an agent to "
+"join"
+msgstr ""
+"Това съобщение ще бъде показано, в момента когато потребител започне чат и "
+"изчаква включването на оператор"
+
+#: includes/settings_page.php:1201
+msgid "No answer"
+msgstr "Няма отговор"
+
+#: includes/settings_page.php:1203 wp-live-chat-support.php:4101
+msgid "There is No Answer. Please Try Again Later."
+msgstr "Няма отговор. Моля, опитайте отново по-късно."
+
+#: includes/settings_page.php:1203
+msgid ""
+"This text is shown to the user when an agent has failed to answer a chat "
+msgstr ""
+"Този текст се показва на потребителя, когато оператор не е успял да отговори "
+"на чата "
+
+#: includes/settings_page.php:1207
+msgid "Other text"
+msgstr "Друг текст"
+
+#: includes/settings_page.php:1210 wp-live-chat-support.php:947
+#: wp-live-chat-support.php:2980
+msgid "The chat has been ended by the operator."
+msgstr "Чатът е приключен от оператора."
+
+#: includes/settings_page.php:1215
+msgid "Choose an animation"
+msgstr "Изберете анимация"
+
+#: includes/settings_page.php:1223
+msgid "Slide Up"
+msgstr "Плъзгане от страни"
+
+#: includes/settings_page.php:1229
+msgid "Slide From The Side"
+msgstr "Плъзни отстрани"
+
+#: includes/settings_page.php:1235
+msgid "Fade In"
+msgstr "Димиране"
+
+#: includes/settings_page.php:1241
+msgid "No Animation"
+msgstr "Без анимация"
+
+#: includes/settings_page.php:1259
+msgid "Auto First Response Message"
+msgstr ""
+
+#: includes/settings_page.php:1262
+msgid ""
+"This message will be sent automatically after the first message is sent from "
+"the user side. Leave empty to disable."
+msgstr ""
+
+#: includes/settings_page.php:1277
+msgid "Current Users that are Chat Agents"
+msgstr "Настоящи потребители, които са чат оператори"
+
+#: includes/settings_page.php:1307
+msgid "Add New Agent"
+msgstr "Добави нов оператор"
+
+#: includes/settings_page.php:1315
+msgid "Administrator"
+msgstr "Администратор"
+
+#: includes/settings_page.php:1321
+msgid "Editor"
+msgstr "Рецензент"
+
+#: includes/settings_page.php:1331
+msgid "Add Agent"
+msgstr "Добави оператор"
+
+#: includes/settings_page.php:1337
+msgid ""
+"Should you wish to add a user that has a role less than 'Author', please go "
+"to the <a href='./users.php'>Users</a> page, select the relevant user, click "
+"Edit and scroll to the bottom of the page and enable the 'Chat Agent' "
+"checkbox."
+msgstr ""
+"Ако искате да добавите потребител, който има роля, по-малка от \"Автор\", "
+"моля, отидете на  <a href='./users.php'>Потребители </a> изберете съответния "
+"потребител, щракнете върху Редактиране и превъртете до долната част на "
+"страницата и поставете отметка в квадратчето 'Чат оператор'."
+
+#: includes/settings_page.php:1338
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr "Ако няма чат оператори онлайн, чатът да бъде показван като офлайн"
+
+#: includes/settings_page.php:1343
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "Блокирани посетители - Базирано на IP адреси"
+
+#: includes/settings_page.php:1347
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "Въведете всеки IP адрес, който желаете да блокирате на нов ред"
+
+#: includes/settings_page.php:1358
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"Блокирайки потребителския IP адрес тук, ще скрие чат прозореца от тях и ще "
+"предотврати възможността да се свържат с вас. Всяко IP трябва да бъде "
+"записано на нов ред"
+
+#: includes/settings_page.php:1374
+msgid "Enable Business Hours"
+msgstr "Активирай работно време"
+
+#: includes/settings_page.php:1380
+msgid "Display Interval"
+msgstr "Показвай интервал"
+
+#: includes/settings_page.php:1384
+msgid "Daily"
+msgstr "Дневно"
+
+#: includes/settings_page.php:1385
+msgid "Week Days"
+msgstr "Седмични дни"
+
+#: includes/settings_page.php:1386
+msgid "Weekends"
+msgstr "Почивни дни"
+
+#: includes/settings_page.php:1401
+msgid " Between "
+msgstr " Между "
+
+#: includes/settings_page.php:1418
+msgid " and "
+msgstr " и "
+
+#: includes/settings_page.php:1441
+msgid "Current Site Time"
+msgstr "Време на сайта в момента"
+
+#: includes/settings_page.php:1454
+msgid "Chat Encryption"
+msgstr "Криптиране на чата"
+
+#: includes/settings_page.php:1457
+msgid "Enable Encryption"
+msgstr "Активирай криптиране"
+
+#: includes/settings_page.php:1457
+msgid ""
+"All messages will be encrypted when being sent to and from the user and "
+"agent."
+msgstr ""
+"Всички съобщения ще бъдат криптирани по време на изпращането до и от "
+"потребители и агенти."
+
+#: includes/settings_page.php:1466
+#, fuzzy
+#| msgid ""
+#| "Please note: Chat messages will only be encrypted and decrypted if you "
+#| "have inserted your WP Live Chat Support Pro API Key on the <a href="
+#| "\"admin.php?page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgid ""
+"Please note: Chat messages will only be encrypted and decrypted if you have "
+"inserted your WP Live Chat Support API Key on the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgstr ""
+"Забележка: Чат съобщенията ще бъдат криптирани и декриптирани само ако има "
+"въведен WP Live Chat Support Pro API ключ на <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">страницата за API</a>."
+
+#: includes/settings_page.php:1467
+msgid ""
+"Once enabled, all messages sent will be encrypted. This cannot be undone."
+msgstr ""
+"Веднъж активирано, всички изпратени съобщения ще бъдат криптирани. Това е "
+"необратима операция."
+
+#: includes/settings_page.php:1477
+msgid "Save Settings"
+msgstr "Запази настройки"
+
+#: includes/surveys.php:8 includes/surveys.php:20 includes/surveys.php:338
+msgid "Surveys & Lead Forms"
+msgstr "Проучвания & форми"
+
+#: includes/surveys.php:23
+msgid "Enable Surveys & Lead Forms"
+msgstr "Активирай проучвания & анкети"
+
+#: includes/surveys.php:23
+msgid ""
+"Enable surveys and lead forms within your live chat box, either before or "
+"after a live chat session."
+msgstr "Активирай проучвания и анкети в чата, преди или след чат сесията."
+
+#: includes/surveys.php:29
+msgid ""
+"Choosing a survey will reset the lead form selection: the items are "
+"alternatives, if you select a survey no lead form can be selected."
+msgstr ""
+"Изборът на проучване ще анулира отговорите в анкетата: вариантите са "
+"алтернативи, т.е. не можете едновременно да попълните и двете."
+
+#: includes/surveys.php:32
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+"Няма създадени проучвания. Моля <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">създай проучване и презареди страницата.</a>"
+
+#: includes/surveys.php:39
+msgid "Select a survey"
+msgstr "Избор на проучване"
+
+#: includes/surveys.php:65
+msgid ""
+"Choosing a lead form will reset the survey selection: the items are "
+"alternatives, if you select a lead form no survey can be selected."
+msgstr ""
+"Избора на анкета ще анулира отговорите в проучването: вариантите са "
+"алтернативи, т.е. не можете едновременно да попълните и двете."
+
+#: includes/surveys.php:68
+#, php-format
+msgid ""
+"No lead forms created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a lead form and then refresh this page.</a>"
+msgstr ""
+"Няма създадени анкети. Моля <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">създай анкета и презареди страницата.</a>"
+
+#: includes/surveys.php:75
+msgid "Select a lead form"
+msgstr "Избери анкета"
+
+#: includes/surveys.php:97
+msgid "Display survey/form"
+msgstr "Покажи анкета/проучване"
+
+#: includes/surveys.php:100
+msgid "Before chat"
+msgstr "Преди чат"
+
+#: includes/surveys.php:101
+msgid "After chat"
+msgstr "След чат"
+
+#: includes/surveys.php:106
+msgid "Chat button text"
+msgstr "Текст за чат бутона"
+
+#: includes/surveys.php:112
+msgid "Change title of chat box when chat ended to"
+msgstr "Смени името на chat box-а след края на чата на"
+
+#: includes/surveys.php:294 wp-live-chat-support.php:368
+#: wp-live-chat-support.php:2968 wp-live-chat-support.php:4706
+msgid "Or chat to an agent now"
+msgstr "Или разговаряй с оператор сега"
+
+#: includes/surveys.php:299 wp-live-chat-support.php:362
+#: wp-live-chat-support.php:2977 wp-live-chat-support.php:4700
+msgid "Leave a message"
+msgstr "Остави съобщение"
+
+#: includes/surveys.php:333
+msgid "WP Live Chat Surveys & Lead Forms with Nimble Squirrel"
+msgstr "WP Live Chat проучвания и анкети с Nimble Squirrel"
+
+#: includes/surveys.php:339
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+"За преглед на отговорите, натисни бутона по-долу и влез профила ти в "
+"NimbleSquirrel."
+
+#: includes/surveys.php:351
+#, fuzzy, php-format
+#| msgid ""
+#| "Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+#| "\">NimbleSquirrel</a>"
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (It's free)"
+msgstr ""
+"Регистрирай се на <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a>"
+
+#: includes/surveys.php:354
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a survey</"
+"a>."
+msgstr ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Създай проучване</"
+"a>."
+
+#: includes/surveys.php:361
+msgid "Add a Survey to your live chat box"
+msgstr "Добави проучване в чат прозореца"
+
+#: includes/surveys.php:362
+msgid "Three simple steps:"
+msgstr "Три прости стъпки:"
+
+#: includes/surveys.php:366
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings#tabs-survey'>settings page</a>."
+msgstr ""
+"Активирай проучвания в чат<a href='admin.php?page=wplivechat-menu-"
+"settings'>настройките</a>."
+
+#: includes/update_control.class.php:84
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Неочаквана HTTP грешка по време на изискването на API. </p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">Опитайте отново</a></a>"
+
+#: includes/update_control.class.php:89
+msgid "An unknown error occurred"
+msgstr "Възникна непозната грешка"
+
+#: includes/welcome_page.php:4
+msgid "Welcome to WP Live Chat Support v8"
+msgstr "Добре дошли в WP Live Chat Support v8"
+
+#: includes/welcome_page.php:6
+msgid ""
+"WP Live Chat Support is the most cost effective, feature rich, amazingly "
+"supported and most positively reviewed live chat plugin on WordPress!"
+msgstr ""
+"WP Live Chat Support е най-рентабилния, с богат асортимент, изключително "
+"добре поддържан и най-позитивно рецензиран плъгин за онлайн чат в WordPress!"
+
+#: includes/welcome_page.php:8
+msgid "Skip intro and start accepting chats"
+msgstr "Пропусни въведението и започни да приемаш чатове"
+
+#: includes/welcome_page.php:28
+msgid "Welcome"
+msgstr "Добре дошли"
+
+#: includes/welcome_page.php:29
+msgid "Credits"
+msgstr "Кредити"
+
+#: includes/welcome_page.php:37
+msgid "Incredibly fast server"
+msgstr "Невероятно бърз сървър"
+
+#: includes/welcome_page.php:39
+msgid "Use our server to handle the load and save 1000%+ on server resources!"
+msgstr ""
+"Използвайте нашия сървър, за да се справите с товара и да спестите 1000% + "
+"на сървърните ресурси!"
+
+#: includes/welcome_page.php:42
+msgid "New Dashboard"
+msgstr "Чат Табло"
+
+#: includes/welcome_page.php:43
+msgid "Handle all your chats in one area, on any admin page."
+msgstr ""
+"Обработвайте всичките си чатове на едно място, на административната страница."
+
+#: includes/welcome_page.php:46
+msgid "Emojis!"
+msgstr "Емотикони!"
+
+#: includes/welcome_page.php:47
+msgid "Add a touch of your own personality with emojis!"
+msgstr "Добави част от характера си с емотикони!"
+
+#: includes/welcome_page.php:54
+msgid "Typing Preview"
+msgstr "Преглег"
+
+#: includes/welcome_page.php:56
+msgid "See what your customers are typing before they even send it!"
+msgstr "Виж какво пишат потребителите ти преди да го изпратят!"
+
+#: includes/welcome_page.php:59
+msgid "Multiple Agents Per Chat"
+msgstr "Повече от един оператори за чат"
+
+#: includes/welcome_page.php:61
+msgid "More than one agent can join and be involved in a chat."
+msgstr "Повече от един оператора могат да се присъединят и да участват в чат."
+
+#: includes/welcome_page.php:64
+msgid "Agent to Agent Chat"
+msgstr "Оператор към оператор чат"
+
+#: includes/welcome_page.php:66
+msgid "Chat directly to other agents on our new dashboard."
+msgstr "Разговаряй директно с друг оператор на нашето ново табло."
+
+#: includes/welcome_page.php:71
+msgid "Edit Messages"
+msgstr "Редактирай съобщения"
+
+#: includes/welcome_page.php:73
+msgid ""
+"Simply press the UP arrow or use the EDIT link to edit a message that you "
+"have already sent."
+msgstr ""
+"Просто натисни стрелката за нагоре или използвай линка за редакция, за да "
+"коригираш съобщение, което вече е било изпратено."
+
+#: includes/welcome_page.php:76
+msgid "Event Monitoring"
+msgstr "Наблюдение на събитията"
+
+#: includes/welcome_page.php:78
+msgid "Know exactly what the user is doing in real time."
+msgstr "Научи точно какво правят потребителите ти в реално време."
+
+#: includes/welcome_page.php:81
+msgid "iOS app"
+msgstr "iOS апликация"
+
+#: includes/welcome_page.php:83
+msgid "The new iOS app is finally here!"
+msgstr "Новата iOS апликация е вече тук!"
+
+#: includes/welcome_page.php:93
+msgid "New to WP Live Chat Support?"
+msgstr "Нов в WP Live Chat Support?"
+
+#: includes/welcome_page.php:94
+msgid "You may want to"
+msgstr "Може би, бихте искали да"
+
+#: includes/welcome_page.php:94
+msgid "review our documentation"
+msgstr "прегледайте нашата документация"
+
+#: includes/welcome_page.php:94
+msgid ""
+"before you get started. If you're a tech-savvy individual, you may skip this "
+"step."
+msgstr ""
+"преди да започнете. Ако сте технически грамотни физическо лице, можете да "
+"пропуснете тази стъпка."
+
+#: includes/welcome_page.php:97
+msgid "Help me!"
+msgstr "Помогни ми!"
+
+#: includes/wplc_agent_data.php:7
+msgid "WP Live Chat Support - User Fields"
+msgstr "WP Live Chat Support - Потребителски полета"
+
+#: includes/wplc_agent_data.php:11
+msgid "User tagline"
+msgstr "Потребителски слоган"
+
+#: includes/wplc_agent_data.php:17 includes/wplc_agent_data.php:30
+msgid "This will show up at the top of the chatbox - Leave blank to disable."
+msgstr ""
+"Това ще се покаже в горната част на чата - Оставете празно, за да "
+"деактивирате."
+
+#: includes/wplc_agent_data.php:24
+msgid "User bio"
+msgstr "Автобиография на потребителя"
+
+#: includes/wplc_agent_data.php:37
+msgid "User social accounts"
+msgstr "Акаунти в социалните мрежи"
+
+#: includes/wplc_agent_data.php:46
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: includes/wplc_agent_data.php:54
+msgid "Website URL"
+msgstr "Website URL"
+
+#: includes/wplc_agent_data.php:56
+msgid ""
+"This will show up at the top of the chatbox, in the agent's description - "
+"Leave each item blank to disable it."
+msgstr ""
+"Това ще се покаже в горната част на чата, в описанието на оператора - "
+"Оставете празно, за да деактивирате."
+
+#: includes/wplc_agent_data.php:276
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/wplc_agent_data.php:279
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/wplc_agent_data.php:282
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/wplc_agent_data.php:285
+msgid "Website"
+msgstr "Website"
+
+#: includes/wplc_custom_fields.php:60 includes/wplc_data_triggers.php:5
+#: includes/wplc_departments.php:135 includes/wplc_roi.php:83
+#: modules/webhooks_manager.php:56 modules/webhooks_manager.php:295
+msgid "Add New"
+msgstr "Добави нов"
+
+#: includes/wplc_custom_fields.php:64
+msgid "WP Live Chat Support Custom Fields"
+msgstr "WP Live Chat Support персонализирани полета"
+
+#: includes/wplc_custom_fields.php:73 includes/wplc_data_triggers.php:441
+#: wp-live-chat-support.php:2396
+msgid "Type"
+msgstr "Тип"
+
+#: includes/wplc_custom_fields.php:74 includes/wplc_data_triggers.php:443
+msgid "Content"
+msgstr "Съдържание"
+
+#: includes/wplc_custom_fields.php:75 includes/wplc_data_triggers.php:444
+#: wp-live-chat-support.php:2399 wp-live-chat-support.php:3650
+msgid "Status"
+msgstr "Статус"
+
+#: includes/wplc_custom_fields.php:106 wp-live-chat-support.php:2609
+msgid "Active"
+msgstr "Активен"
+
+#: includes/wplc_custom_fields.php:108
+msgid "Inactive"
+msgstr "Неактивен"
+
+#: includes/wplc_custom_fields.php:113 includes/wplc_data_triggers.php:452
+#: includes/wplc_departments.php:179 includes/wplc_roi.php:140
+#: modules/webhooks_manager.php:238
+msgid "Edit"
+msgstr "Промяна"
+
+#: includes/wplc_custom_fields.php:124
+msgid "Create your first custom field"
+msgstr "Създай първото си персонализирано поле"
+
+#: includes/wplc_custom_fields.php:142
+msgid "Create a Custom Field"
+msgstr "Създай персонализирано поле"
+
+#: includes/wplc_custom_fields.php:147 includes/wplc_custom_fields.php:208
+msgid "Field Name"
+msgstr "Име на полето"
+
+#: includes/wplc_custom_fields.php:151 includes/wplc_custom_fields.php:216
+msgid "Field Type"
+msgstr "Вид на полето"
+
+#: includes/wplc_custom_fields.php:154 includes/wplc_custom_fields.php:221
+msgid "Text"
+msgstr "Текст"
+
+#: includes/wplc_custom_fields.php:155 includes/wplc_custom_fields.php:222
+msgid "Drop Down"
+msgstr "Падащо"
+
+#: includes/wplc_custom_fields.php:160 includes/wplc_custom_fields.php:212
+msgid "Default Field Value"
+msgstr "Стойност на полето по подразбиране"
+
+#: includes/wplc_custom_fields.php:164 includes/wplc_custom_fields.php:227
+msgid "Drop Down Contents"
+msgstr "Падащо съдържание"
+
+#: includes/wplc_custom_fields.php:165 includes/wplc_custom_fields.php:228
+msgid "Enter each option on a new line"
+msgstr "Въведете всяка опция на нов ред"
+
+#: includes/wplc_custom_fields.php:169
+msgid "Create Custom Field"
+msgstr "Създай персонализирано поле"
+
+#: includes/wplc_custom_fields.php:203
+msgid "Edit a Custom Field"
+msgstr "Коригирай персонализирано поле"
+
+#: includes/wplc_custom_fields.php:232
+msgid "Update Custom Field"
+msgstr "Обнови персонализирано поле"
+
+#: includes/wplc_custom_fields.php:241
+msgid "Custom Field Not Found"
+msgstr "Персонализираното поле не беше намерено"
+
+#: includes/wplc_custom_fields.php:242
+msgid "Back"
+msgstr "Назад"
+
+#: includes/wplc_custom_fields.php:254
+msgid "Are you sure you want to delete this custom field?"
+msgstr "Желаете ли да изтриете това персонализирано поле?"
+
+#: includes/wplc_custom_fields.php:290
+msgid "Text Field"
+msgstr "Текстово поле"
+
+#: includes/wplc_custom_fields.php:293
+msgid "Dropdown"
+msgstr "Падащо"
+
+#: includes/wplc_custom_fields.php:358
+msgid "Custom Field Data"
+msgstr "Персонализирано поле за данни"
+
+#: includes/wplc_data_triggers.php:8
+msgid "WP Live Chat Support Triggers"
+msgstr "WP Live Chat Support стартери"
+
+#: includes/wplc_data_triggers.php:16 includes/wplc_roi.php:111
+#: modules/documentation_suggestions.php:62
+msgid "Update now"
+msgstr "Обнови сега"
+
+#: includes/wplc_data_triggers.php:68
+msgid "Trigger Name"
+msgstr "Име на стартер"
+
+#: includes/wplc_data_triggers.php:73
+msgid "Trigger Type"
+msgstr "Тип на стартер"
+
+#: includes/wplc_data_triggers.php:77
+msgid "Page Trigger"
+msgstr "Стартер на страница"
+
+#: includes/wplc_data_triggers.php:78
+msgid "Time Trigger"
+msgstr "Времеви стартер"
+
+#: includes/wplc_data_triggers.php:79
+msgid "Scroll Trigger"
+msgstr "Стартиране при навигация"
+
+#: includes/wplc_data_triggers.php:80
+msgid "Page Leave Trigger"
+msgstr "Стартиране при напускане на страница"
+
+#: includes/wplc_data_triggers.php:81
+msgid ""
+"Note: When using page trigger with a the basic theme, no hovercard is shown "
+"by default. We suggest using the time trigger for this instead."
+msgstr ""
+"Бележка: Когато използвате стартер на страница с основна тема, няма да има "
+"показани ховъркарти. Предлагаме ви да използвате времеви стартер."
+
+#: includes/wplc_data_triggers.php:87
+msgid "Page ID"
+msgstr "Страница ID"
+
+#: includes/wplc_data_triggers.php:88
+msgid "Note: Leave empty for 'all' pages"
+msgstr "Бележка: Оставете празно, ако желаете да се приложи на всички страници"
+
+#: includes/wplc_data_triggers.php:92
+msgid "Show After"
+msgstr "Покажи след"
+
+#: includes/wplc_data_triggers.php:93
+msgid "Seconds"
+msgstr "Секунди"
+
+#: includes/wplc_data_triggers.php:97
+msgid "Show After Scrolled"
+msgstr "Покажи след навигация"
+
+#: includes/wplc_data_triggers.php:98
+msgid "(%) Percent of page height"
+msgstr "(%) Процент от дължината на страницата"
+
+#: includes/wplc_data_triggers.php:102
+msgid "Content Replacement"
+msgstr "Смяна на съдържанието"
+
+#: includes/wplc_data_triggers.php:113
+msgid "Replace Content"
+msgstr "Замени съдържанието"
+
+#: includes/wplc_data_triggers.php:118
+msgid "Enable Trigger"
+msgstr "Разреши стартер"
+
+#: includes/wplc_data_triggers.php:124 includes/wplc_roi.php:237
+#: modules/node_server.php:503 wp-live-chat-support.php:5167
+msgid "Close"
+msgstr "Затвори"
+
+#: includes/wplc_data_triggers.php:133 includes/wplc_departments.php:255
+#: includes/wplc_roi.php:246
+msgid "Please review your submission"
+msgstr "Моля, прегледайте заявката си"
+
+#: includes/wplc_data_triggers.php:273
+msgid "Trigger has been edited."
+msgstr "Стартера беше променен."
+
+#: includes/wplc_data_triggers.php:426
+msgid "Conflict with page"
+msgstr "Конфликт със страница"
+
+#: includes/wplc_data_triggers.php:428
+msgid "Trigger ID: "
+msgstr "Стартер ID: "
+
+#: includes/wplc_data_triggers.php:429
+msgid ""
+"It is possible that this trigger may override another trigger, or be "
+"overridden by another trigger."
+msgstr "Възможно е този стартер да бъде заменен или да замени друг стартер."
+
+#: includes/wplc_data_triggers.php:442 includes/wplc_roi.php:131
+#: modules/node_server.php:933
+msgid "Page"
+msgstr "Страница"
+
+#: includes/wplc_data_triggers.php:461 includes/wplc_roi.php:657
+msgid "All"
+msgstr "Всички"
+
+#: includes/wplc_data_triggers.php:465
+msgid "Click to change trigger status"
+msgstr "Кликни, за да промениш статуса на стартера"
+
+#: includes/wplc_data_triggers.php:475
+msgid "No Triggers Found..."
+msgstr "Не бяха намерени стартери..."
+
+#: includes/wplc_data_triggers.php:579
+msgid "Are you sure you would like to delete trigger"
+msgstr "Сигурни ли сте, че желаете да изтриете стартера"
+
+#: includes/wplc_departments.php:55 includes/wplc_departments.php:59
+#: includes/wplc_departments.php:83 includes/wplc_departments.php:525
+#: includes/wplc_departments.php:643 includes/wplc_transfer_chats.php:92
+msgid "No Department"
+msgstr "Няма отдел"
+
+#: includes/wplc_departments.php:79
+msgid "Chat Department"
+msgstr "Чат отдел"
+
+#: includes/wplc_departments.php:124 includes/wplc_departments.php:497
+#: includes/wplc_departments.php:515
+msgid "Departments"
+msgstr "Отдели"
+
+#: includes/wplc_departments.php:137
+msgid "Department Settings"
+msgstr "Настройки на отдел"
+
+#: includes/wplc_departments.php:140
+msgid "WP Live Chat Support Departments"
+msgstr "WP Live Chat Support отдели"
+
+#: includes/wplc_departments.php:190
+msgid "No Departments Found..."
+msgstr "Не бяха открити отдели..."
+
+#: includes/wplc_departments.php:240
+msgid "Department Name"
+msgstr "Наименование на отдела"
+
+#: includes/wplc_departments.php:316
+msgid "Department has been edited."
+msgstr "Отдела беше коригиран."
+
+#: includes/wplc_departments.php:452
+msgid "Are you sure you would like to delete department"
+msgstr "Сигурни ли сте, че искате да изтриете отдела"
+
+#: includes/wplc_departments.php:520
+msgid "Default Department"
+msgstr "Отдел по подразбиране"
+
+#: includes/wplc_departments.php:521
+msgid "Default department a new chat is assigned to"
+msgstr "Отдела по подразбиране, към който е насочва новия чат"
+
+#: includes/wplc_departments.php:536
+msgid "Create or Edit Departments"
+msgstr "Създай или коригирай отдел"
+
+#: includes/wplc_departments.php:542
+msgid "User Department Selection"
+msgstr "Избор на потребителски отдел"
+
+#: includes/wplc_departments.php:543
+msgid "Allow user to select a department before starting a chat?"
+msgstr ""
+"Позволяваш ли на потребителите да избират отдел, към който да се обърнат "
+"преди да започнат чата?"
+
+#: includes/wplc_departments.php:552
+msgid ""
+"Note: Chats will be transferred in the event that agents are not available "
+"within the selected department"
+msgstr ""
+"Забележка: Чатовете ще бъдат прехвърлени в случай, че операторите от "
+"съответния отдел не са на разположение"
+
+#: includes/wplc_departments.php:563
+#, php-format
+msgid "Create departments <a href='%s'>here</a>."
+msgstr "Създай отдел <a href='%s'>тук</a>."
+
+#: includes/wplc_departments.php:622
+msgid "Department you have been assigned to as an agent"
+msgstr "Отдела, който ти е възложен като оператор"
+
+#: includes/wplc_departments.php:622 includes/wplc_transfer_chats.php:41
+#: modules/node_server.php:935
+msgid "Department"
+msgstr "Отдел"
+
+#: includes/wplc_departments.php:730
+msgid "Select Department"
+msgstr "Изберете отдел"
+
+#: includes/wplc_roi.php:72
+msgid "ROI Goals"
+msgstr "ROI - Цели"
+
+#: includes/wplc_roi.php:84
+msgid "View Reports"
+msgstr "Виж отчети"
+
+#: includes/wplc_roi.php:87
+msgid "WP Live Chat Support ROI Goals"
+msgstr "WP Live Chat Support ROI цели"
+
+#: includes/wplc_roi.php:132
+msgid "Value"
+msgstr "Стойност"
+
+#: includes/wplc_roi.php:154
+msgid "No ROI Goals Found..."
+msgstr "Не бяха намерени ROI цели..."
+
+#: includes/wplc_roi.php:212
+msgid "Goal Name"
+msgstr "Име на целта"
+
+#: includes/wplc_roi.php:217
+msgid "Goal Overview"
+msgstr "Преглед на целта"
+
+#: includes/wplc_roi.php:222
+msgid "Goal Page"
+msgstr "Страница на целта"
+
+#: includes/wplc_roi.php:231
+msgid "Goal Value"
+msgstr "Стойност на целта"
+
+#: includes/wplc_roi.php:377
+msgid "Goal has been edited."
+msgstr "Целта беше редактирана."
+
+#: includes/wplc_roi.php:540
+msgid "Are you sure you would like to delete goal"
+msgstr "Сигурни ли сте, че искате да изтриете целта"
+
+#: includes/wplc_roi.php:622
+msgid "ROI Reporting"
+msgstr "ROI отчет"
+
+#: includes/wplc_roi.php:636
+msgid "Goal Statistics"
+msgstr "Статистики на целите"
+
+#: includes/wplc_roi.php:648
+msgid "No Goals Found"
+msgstr "Не бяха открити цели"
+
+#: includes/wplc_roi.php:658
+msgid "Last 30 Days"
+msgstr "Последните 30 дни"
+
+#: includes/wplc_roi.php:659
+msgid "Last 15 Days"
+msgstr "Последните 15 дни"
+
+#: includes/wplc_roi.php:660
+msgid "Last 7 Days"
+msgstr "Последните 7 дни"
+
+#: includes/wplc_roi.php:661
+msgid "Last 24 Hours"
+msgstr "Последните 24 часа"
+
+#: includes/wplc_roi.php:713
+msgid "Value Per Conversion"
+msgstr "Стойност за реализация"
+
+#: includes/wplc_roi.php:719
+msgid "Total Value"
+msgstr "Обща стойност"
+
+#: includes/wplc_roi.php:724
+msgid "Total Conversions"
+msgstr "Общо реализации"
+
+#: includes/wplc_roi.php:756
+msgid "Value By Date"
+msgstr "Стойности по дата"
+
+#: includes/wplc_roi.php:759
+msgid "Value By Agent"
+msgstr "Стойности по оператор"
+
+#: includes/wplc_roi.php:765
+msgid "No data available yet..."
+msgstr "Все още няма налични данни..."
+
+#: includes/wplc_transfer_chats.php:13 modules/node_server.php:917
+#: modules/node_server.php:922
+msgid "Transfer"
+msgstr "Прехвърляне"
+
+#: includes/wplc_transfer_chats.php:25
+msgid "Transfer Chat"
+msgstr "Прехвърляне на чат"
+
+#: includes/wplc_transfer_chats.php:39
+msgid "Would you like to transfer this chat to"
+msgstr "Желаете ли да прехвърлите чата към"
+
+#: includes/wplc_transfer_chats.php:40
+msgid "Agent"
+msgstr "Оператор"
+
+#: includes/wplc_transfer_chats.php:46
+msgid "Please select an agent to transfer to"
+msgstr "Моля, изберете оператор, към който да прехвърлите"
+
+#: includes/wplc_transfer_chats.php:53
+msgid "Please select a department to transfer to"
+msgstr "Моля, изберете отдел, към който да прехвърлите"
+
+#: includes/wplc_transfer_chats.php:71
+msgid "No Agent"
+msgstr "Няма оператори"
+
+#: includes/wplc_transfer_chats.php:77
+msgid "You"
+msgstr "Теб"
+
+#: includes/wplc_transfer_chats.php:118
+msgid "Checking if agent is online"
+msgstr "Проверка за онлайн оператори"
+
+#: includes/wplc_transfer_chats.php:119
+msgid "Agent is not online, transfer cannot be made"
+msgstr "Оператора не е онлайн, трансфера не може да бъде извършен"
+
+#: includes/wplc_transfer_chats.php:121
+msgid "Checking if agents in department are online"
+msgstr "Проверка за онлайн оператори в отдела"
+
+#: includes/wplc_transfer_chats.php:122
+msgid ""
+"No agent within the department are available to accept the transfer, "
+"transfer cannot be made"
+msgstr ""
+"В отдела няма оператори на разположение, за да приемат трансфера, трансфера "
+"не може да бъде извършен"
+
+#: includes/wplc_transfer_chats.php:124
+msgid "Agent(s) available, safe to transfer"
+msgstr "Оператор(и) на разположение, на разположение за трансфер"
+
+#: includes/wplc_transfer_chats.php:126
+msgid "Transfer Complete. Closing Window..."
+msgstr "Прехвърлянето е завършено. Затваряне на прозореца..."
+
+#: includes/wplc_transfer_chats.php:127
+msgid "Transfer Failed. Please try again later..."
+msgstr "Прехвърлянето неуспешно. Моля опитайте по-късно..."
+
+#: includes/wplc_transfer_chats.php:370
+msgid "Transfer for"
+msgstr "Прехвърляне за"
+
+#: includes/wplc_transfer_chats.php:373
+msgid "Accept Transfer"
+msgstr "Приеми прехвърлянето"
+
+#: includes/wplc_transfer_chats.php:456
+msgid ""
+"Department took too long to respond, we are transferring this chat to the "
+"next available agent."
+msgstr ""
+"Отне твърде дълго време за отговор от отдела, прехвърляме чата към друг "
+"оператор."
+
+#: includes/wplc_transfer_chats.php:458
+msgid ""
+"took too long to respond, we are transferring this chat to the next "
+"available agent."
+msgstr "отне твърде дълго за отговор, прехвърляме ви към друг оператор."
+
+#: includes/wplc_transfer_chats.php:461
+msgid "has transferred the chat."
+msgstr "прехвърли чата."
+
+#: includes/wplc_transfer_chats.php:484
+msgid "User received this message"
+msgstr "Потребителя получи това съобщяние"
+
+#: includes/wplc_transfer_chats.php:530
+msgid "No agents available in"
+msgstr "Няма оператори на разположение в"
+
+#: includes/wplc_transfer_chats.php:532
+msgid "selected department"
+msgstr "избрания отдел"
+
+#: includes/wplc_transfer_chats.php:536
+msgid "automatically transferring you to"
+msgstr "автоматично прехвърляне към"
+
+#: includes/wplc_transfer_chats.php:538
+msgid "the next available department"
+msgstr "следващия възможен департамент"
+
+#: includes/wplc_transfer_chats.php:564
+msgid "User has been transfered from "
+msgstr "Потребителя беше прехвърлен от "
+
+#: includes/wplc_transfer_chats.php:566
+msgid "department"
+msgstr "отдел"
+
+#: includes/wplc_transfer_chats.php:572
+msgid " to "
+msgstr " към "
+
+#: includes/wplc_transfer_chats.php:574
+msgid "as there were no agents online"
+msgstr "тъй като нямаше оператори на разположение"
+
+#: modules/advanced_features.php:14
+msgid "Advanced Features"
+msgstr "Разширени настройки"
+
+#: modules/advanced_features.php:33
+msgid "No token found"
+msgstr "Не беше намерен ключ за достъп"
+
+#: modules/advanced_features.php:49
+msgid "Chat Server"
+msgstr "Чат сървър"
+
+#: modules/advanced_features.php:57
+msgid "Use our server to handle chats"
+msgstr "Използвайте наш сървър за чат услугата"
+
+#: modules/advanced_features.php:57
+msgid ""
+"Disabling this will result in the plugin reverting back to using the legacy "
+"chat dashboard."
+msgstr ""
+"Деактивирането му ще доведе до връщане на плъгина към използването на "
+"старото таблото за управление на чата."
+
+#: modules/advanced_features.php:61
+msgid ""
+"Disabling this will revert the chat dashboard back to the legacy version."
+msgstr ""
+"Деактивирането на това ще върне таблото за управление на чата обратно към "
+"старата версия."
+
+#: modules/advanced_features.php:66
+msgid "Chat server token"
+msgstr "Ключ за достъп към чата"
+
+#: modules/advanced_features.php:66
+msgid ""
+"Security token for accessing chats on the node server. Changing this will "
+"remove current chats"
+msgstr ""
+"Защитен токен за достъп до разговори на сървъра на възела. Смяната на това "
+"ще премахне текущите разговори"
+
+#: modules/advanced_features.php:70 modules/api/wplc-api.php:80
+msgid "Generate New"
+msgstr "Генериране на нов"
+
+#: modules/advanced_features.php:71
+msgid "Copy"
+msgstr "Копирай"
+
+#: modules/advanced_features.php:76
+msgid "Server end point override"
+msgstr "Замяна на крайната точка на сървъра"
+
+#: modules/advanced_features.php:76
+msgid ""
+"Do not change this unless advised to do so by a WP Live Chat Support "
+"representative"
+msgstr ""
+"Не променяйте това, освен ако не бъдете посъветвани да направите това от "
+"представител на WP Live Chat Support"
+
+#: modules/advanced_features.php:79
+msgid "Leave empty unless advised by a WP Live Chat Support representative"
+msgstr ""
+"Оставете празно, освен ако не е препоръчано от представител на WP Live Chat "
+"Support"
+
+#: modules/advanced_features.php:84
+msgid "Disable Typing Previews"
+msgstr "Деактивиране на прегледите за въвеждане"
+
+#: modules/advanced_features.php:84
+msgid ""
+"This option disables the typing preview from showing up to agents, which "
+"means agents will not be able to see what the user is typing in realtime."
+msgstr ""
+"Тази опция преустановява прегледите за въвеждане на операторите, което "
+"означава, че те няма да могат да виждат както пише потребителя в реално "
+"време."
+
+#: modules/advanced_features.php:92
+msgid "Limit chat ring amount"
+msgstr "Ограничи броя на чат сигнализацията"
+
+#: modules/advanced_features.php:92
+msgid "Limit the amount of time the new chat ringer will play"
+msgstr "Ограничи времето, за което сигнала за нов чат ще продължава"
+
+#: modules/advanced_features.php:101
+msgid "Did you know?"
+msgstr "Знаеше ли че?"
+
+#: modules/advanced_features.php:101
+msgid ""
+"You can copy this node server token to multiple sites in order to manage "
+"more than one domain from a single chat dashboard"
+msgstr ""
+"Можете да копирате този сървър токен на няколко сайта, за да управлявате "
+"повече от един домейна от едно табло за управление"
+
+#: modules/advanced_features.php:155
+msgid "End Chat"
+msgstr "Затвори чата"
+
+#: modules/advanced_tools.php:11
+msgid "Tools"
+msgstr ""
+
+#: modules/advanced_tools.php:19
+#, fuzzy
+#| msgid "WP Live Chat Support - Webhooks"
+msgid "WP Live Chat Support - Tools"
+msgstr "WP Live Chat Support - Webhooks"
+
+#: modules/advanced_tools.php:31
+#, fuzzy
+#| msgid "Chat ID"
+msgid "Chat Data"
+msgstr "Чат ID"
+
+#: modules/advanced_tools.php:39
+#, fuzzy
+#| msgid "Chat Window Settings"
+msgid "Chat Settings"
+msgstr "Настройки на чат прозореца"
+
+#: modules/advanced_tools.php:43
+#, fuzzy
+#| msgid "Department Settings"
+msgid "Export Settings"
+msgstr "Настройки на отдел"
+
+#: modules/advanced_tools.php:46 modules/advanced_tools.php:98
+#, fuzzy
+#| msgid "Department Settings"
+msgid "Import Settings"
+msgstr "Настройки на отдел"
+
+#: modules/advanced_tools.php:53 modules/node_server.php:914
+msgid "Chat History"
+msgstr "История на чата"
+
+#: modules/advanced_tools.php:57
+#, fuzzy
+#| msgid "Chat History"
+msgid "Export History"
+msgstr "История на чата"
+
+#: modules/advanced_tools.php:64
+#, fuzzy
+#| msgid "Chat Status"
+msgid "Chat Ratings"
+msgstr "Чат статус"
+
+#: modules/advanced_tools.php:68
+#, fuzzy
+#| msgid "Experience Rating"
+msgid "Export Ratings"
+msgstr "Рейтинг"
+
+#: modules/advanced_tools.php:79
+#, fuzzy
+#| msgid "Offline Messages"
+msgid "Export Offline Messages"
+msgstr "Офлайн съобщения"
+
+#: modules/advanced_tools.php:106
+msgid "CSV File"
+msgstr ""
+
+#: modules/advanced_tools.php:117
+msgid "Please note: Import CSV must have been exported using the Export tool"
+msgstr ""
+
+#: modules/advanced_tools.php:125
+#, fuzzy
+#| msgid "Support"
+msgid "Import"
+msgstr "Поддръжка"
+
+#: modules/advanced_tools.php:125
+msgid "This cannot be undone"
+msgstr ""
+
+#: modules/advanced_tools.php:156
+msgid "Import Failed - Could Not Process File"
+msgstr ""
+
+#: modules/advanced_tools.php:170
+msgid "Import Failed - Could Not Find File"
+msgstr ""
+
+#: modules/advanced_tools.php:182
+#, fuzzy
+#| msgid "Complete"
+msgid "Import Complete"
+msgstr "Завършен"
+
+#: modules/advanced_tools.php:190
+msgid "Thank you, all settings have been updated"
+msgstr "Вашите настройки бяха запазени"
+
+#: modules/api/wplc-api-functions.php:308
+#: modules/api/wplc-api-functions.php:1114 modules/node_server.php:214
+#: modules/node_server.php:284
+msgid "Action not set"
+msgstr "Не е зададено действие"
+
+#: modules/api/wplc-api-functions.php:1635
+msgid "Security Violation - MIME Type not allowed"
+msgstr "Нарушение в сигурността - Видът MIME не е позволен"
+
+#: modules/api/wplc-api-functions.php:1638
+msgid "File could not be uploaded"
+msgstr "Файла не може да бъде качен"
+
+#: modules/api/wplc-api-functions.php:1641
+msgid "Security Violation - Does not match allowed file types"
+msgstr "Нарушение в сигурността - Не отговаря на разрешен вид файл"
+
+#: modules/api/wplc-api-functions.php:1644
+msgid "Security Violation - File unsafe"
+msgstr "Нарушение в сигурността - Файла не е безопасен"
+
+#: modules/api/wplc-api.php:44 modules/api/wplc-api.php:71
+msgid "REST API"
+msgstr "REST API"
+
+#: modules/api/wplc-api.php:62
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+"За да ползвате REST API, моля подсигурете ползване на WordPress версия с "
+"включен REST API пакет."
+
+#: modules/api/wplc-api.php:64
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr ""
+"Като алтернатива, моля, инсталирайте официалния Rest API плъгин от WordPress."
+
+#: modules/api/wplc-api.php:76
+msgid "Secret Token"
+msgstr "Ключ за достъп"
+
+#: modules/api/wplc-api.php:79
+msgid "No secret token found"
+msgstr "Не беше намерен ключ за достъп"
+
+#: modules/api/wplc-api.php:85
+msgid "Supported API Calls"
+msgstr "Поддържани API искания"
+
+#: modules/api/wplc-api.php:89 modules/api/wplc-api.php:97
+#: modules/api/wplc-api.php:105 modules/api/wplc-api.php:113
+#: modules/api/wplc-api.php:121 modules/api/wplc-api.php:130
+msgid "Try"
+msgstr "Опитай"
+
+#: modules/api/wplc-api.php:138
+msgid "API Response Codes"
+msgstr "API Response Codes"
+
+#: modules/api/wplc-api.php:281
+msgid "Rest Console "
+msgstr "REST конзола "
+
+#: modules/api/wplc-api.php:288
+msgid "Try it!"
+msgstr "Опитай!"
+
+#: modules/cta_animations.php:16
+#, fuzzy
+#| msgid "No Animation"
+msgid "Call To Action Animation"
+msgstr "Без анимация"
+
+#: modules/documentation_suggestions.php:9
+msgid "Doc Suggestions"
+msgstr "Препоръчителна документация"
+
+#: modules/documentation_suggestions.php:27
+msgid "Documentation Suggestions"
+msgstr "Препоръчителна документация"
+
+#: modules/documentation_suggestions.php:33
+msgid "Enable Documentation Suggestions"
+msgstr "Активирай препоръчителна документация"
+
+#: modules/documentation_suggestions.php:33
+msgid ""
+"When a user sends a message the plugin will automatically detect if there "
+"are posts or pages that can be suggested to the user in order for the user "
+"to get more information about what they are asking. This is useful when the "
+"user has typed their message and is still waiting for an agent to answer "
+"their chat."
+msgstr ""
+"Когато потребителят изпрати съобщение, плъгина автоматично ще открие дали "
+"има публикации или страници, които могат да бъдат предложени на потребителя, "
+"за да може потребителят да получи повече информация за това, което търси. "
+"Това е полезно когато потребителя е написал своето съобщение и е в очакване "
+"да получи отговор от оператор."
+
+#: modules/documentation_suggestions.php:170
+msgid "The following was sent to the user as suggested documents:"
+msgstr ""
+"Следното беше изпратено на потребителя като препоръчителна документация:"
+
+#: modules/documentation_suggestions.php:172
+msgid "While you wait for the agent, perhaps these documents may help?"
+msgstr ""
+"Докато изчаквате за оператор, може би ще намерите следната документация "
+"полезна?"
+
+#: modules/gdpr.php:27
+#, fuzzy
+#| msgid "Enbled GDPR Compliance"
+msgid "Enabled GDPR Compliance"
+msgstr "Активирай съгласие за РЗЛД"
+
+#: modules/gdpr.php:27
+msgid "Disabling will disable all GDPR related options, this is not advised."
+msgstr ""
+"Деактивирайки това ще премахнете всички настройки свързани с РЗЛД, това не е "
+"препоръчително."
+
+#: modules/gdpr.php:31
+msgid "Importance of GDPR Compliance"
+msgstr "Важността на съгласие за РЗЛД"
+
+#: modules/gdpr.php:37
+msgid "Company Name"
+msgstr "Име на фирмата"
+
+#: modules/gdpr.php:46
+msgid "Retention Purpose"
+msgstr "Цел на съхранението"
+
+#: modules/gdpr.php:49 modules/gdpr.php:354
+msgid "Chat/Support"
+msgstr "Чат/Поддръжка"
+
+#: modules/gdpr.php:55
+msgid "Retention Period"
+msgstr "Период на съхранението"
+
+#: modules/gdpr.php:58
+msgid "days"
+msgstr "дни"
+
+#: modules/gdpr.php:64
+msgid "GDPR Notice"
+msgstr "Известие за РЗЛД"
+
+#: modules/gdpr.php:65
+msgid ""
+"Users will be asked to accept the notice shown here, in the form of a check "
+"box."
+msgstr ""
+"Потребителите ще бъдат помолени да приемат известието, показано тук, под "
+"формата на квадратче за отметка."
+
+#: modules/gdpr.php:116
+msgid "GDPR"
+msgstr "РЗЛД"
+
+#: modules/gdpr.php:125
+msgid "WP Live Chat Support - GDPR"
+msgstr "WP Live Chat Support - РЗЛД"
+
+#: modules/gdpr.php:127
+msgid ""
+"Search is performed on chat sessions, messages, and offline messages. Data "
+"will also be deleted automatically per your retention policy."
+msgstr ""
+"Търсенето се извършва в чат сесии, съобщения и офлайн съобщения. Данните "
+"също ще бъдат изтривани автоматично в съответствие на политиката за "
+"съхранение."
+
+#: modules/gdpr.php:138
+msgid "Name, Email, Message"
+msgstr "Име, е-майл, съобщение"
+
+#: modules/gdpr.php:142
+msgid "Search"
+msgstr "Търсене"
+
+#: modules/gdpr.php:155
+#, php-format
+msgid "Search Results in %%TABLE%%"
+msgstr "Търси резултати в %%TABLE%%"
+
+#: modules/gdpr.php:183
+#, php-format
+msgid "Delete Chat (%%CID%%)"
+msgstr "Изтрий чат (%%CID%%)"
+
+#: modules/gdpr.php:184
+#, php-format
+msgid "Download Chat (%%CID%%)"
+msgstr "Изтегляне на чат (%%CID%%)"
+
+#: modules/gdpr.php:188 wp-live-chat-support.php:4532
+#: wp-live-chat-support.php:4590
+msgid "Chat ID"
+msgstr "Чат ID"
+
+#: modules/gdpr.php:209
+msgid "Please perform a search using the input field above"
+msgstr "Моля, извършете търсене с помощта на полето за въвеждане по-горе"
+
+#: modules/gdpr.php:272
+msgid "Data Deleted"
+msgstr "Информацията беше изтрита"
+
+#: modules/gdpr.php:352
+#, php-format
+msgid ""
+"I agree for my personal data to be processed and for the use of cookies in "
+"order to engage in a chat processed by %%COMPANY%%, for the purpose of "
+"%%PURPOSE%%, for the time of %%PERIOD%% day(s) as per the GDPR."
+msgstr ""
+"Давам своето съгласие личните ми данни да бъдат обработвани от %%COMPANY%%, "
+"с цел подобряване на обслужването, за периода от %%PERIOD%% дни съобразно с "
+"РЗЛД."
+
+#: modules/gdpr.php:373 modules/gdpr.php:571 modules/gdpr.php:593
+msgid "Privacy Policy"
+msgstr "Политика на поверителност"
+
+#: modules/gdpr.php:374
+#, php-format
+msgid ""
+"We use WP Live Chat Support as our live chat platform. By clicking below to "
+"submit this form, you acknowledge that the information you provide now and "
+"during the chat will be transferred to WP Live Chat Support for processing "
+"in accordance with their %%POLICY_LINK%%."
+msgstr ""
+"Ние използваме WP Live Chat Support като платформа за онлайн чат. "
+"Активирайки тикчето, Вие давате вашето съгласие с общите условия на WP Live "
+"Chat Support %%POLICY_LINK%%."
+
+#: modules/gdpr.php:396
+#, php-format
+msgid ""
+"Please note as per the GDPR settings you have selected, all chat data will "
+"be retained for %%PERIOD%% day(s)."
+msgstr ""
+"Моля обърнете внимание, че в РЗЛД настройките, които се избрали, всички "
+"чатове ще бъдат запазени в период от %%PERIOD%% ден(и)."
+
+#: modules/gdpr.php:399
+#, php-format
+msgid ""
+"After this period of time, all chat data older than %%PERIOD%% day(s), will "
+"be permanently removed from your server. "
+msgstr ""
+"След този период всички данни от чата, по-стари от %% PERIOD %% дни, ще "
+"бъдат окончателно премахнати от сървъра ви. "
+
+#: modules/gdpr.php:403
+msgid "GDPR - Data Retention"
+msgstr "РЗЛД - Съхраняване на лични данни"
+
+#: modules/gdpr.php:409 modules/gdpr.php:573
+msgid "Privacy Settings"
+msgstr "Настройките за поверителност"
+
+#: modules/gdpr.php:424
+msgid "Once every 6 hours"
+msgstr "Веднъж на всеки 6 часа"
+
+#: modules/gdpr.php:539
+msgid "Chat Ended"
+msgstr "Чатът приключи"
+
+#: modules/gdpr.php:564
+msgid ""
+"GDPR compliance has been disabled, read more about the implications of this "
+"here"
+msgstr ""
+"РЗЛД информираното съгласие е изключено, прочетете повече за последиците от "
+"това тук"
+
+#: modules/gdpr.php:565
+msgid "Additionally please take a look at WP Live Chat Support"
+msgstr "Освен това, моля вижте и WP Live Chat Support"
+
+#: modules/gdpr.php:566
+msgid ""
+"It is highly recommended that you enable GDPR compliance to ensure your user "
+"data is regulated."
+msgstr ""
+"Силно се препоръчва да разрешите РЗЛД информираното съгласие, за да "
+"осигурите потребителите си, че съхранявате данните им спрямо закона."
+
+#: modules/gdpr.php:569
+msgid "Warning - GDPR Compliance Disabled - Action Required"
+msgstr ""
+"Внимание - РЗЛД информираното съгласие е дективирано - Необходими са действия"
+
+#: modules/gdpr.php:570
+msgid "EU GDPR"
+msgstr "EU РЗЛД"
+
+#: modules/gdpr.php:574
+msgid "Dismiss & Accept Responsibility"
+msgstr "Отхвърляне и приемане на отговорността"
+
+#: modules/gdpr.php:591
+#, php-format
+msgid "Please refer to our %%PRIVACY_LINK%% for information on Data Processing"
+msgstr ""
+"Моля, вижте нашата %% PRIVACY_LINK %% за информация относно обработката на "
+"данни"
+
+#: modules/gdpr.php:641
+msgid "GDPR Compliance Enabled - Server Selection Limited to EU"
+msgstr ""
+"РЗЛД информираното съгласие е активирано - Избор на сървър, ограничен до ЕС"
+
+#: modules/gdpr.php:674
+msgid ""
+"Pro is active - Deleting a chat will resilt in user experience ratings being "
+"deleted along with chat data"
+msgstr ""
+"Pro е активирано - Изтривайки чата ще доведе до загуба на информацията за "
+"него и рейтинга"
+
+#: modules/gdpr.php:683
+msgid "Pro data will also be removed as a part of this automatic process."
+msgstr ""
+"Pro данните също ще бъдат премахнати като част от този автоматичен процес."
+
+#: modules/google_analytics.php:12
+msgid "Google Analytics Integration"
+msgstr "Интеграция на Google Analytics"
+
+#: modules/google_analytics.php:17
+msgid "Enable Google Analytics Integration"
+msgstr "Активирай Google Analytics Integration"
+
+#: modules/module_gif.php:144
+msgid "GIF Integration"
+msgstr "GIF интеграция"
+
+#: modules/module_gif.php:150
+msgid "Enable GIF Integration"
+msgstr "Активирай GIF интеграция"
+
+#: modules/module_gif.php:150
+msgid ""
+"If you enable GIF Integration you're going to be able to send GIFs by typing "
+"commands such as '/gif happy' when writing a message."
+msgstr ""
+"Ако активирате GIF интеграция, ще можете да изпращате GIF файлове, като "
+"пишете команди, като например \"/ gif happy\", когато пишете съобщение."
+
+#: modules/module_gif.php:158
+msgid "Select a GIF provider"
+msgstr "Избери GIF източник"
+
+#: modules/module_gif.php:158
+msgid ""
+"A GIF provider is the source of the GIFs that are going to show when you "
+"type a command like '/gif happy' on a message."
+msgstr ""
+"Доставчикът на GIF е източникът на GIF файловете, които ще се показват, "
+"когато въведете команда като \"/ gif happy\" в съобщение."
+
+#: modules/module_gif.php:162
+msgid "Giphy"
+msgstr "Giphy"
+
+#: modules/module_gif.php:163
+msgid "Tenor"
+msgstr "Tenor"
+
+#: modules/module_gif.php:169 modules/module_gif.php:172
+msgid "Giphy API key"
+msgstr "Giphy API ключ"
+
+#: modules/module_gif.php:169
+msgid "The API key created for you when you register an app on Giphy"
+msgstr "API ключът се издава при регистрация на Giphy приложение"
+
+#: modules/module_gif.php:177 modules/module_gif.php:180
+msgid "Tenor API key"
+msgstr "Tenor API ключ"
+
+#: modules/module_gif.php:177
+msgid "The API key created for you when you register an app on Tenor"
+msgstr "API ключът се издава при регистрация на Tenor приложение"
+
+#: modules/node_server.php:36
+#, fuzzy
+#| msgid "Via WP Live Chat Support"
+msgid "Thank you for using WP Live Chat Support."
+msgstr "WP Live Chat Support"
+
+#: modules/node_server.php:199 modules/node_server.php:208
+#: modules/node_server.php:269 modules/node_server.php:278
+msgid "Success"
+msgstr "Успех"
+
+#: modules/node_server.php:211 modules/node_server.php:281
+msgid "Message data is corrupt"
+msgstr "Данните за съобщенията са повредени"
+
+#: modules/node_server.php:217 modules/node_server.php:287
+msgid "Message data array not set"
+msgstr "Масив с данни за съобщения не е зададен"
+
+#: modules/node_server.php:220 modules/node_server.php:290
+msgid "Chat ID is not set"
+msgstr "Чат ID не е зададен"
+
+#: modules/node_server.php:224 modules/node_server.php:294
+msgid "No security nonce found"
+msgstr "Не е намерена сигурност"
+
+#: modules/node_server.php:312
+msgid "Error"
+msgstr "Грешка"
+
+#: modules/node_server.php:313
+msgid "Only chat agents can access this page."
+msgstr "Само чат оператори имат достъп до тази страница."
+
+#: modules/node_server.php:501 wp-live-chat-support.php:5165
+msgid "Sending transcript..."
+msgstr "Изпращане на скрипт..."
+
+#: modules/node_server.php:502 wp-live-chat-support.php:5166
+msgid "Sending Transcript"
+msgstr "Изпращане на скрипт"
+
+#: modules/node_server.php:504 wp-live-chat-support.php:5168
+msgid "The chat transcript has been emailed."
+msgstr "Чат скрипта беше изпратен на е-майла."
+
+#: modules/node_server.php:505 wp-live-chat-support.php:5169
+msgid "There was a problem emailing the chat."
+msgstr ""
+
+#: modules/node_server.php:534
+msgid "Connection Error"
+msgstr "Грешка във връзката"
+
+#: modules/node_server.php:535
+msgid ""
+"We are having some trouble contacting the server. Please try again later."
+msgstr "Имаме проблеми с връзката със сървъра. Моля, опитайте отново по-късно."
+
+#: modules/node_server.php:576
+msgid "Chat is disabled in settings area, re-enable"
+msgstr "Чата е деактивиран в настройките, ре-активирайте"
+
+#: modules/node_server.php:606
+msgid "User received notification:"
+msgstr "Полученото от потребителя уведомление:"
+
+#: modules/node_server.php:625 wp-live-chat-support.php:2163
+msgid "New chat received"
+msgstr "Получен нов чат"
+
+#: modules/node_server.php:626 wp-live-chat-support.php:2165
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr ""
+"Получен е нов чат. Моля, отидете на \"Live Chat\" страницата и приемете чата"
+
+#: modules/node_server.php:741
+#, fuzzy
+#| msgid "Dear Pro User,"
+msgid "Dear User,"
+msgstr "Скъпи Pro потребители,"
+
+#: modules/node_server.php:742
+msgid "Your API Key could not be validated, some functionality may be limited"
+msgstr ""
+"Вашият API ключ не беше успешно валидиран, някои функции може да бъдат "
+"ограничени"
+
+#: modules/node_server.php:747
+msgid "You are not a verified agent, chat dashboard has been disabled"
+msgstr "Не сте проверен оператор, таблото за управление на чата е деактивирано"
+
+#: modules/node_server.php:818
+msgid "Welcome to V8 of WP Live Chat Support"
+msgstr "Добре дошли в V8 от WP Live Chat Support"
+
+#: modules/node_server.php:819
+msgid ""
+"Did you know, this version features high speed message delivery, agent to "
+"agent chat, and a single window layout?"
+msgstr ""
+"Знаете ли, че тази версия разполага с висока скорост на доставяне на "
+"съобщения, чат оператор към оператор и лесен достъп до всичко в един "
+"единствен прозорец?"
+
+#: modules/node_server.php:820
+msgid ""
+"To activate this functionality please navigate to Live Chat -> Settings -> "
+"Advanced Features -> And enable our Chat Server option."
+msgstr ""
+"За да активирате тази функция, моля, отидете Live Chat -> Settings -> "
+"Advanced Features ->и активирайте нашата настройка за Chat Server."
+
+#: modules/node_server.php:823
+msgid "Show me!"
+msgstr "Покажи ми!"
+
+#: modules/node_server.php:824
+msgid "Don't Show This Again"
+msgstr "Не показвай това"
+
+#: modules/node_server.php:908
+msgid "Connecting..."
+msgstr "Свързване..."
+
+#: modules/node_server.php:912
+msgid " Active visitors"
+msgstr " Активни посетители"
+
+#: modules/node_server.php:913
+msgid "Agent(s) Online"
+msgstr "Оператори/и на линия"
+
+#: modules/node_server.php:918
+msgid "Department Transfer"
+msgstr "Прехвърляне на отдела"
+
+#: modules/node_server.php:919 modules/node_server.php:923
+#: wp-live-chat-support.php:4278
+msgid "Direct User To Page"
+msgstr "Насочи потребителя към страница"
+
+#: modules/node_server.php:920
+msgid "Leave chat"
+msgstr "Напусни чат"
+
+#: modules/node_server.php:921 wp-live-chat-support.php:2629
+msgid "End chat"
+msgstr "Край на чата"
+
+#: modules/node_server.php:924
+msgid "Events"
+msgstr "Събития"
+
+#: modules/node_server.php:925
+msgid "Join chat"
+msgstr "Присъеди ни се към чат"
+
+#: modules/node_server.php:926
+msgid "Filters"
+msgstr "Филтри"
+
+#: modules/node_server.php:927
+msgid "New Visitors (3 Min)"
+msgstr "Нови потребители (3 мин)"
+
+#: modules/node_server.php:928
+msgid "Active Chats"
+msgstr "Активни чатове"
+
+#: modules/node_server.php:929
+msgid "Clear Filters"
+msgstr "Изчисти филтри"
+
+#: modules/node_server.php:930
+msgid "Active visitors"
+msgstr "Активни потребители"
+
+#: modules/node_server.php:931 wp-live-chat-support.php:2394
+msgid "Visitor"
+msgstr "Потребител"
+
+#: modules/node_server.php:932
+msgid "Info"
+msgstr "Информация"
+
+#: modules/node_server.php:934
+msgid "Chat Status"
+msgstr "Чат статус"
+
+#: modules/node_server.php:936
+msgid "Search Results"
+msgstr "Резултати от търсенето"
+
+#: modules/node_server.php:937
+msgid "No emoji found"
+msgstr "Не бяха намерени емотикони"
+
+#: modules/node_server.php:1049
+msgid ""
+"You can transfer chats from within a chat by clicking on the in chat menu, "
+"and selecting Transfer Chat or Transfer Department"
+msgstr ""
+"Можете да прехвърляте разговори в чата, като кликнете върху менюто в чата и "
+"изберете Прехвърляне на чат или прехвърляне към отдел"
+
+#: modules/node_server.php:1050
+msgid ""
+"You can share files quickly when in a chat, by simply dragging a file into "
+"the chat window!"
+msgstr ""
+"Може да споделяш файлове бързо по време на чата, като просто придърпаш файла "
+"в чат прозореца!"
+
+#: modules/node_server.php:1051
+msgid "You can now move between chats without ending/closing an open chat"
+msgstr ""
+"Сега може да се придвижваш между чатове, без да затваряш/прекратяваш "
+"отворения чат"
+
+#: modules/node_server.php:1108
+msgid "No quick responses found"
+msgstr "Не са намерени бързи отговори"
+
+#: modules/offline_messages_custom_fields.php:6
+#, php-format
+msgid ""
+"Use the <a href='%s'>Contact Form Ready</a> plugin (free) in order to "
+"customise the input fields of the offline message form.</a>"
+msgstr ""
+"Използвай <a href='%s'>Бърза форма за контакт</a> плъгина (безплатно)за да "
+"персонализирате полетата за въвеждане на формата за офлайн съобщение.</a>"
+
+#: modules/privacy.php:17 modules/privacy.php:31
+msgid "Privacy"
+msgstr "Поверителност"
+
+#: modules/webhooks_manager.php:8
+msgid "Agent Login"
+msgstr "Вход оператор"
+
+#: modules/webhooks_manager.php:9
+msgid "New Visitor"
+msgstr "Нов потребител"
+
+#: modules/webhooks_manager.php:10
+msgid "Chat Request"
+msgstr "Искане за чат"
+
+#: modules/webhooks_manager.php:11
+msgid "Agent Accept"
+msgstr "Приемане на оператор"
+
+#: modules/webhooks_manager.php:12
+msgid "Settings Changed"
+msgstr "Променени настройки"
+
+#: modules/webhooks_manager.php:45
+msgid "Webhooks"
+msgstr "Webhooks"
+
+#: modules/webhooks_manager.php:59
+msgid "WP Live Chat Support - Webhooks"
+msgstr "WP Live Chat Support - Webhooks"
+
+#: modules/webhooks_manager.php:81
+msgid "Webhook created"
+msgstr "Създаден Webhook"
+
+#: modules/webhooks_manager.php:83
+msgid "Webhook could not be created"
+msgstr "Webhook-а не може да бъде създаден"
+
+#: modules/webhooks_manager.php:90
+msgid "Webhook edited"
+msgstr "Webhook-а беше променен"
+
+#: modules/webhooks_manager.php:92
+msgid "Webhook could not be edited"
+msgstr "Webhook-а не може да бъде пробменен"
+
+#: modules/webhooks_manager.php:100
+msgid "Webhook deleted"
+msgstr "Webhook-а е изтрит"
+
+#: modules/webhooks_manager.php:102
+msgid "Webhook could not be delete"
+msgstr "Webhook-а не може да бъде изтрит"
+
+#: modules/webhooks_manager.php:224 modules/webhooks_manager.php:275
+msgid "Event"
+msgstr "Събитие"
+
+#: modules/webhooks_manager.php:225 modules/webhooks_manager.php:280
+msgid "Target URL"
+msgstr "Целеви URLs"
+
+#: modules/webhooks_manager.php:226 modules/webhooks_manager.php:285
+msgid "Method"
+msgstr "Метод"
+
+#: modules/webhooks_manager.php:247
+msgid "No Webhooks"
+msgstr "Няма налични Webhooks"
+
+#: modules/webhooks_manager.php:288
+msgid "GET"
+msgstr "ВЗЕМИ"
+
+#: modules/webhooks_manager.php:289
+msgid "POST"
+msgstr "ПОСТНИ"
+
+#: modules/webhooks_manager.php:295
+msgid "Save Changes"
+msgstr "Запази промени"
+
+#: modules/webhooks_manager.php:309
+msgid "Are you sure you want to delete this webhook?"
+msgstr "Сигурни ли сте, че искате да изтриете този webhook?"
+
+#: wp-live-chat-support.php:357 wp-live-chat-support.php:1859
+#: wp-live-chat-support.php:2972 wp-live-chat-support.php:4695
+msgid "Chat offline. Leave a message"
+msgstr "Офлайн чат. Оставете съобщение"
+
+#: wp-live-chat-support.php:358 wp-live-chat-support.php:1565
+#: wp-live-chat-support.php:2973 wp-live-chat-support.php:4696
+msgid "Hello. Please input your details so that I may help you."
+msgstr "Здравей. Моля, въведете данните си, за да можем да Ви помогнем."
+
+#: wp-live-chat-support.php:359 wp-live-chat-support.php:960
+#: wp-live-chat-support.php:1604 wp-live-chat-support.php:2974
+#: wp-live-chat-support.php:4697
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+"В момента на не сме на линия. Моля, оставете съобщение и ние ще се свържем с "
+"Вас възможно най-скоро."
+
+#: wp-live-chat-support.php:360 wp-live-chat-support.php:961
+#: wp-live-chat-support.php:2975 wp-live-chat-support.php:4698
+msgid "Sending message..."
+msgstr "Изпращане на съобщение..."
+
+#: wp-live-chat-support.php:361 wp-live-chat-support.php:962
+#: wp-live-chat-support.php:2976 wp-live-chat-support.php:4699
+msgid "Thank you for your message. We will be in contact soon."
+msgstr "Благодаря за вашето съобщение. Ще се свържем с вас скоро."
+
+#: wp-live-chat-support.php:363 wp-live-chat-support.php:2978
+#: wp-live-chat-support.php:4701
+msgid "Send message"
+msgstr "Изпрати съобщение"
+
+#: wp-live-chat-support.php:364 wp-live-chat-support.php:1840
+#: wp-live-chat-support.php:2964 wp-live-chat-support.php:4702
+msgid "Questions?"
+msgstr "Въпроси?"
+
+#: wp-live-chat-support.php:365 wp-live-chat-support.php:1841
+#: wp-live-chat-support.php:2965 wp-live-chat-support.php:4703
+msgid "Chat with us"
+msgstr "Пиши ни"
+
+#: wp-live-chat-support.php:366 wp-live-chat-support.php:2966
+#: wp-live-chat-support.php:4704
+msgid "Start live chat"
+msgstr "Започни Live Chat"
+
+#: wp-live-chat-support.php:367 wp-live-chat-support.php:2967
+#: wp-live-chat-support.php:4705
+msgid "Start Chat"
+msgstr "Започни чат"
+
+#: wp-live-chat-support.php:369 wp-live-chat-support.php:2969
+#: wp-live-chat-support.php:4707
+msgid "Chat ended"
+msgstr "Чатът приключи"
+
+#: wp-live-chat-support.php:370 wp-live-chat-support.php:1658
+#: wp-live-chat-support.php:1761 wp-live-chat-support.php:2970
+#: wp-live-chat-support.php:4708
+msgid "Connecting. Please be patient..."
+msgstr "Свързване. Моля за търпение..."
+
+#: wp-live-chat-support.php:371 wp-live-chat-support.php:2020
+#: wp-live-chat-support.php:2073 wp-live-chat-support.php:2971
+#: wp-live-chat-support.php:4709
+msgid "Reactivating your previous chat..."
+msgstr "Ре-активиране на предишен чат..."
+
+#: wp-live-chat-support.php:372 wp-live-chat-support.php:1765
+#: wp-live-chat-support.php:2982 wp-live-chat-support.php:4710
+msgid "Welcome. How may I help you?"
+msgstr "Добре дошли. Как мога да Ви помогна?"
+
+#: wp-live-chat-support.php:374 wp-live-chat-support.php:2979
+#: wp-live-chat-support.php:4712
+msgid "Press ENTER to send your message"
+msgstr "Натиснете ENTER, за да изпратите съобщение"
+
+#: wp-live-chat-support.php:375 wp-live-chat-support.php:2981
+#: wp-live-chat-support.php:4713
+msgid "close"
+msgstr "затвори"
+
+#: wp-live-chat-support.php:418 wp-live-chat-support.php:2940
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "Кликнете на \\'Започни чат'\\, за да започнете разговор с оператор"
+
+#: wp-live-chat-support.php:640
+msgid "Live Chat"
+msgstr "Чат на живо"
+
+#: wp-live-chat-support.php:641
+#, fuzzy
+#| msgid "New Dashboard"
+msgid "Dashboard"
+msgstr "Чат Табло"
+
+#: wp-live-chat-support.php:643
+msgid "Surveys"
+msgstr "Проучвания"
+
+#: wp-live-chat-support.php:650
+msgid "History"
+msgstr "История"
+
+#: wp-live-chat-support.php:651
+msgid "Missed Chats"
+msgstr "Пропуснати чатове"
+
+#: wp-live-chat-support.php:669
+msgid "API Keys"
+msgstr "API ключове"
+
+#: wp-live-chat-support.php:681
+msgid "Reporting"
+msgstr "Справки"
+
+#: wp-live-chat-support.php:682
+msgid "Triggers"
+msgstr "Стартери"
+
+#: wp-live-chat-support.php:683
+msgid "Custom Fields"
+msgstr "Персонализирани полета"
+
+#: wp-live-chat-support.php:688
+#, fuzzy
+#| msgid "WP Live Chat Support Pro"
+msgid "WP Live Chat Support API Key"
+msgstr "WP Live Chat Support Pro"
+
+#: wp-live-chat-support.php:689
+#, fuzzy
+#| msgid ""
+#| "To find and manage your premium API keys, please visit your <a "
+#| "target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+#| "page."
+msgid ""
+"To find and manage your API key, please visit your <a target='_BLANK' "
+"href='https://wp-livechat.com/my-account/'>my account</a> page."
+msgstr ""
+"За да намериш и управляваш преференциалните си API ключове моля, посети "
+"своята<a target='_BLANK' href='https://wp-livechat.com/my-account/'>профил</"
+"a> страница."
+
+#: wp-live-chat-support.php:944
+msgid "Please enter your name"
+msgstr "Моля, въведете вашето име"
+
+#: wp-live-chat-support.php:945
+msgid "Please enter your email address"
+msgstr "Моля въведете вашия е-маил адрес"
+
+#: wp-live-chat-support.php:946
+msgid "Connection to server lost. Please reload this page. Error: "
+msgstr ""
+"Връзката със сървъра е прекъсната. Моля, презаредете тази страница. Грешка: "
+
+#: wp-live-chat-support.php:948
+msgid "Please enter a message"
+msgstr "Моля, напишете съобщение"
+
+#: wp-live-chat-support.php:949
+msgid "Disconnected, attempting to reconnect..."
+msgstr "Връзката прекъсната, опит за повторна връзка..."
+
+#: wp-live-chat-support.php:996 wp-live-chat-support.php:997
+#: wp-live-chat-support.php:2739
+msgid " is typing..."
+msgstr " пише..."
+
+#: wp-live-chat-support.php:1000
+msgid " has joined."
+msgstr " се присъедини."
+
+#: wp-live-chat-support.php:1001
+msgid " has left."
+msgstr " напусна."
+
+#: wp-live-chat-support.php:1002
+msgid " has ended the chat."
+msgstr " приключи чата."
+
+#: wp-live-chat-support.php:1003
+msgid " has disconnected."
+msgstr " прекъсна връзката."
+
+#: wp-live-chat-support.php:1004
+msgid "(edited)"
+msgstr "(редактиран)"
+
+#: wp-live-chat-support.php:1005 wp-live-chat-support.php:1798
+msgid "Type here"
+msgstr "Пиши тук"
+
+#: wp-live-chat-support.php:1453 wp-live-chat-support.php:1473
+msgid "Start chat"
+msgstr "Стартирай чат"
+
+#: wp-live-chat-support.php:1809 wp-live-chat-support.php:2704
+msgid "Send"
+msgstr "Изпрати"
+
+#: wp-live-chat-support.php:2296
+msgid "Congratulations"
+msgstr "Поздравления"
+
+#: wp-live-chat-support.php:2297
+msgid "You are now accepting live chat requests on your site."
+msgstr "Сега вие приемате заявки за Live chat на Вашия сайт."
+
+#: wp-live-chat-support.php:2298
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "Живата версия на Chat box-а е автоматично активирана на вашия уебсайт."
+
+#: wp-live-chat-support.php:2299
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr "Чат нотификации ще се показват когато посетител изпрати запитване."
+
+#: wp-live-chat-support.php:2300
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+"Вие можете да <a href='?page=wplivechat-menu-settings' "
+"target='_BLANK'>модифицирате вашите настройки на Chat box-а тук."
+
+#: wp-live-chat-support.php:2301
+msgid "Experiencing issues?"
+msgstr "Изпитваш затруднения?"
+
+#: wp-live-chat-support.php:2301
+msgid "Visit our troubleshooting section."
+msgstr "Посети нашето ръководство за отстраняване на неизправности."
+
+#: wp-live-chat-support.php:2303
+msgid "Hide"
+msgstr "Скрий"
+
+#: wp-live-chat-support.php:2368
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr ""
+"Моля, обърнете внимание: Този прозорец трябва да бъде отворен, за да можете "
+"да получавате нотификации за нов чат."
+
+#: wp-live-chat-support.php:2380
+msgid "Visitors online"
+msgstr "Посетители онлайн"
+
+#: wp-live-chat-support.php:2395
+msgid "Time"
+msgstr "Време"
+
+#: wp-live-chat-support.php:2397
+msgid "Device"
+msgstr "Устройство"
+
+#: wp-live-chat-support.php:2398
+msgid "Data"
+msgstr "Данни"
+
+#: wp-live-chat-support.php:2436
+msgid "Chat Dashboard"
+msgstr "Чат табло"
+
+#: wp-live-chat-support.php:2439
+msgid "Oh no!"
+msgstr "О, не!"
+
+#: wp-live-chat-support.php:2442
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr "Нямаш достъп до тази страница <strong>не си чат агент...</strong>."
+
+#: wp-live-chat-support.php:2607
+msgid "Previous"
+msgstr "Предишен"
+
+#: wp-live-chat-support.php:2618
+msgid "Chat with"
+msgstr "Чат с"
+
+#: wp-live-chat-support.php:2620
+msgid "Starting Time:"
+msgstr "Време начало:"
+
+#: wp-live-chat-support.php:2621
+msgid "Ending Time:"
+msgstr "Време край:"
+
+#: wp-live-chat-support.php:2663
+msgid "Site Info"
+msgstr "Информация за сайта"
+
+#: wp-live-chat-support.php:2665
+msgid "Chat initiated on:"
+msgstr "Чата е инициализиран на:"
+
+#: wp-live-chat-support.php:2669
+msgid "Advanced Info"
+msgstr "Разширена информация"
+
+#: wp-live-chat-support.php:2671
+msgid "Browser:"
+msgstr "Браузър:"
+
+#: wp-live-chat-support.php:2672
+msgid "IP Address:"
+msgstr "IP Адрес:"
+
+#: wp-live-chat-support.php:2698
+msgid "type here..."
+msgstr "пиши тук..."
+
+#: wp-live-chat-support.php:2878
+msgid "is typing..."
+msgstr "пише..."
+
+#: wp-live-chat-support.php:2922
+msgid "User has opened the chat window"
+msgstr "Потребителят отвори чат прозорец"
+
+#: wp-live-chat-support.php:2923
+msgid "User has minimized the chat window"
+msgstr "Потребителят е минимизирал чат прозореца"
+
+#: wp-live-chat-support.php:2924
+msgid "User has maximized the chat window"
+msgstr "Потребителят е отворил чат прозореца на цял екран"
+
+#: wp-live-chat-support.php:2925
+msgid "The chat has been ended"
+msgstr "Чатът приключи"
+
+#: wp-live-chat-support.php:3640
+msgid "Delete History"
+msgstr "Изтриване на историята"
+
+#: wp-live-chat-support.php:3657
+msgid "No chats available at the moment"
+msgstr "Не са налични чатове в момента"
+
+#: wp-live-chat-support.php:3709
+msgid "WP Live Chat History"
+msgstr "WP Live Chat История"
+
+#: wp-live-chat-support.php:3736
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat пропуснати чатове"
+
+#: wp-live-chat-support.php:3755
+msgid "WP Live Chat Offline Messages"
+msgstr "WP Live Chat офлайн съобщения"
+
+#: wp-live-chat-support.php:3792
+msgid "You have not received any offline messages."
+msgstr "Няма получени офлайн съобщения."
+
+#: wp-live-chat-support.php:3800
+msgid "Delete Message"
+msgstr "Изтриване на съобщение"
+
+#: wp-live-chat-support.php:3990
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "Моля, кликнете 'Започни чат', за да започнете чат с оператор"
+
+#: wp-live-chat-support.php:4153
+msgid "Thank You for your feedback!"
+msgstr "Благодарим Ви за обратната връзка!"
+
+#: wp-live-chat-support.php:4163
+msgid "Your settings have been saved."
+msgstr "Вашите настройки бяха запазени."
+
+#: wp-live-chat-support.php:4192
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"WPLC: set_time_limit() не е активен на този сървър. Може да изпитате "
+"затруднения докато използвате WP Live Chat Support като резултат. Моля "
+"свържете се с хостинга ви за да деактивирате безопасния режим."
+
+#: wp-live-chat-support.php:4198
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"WPLC: безопасния режим е активен на този сървър. Може да изпитате "
+"затруднения докато използвате WP Live Chat Support като резултат. Моля "
+"свържете се с хостинга ви за да деактивирате безопасния режим."
+
+#: wp-live-chat-support.php:4220
+msgid "Troubleshooting"
+msgstr "Отстраняване на проблеми"
+
+#: wp-live-chat-support.php:4222
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"WP Live Chat Support има богат набор от различни екстри, които е възможно, "
+"от време на време, да влизат в конфликт с част от някоя от хилядите теми и "
+"надграждания на пазара."
+
+#: wp-live-chat-support.php:4223
+msgid "Common issues:"
+msgstr "Често срещани проблеми:"
+
+#: wp-live-chat-support.php:4225
+msgid "My API Key says ‘Invalid’"
+msgstr ""
+
+#: wp-live-chat-support.php:4226
+msgid "My Chat Box is Not Showing"
+msgstr ""
+
+#: wp-live-chat-support.php:4227
+#, fuzzy
+#| msgid "I'm not getting any notifications of a new chat"
+msgid "Not Receiving Notifications of New Chats"
+msgstr "Не получавам нотификации при иницииране на нов чат"
+
+#: wp-live-chat-support.php:4228
+#, fuzzy
+#| msgid "Messages only show when I refresh the chat window"
+msgid "Messages Only Show When I Refresh"
+msgstr "Съобщението се показва само след обновяване на чат прозореца"
+
+#: wp-live-chat-support.php:4229
+#, fuzzy
+#| msgid "The chat window never goes offline"
+msgid "The Chat Box Never Goes Offline"
+msgstr "Прозореца на чата никога преминава в офлайн режим"
+
+#: wp-live-chat-support.php:4230
+msgid "Error: Chat has already been Answered"
+msgstr "Този чат вече беше отговорен от друг оператор"
+
+#: wp-live-chat-support.php:4236
+msgid "Still need help? Use one of these links below."
+msgstr "Все още имаш нужда от помощ? Използвай някой от линковете отдолу."
+
+#: wp-live-chat-support.php:4274
+msgid "Initiate Chats"
+msgstr "Инициализирай чат"
+
+#: wp-live-chat-support.php:4275
+msgid "Multiple Chats"
+msgstr "Многобройни чатове"
+
+#: wp-live-chat-support.php:4276
+msgid "Add unlimited agents"
+msgstr "Добави неограничен брой оператори"
+
+#: wp-live-chat-support.php:4277
+msgid "Transfer Chats"
+msgstr "Прехвърляй чатове"
+
+#: wp-live-chat-support.php:4299
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"Благодарим ви, че използвате <a href=\"%1$s\" target=\"_blank\">WP Live чат "
+"съпорт</a>! Моля <a href=\"%2$s\" target=\"_blank\">оценете ни</a> на <a "
+"href=\"%2$s\" target=\"_blank\">WordPress.org</a>"
+
+#: wp-live-chat-support.php:4452
+msgid "API Key"
+msgstr "API ключ"
+
+#: wp-live-chat-support.php:4455
+msgid "Verify"
+msgstr "Провери"
+
+#: wp-live-chat-support.php:4458
+msgid "Status: "
+msgstr "Статус: "
+
+#: wp-live-chat-support.php:4461
+msgid "Valid"
+msgstr "Валиден"
+
+#: wp-live-chat-support.php:4462 wp-live-chat-support.php:4466
+#, fuzzy
+#| msgid "Manage this extension"
+msgid "Manage this API Key"
+msgstr "Управление на тази приставка"
+
+#: wp-live-chat-support.php:4465
+msgid "Invalid"
+msgstr "Невалидно"
+
+#: wp-live-chat-support.php:4471
+msgid "Linked Domains"
+msgstr "Свързани домейни"
+
+#: wp-live-chat-support.php:4533 wp-live-chat-support.php:4591
+msgid "From"
+msgstr "От"
+
+#: wp-live-chat-support.php:4535 wp-live-chat-support.php:4593
+msgid "Timestamp"
+msgstr "Дата"
+
+#: wp-live-chat-support.php:4536 wp-live-chat-support.php:4594
+msgid "Origin"
+msgstr "Произход"
+
+#: wp-live-chat-support.php:4541 wp-live-chat-support.php:4599
+msgid "user"
+msgstr "потребител"
+
+#: wp-live-chat-support.php:4543 wp-live-chat-support.php:4601
+msgid "agent"
+msgstr "оператор"
+
+#: wp-live-chat-support.php:4664
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+"API ключа е невалиден. Бъдещите обновления няма да бъдат невъзможни. Моля "
+"добавете нов API ключ <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">тук</a>."
+
+#: wp-live-chat-support.php:4743
+msgid "Advanced settings"
+msgstr "Разширени настройки"
+
+#: wp-live-chat-support.php:4750
+msgid "Only change these settings if you are experiencing performance issues."
+msgstr ""
+"Променяйте тези настройки само ако изпитвате затруднения с "
+"производителността."
+
+#: wp-live-chat-support.php:4757
+msgid "What type of environment are you on?"
+msgstr "На какъв тип платформа сте?"
+
+#: wp-live-chat-support.php:4761
+msgid "Shared hosting - low level plan"
+msgstr "Споделен услуга - План от ниско ниво"
+
+#: wp-live-chat-support.php:4762
+msgid "Shared hosting - normal plan"
+msgstr "Споделена услуга - нормален план"
+
+#: wp-live-chat-support.php:4763
+msgid "VPS"
+msgstr "VP"
+
+#: wp-live-chat-support.php:4764
+msgid "Dedicated server"
+msgstr "Отделен сървър"
+
+#: wp-live-chat-support.php:4770
+msgid "Long poll setup"
+msgstr "Виртуален клъстер"
+
+#: wp-live-chat-support.php:4770
+#, fuzzy
+#| msgid ""
+#| "Only change these if you are an experienced developer or if you have "
+#| "received these figures from the Code Cabin Support team."
+msgid ""
+"Only change these if you are an experienced developer or if you have "
+"received these figures from the WP Live Chat Support team."
+msgstr "Разширени настройки. Променяни само от опитни разработчици."
+
+#: wp-live-chat-support.php:4776
+msgid "Iterations"
+msgstr "Повторения"
+
+#: wp-live-chat-support.php:4780
+msgid "Sleep between iterations"
+msgstr "Изчакване между повторенията"
+
+#: wp-live-chat-support.php:4783
+msgid "microseconds"
+msgstr "микросекунди"
+
+#: wp-live-chat-support.php:4806
+msgid "Display a 'Powered by' link in the chat box"
+msgstr "Покажи 'Powered by' линк в chat box-а"
+
+#: wp-live-chat-support.php:4806
+msgid ""
+"Checking this will display a 'Powered by WP Live Chat Support' caption at "
+"the bottom of your chatbox."
+msgstr ""
+"Отбелязвайки това ще се появи надпис 'Powered by WP Live Chat Support' в "
+"долната част на chat box-а."
+
+#: wp-live-chat-support.php:4849
+msgid "Powered by WP Live Chat Support"
+msgstr "Powered by WP Live Chat Support"
+
+#: wp-live-chat-support.php:4893 wp-live-chat-support.php:4913
+msgid "Custom Scripts"
+msgstr "Персонализирани скриптове"
+
+#: wp-live-chat-support.php:4917
+msgid "Custom CSS"
+msgstr "Персонални CSS"
+
+#: wp-live-chat-support.php:4922
+msgid "Custom JS"
+msgstr "Персонални JS"
+
+#: wp-live-chat-support.php:5008
+#, php-format
+msgid ""
+"The Live Chat box is currently disabled on your website due to : <a href=\"%s"
+"\">General Settings</a>"
+msgstr ""
+"Live Chat box-а в момента е неактивен във вашия сайт поради: <a href=\"%s"
+"\">Общи настройки</a>"
+
+#: wp-live-chat-support.php:5125
+msgid ""
+"Please deactivate WP Live Chat Suport - Email Transcript plugin. Since WP "
+"Live Chat Support 8.0.05 there is build in support for Email Transcript."
+msgstr ""
+"Моля, деактивирайте WP Live Chat Support - плъгин за електронна поща. От WP "
+"Live Chat Support 8.0.05 има вграден Email Transcript."
+
+#: wp-live-chat-support.php:5138
+#, php-format
+msgid ""
+"Thank you for chatting with us. If you have any questions, please <a href="
+"\"%1$s\" target=\"_blank\" style=\"font-family: Arial, Helvetica, sans-"
+"serif; font-size: 13px; color: #FFF; font-weight: bold; text-decoration: "
+"underline;\">contact us</a>"
+msgstr ""
+"Благодарим ви, че се свързахте с нас. Ако имате още въпроси, моля <a href="
+"\"%1$s\" target=\"_blank\" style=\"font-family: Arial, Helvetica, sans-"
+"serif; font-size: 13px; color: #FFF; font-weight: bold; text-decoration: "
+"underline;\">свържете се с нас</a>"
+
+#: wp-live-chat-support.php:5155
+msgid "Email transcript to user"
+msgstr "Изпращане на скрипт към потребителя"
+
+#: wp-live-chat-support.php:5239
+#, php-format
+msgid "Your chat transcript from %1$s"
+msgstr "Твоя чат скрипт към %1$s"
+
+#: wp-live-chat-support.php:5337
+msgid "Chat Transcript Settings"
+msgstr "Transcript настройки на чата"
+
+#: wp-live-chat-support.php:5340
+msgid "Enable chat transcripts:"
+msgstr "Активирай чат скриптове:"
+
+#: wp-live-chat-support.php:5351
+msgid "Send transcripts to:"
+msgstr "Изпрати скрипт към:"
+
+#: wp-live-chat-support.php:5358
+msgid "User"
+msgstr "Потребителско име"
+
+#: wp-live-chat-support.php:5369
+msgid "Send transcripts when chat ends:"
+msgstr "Изправете скрипт когато чата приключи:"
+
+#: wp-live-chat-support.php:5380
+msgid "Email body"
+msgstr "Е-майл тяло"
+
+#: wp-live-chat-support.php:5392
+msgid "Email header"
+msgstr "Е-майл хедър"
+
+#: wp-live-chat-support.php:5403
+msgid "Email footer"
+msgstr "Е-майл футър"
+
+#~ msgid "Mobile and Desktop App"
+#~ msgstr "Мобилно или десктоп приложение"
+
+#~ msgid "Add Quick Responses to your Live Chat with our Pro Add-on"
+#~ msgstr "Добави бързи отговори към твоя Live Chat с нашия Pro Add-on"
+
+#~ msgid "Devices"
+#~ msgstr "Устройства"
+
+#~ msgid "WP Live Chat Support - Devices"
+#~ msgstr "WP Live Chat Support - Устройства"
+
+#~ msgid "Device Name Not Found"
+#~ msgstr "Наименованието на устройството не беше открито"
+
+#~ msgid "Linked to"
+#~ msgstr "Свързване към"
+
+#~ msgid "Add Device"
+#~ msgstr "Добави устройство"
+
+#~ msgid "Simply scan the QR code below"
+#~ msgstr "Просто скенирай QR кода отдолу"
+
+#~ msgid "Or enter data manually"
+#~ msgstr "Или въведи данните ръчно"
+
+#~ msgid "For Agent"
+#~ msgstr "За оператор"
+
+#~ msgid "Agent ID"
+#~ msgstr "Оператор ID"
+
+#~ msgid "Rest End Point"
+#~ msgstr "Крайна точка"
+
+#~ msgid "Need a link to the app?"
+#~ msgstr "Нуждаеш се от линк към приложението?"
+
+#~ msgid "Go to PlayStore"
+#~ msgstr "Отиди в PlayStore"
+
+#~ msgid "Go to Apple Store"
+#~ msgstr "Отиди в Apple Store"
+
+#~ msgid "Device Limit Reached"
+#~ msgstr "Лимита на устройството е достигнат"
+
+#~ msgid "Your maximum device limit has been reached"
+#~ msgstr "Максималния лимит на устройство беше достигнат"
+
+#~ msgid "Increase your device limit to add additional devices"
+#~ msgstr "Завиши лимита на устройствата като добавиш устройства"
+
+#~ msgid "Increase Limit"
+#~ msgstr "Повиши лимит"
+
+#~ msgid "Contact Us"
+#~ msgstr "Пишете ни"
+
+#~ msgid "New Chat from"
+#~ msgstr "Нов чат от"
+
+#~ msgid "Tap here to accept"
+#~ msgstr "Натисни тук, за да приемеш"
+
+#~ msgid "New Message"
+#~ msgstr "Ново съобщение"
+
+#~ msgid "Mobile and Desktop App Settings"
+#~ msgstr "Настройки на мобилното и десктоп приложение"
+
+#~ msgid "Enable mobile and desktop app"
+#~ msgstr "Активирай мобилното и десктоп приложение"
+
+#~ msgid "App"
+#~ msgstr "Приложеие"
+
+#~ msgid "Incoming Chat"
+#~ msgstr "Входящ чат"
+
+#~ msgid "You have an incoming chat."
+#~ msgstr "Вие имате входящ чат."
+
+#~ msgid "Chat Active"
+#~ msgstr "Чат активен"
+
+#~ msgid "This chat is active"
+#~ msgstr "Този чат е активен"
+
+#~ msgid "You must be a chat agent to initiate chats"
+#~ msgstr "Трябва да сте чат оператор, за да инициализирате чат"
+
+#~ msgid "Visitors on site"
+#~ msgstr "Посетители на сайта"
+
+#~ msgid "No visitors on-line at the moment"
+#~ msgstr "В момента, няма посетители на линия"
+
+#~ msgid "No chat sessions available at the moment"
+#~ msgstr "В момента няма свободни чат сесии"
+
+#~ msgid "You must be a chat agent to answer chats"
+#~ msgstr "Трябва да си чат оператор, за да отговориш на чат"
+
+#~ msgid "Open Chat Window"
+#~ msgstr "Отвори чат прозорец"
+
+#~ msgid "Chat has been answered by another agent"
+#~ msgstr "Запитването беше отговорено от друг оператор"
+
+#~ msgid "Chat answered by another agent"
+#~ msgstr "Запитването поето от друг оператор"
+
+#~ msgid "Alert: Someone wants to chat with you on "
+#~ msgstr "Внимание: Някой иска да разговаря с теб "
+
+#~ msgid "Someone wants to chat with you on your website"
+#~ msgstr "Някой иска да разговаря с теб на твоя уебсайт"
+
+#~ msgid "Log in"
+#~ msgstr "Вписване"
+
+#~ msgid "Contributor"
+#~ msgstr "Сътрудник"
+
+#~ msgid "Subscriber"
+#~ msgstr "Абонат"
+
+#~ msgid "Dear Pro User"
+#~ msgstr "Уважаеми Pro потребители"
+
+#~ msgid ""
+#~ "Please enter a valid API key on the 'Live Chat' -> 'Settings' page. "
+#~ "Failing to do this will result in you no longer receiving updates for "
+#~ "this plugin."
+#~ msgstr ""
+#~ "Моля въведете валиден API ключ в страницата 'Live chat' ->'Настройки'. "
+#~ "Ако не успеете да направите това, ще бъде невъзможно да получавате "
+#~ "обновления за този продукт."
+
+#~ msgid "You can obtain a copy of your API key "
+#~ msgstr "Можеш да получиш копие на API ключа си "
+
+#~ msgid ""
+#~ "An account has been created for you while purchasing the plugin. If you "
+#~ "have lost your password, please reset it "
+#~ msgstr ""
+#~ "Твоя акаунт беше създаден по време на закупуването на плъгина. Ако сте "
+#~ "изгубил паролата, моля да я възстановите "
+
+#~ msgid ""
+#~ "If you feel you are getting this message in error, please try refreshing "
+#~ "the page."
+#~ msgstr ""
+#~ "Ако смяташ, че това съобщение достига то теб по грешка, моля презареди "
+#~ "страницата."
+
+#~ msgid "Chat Agents"
+#~ msgstr "Чат оператор"
+
+#~ msgid "Chat Experience Ratings"
+#~ msgstr "Чат рейтинги"
+
+#~ msgid "Main Settings"
+#~ msgstr "Главни настройки"
+
+#~ msgid "Find out more."
+#~ msgstr "Прочети повече."
+
+#~ msgid "Cloud Server"
+#~ msgstr "Cloud Server"
+
+#~ msgid "Use our server to host your chat server."
+#~ msgstr "Използвайте наш сървър за чат сървър."
+
+#~ msgid "This API key is "
+#~ msgstr "Този API ключ е "
+
+#~ msgid "valid"
+#~ msgstr "валиден"
+
+#~ msgid "invalid"
+#~ msgstr "невалиден"
+
+#~ msgid ""
+#~ "A valid API key means that you will be able to get the latest version of "
+#~ "the plugin as and when it is released, as well as get access to support "
+#~ "should you require it."
+#~ msgstr ""
+#~ "Валиден API ключ означава, че ще имаш възможност да обновяваш плъгина до "
+#~ "последна версия и в момента, в който излезе нова версия, да получиш "
+#~ "достъп до поддръжка и сваляне."
+
+#~ msgid "Hide Chat"
+#~ msgstr "Скрий чата"
+
+#~ msgid "Hides chat for 24hrs when user clicks X"
+#~ msgstr "Скрива чата за 24часа, когато потребителя натисне Х"
+
+#~ msgid "Show name and email"
+#~ msgstr "Покажи име и е-майл"
+
+#~ msgid "Show email"
+#~ msgstr "Покажи е-майл"
+
+#~ msgid "Show name"
+#~ msgstr "Покажи име"
+
+#~ msgid "Record a visitor's IP Address"
+#~ msgstr "Запиши IP адреса на посетителя"
+
+#~ msgid "Disable this to enable anonymity for your visitors"
+#~ msgstr ""
+#~ "Деактивирайте това, за да активирате анонимност на Вашите посетители"
+
+#~ msgid "Recommended Size 50px x 50px"
+#~ msgstr "Препоръчителен размер 50px x 50px"
+
+#~ msgid "Recommended Size 40px x 40px"
+#~ msgstr "Препоръчителен размер 40px x 40px"
+
+#~ msgid "Recommended Size 250px x 40px"
+#~ msgstr "Препоръчителен размер 250px x 40px"
+
+#~ msgid "Display name and avatar in chat"
+#~ msgstr "Покажи име и аватар в чата"
+
+#~ msgid ""
+#~ "Display the agent and user name above each message in the chat window."
+#~ msgstr ""
+#~ "Показвай името на оператора и потребителя над всяко съобщение в чат "
+#~ "прозореца."
+
+#~ msgid "Theme 1"
+#~ msgstr "Тема 1"
+
+#~ msgid "Theme 2"
+#~ msgstr "Тема 2"
+
+#~ msgid "Theme 3"
+#~ msgstr "Тема 3"
+
+#~ msgid "Theme 4"
+#~ msgstr "Тема 4"
+
+#~ msgid "Theme 5"
+#~ msgstr "Тема 5"
+
+#~ msgid "Theme 6"
+#~ msgstr "Тема 6"
+
+#~ msgid "Custom. Enter Colour Values Below"
+#~ msgstr "Персонализирано. Въведете стойността на цвета отдолу"
+
+#~ msgid "Chat box fill color"
+#~ msgstr "Цвят на Chat box-а"
+
+#~ msgid "Chat box font color"
+#~ msgstr "Цвят на шрифта на Chat box-а"
+
+#~ msgid "documentation"
+#~ msgstr "документация"
+
+#~ msgid ""
+#~ "You will only be able to edit the strings shown in the chat window of the "
+#~ "code now. <br/> This has been done to accommodate as many localization "
+#~ "plugins as possible. <br/> For more information on how to change these "
+#~ "strings, please consult the "
+#~ msgstr ""
+#~ "Сега ще можете да редактирате връзките, показани в прозореца за чат на "
+#~ "кода. . <br/> Това е с цел при годяване към възможно най-много плъгини за "
+#~ "локализиране. <br/> За повече информация относно как да промените "
+#~ "връзките, моля да се консултирате с "
+
+#~ msgid "User chat welcome"
+#~ msgstr "Посрещане на потребителя"
+
+#~ msgid "This text is shown above the user chat input field"
+#~ msgstr ""
+#~ "Този текст се показва над полето за въвеждане на текст в чат секцията"
+
+#~ msgid "Close Button Text"
+#~ msgstr "Текст на бутона затвори"
+
+#~ msgid ""
+#~ "You are using an outdated version of WP Live Chat Support Basic. Please "
+#~ "update your plugin to allow for animations to function"
+#~ msgstr ""
+#~ "Използвате стара версия на WP Live Chat Support Basic. Моля обновете "
+#~ "приставката, за да разрешите функция анимация на"
+
+#~ msgid ""
+#~ "are only available in the WP Live Chat Support Chat Experience Ratings "
+#~ "add-on"
+#~ msgstr ""
+#~ "са достъпни само в WP Live Chat Support Chat Experience Ratings add-on"
+
+#~ msgid ""
+#~ "Please ensure you are using version WP Live Chat Support 7.0.0 or newer, "
+#~ "to allow for full functionality of custom fields."
+#~ msgstr ""
+#~ "Моля, уверете се, че използвате версия WP Live Chat Support 7.0.0 или по-"
+#~ "нова, за да имате пълна функционалност на персонализираните полета."
+
+#~ msgid ""
+#~ "Departments are not currently supported with the Cloud Server of WP Live "
+#~ "Chat Support."
+#~ msgstr ""
+#~ "Отдели в момента не се поддържат с Cloud сървъра на WP Live Chat Support."
+
+#~ msgid ""
+#~ "WP Live Chat Support Pro requires WP Live Chat Support Version 7.0.0 or "
+#~ "greater in order for departments to function as expected. Please update "
+#~ "WP Live Chat Support %s"
+#~ msgstr ""
+#~ "WP Live Chat Support Pro изисква WP Live Chat Support Версия 7.0.0 или по-"
+#~ "висока, за да могат отделите да функционират според очакванията. Моля, "
+#~ "актуализирайте WP Live Chat Support %s"
+
+#~ msgid "WP Live Chat Support - Update Suggested"
+#~ msgstr "WP Live Chat Support - предложение за обновяване"
+
+#~ msgid ""
+#~ "We have detected that you are using a heavily out-dated version of WP "
+#~ "Live Chat Support"
+#~ msgstr "Вие използвате много остаряла версия на WP Live Chat Support"
+
+#~ msgid "It is highly recommended that you update to version 8 or above. "
+#~ msgstr "Силно се препоръчва да обновите до версия 8 или по-нова. "
+
+#~ msgid ""
+#~ "WP Live Chat Support Pro <strong>requires WP Live Chat Support version "
+#~ "6+</strong> (basic version). Please <strong><a href=\"%1$s\">update the "
+#~ "plugin</a></strong> in order for the plugin to continue working correctly."
+#~ msgstr ""
+#~ "WP Live Chat Support Pro <strong>Изисква WP Live Chat Support version 6+</"
+#~ "strong>(базова версия). Моля, <strong><a href=\"%1$s\">обновете плъгина</"
+#~ "a></strong>, за да може да плъгина да продължи работа безотказно."
+
+#~ msgid "All Quick Responses"
+#~ msgstr "Всички бързи отговори"
+
+#~ msgid ""
+#~ "Please update your <a href='%s'>basic version</a> to make use of this "
+#~ "feature."
+#~ msgstr ""
+#~ "Моля обновете вашата <a href='%s'>базовата версия</a> за използване на "
+#~ "тази функция."
+
+#~ msgid ""
+#~ "Please update your <a href='%s'>basic version</a> to make use of these "
+#~ "features."
+#~ msgstr ""
+#~ "Моля обновете вашата<a href='%s'>базовата версия</a> за използване на "
+#~ "тази функция."
+
+#~ msgid "Get Pro Add-on to accept more chats"
+#~ msgstr "Вземете Pro Add-on, за да приемате повече чатове"
+
+#~ msgid "WP Live Chat Trigger (WP Live Chat Support)"
+#~ msgstr "WP Live Chat стартер (WP Live Chat Support)"
+
+#~ msgid "Gutenberg Blocks"
+#~ msgstr "Gutenberg блокове"
+
+#~ msgid "Enable Gutenberg Blocks"
+#~ msgstr "Активирай Gutenberg блокове"
+
+#~ msgid "Gutenberg Block Size"
+#~ msgstr "Размер на Gutenberg блокове"
+
+#~ msgid "Block Logo"
+#~ msgstr "Logo блок"
+
+#~ msgid "Block Text"
+#~ msgstr "Текстови блок"
+
+#~ msgid "Display Icon"
+#~ msgstr "Показване на икона"
+
+#~ msgid "Block Icon"
+#~ msgstr "Блок икона"
+
+#~ msgid "Block Preview"
+#~ msgstr "Преглед блок"
+
+#~ msgid "Custom HTML Template"
+#~ msgstr "Персонализиран HTML темплейт"
+
+#~ msgid "Displays the chosen logo"
+#~ msgstr "Покажи избраното лого"
+
+#~ msgid "Displays the chosen custom text"
+#~ msgstr "Покажи избрания персонализиран текст"
+
+#~ msgid "Displays the chosen icon"
+#~ msgstr "Покажи избраната икона"
+
+#~ msgid "WP Live Chat Box (WP Live Chat Support)"
+#~ msgstr "WP Live Chat Box (WP Live Chat Support)"
+
+#~ msgid "Start Live Chat"
+#~ msgstr "Започни Live Chat"
+
+#~ msgid "Connecting you to a sales person. Please be patient."
+#~ msgstr "Свързване с продавач консултант. Моля изчакайте."
+
+#~ msgid "Include chat window on the following pages"
+#~ msgstr "Включи чат прозореца на следните страници"
+
+#~ msgid "available in the"
+#~ msgstr "достъпно в"
+
+#~ msgid "Pro Add-on"
+#~ msgstr "Pro Add-on"
+
+#~ msgid "only"
+#~ msgstr "само"
+
+#~ msgid "Exclude chat window on the following pages"
+#~ msgstr "Премахни чат прозореца на следните страници"
+
+#~ msgid "Display a typing animation as soon as someone starts typing."
+#~ msgstr "Показване на анимация, когато някой започне да пише."
+
+#~ msgid "Alert me via email as soon as someone wants to chat"
+#~ msgstr "Предупреди ме чрез имейл веднага щом някой иска чат"
+
+#~ msgid ""
+#~ "Need help? <a href='https://wp-livechat.com/contact-us/' "
+#~ "target='_BLANK'>Contact us</a> and we'll get back to you as soon as "
+#~ "possible!"
+#~ msgstr ""
+#~ "Нужда от помощ? <a href='https://wp-livechat.com/contact-us/' "
+#~ "target='_BLANK'>Пишете ни</a> и ние ще се свържем с Вас възможно най-"
+#~ "скоро!"
+
+#~ msgid "How did you find us?"
+#~ msgstr "Как ни открихте?"
+
+#~ msgid "WordPress.org plugin repository "
+#~ msgstr "WordPress.org плъгин хранилище "
+
+#~ msgid "Search Term"
+#~ msgstr "Ключова дума"
+
+#~ msgid "Google or other search Engine"
+#~ msgstr "Google или друга търсачка"
+
+#~ msgid "Friend recommendation"
+#~ msgstr "Препоръка от приятел"
+
+#~ msgid "Other"
+#~ msgstr "Друго"
+
+#~ msgid "Please Explain"
+#~ msgstr "Моля, обяснете"
+
+#~ msgid "Submit"
+#~ msgstr "Изпрати"
+
+#~ msgid "Skip"
+#~ msgstr "Пропусни"
+
+#~ msgid "Visit our"
+#~ msgstr "Посети нашето"
+
+#~ msgid "Support Desk"
+#~ msgstr "Бюро поддръжка"
+
+#~ msgid ""
+#~ "for quick and friendly help. We'll answer your request within 24hours."
+#~ msgstr "за бърза и приятелска помощ. Ще Ви отговорим в рамките на 24 часа."
+
+#~ msgid "Feedback"
+#~ msgstr "Обратна връзка"
+
+#~ msgid "We need you to help us make this plugin better."
+#~ msgstr ""
+#~ "Нуждаем се от твоята помощ, за да направим този плъгин още по-добър."
+
+#~ msgid "Send us your feedback"
+#~ msgstr "Изпратете ни вашето мнение за обратна връзка"
+
+#~ msgid "and we'll act on it as soon as humanly possible."
+#~ msgstr "и ще предприемем действия, възможно най-скоро."
+
+#~ msgid "Server location"
+#~ msgstr "Местоположение на сървъра"
+
+#~ msgid "Select a server location that is near to you."
+#~ msgstr "Избери местоположение на сървъра близо до теб."
+
+#~ msgid "Automatic (suggested)"
+#~ msgstr "Автоматично (препоръчително)"
+
+#~ msgid "United States - %s"
+#~ msgstr "САЩ - %s"
+
+#~ msgid "Europe - %s"
+#~ msgstr "Европа - %s"
+
+#~ msgid ""
+#~ "Upgrade to the <a href='%s' taget='_BLANK'>pro version</a> to "
+#~ "automatically suggest relevant documentation pages on your own site while "
+#~ "users are waiting for the agent to join the chat. As soon as the user "
+#~ "sends a message, the system will locate relevant documents on your "
+#~ "website and provide links to the user."
+#~ msgstr ""
+#~ "Надстройте до <a href='%s' taget='_BLANK'>pro версията </a>, за да "
+#~ "предлагате автоматично съответните страници на документацията на "
+#~ "собствения си сайт, докато потребителите чакат оператор да се присъедини "
+#~ "към чата. Веднага след като потребителят изпрати съобщение, системата ще "
+#~ "намери съответните документи на вашия уебсайт и ще предостави връзки към "
+#~ "потребителя."
+
+#~ msgid "Next Check"
+#~ msgstr "Следваща проверка"
+
+#~ msgid ""
+#~ "When the next cron will run to check for data which is older than our "
+#~ "retention period."
+#~ msgstr ""
+#~ "Когато следващият cron ще се изпълни, за да проверите за данни, които са "
+#~ "по-стари от нашия период на запазване."
+
+#~ msgid "Delete Chat Data"
+#~ msgstr "Изтрий чат"
+
+#~ msgid "Download Chat Data"
+#~ msgstr "Изтегляне начата"
+
+#~ msgid ""
+#~ "Thank you for using WP Live Chat Support - Need assistance? Please get in "
+#~ "touch here: "
+#~ msgstr ""
+#~ "Благодаря ви за използване WP Live чат подкрепа-нужда от помощ? Моля, "
+#~ "свържете се с нас: "
+
+#~ msgid "Contact us"
+#~ msgstr "Пишете ни"
+
+#~ msgid ""
+#~ "There was a problem emailing the chat. Please <a target='_BLANK' "
+#~ "href='%s'>contact support</a>."
+#~ msgstr ""
+#~ "Възникна грешка при изпращането на чата по е-майл. Моля, <a "
+#~ "target='_BLANK' href='%s'>свържете се с нас</a>."
+
+#~ msgid " with the Pro add-on of WP Live Chat Support"
+#~ msgstr " с PRO добавките на за WP Live Chat Support"
+
+#~ msgid "(once off payment)."
+#~ msgstr "(еднократно плащане)."
+
+#~ msgid "With the Pro add-on of WP Live Chat Support, you can"
+#~ msgstr "С Pro add-on-а на WP Live Chat Support, ти можеш"
+
+#~ msgid "see who's online and initiate chats"
+#~ msgstr "виж кой е онлайн и инициализирай чат"
+
+#~ msgid "initiate chats"
+#~ msgstr "инициирай чат"
+
+#~ msgid "with your online visitors with the click of a button."
+#~ msgstr "с вашите онлайн посетители с един клик на бутона."
+
+#~ msgid "Buy the Pro add-on now (once off payment)."
+#~ msgstr "Купете професионалната версия сега (еднократно плащане)"
+
+#~ msgid ""
+#~ "Chat to other agents with the <a href=\"%s\" target=\"_BLANK\">Pro "
+#~ "version</a>."
+#~ msgstr ""
+#~ "Разговаряй с други оператори с <a href=\"%s\" target=\"_BLANK\">Pro "
+#~ "версията</a>."
+
+#~ msgid "Buy the Pro add-on now."
+#~ msgstr "Купи професионалната приставка сега."
+
+#~ msgid ""
+#~ "Get detailed visitor events with the <a target=\"_BLANK\" href=\"%s\">Pro "
+#~ "version</a>."
+#~ msgstr ""
+#~ "Получи детайлна информация относно действията на посетителите ти с <a "
+#~ "target=\"_BLANK\" href=\"%s\">Pro версията</a>."
+
+#~ msgid "WP Live Chat Support - Offline Mode"
+#~ msgstr "WP Live Chat Support - Офлайн режим"
+
+#~ msgid ""
+#~ "Chat is now in offline mode, please <a href='%s' target='_BLANK'>upgrade "
+#~ "to Version 8</a> (or above) of the WP Live Chat Support Pro Add-on to "
+#~ "ensure all functionality works as expected."
+#~ msgstr ""
+#~ "В момента чата е в офлайн режим, моля <a href='%s' "
+#~ "target='_BLANK'>обновете до версия 8</a> (или по-нова) WP Live Chat "
+#~ "Support Pro Add-on версия, за да осигурите безпроблемна работа."
+
+#~ msgid ""
+#~ "Chat is now in offline mode, please renew your API key by visiting the <a "
+#~ "href='%s' target='_BLANK'>My Account</a> area, and receive updates."
+#~ msgstr ""
+#~ "В момента чата е в офлайн режим, моля подновете вашия API ключ като "
+#~ "посетите <a href='%s' target='_BLANK'>My Account</a> секцията и получите "
+#~ "ъпдейт."
+
+#~ msgid ""
+#~ "Alternatively, please disable the node server option in the Live Chat "
+#~ "settings area (Live Chat -> Settings -> Advanced Features)"
+#~ msgstr ""
+#~ "Като алтернатива, моля, деактивирайте node server опцията в настройките "
+#~ "на Live Chat-а (Live Chat -> Settings -> Advanced Features)"
+
+#~ msgid "Upgrade"
+#~ msgstr "Надгради"
+
+#~ msgid "Renew License"
+#~ msgstr "Поднови лиценз"
+
+#~ msgid "Whats new in Version 8"
+#~ msgstr "Какво е ново в Версия 8"
+
+#~ msgid "Chat has been ended."
+#~ msgstr "Чатът приключи."
+
+#~ msgid "Device Linked"
+#~ msgstr "Свързани устройства"
+
+#~ msgid "Device Unlinked (Revoked)"
+#~ msgstr "Устройството е премахнато (отменено)"
+
+#~ msgid "Push Devices"
+#~ msgstr "Push устройства"
+
+#~ msgid ""
+#~ "This field can be left empty if you intend on using only push "
+#~ "notifications for online agents"
+#~ msgstr ""
+#~ "Това поле може да бъде оставено празно, ако възнамерявате да използвате "
+#~ "само push нотификации за онлайн операторите"
+
+#~ msgid "Push to Online Agent Devices"
+#~ msgstr "Натиснете Online Agent Devices"
+
+#~ msgid "Event Triggered"
+#~ msgstr "Събитието е стартирано"
+
+#~ msgid "Extensions"
+#~ msgstr "Разширени"
+
+#~ msgid "Premium Extension API Keys"
+#~ msgstr "API ключ - преференциални разширения"
+
+#~ msgid ""
+#~ "You are using an outdated version of <strong>WP Live Chat Support Pro</"
+#~ "strong>. Please"
+#~ msgstr ""
+#~ "Вие използвате остаряла версия на <strong>WP Live Chat Support Pro</"
+#~ "strong>. Моля"
+
+#~ msgid "update to at least version"
+#~ msgstr "обновяване до последна версия"
+
+#~ msgid "to ensure all functionality is in working order"
+#~ msgstr "за да се подсигурите, че всички функции работят така както трябва"
+
+#~ msgid ""
+#~ "You're live chat box on your website has been temporarily disabled until "
+#~ "the Pro plugin has been updated. This is to ensure a smooth and hassle-"
+#~ "free user experience for both yourself and your visitors."
+#~ msgstr ""
+#~ "Живата версия на Chat box-а беше временно деактивирана, докато приключи "
+#~ "ъпдейта на Pro плъгина. Това е с цел да осигури максимална лекота и "
+#~ "безпроблемна работа на вас и вашите посетители."
+
+#~ msgid ""
+#~ "You can update your plugin <a href='./update-core.php'>here</a>, <a "
+#~ "href='./plugins.php'>here</a> or <a href='https://wp-livechat.com/get-"
+#~ "updated-version/' target='_BLANK'>here</a>."
+#~ msgstr ""
+#~ "Можете да обновите разширението <a href='./update-core.php'>тук</a>, <a "
+#~ "href='./plugins.php'>тук</a> или <a href='https://wp-livechat.com/get-"
+#~ "updated-version/' target='_BLANK'>тук</a>."
+
+#~ msgid "If you are having difficulty updating the plugin, please contact"
+#~ msgstr "Ако изпитвате затруднение да обновите плъгина, моля свържете се"
+
+#~ msgid ""
+#~ "You are using an outdated version of <strong>WP Live Chat Support Pro</"
+#~ "strong>."
+#~ msgstr ""
+#~ "Вие използвате остаряла версия на <strong>WP Live Chat Support Pro</"
+#~ "strong>."
+
+#~ msgid "Please update to the latest version of WP Live Chat Support Pro"
+#~ msgstr "Моля, ъпдейтнете WP Live Chat Support Pro до последната версия"
+
+#~ msgid "Version 5.0.1"
+#~ msgstr "Версия 5.0.1"
+
+#~ msgid "to ensure everything is working correctly."
+#~ msgstr "за да се уверите, че всичко работи нормално."
+
+#~ msgid "Need help? <a href=\"%s\" target=\"_BLANK\">contact us</a>."
+#~ msgstr "Имаш нужда от помощ? <a href=\"%s\" target=\"_BLANK\">пиши ни</a>."
+
+#~ msgid "Add-ons"
+#~ msgstr "Add-ons"
+
+#~ msgid "Get more add-ons"
+#~ msgstr "Повече добавки"
+
+#~ msgid "Add Quick Responses to your Live Chat"
+#~ msgstr "Добави бързи отговори към твоя Live Chat"
+
+#~ msgid "Pro version only"
+#~ msgstr "Само в PRO версията"
+
+#~ msgid ""
+#~ "Please update to the latest version of WP Live Chat Support Pro to start "
+#~ "recording any offline messages."
+#~ msgstr ""
+#~ "Моля, обновете WP Live Chat Support Pro до последната версия, за да "
+#~ "можете да записвате офлайн съобщения."
+
+#~ msgid "This option is only available in the "
+#~ msgstr "Тази опция е достъпна само в "
+
+#~ msgid "Suggested Plugins"
+#~ msgstr "Препоръчителни плъгини"
+
+#~ msgid "Sola Support Tickets"
+#~ msgstr "Sola Support Tickets"
+
+#~ msgid ""
+#~ "The easiest to use Help Desk & Support Ticket plugin. Create a support "
+#~ "help desk quickly and easily with Sola Support Tickets."
+#~ msgstr ""
+#~ "Най-лесният за използване Help Desk & Support Ticket плъгин. Създайте "
+#~ "бързо и лесно платформа за поддръжка използвайки Sola Support Tickets."
+
+#~ msgid "Get this Plugin"
+#~ msgstr "Вземи това разширение"
+
+#~ msgid "Nifty Newsletters"
+#~ msgstr "Nifty новини"
+
+#~ msgid ""
+#~ "Create and send newsletters, automatic post notifications and "
+#~ "autoresponders that are modern and beautiful with Nifty Newsletters."
+#~ msgstr ""
+#~ "Създайте и изпратете информационен бюлетин, автоматична пост нотификация "
+#~ "и автоматичен отговор, по естетичен и модерен начин с Nifty Newsletters."
+
+#~ msgid "Price:"
+#~ msgstr "Цена:"
+
+#~ msgid "Free"
+#~ msgstr "Безплатно"
+
+#~ msgid "Paid"
+#~ msgstr "Платено"
+
+#~ msgid "For:"
+#~ msgstr "За:"
+
+#~ msgid "Both"
+#~ msgstr "Двете"
+
+#~ msgid "Free version"
+#~ msgstr "Безплатна версия"
+
+#~ msgid "Pro version"
+#~ msgstr "Професионална версия"
+
+#~ msgid "Already installed"
+#~ msgstr "Вече е инсталирано"
+
+#~ msgid ""
+#~ "Getting started? Read through some of these articles to help you along "
+#~ "your way."
+#~ msgstr "Сега започваш? Прочети тези полезни теми."
+
+#~ msgid "Documentation:"
+#~ msgstr "Документация:"
+
+#~ msgid "Minimum System Requirements"
+#~ msgstr "Минимални системни изисквания"
+
+#~ msgid "Do I have to be logged into the dashboard to chat with visitors?"
+#~ msgstr ""
+#~ "Трябва ли да съм вписан основното табло на сайта, за да мога да "
+#~ "разговарям с посетителите?"
+
+#~ msgid "What are Quick Responses?"
+#~ msgstr "Какво са Бързи Отговори?"
+
+#~ msgid "Can I use this plugin on my multi-site?"
+#~ msgstr "Мога ли да използвам този плъгин в моя мулти-сайт?"
+
+#~ msgid "How do I disable APC Object Cache?"
+#~ msgstr "Как да деактивирам APC Object Cache?"
+
+#~ msgid "Do you have a mobile app?"
+#~ msgstr "Имате ли мобилно приложение?"
+
+#~ msgid "How do I check for JavaScript errors on my site?"
+#~ msgstr "Как да проверя за JavaScript грешки в сайта ми?"
+
+#~ msgid "The chat box doesnt show up"
+#~ msgstr "Chat box-а не се показва"
+
+#~ msgid "The chat window disappears when I logout or go offline"
+#~ msgstr ""
+#~ "Прозореца на чата изчезва когато се отпиша от профила или отида извън "
+#~ "линия"
+
+#~ msgid "This chat has already been answered. Please close the chat window"
+#~ msgstr "Не получавам никакви известия при нов чат"
+
+#~ msgid "Support desk"
+#~ msgstr "Бюро поддръжка"
+
+#~ msgid "accept and handle multiple chats."
+#~ msgstr "приемай и отговаряй на много чатове."
+
+#~ msgid "WP Live Chat Support is a product of"
+#~ msgstr "WP Live Chat Support е продукт на"
+
+#~ msgid "Add as many agents as you need with the "
+#~ msgstr "Добавете колкото оператора са ви необходими с  "
+
+#~ msgid "Pro version."
+#~ msgstr "Професионалната версия."
+
+#~ msgid "Change the default chat agent from <strong>%1$s</strong> to "
+#~ msgstr "Променете шаблон за чат агенти от <strong>%1$s</strong> на "
+
+#~ msgid ""
+#~ "Get unlimited agents, initiate chats, advanced chat box control, "
+#~ "encryption and more with the Pro add-on."
+#~ msgstr ""
+#~ "Неограничен брой оператори, инициализиране на чат, подробен chat box "
+#~ "контрол, криптиране и много други с Pro add-on-а."
+
+#~ msgid "Get this extension"
+#~ msgstr "Вземи това разширение"
+
+#~ msgid "Mobile & Desktop App"
+#~ msgstr "Настолни и Мобилни приложения"
+
+#~ msgid ""
+#~ "Answer chats directly from your mobile phone or desktop with our mobile "
+#~ "app and desktop client"
+#~ msgstr ""
+#~ "Отговаряй на чат директно от мобилния си телефон или персонален компютър "
+#~ "със съответните ни клиентски приложения"
+
+#~ msgid "Relevant Extensions"
+#~ msgstr "Приложими приставки"
+
+#~ msgid "Powered By WP Live Chat Support"
+#~ msgstr "Захранено от WP Live Chat Support"
+
+#~ msgid "View comprehensive reports regarding your chat and agent activity."
+#~ msgstr "Извадка за активността на чата и агентите."
+
+#~ msgid "Reports"
+#~ msgstr "Извадки"
+
+#~ msgid "Chat statistics"
+#~ msgstr "Чат статистики"
+
+#~ msgid "Popular pages"
+#~ msgstr "Популярни страници"
+
+#~ msgid ""
+#~ "ROI reporting and tracking (identify which agents produce the most sales)"
+#~ msgstr ""
+#~ "Извадка за възвръщане на инвестициите и проследяване (идентифициране кои "
+#~ "оператори са направили най-много продажби)"
+
+#~ msgid ""
+#~ "User experience ratings (identify which agents produce the happiest "
+#~ "customers)"
+#~ msgstr ""
+#~ "Потребителски рейтинг  (идентифициране на операторите направили клиентите "
+#~ "най-щастливи)"
+
+#~ msgid "Get all this and more in the "
+#~ msgstr "Вземете всичко това и още много в "
+
+#~ msgid "Pro add-on"
+#~ msgstr "Професионалната версия"
+
+#~ msgid "Upgrade Now"
+#~ msgstr "Актуализирай сега"
+
+#~ msgid ""
+#~ "Create custom data triggers when users view a certain page, spend a "
+#~ "certain amount of time on a page, scroll past a certain point or when "
+#~ "their mouse leaves the window."
+#~ msgstr ""
+#~ "Направи сециални стартери когато потребител прегледа определена страница, "
+#~ "прекара определено време на страница, навигира до определена точка или "
+#~ "когато мишката им напусна прозореца."
+
+#~ msgid "Trigger Types"
+#~ msgstr "Типове Стартери"
+
+#~ msgid ""
+#~ "Create custom fields, allowing your visitors to enter the data you need "
+#~ "before starting a chat."
+#~ msgstr ""
+#~ "Създаване на персонализирани полета, което позволява на посетителите да "
+#~ "въведат необходимите данни преди да започнете чата."
+
+#~ msgid "Custom Field Types"
+#~ msgstr "Видове персонализирани полета"
+
+#~ msgid "Text Fields"
+#~ msgstr "Текстови полета"
+
+#~ msgid "Dropdown Fields"
+#~ msgstr "Падащи полета"
+
+#~ msgid ""
+#~ "WP Live Chat Support requires WP Live Chat Support Pro Version 7.0.0 or "
+#~ "greater in order for departments to function as expected. Please update "
+#~ "WP Live Chat Support %s"
+#~ msgstr ""
+#~ "WP Live Chat Support Pro изисква WP Live Chat Support Версия 7.0.0 или по-"
+#~ "висока, за да могат отделите да функционират според очакванията. Моля, "
+#~ "актуализирайте WP Live Chat Support %s"
+
+#~ msgid "Please update your Pro version to create a department"
+#~ msgstr "Моля, обновете Вашата Pro версия, за да създадете отдел"
+
+#~ msgid "Deprecation Notice"
+#~ msgstr "Известие за оплакване"
+
+#~ msgid ""
+#~ "Please note, missed chat functionality is being deprecated as we will be "
+#~ "moving to a customer oriented system in the near future. "
+#~ msgstr ""
+#~ "Моля, обърнете внимание, че пропуснатата функционалност на чата се "
+#~ "отхвърля, тъй като в близко бъдеще ще преминем към ориентирана към "
+#~ "клиента система. "
+
+#~ msgid ""
+#~ "The new system will offer more insight into your user base while "
+#~ "enhancing your experience when retrieving statistics and information. "
+#~ msgstr ""
+#~ "Новата система ще предложи по-добра представа за потребителската ви база, "
+#~ "като същевременно ще подобри възможността ви при извличане на "
+#~ "статистически данни и информация. "
+
+#~ msgid ""
+#~ "This area will remain active for the time being, however it is "
+#~ "recommended that you prepare for this change in the near future. "
+#~ msgstr ""
+#~ "Това поле ще остане активно, въпреки това препоръчваме да си подготвите "
+#~ "за тези премени в бъдеще. "
+
+#~ msgid "Chat functionality has been paused."
+#~ msgstr "Функция чат, на пауза..."
+
+#~ msgid ""
+#~ "Please enter your verified API key in the <a href=\"admin.php?"
+#~ "page=wplivechat-menu-api-keys-page\">API Keys page</a> to activate the "
+#~ "cloud based functionality."
+#~ msgstr ""
+#~ "Моля въведете ваш верифициран API ключ в <a href=\"admin.php?"
+#~ "page=wplivechat-menu-api-keys-page\">Страница API Keys</a> за да "
+#~ "активирате облачните услуги."
+
+#~ msgid "Are you sure you would like to delete chat history?"
+#~ msgstr "Изтриване на чат историята?"
+
+#~ msgid "Are you sure you would like to delete all missed chats?"
+#~ msgstr "Изтриване на пропуснат чат?"
+
+#~ msgid ""
+#~ "You are currently using our <strong>cloud server</strong> to handle your "
+#~ "chat requests and live chat sessions.<br /><br />To disable this, please "
+#~ "deactivate the WP Live Chat Support - Cloud Server plugin."
+#~ msgstr ""
+#~ "В момента ползвате наш  <strong>облачен сървър</strong> за обработка на "
+#~ "чат сесии.<br /><br />За да забраните това, моля деактивирайте WP Live "
+#~ "Chat Support - Cloud Server plugin."
+
+#~ msgid ""
+#~ "Users will have to enter their Name and Email Address when starting a chat"
+#~ msgstr ""
+#~ "Потребителите ще трябва да попълнят Име и Електронна поща преди да "
+#~ "стартират чат"
+
+#~ msgid "You are currently accepting chats"
+#~ msgstr "В момента приемаш чат сесии"
+
+#~ msgid "Your Name"
+#~ msgstr "Име"
+
+#~ msgid "Your Email"
+#~ msgstr "Електронна поща"
+
+#~ msgid "Version 6"
+#~ msgstr "Версия 6"
+
+#~ msgid "The most popular live chat plugin!"
+#~ msgstr "Най - популярната чат приставка!"
+
+#~ msgid "Rest API"
+#~ msgstr "REST API"
+
+#~ msgid "Option"
+#~ msgstr "Опция"
+
+#~ msgid ""
+#~ "There was a problem sending your feedback. Please log your feedback on "
+#~ msgstr ""
+#~ "Възникна проблем при изпращането на обратната връзка. Моля запишете "
+#~ "обратната връзка на "
+
+#~ msgid ""
+#~ "Reduce the resources required by your server - use our cloud server to "
+#~ "host your chats."
+#~ msgstr ""
+#~ "Намали ресурсните изисквания към сървъра си, използвайки наша облачна "
+#~ "система."

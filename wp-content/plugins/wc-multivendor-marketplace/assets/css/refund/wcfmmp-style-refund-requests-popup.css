@@ -1,0 +1,15 @@
+.my_account_orders .button.wcfm-refund-action:after {
+	display: inline-block;
+	font-family: "Font Awesome 5 Free";
+	font-size: inherit;
+	text-rendering: auto;
+	content: "\f079";
+	margin-left: 0.5407911001em;
+	font-weight:900;
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm_enquiry_form .comment-form-author, #wcfm_enquiry_form .comment-form-email {
+		width: 100%;
+	}
+}

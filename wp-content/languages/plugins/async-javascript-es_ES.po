@@ -1,0 +1,751 @@
+# Translation of Plugins - Async JavaScript - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Async JavaScript - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-13 07:57:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Async JavaScript - Stable (latest release)\n"
+
+#: asyncjsSettingsScreens.php:47
+msgid "on cart/ checkout pages"
+msgstr "en las páginas de carrito/finalizar compra"
+
+#: asyncjsSettingsScreens.php:43
+msgid "for logged in users"
+msgstr "para usuarios conectados"
+
+#: asyncjsSettingsScreens.php:43 asyncjsSettingsScreens.php:47
+msgid "Also enable "
+msgstr "También activar"
+
+#: asyncjsBackendClass.php:327
+msgid "Scroll down to <strong>"
+msgstr "Haz scroll a <strong>"
+
+#: asyncjsBackendClass.php:325
+msgid "Navigate to <strong>Settings &gt; "
+msgstr "Navega a <strong>Ajustes &gt;"
+
+#: asyncjsBackendClass.php:320
+msgid "Also aggregate inline JS?</strong>: Checked<br />(did you need to exclude jQuery in "
+msgstr "¿También añadir el JS integrado?</strong>: Marcado<br />(¿necesitas excluir jQuery en"
+
+#: asyncjsBackendClass.php:309
+msgid " has detected that you do not have Autoptimize installed and active.  Autoptimize can provide further optimization of JavaScript which can benefit the results of "
+msgstr "ha detectado que no tienes Autoptimize instalado y activo. Autoptimize puede ofrecer más optimización de JavaScript la cual puede darte ventaja en los resultados de"
+
+#: asyncjsBackendClass.php:286
+msgid "When a JavaScript file is loaded via the <strong><a href=\"https://codex.wordpress.org/Plugin_API/Action_Reference/wp_enqueue_scripts\" target=\"_blank\">wp_enqueue_script</a></strong> function, "
+msgstr "Cuando un archivo JavaScript se carga mediante la función <strong><a href=\"https://codex.wordpress.org/Plugin_API/Action_Reference/wp_enqueue_scripts\" target=\"_blank\">wp_enqueue_script</a></strong>,"
+
+#: asyncjsSettingsScreens.php:97
+msgid "Scripts to Exclude:"
+msgstr "Scripts a excluir:"
+
+#: asyncjsStatusScreens.php:155
+msgid "Generate New Report"
+msgstr "Generar nuevo informe"
+
+#: asyncjsSettingsScreens.php:89
+msgid "Scripts to Defer:"
+msgstr "Scripts a aplicar defer:"
+
+#: asyncjsSettingsScreens.php:81
+msgid "Scripts to Async:"
+msgstr "Scripts a aplicar async:"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://autoptimize.com/"
+msgstr "https://autoptimize.com/"
+
+#. Author of the plugin
+msgid "Frank Goossens (futtta)"
+msgstr "Frank Goossens (futtta)"
+
+#. Plugin Name of the plugin
+msgid "Async JavaScript"
+msgstr "Async JavaScript"
+
+#: asyncjsWizardScreens.php:298 asyncjsWizardScreens.php:299
+#: asyncjsWizardScreens.php:300 asyncjsWizardScreens.php:301
+#: asyncjsWizardScreens.php:316 asyncjsWizardScreens.php:317
+msgid "Apply"
+msgstr "Aplicar"
+
+#: asyncjsWizardScreens.php:283
+msgid "Apply Settings"
+msgstr "Aplicar ajustes"
+
+#: asyncjsWizardScreens.php:280
+msgid "No"
+msgstr "No"
+
+#: asyncjsWizardScreens.php:273
+msgid "click on the button below to continue."
+msgstr "haz clic en el botón de abajo para continuar."
+
+#: asyncjsWizardScreens.php:273
+msgid "Once you have simulated"
+msgstr "Una vez hayas terminado la simulación"
+
+#: asyncjsWizardScreens.php:96 asyncjsWizardScreens.php:137
+#: asyncjsWizardScreens.php:177 asyncjsWizardScreens.php:218
+#: asyncjsWizardScreens.php:258 asyncjsWizardScreens.php:261
+#: asyncjsWizardScreens.php:271 asyncjsWizardScreens.php:291
+#: asyncjsWizardScreens.php:292 asyncjsWizardScreens.php:293
+#: asyncjsWizardScreens.php:294 asyncjsWizardScreens.php:311
+#: asyncjsWizardScreens.php:312
+msgid "Simulate"
+msgstr "Simular"
+
+#: asyncjsStatusScreens.php:161
+msgid "GTmetrix API Key"
+msgstr "Clave API de GTmetrix"
+
+#: asyncjsStatusScreens.php:50
+msgid "Themes"
+msgstr "Temas"
+
+#: asyncjsStatusScreens.php:49
+msgid "Plugins"
+msgstr "Plugins"
+
+#: asyncjsStatusScreens.php:48
+msgid "Scripts"
+msgstr "Scripts"
+
+#: asyncjsStatusScreens.php:46
+msgid "Exclusions"
+msgstr "Exclusiones"
+
+#: asyncjsStatusScreens.php:42
+msgid "Method"
+msgstr "Método"
+
+#: asyncjsStatusScreens.php:38
+msgid "Status"
+msgstr "Estado"
+
+#: asyncjsSettingsScreens.php:180
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: asyncjsSettingsScreens.php:171
+msgid "jQuery Method:"
+msgstr "Método jQuery:"
+
+#: asyncjsSettingsScreens.php:167
+msgid "Enable Autoptimize Support:"
+msgstr "Activar compatibilidad con Autoptimize:"
+
+#: asyncjsSettingsScreens.php:164
+msgid "Plugin: Autoptimize"
+msgstr "Plugin: Autoptimize"
+
+#: asyncjsStatusScreens.php:56
+msgid "Autoptimize Status"
+msgstr "Estado de Autoptimize"
+
+#: asyncjsStatusScreens.php:60
+msgid "Autoptimize Method"
+msgstr "Método de Autoptimize"
+
+#: asyncjsSettingsScreens.php:70 asyncjsStatusScreens.php:43
+msgid "jQuery"
+msgstr "jQuery"
+
+#: asyncjsSettingsScreens.php:37 asyncjsSettingsScreens.php:39
+msgid "Enable "
+msgstr "Activar"
+
+#: asyncjsSettingsScreens.php:59 asyncjsSettingsScreens.php:60
+msgid " (jQuery excluded)"
+msgstr " (jQuery excluido)"
+
+#: asyncjsHelpScreens.php:44
+msgid "Delete the plugin"
+msgstr "Borrar este plugin"
+
+#: asyncjsStatusScreens.php:158
+msgid "Run GTmetrix Test"
+msgstr "Ejecutar prueba de GTmetrix"
+
+#: asyncjsHelpScreens.php:43
+msgid "Disable the plugin"
+msgstr "Desactivar este plugin"
+
+#: asyncjsSettingsScreens.php:102
+msgid "Plugin Exclusions"
+msgstr "Exclusiones de plugins"
+
+#: asyncjsWizardScreens.php:279
+msgid "Is your site still functioning properly and are there no JavaScript errors in the console?"
+msgstr "¿Tu sitio funciona correctamente y no hay errores de JavaScript en la consola?"
+
+#: asyncjsWizardScreens.php:278
+msgid "Step 4: Apply Settings"
+msgstr "Paso 4: Aplicar ajustes"
+
+#: asyncjsWizardScreens.php:274
+msgid "Proceed to Step 4"
+msgstr "Continúa al paso 4"
+
+#: asyncjsWizardScreens.php:280
+msgid "Yes"
+msgstr "Sí"
+
+#: asyncjsWizardScreens.php:58
+msgid "Proceed to Step 2"
+msgstr "Continúa al paso 2"
+
+#: asyncjsWizardScreens.php:55
+msgid "GTmetrix Credits Available: "
+msgstr "Créditos de GTmetrix disponibles:"
+
+#: asyncjsWizardScreens.php:33
+msgid "(link opens in a new tab)"
+msgstr "(el enlace se abre en una pestaña nueva)"
+
+#: asyncjsWizardScreens.php:33
+msgid "Navigate to "
+msgstr "Navegar a"
+
+#: asyncjsWizardScreens.php:29
+msgid "tab."
+msgstr "pestaña."
+
+#: asyncjsWizardScreens.php:38 asyncjsStatusScreens.php:169
+msgid "Select the desired server."
+msgstr "Elige el servidor que desees."
+
+#: asyncjsWizardScreens.php:28
+msgid "Step 1: GTmetrix API Key"
+msgstr "Paso 1: Clave API de GTmetrix"
+
+#: asyncjsStatusScreens.php:186
+msgid "GTmetrix Credits Available:"
+msgstr "Créditos de GTmetrix disponibles:"
+
+#: asyncjsWizardScreens.php:37 asyncjsStatusScreens.php:168
+msgid "Copy your Username and API Key into the fields below:"
+msgstr "Copia tu nombre de usuario y la clave API en los espacios de abajo:"
+
+#: asyncjsWizardScreens.php:36 asyncjsStatusScreens.php:167
+msgid "If you haven't yet generated your API Key, click on <strong>Generate API Key</strong>"
+msgstr "Si todavía no has generado tu clave API, haz clic en <strong>Generar clave API</strong>"
+
+#: asyncjsWizardScreens.php:35 asyncjsStatusScreens.php:166
+msgid "Log in to your GTmetrix account."
+msgstr "Accede a tu cuenta de GTmetrix."
+
+#: asyncjsStatusScreens.php:164
+msgid "Navigate to <a href=\"https://gtmetrix.com/api/\" target=\"_blank\">https://gtmetrix.com/api/</a> (link opens in a new tab)"
+msgstr "Ve a <a href=\"https://gtmetrix.com/api/\" target=\"_blank\">https://gtmetrix.com/api/</a> (el enlace se abre en una nueva pestaña)"
+
+#: asyncjsWizardScreens.php:65 asyncjsWizardScreens.php:106
+#: asyncjsWizardScreens.php:147 asyncjsWizardScreens.php:187
+#: asyncjsWizardScreens.php:228 asyncjsStatusScreens.php:93
+msgid "Please Wait"
+msgstr "Por favor, espera"
+
+#: asyncjsSettingsScreens.php:148
+msgid "No themes found."
+msgstr "No se han encontrado temas."
+
+#: asyncjsSettingsScreens.php:106
+msgid "Exclusions: "
+msgstr "Exclusiones:"
+
+#: asyncjsSettingsScreens.php:123
+msgid "No plugins found."
+msgstr "No se han encontrado plugins."
+
+#: asyncjsSettingsScreens.php:130
+msgid "Theme Exclusions"
+msgstr "Exclusiones de temas"
+
+#: asyncjsSettingsScreens.php:94
+msgid "Script Exclusion"
+msgstr "Exclusiones de scripts"
+
+#: asyncjsSettingsScreens.php:74
+msgid "Exclude"
+msgstr "Excluir"
+
+#: asyncjsSettingsScreens.php:73
+msgid "jQuery Method: "
+msgstr "Método jQuery:"
+
+#: asyncjsSettingsScreens.php:67
+msgid "Method: "
+msgstr "Método:"
+
+#: asyncjsPartnersScreens.php:66
+msgid "Have a look at <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> for tools that can help you speed up your site even more!"
+msgstr "¡Echa un vistazo a <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> para conseguir herramientas que pueden ayudarte a hacer tu sitio mucho más rápido!"
+
+#: asyncjsPartnersScreens.php:58
+msgid "These related services can improve your site's performance even more!"
+msgstr "¡Estos servicios relacionados pueden mejorar el rendimiento de tu sitio mucho más!"
+
+#: asyncjsSettingsScreens.php:53
+msgid "Quick Settings"
+msgstr "Ajustes rápidos"
+
+#: asyncjsHelpScreens.php:13
+msgid "Installed Version: "
+msgstr "Versión instalada:"
+
+#: asyncjsWizardScreens.php:29 asyncjsWizardScreens.php:304
+#: asyncjsWizardScreens.php:320 asyncjsBackendClass.php:363
+#: asyncjsDashboardScreens.php:105
+msgid "Settings"
+msgstr "Ajustes"
+
+#: asyncjsWizardScreens.php:75 asyncjsWizardScreens.php:116
+#: asyncjsWizardScreens.php:157 asyncjsWizardScreens.php:197
+#: asyncjsWizardScreens.php:238 asyncjsDashboardScreens.php:81
+#: asyncjsStatusScreens.php:102 asyncjsStatusScreens.php:132
+msgid "YSlow Score"
+msgstr "Puntuación de YSlow"
+
+#: asyncjsWizardScreens.php:71 asyncjsWizardScreens.php:112
+#: asyncjsWizardScreens.php:153 asyncjsWizardScreens.php:193
+#: asyncjsWizardScreens.php:234 asyncjsDashboardScreens.php:77
+#: asyncjsStatusScreens.php:98 asyncjsStatusScreens.php:128
+msgid "PageSpeed Score"
+msgstr "Puntuación de PageSpeed"
+
+#: asyncjsDashboardScreens.php:52 asyncjsStatusScreens.php:73
+msgid "Latest GTmetrix Results"
+msgstr "Últimos resultados de GTmetrix"
+
+#: asyncjsDashboardScreens.php:45 asyncjsStatusScreens.php:65
+msgid "Autoptimize not installed or activated."
+msgstr "Autoptimize no instalado o activado."
+
+#: asyncjsDashboardScreens.php:40
+msgid "Autoptimize Method:"
+msgstr "Método de Autoptimize:"
+
+#: asyncjsDashboardScreens.php:36
+msgid "Autoptimize Status:"
+msgstr "Estado de Autoptimize:"
+
+#: asyncjsDashboardScreens.php:32
+msgid "Theme Exclusions:"
+msgstr "Exclusiones de temas:"
+
+#: asyncjsDashboardScreens.php:31
+msgid "Plugin Exclusions:"
+msgstr "Exclusiones de plugins:"
+
+#: asyncjsWizardScreens.php:83 asyncjsWizardScreens.php:124
+#: asyncjsWizardScreens.php:165 asyncjsWizardScreens.php:206
+#: asyncjsWizardScreens.php:246 asyncjsDashboardScreens.php:91
+#: asyncjsStatusScreens.php:110 asyncjsStatusScreens.php:140
+msgid "Total Page Size"
+msgstr "Tamaño total de página"
+
+#: asyncjsWizardScreens.php:87 asyncjsWizardScreens.php:129
+#: asyncjsWizardScreens.php:169 asyncjsWizardScreens.php:210
+#: asyncjsWizardScreens.php:250 asyncjsDashboardScreens.php:95
+#: asyncjsStatusScreens.php:114 asyncjsStatusScreens.php:144
+msgid "Requests"
+msgstr "Peticiones"
+
+#: asyncjsDashboardScreens.php:99
+msgid "See full report: "
+msgstr "Ver el informe completo:"
+
+#: asyncjsDashboardScreens.php:104
+msgid "Please click on the Settings button below to generate a new GTmetrix Report."
+msgstr "Por favor, haz clic en el botón inferior de ajustes para generar un informe nuevo de GTmetrix."
+
+#: asyncjsWizardScreens.php:79 asyncjsWizardScreens.php:120
+#: asyncjsWizardScreens.php:161 asyncjsWizardScreens.php:201
+#: asyncjsWizardScreens.php:242 asyncjsDashboardScreens.php:87
+#: asyncjsStatusScreens.php:106 asyncjsStatusScreens.php:136
+msgid "Fully Loaded Time"
+msgstr "Tiempo de carga completa"
+
+#: asyncjsWizardScreens.php:266
+msgid "Step 3: Results &amp; Recommendations"
+msgstr "Paso 4: Resultados y recomendaciones"
+
+#: asyncjsSettingsScreens.php:66
+msgid "Please select the method (<strong>async</strong> or <strong>defer</strong>) that you wish to enable:"
+msgstr "Por favor selecciona el método (<strong>asincronía</strong> o <strong>aplazamiento</strong>) que quieras activar:"
+
+#: asyncjsHelpScreens.php:36
+msgid "What about CSS?"
+msgstr "¿Y el CSS?"
+
+#: asyncjsSettingsScreens.php:135 asyncjsDashboardScreens.php:30
+msgid "Exclusions:"
+msgstr "Exclusiones:"
+
+#: asyncjsDashboardScreens.php:28
+msgid "Method:"
+msgstr "Método:"
+
+#: asyncjsDashboardScreens.php:22 asyncjsDashboardScreens.php:24
+msgid " Status"
+msgstr "Estado"
+
+#: asyncjsBackendClass.php:333
+msgid "Click on <strong>Save Changes</strong></li>"
+msgstr "Haz clic en <strong>Guardar cambios</strong></li>"
+
+#: asyncjsBackendClass.php:330
+msgid "Enable Autoptimize Support</strong>: Checked</li>"
+msgstr "Activar compatibilidad con Autoptimize</strong>: Marcado</li>"
+
+#: asyncjsBackendClass.php:328
+msgid "Under <strong>Autoptimize</strong> set the following:</li>"
+msgstr "Debajo de <strong>Autoptimize</strong> marca lo siguiente:</li>"
+
+#: asyncjsBackendClass.php:326
+msgid "Click on the <strong>Settings</strong> tab</li>"
+msgstr "Haz clic en la pestaña de <strong>Ajustes</strong></li>"
+
+#: asyncjsBackendClass.php:319
+msgid "Force JavaScript in &lt;head&gt;?</strong>: Unchecked</li>"
+msgstr "¿Forzar JavaScript en &lt;head&gt;?</strong>: Desmarcado</li>"
+
+#: asyncjsBackendClass.php:318
+msgid "Optimize JavaScript Code?</strong>: Checked</li>"
+msgstr "¿Optimizar código JavaScript?</strong>: Marcado</li>"
+
+#: asyncjsWizardScreens.php:267
+msgid "has finished testing your site with the most common configuration options."
+msgstr "ha finalizado las pruebas en tu sitio con las opciones de configuración más usadas."
+
+#: asyncjsWizardScreens.php:62
+msgid "Step 2: Initial Test Results"
+msgstr "Paso 2: Resultados de la prueba inicial"
+
+#: asyncjsWizardScreens.php:93 asyncjsWizardScreens.php:134
+#: asyncjsWizardScreens.php:174 asyncjsWizardScreens.php:215
+#: asyncjsWizardScreens.php:255 asyncjsWizardScreens.php:260
+#: asyncjsStatusScreens.php:118 asyncjsStatusScreens.php:148
+msgid "See full report:"
+msgstr "Mira el informe completo:"
+
+#: asyncjsWizardScreens.php:34 asyncjsStatusScreens.php:165
+msgid "If you do not already have an account with GTmetrix, go ahead and sign up (it's FREE!)."
+msgstr "Si todavía no tienes una cuenta con GTmetrix, ve a crearla (¡es GRATIS!)."
+
+#: asyncjsStatusScreens.php:156
+msgid "Please click on the button below to generate a new GTmetrix Report."
+msgstr "Haz clic en el botón inferior para generar un nuevo informe de GTmetrix."
+
+#: asyncjsSettingsScreens.php:155
+msgid "For Plugins"
+msgstr "Para plugins"
+
+#: asyncjsHelpScreens.php:28
+msgid "Where can I get help?"
+msgstr "¿Dónde puedo conseguir ayuda?"
+
+#: asyncjsBackendClass.php:321
+msgid "Exclude scripts from Autoptimize:</strong>: Leave as default (or add any other scripts that you may need to exclude)</li>"
+msgstr "Excluir scripts en Autoptimize:</strong>: Dejalo como está por defecto (o añade otros scripts que necesites excluir)</li>"
+
+#: asyncjsBackendClass.php:324
+msgid "Click on the <strong>Save Changes and Empty Cache</strong> button</li>"
+msgstr "Haz clic en el botón de <strong>Guardar ajustes y vaciar cache</strong></li>"
+
+#: asyncjsSettingsScreens.php:54
+msgid "Use the buttons below to apply common settings."
+msgstr "Usa los botones inferiores para aplicar los ajustes comunes."
+
+#: asyncjsHelpScreens.php:18
+msgid "The 'async' attribute is new in HTML5. It is supported by the following browsers:"
+msgstr "El atributo «async» es nuevo en HTML5. Es compatible con los siguientes navegadores:"
+
+#: asyncjsHelpScreens.php:17
+msgid "Which browsers support the 'async' and 'defer' attributes?"
+msgstr "¿Qué navegadores admiten los atributos «async» y «defer»?"
+
+#: asyncjsHelpScreens.php:14
+msgid "Below are some answers to some frequently asked questions about "
+msgstr "Abajo hay unas cuantas respuestas a las preguntas más habituales"
+
+#: asyncjsWizardScreens.php:309
+msgid "Below are links that can be used to run simulations on each of the configurations with jQuery excluded.  Click on each of the links and check the functionality of your site as well as the console for errors."
+msgstr "Abajo hay enlaces que se pueden usar para hacer simulaciones con cada configuración con jQuery excluido. Haz clic en cada enlace y comprueba que tu sitio funcione a la vez que los errores de la consola."
+
+#: asyncjsWizardScreens.php:308
+msgid "In most cases the issue being experienced relates to jQuery (usually due to inline JavaScript which relies on jQuery) and the solution is to exclude jQuery."
+msgstr "En muchos casos, el problema experimentado, tiene que ver con jQuery (normalmente debido a que el JavaScript integrado se basa en jQuery) y la solución es excluir jQuery."
+
+#: asyncjsWizardScreens.php:296 asyncjsWizardScreens.php:314
+msgid "Click one of the buttons below to apply these settings or click the Settings button to go to the settings page for manual configuration."
+msgstr "Haz clic en uno de los botones de abajo para aplicar estos ajustes o haz clic en el botón de ajustes para ir a la página de ajustes y configurarlo manualmente."
+
+#: asyncjsWizardScreens.php:289
+msgid "Below are links that can be used to run simulations on each of the basic configurations.  Click on each of the links and check the functionality of your site as well as the console for errors."
+msgstr "Abajo hay enlaces que se pueden usar para hacer simulaciones en cada una de las configuraciones básicas. Haz clic en cada enlace y comprueba que tu sitio funcione a la vez que los errores de la consola."
+
+#: asyncjsWizardScreens.php:282
+msgid "Great to hear! To apply these settings click the button below."
+msgstr "¡Encantado de oírlo! Para aplicar estos ajustes, haz clic en el botón de abajo."
+
+#: asyncjsWizardScreens.php:286
+msgid "Ok, so you have run the simulation on <span class=\"aj_gtmetrix_config\"></span> and although there has been an improvement in reported performance, the simulation shows that something is not right with your site."
+msgstr "Bien, si has hecho la simulación en <span class=\"aj_gtmetrix_config\"></span> y aunque haya habido una mejora en el rendimiento en el informe, la simulación muestra que algo está mal en tu sitio."
+
+#: asyncjsSettingsScreens.php:158
+msgid "If you have any active themes / plugins that Async Javascript supports then these will be listed below."
+msgstr "Si tienes algún tema/plugin activo con el que la carga asíncrona de Javascript sea compatible, se verán abajo en una lista."
+
+#: asyncjsWizardScreens.php:288
+msgid "In most cases the issue being experienced relates to jQuery (usually due to inline JavaScript which relies on jQuery) and the solution is to exclude jQuery.  However, in this simulation jQuery has already been exculded.  As a result a different configuration may work better with a marginal sacrifice in site speed improvement."
+msgstr "En la mayoría de los casos, el problema experimentado tiene que ver con jQuery (normalmente debido a que el JavaScript integrado se basa en jQuery) y la solución es excluir jQuery. Sin embargo, en esta simulación jQuery ha sido excluido. Una configuración diferente puede funcionar mejor con un sacrificio marginal en la velocidad de carga del sitio."
+
+#: asyncjsWizardScreens.php:269
+msgid "Before applying these settings it is important to check your site is still functioning correctly.  Click the link below to open your site in a new tab / window to simulate the <?php echo AJ_TITLE; ?> settings and check that everything is working, and also be sure to check the console for any JavaScript errors (see <a href=\"https://codex.wordpress.org/Using_Your_Browser_to_Diagnose_JavaScript_Errors\" target=\"_blank\">Using Your Browser to Diagnose JavaScript Errors</a>)"
+msgstr "Antes de aplicar estos ajustes, es importante que compruebes que tu sitio siga funcionando correctamente. Haz clic en el link de abajo para abrir tu sitio en una nueva pestaña/ventana para simular los ajustes de <?php echo AJ_TITLE; ?> y comprueba que todo está funcionando, y también que no haya errores en la consola de JavaScript (mira <a href=\"https://codex.wordpress.org/Using_Your_Browser_to_Diagnose_JavaScript_Errors\" target=\"_blank\">Usando tu navegador para diagnosticar errores de JavaScript</a>)"
+
+#: asyncjsWizardScreens.php:226
+msgid "will now query GTmetrix and retrieve your sites PageSpeed and YSlow scores whilst simulating the JavaScript 'defer' method but excluding jQuery."
+msgstr "consultará ahora GTmetrix y recuperará las puntuaciones de PageSpeed y YSlow para tu sitio mientras que simula el método «defer» para JavaScript pero excluyendo jQuery."
+
+#: asyncjsWizardScreens.php:185
+msgid "will now query GTmetrix and retrieve your sites PageSpeed and YSlow scores whilst simulating the JavaScript 'async' method but excluding jQuery."
+msgstr "consultará ahora GTmetrix y recuperará las puntuaciones de PageSpeed y YSlow para tu sitio mientras que simula el método «async» para JavaScript pero excluyendo jQuery."
+
+#: asyncjsWizardScreens.php:145
+msgid "will now query GTmetrix and retrieve your sites PageSpeed and YSlow scores whilst simulating the JavaScript 'defer' method."
+msgstr "consultará ahora GTmetrix y recuperará las puntuaciones de PageSpeed y YSlow para tu sitio mientras que simula el método «defer» para JavaScript."
+
+#: asyncjsWizardScreens.php:104
+msgid "will now query GTmetrix and retrieve your sites PageSpeed and YSlow scores whilst simulating the JavaScript 'async' method."
+msgstr "consultará ahora GTmetrix y recuperará las puntuaciones de PageSpeed y YSlow para tu sitio mientras que simula el método «async» para JavaScript."
+
+#: asyncjsWizardScreens.php:63
+msgid "will now query GTmetrix and retrieve your sites PageSpeed and YSlow scores."
+msgstr "consultará ahora GTmetrix y recuperará las puntuaciones de PageSpeed y YSlow para tu sitio."
+
+#: asyncjsWizardScreens.php:57
+msgid "<strong>Please Note:</strong> By clicking the button below you acknowledge that you understand that five (5) GTmetrix API credits will be used."
+msgstr "<strong>Ten en cuenta:</strong> Haciendo clic en el botón de abajo, reconoces que entiendes que se usarán cinco (5) créditos de la API de GTmetrix."
+
+#: asyncjsWizardScreens.php:29
+msgid "<strong><em>Please Note:</em></strong> You do not have to use this Wizard. All settings can be changed under the"
+msgstr "<strong><em>Ten en cuenta:</em></strong> No tienes porque usar este asistente. Todos los ajustes se pueden cambiar en"
+
+#: asyncjsWizardScreens.php:31 asyncjsStatusScreens.php:162
+msgid "If you haven't already done so, grab an API Key from GTmetrix so that Async JavaScript can obtain your PageSpeed / YSlow results.  Here's how:"
+msgstr "Si todavía no lo has hecho, consigue una clave API de GTmetrix para que la carga asíncrona de JavaScript pueda obtener tus resultados de PageSpeed/YSlow. Aquí te digo como:"
+
+#: asyncjsStatusScreens.php:157
+msgid "<strong>Please Note:</strong> By clicking the button below you acknowledge that you understand that one (1) GTmetrix API credit will be used."
+msgstr "<strong>Ten en cuenta:</strong> Haciendo clic en el botón de abajo, reconoces que entiendes que se usará un (1) crédito de la API de GTmetrix."
+
+#: asyncjsSettingsScreens.php:159
+msgid "If you think you have found a plugin that Async Javascript may be able to provide support for please lodge a ticket at <a href=\"https://wordpress.org/support/plugin/async-javascript\" target=\"_blank\">https://wordpress.org/support/plugin/async-javascript</a>"
+msgstr "Si crees que has encontrado un plugin con el que debería ser compatible la carga asíncrona de JavaScript, por favor, abre un ticket en <a href=\"https://wordpress.org/support/plugin/async-javascript\" target=\"_blank\">https://wordpress.org/support/plugin/async-javascript</a>"
+
+#: asyncjsSettingsScreens.php:156
+msgid "Although not recommended, some themes / plugins can load JavaScript files without using the <strong><a href=\"https://codex.wordpress.org/Plugin_API/Action_Reference/wp_enqueue_scripts\" target=\"_blank\">wp_enqueue_script</a></strong> function.  In some cases this is necessary for the functionality of the theme / plugin."
+msgstr "Aunque no se recomienda, algunos temas/plugins pueden cargar los archivos de JavaScript sin usar la función <strong><a href=\"https://codex.wordpress.org/Plugin_API/Action_Reference/wp_enqueue_scripts\" target=\"_blank\">wp_enqueue_script</a></strong>. En algunos casos, esto es necesario para que el tema/plugin funcione."
+
+#: asyncjsBackendClass.php:310
+msgid "You can install Autoptimize from the plugin repository, or download it from here: "
+msgstr "Puedes instalar Autoptimize desde el repositorio de plugins, o descargarlo desde aquí:"
+
+#: asyncjsBackendClass.php:307
+msgid " has detected that you have Autoptimize installed and active. "
+msgstr " ha detectado que tienes Autoptimize instalado y activo."
+
+#: asyncjsBackendClass.php:287
+msgid "There are several ways an external JavaScript file can be executed:"
+msgstr "Hay varias maneras en las que se puede ejecutar un archivo JavaScript externo:"
+
+#: asyncjsWizardScreens.php:268
+msgid "Based on the tests Async JavaScript has determined that <span class=\"aj_gtmetrix_config\"></span> has resulted in <span id=\"aj_gtmetrix_inde_pagespeed\"></span> in PageSpeed from <span id=\"aj_gtmetrix_baseline_pagespeed\"></span> to <span id=\"aj_gtmetrix_best_pagespeed\"></span> and <span id=\"aj_gtmetrix_inde_yslow\"></span> in YSlow from <span id=\"aj_gtmetrix_baseline_yslow\"></span> to <span id=\"aj_gtmetrix_best_yslow\"></span>, with a Fully Loaded time of"
+msgstr "Basándose en las pruebas de carga asíncrona de JavaScript ha determinado que <span class=\"aj_gtmetrix_config\"></span> ha resultado en <span id=\"aj_gtmetrix_inde_pagespeed\"></span> en PageSpeed desde <span id=\"aj_gtmetrix_baseline_pagespeed\"></span> a <span id=\"aj_gtmetrix_best_pagespeed\"></span> y <span id=\"aj_gtmetrix_inde_yslow\"></span> en YSlow desde <span id=\"aj_gtmetrix_baseline_yslow\"></span> a <span id=\"aj_gtmetrix_best_yslow\"></span>, con un tiempo de carga total de"
+
+#: asyncjsSettingsScreens.php:157
+msgid "If these themes / plugins provide a hook that can be used to manipulate how the JavaScript file is loaded then Async Javascript may be able to provide support for these themes / plugins."
+msgstr "Si estos temas / plugins ofrecen un gancho que pueda utilizarse para manipular cómo se carga el archivo JavaScript entonces la carga asíncrona de JavaScript puede ser compatible con estos temas / plugins."
+
+#: asyncjsSettingsScreens.php:133
+msgid "For Example: If a theme is installed in path <strong>/wp-content/themes/some-theme/</strong> then and JavaScripts contained within this path will be excluded. If the theme loads a JavaScript which is countained elsewhere then the Global Method will be used (ie async or defer)"
+msgstr "Por ejemplo: Si un tema está instalado en la ruta <strong>/wp-content/themes/un-theme/</strong> entonces se excluirán los JavaScripts que estén en esta ruta. Si el tema carga un JavaScript que esté en cualquier parte, entonces se usará el método global (o sea, «async o defer»)"
+
+#: asyncjsSettingsScreens.php:132
+msgid "<strong><em>Please Note:</em></strong> This will exclude any JavaScript files which are contained within the files of the selected Theme(s). External JavaScripts loaded by the selected Theme(s) are not affected."
+msgstr "<strong><em>Por favor, ten en cuenta:</em></strong> Esto excluirá cualquier archivo JavaScript que esté dentro de los archivos del tema(s) seleccionado(s). Los JavaScripts externos cargados por el/los tema(s) seleccionado(s) no se verán afectados."
+
+#: asyncjsSettingsScreens.php:105
+msgid "For Example: If a plugin is installed in path <strong>/wp-content/plugins/some-plugin/</strong> then and JavaScripts contained within this path will be excluded. If the plugin loads a JavaScript which is countained elsewhere then the Global Method will be used (ie async or defer)"
+msgstr "Por ejemplo: Si un plugin está instalado en la ruta <strong>/wp-content/plugins/algun-plugin/</strong> entonces se excluirán los JavaScripts que estén en esta ruta. Si el tema carga un JavaScript que esté en cualquier parte, entonces se usará el método global (o sea, «async o defer»)"
+
+#: asyncjsSettingsScreens.php:104
+msgid "<strong><em>Please Note:</em></strong> This will exclude any JavaScript files which are contained within the files of the selected Plugin(s). External JavaScripts loaded by the selected Plugin(s) are not affected."
+msgstr "<strong><em>Por favor, ten en cuenta:</em></strong> Esto excluirá cualquier archivo JavaScript que esté dentro de los archivos del/los plugin(s) seleccionado(s). Los JavaScripts externos cargados por el/los plugin(s) seleccionado(s) no se verán afectados."
+
+#: asyncjsHelpScreens.php:21 asyncjsHelpScreens.php:22
+msgid "and higher"
+msgstr "y superior"
+
+#: asyncjsHelpScreens.php:12
+msgid "Help &amp; Support"
+msgstr "Ayuda y soporte"
+
+#: asyncjsBackendClass.php:305
+msgid "Further Hints &amp; Tips"
+msgstr "Más consejos y trucos"
+
+#: asyncjsHelpScreens.php:38
+msgid "We recommend using the awesome <a href=\"https://wordpress.org/plugins/autoptimize/\" target=\"_blank\">Autoptimize</a> plugin alongside Async JavaScript for CSS optimization."
+msgstr "Recomendamos usar el genial plugin <a href=\"https://wordpress.org/plugins/autoptimize/\" target=\"_blank\">Autoptimize</a> junto a Async JavaScript para la optimización de CSS."
+
+#: asyncjsHelpScreens.php:37
+msgid "As the name implies, Async JavaScript is built to enhance JavaScript loading only. Async JavaScript does not have any impact on CSS."
+msgstr "Como el nombre indica, Async JavaScript está hecho para mejorar la carga de JavaScript. Async JavaScript no tiene ningún impacto en el CSS."
+
+#: asyncjsBackendClass.php:212
+msgid "We have detected that Async JavaScript Pro is still active. Please disable from the plugin menu before using "
+msgstr "Hemos detectado que Async JavaScript Pro todavía está activo. Por favor, desactívalo desde el menú del plugin antes de usarlo"
+
+#: asyncjsSettingsScreens.php:87
+msgid "Please list any scripts which you would like to apply the 'defer' attribute to. (comma seperated list eg: jquery.js,jquery-ui.js)"
+msgstr "Por favor, indica a qué scripts quieres aplicar el atributo «defer». (lista separada por comas ej: jquery.js,jquery-ui.js)"
+
+#: asyncjsSettingsScreens.php:79
+msgid "Please list any scripts which you would like to apply the 'async' attribute to. (comma seperated list eg: jquery.js,jquery-ui.js)"
+msgstr "Por favor, indica a qué scripts quieres aplicar el atributo «async». (lista separada por comas ej: jquery.js,jquery-ui.js)"
+
+#: asyncjsSettingsScreens.php:71
+msgid "Often if jQuery is loaded with <strong>async</strong> or <strong>defer</strong> it can break some jQuery functions, specifically inline scripts which require jQuery to be loaded before the scripts are run.  <strong><em>Sometimes</em></strong> choosing a different method (<strong>async</strong> or <strong>defer</strong>) will work, otherwise it may be necessary to exclude jQuery from having <strong>async</strong> or <strong>defer</strong> applied."
+msgstr "A menudo, si se carga jQuery con <strong>async</strong> o <strong>defer</strong> puede romper algunas funciones de jQuery, específicamente los scripts integrados que requieran que se cargue jQuery antes de que se ejecuten los scripts.  <strong><em>En algunos casos</em></strong> funcionará la elección de un método diferente (<strong>carga asíncrona</strong> o <strong>aplazar</strong>), de lo contrario puede ser necesario excluir a jQuery de la  <strong>carga asíncrona</strong> o <strong>aplazar</strong>."
+
+#: asyncjsSettingsScreens.php:55
+msgid "<strong>Note: </strong>Using the buttons below will erase any current settings within "
+msgstr "<strong>Nota: </strong>El uso de los botones siguientes borrará todos los ajustes actuales de "
+
+#: asyncjsHelpScreens.php:41
+msgid "I want out, how should I remove Async JavaScript?"
+msgstr "Si quiero salir, ¿cómo puedo eliminar Async JavaScript?"
+
+#: asyncjsHelpScreens.php:33
+msgid "We offer premium services for Async JavaScript and also perform full web performance optimization services. More info at "
+msgstr "Ofrecemos servicios premium para Async JavaScript y también realizamos servicios completos de optimización de rendimiento web. Más información en"
+
+#: asyncjsHelpScreens.php:32
+msgid "Do you provide premium support (configuration) or performance optimization services?"
+msgstr "¿Ofrecéis soporte premium (configuración) o servicios de optimización de rendimiento?"
+
+#: asyncjsHelpScreens.php:29
+msgid "is supported exclusively via the wordpress.org support forum"
+msgstr "recibe soporte exclusivamente en los foros de soporte de wordpress.org"
+
+#: asyncjsBackendClass.php:316
+msgid "Under <strong>JavaScript Options</strong> set the following:</li>"
+msgstr "Debajo de <strong>Opciones de JavaScript</strong> establece lo siguiente:</li>"
+
+#: asyncjsBackendClass.php:315
+msgid "Click on the <strong>Show advanced settings</strong> button</li>"
+msgstr "Haz clic en el botón de <strong>Mostrar ajustes avanzados</strong></li>"
+
+#: asyncjsBackendClass.php:312
+msgid "Through our testing the following common Autoptimize settings work well to achieve the best results.  Of course each website is different so you may need to fine tune these settings to suit.</p>"
+msgstr "Según nuestras pruebas, los siguientes ajustes comunes de Autoptimize funcionan bien para lograr los mejores resultados.  Por supuesto, cada web es diferente, por lo que es posible que tengas que afinar estos ajustes para que adaptarlos.</p>."
+
+#: asyncjsBackendClass.php:314
+msgid "Navigate to <strong>Settings &gt; Autoptimize</strong></li>"
+msgstr "Ve a <strong>Ajustes &gt; Autoptimize</strong></li>"
+
+#: asyncjsBackendClass.php:307
+msgid " can further enhance Autoptimize results by applying Async or Defer to the cache files used by Autoptimize.</p>"
+msgstr " puedes mejorar aún más los resultados de Autoptimize aplicando carga asíncrona o aplazar a los archivos de caché utilizados por Autoptimize.</p>"
+
+#: asyncjsBackendClass.php:322
+msgid "Add try-catch wrapping?</strong>: Unchecked</li>"
+msgstr "¿Añadir envoltura de prueba de captura?</strong>: Sin marcar</li>"
+
+#. Description of the plugin
+msgid "Async JavaScript gives you full control of which scripts to add a 'async' or 'defer' attribute to or to exclude to help increase the performance of your WordPress website"
+msgstr "Async JavaScript te da el control completo de a qué scripts añadir los atributos «async» o «defer» o cuáles excluir para ayudarte a mejorar el rendimiento de tu web WordPress"
+
+#: asyncjsWizardScreens.php:225
+msgid "Testing: Defer (jQuery excluded)"
+msgstr "Probando: Defer (jQuery excluido)"
+
+#: asyncjsWizardScreens.php:184
+msgid "Testing: Async (jQuery excluded)"
+msgstr "Probando: Async (jQuery excluido)"
+
+#: asyncjsWizardScreens.php:144
+msgid "Testing: Defer"
+msgstr "Probando: Defer"
+
+#: asyncjsWizardScreens.php:103
+msgid "Testing: Async"
+msgstr "Probando: Async"
+
+#: asyncjsSettingsScreens.php:58 asyncjsSettingsScreens.php:60
+msgid "Apply Defer"
+msgstr "Aplicar Defer"
+
+#: asyncjsSettingsScreens.php:57 asyncjsSettingsScreens.php:59
+msgid "Apply Async"
+msgstr "Aplicar Async"
+
+#: asyncjsBackendClass.php:293
+msgid "Using <strong>async</strong> or <strong>defer</strong> helps to eliminate render-blocking JavaScript in above-the-fold content.  This can also help to increase your pagespeed which in turn can assist in improving your page ranking.</p>"
+msgstr "El uso de <strong>async</strong> o <strong>defer</strong> ayuda a eliminar el bloqueo de la visualización de JavaScript antes de hacer scroll.  Esto también puede ayudar a aumentar la velocidad de tu página, lo que a su vez puede ayudar a mejorar el posicionamiento de tu página.</p>"
+
+#: asyncjsBackendClass.php:291
+msgid "If neither <strong>async</strong> or <strong>defer</strong> is present: The script is fetched and executed immediately, before the browser continues parsing the page</li>"
+msgstr "Si no está presente ni <strong>async</strong> ni <strong>defer</strong>: El script se obtiene y ejecuta inmediatamente, antes de que el navegador continúe analizando la página.</li>"
+
+#: asyncjsBackendClass.php:290
+msgid "If <strong>defer</strong> is present and <strong>async</strong> is not present: The script is executed when the page has finished parsing</li>"
+msgstr "Si está presente <strong>async</strong> o <strong>defer</strong>: El script se ejecuta cuando se termina de analizar la página.</li>"
+
+#: asyncjsBackendClass.php:289
+msgid "If <strong>async</strong> is present: The script is executed asynchronously with the rest of the page (the script will be executed while the page continues the parsing)</li>"
+msgstr "Si está presente <strong>async</strong>: El script se ejecuta de manera asíncrona con el resto de la página (el script se ejecutará mientras se sigue analizando la página).</li>"
+
+#: asyncjsBackendClass.php:331
+msgid "<strong>Method</strong>: Select either <strong>Async</strong> or <strong>Defer</strong> (testing has found that <strong>Defer</strong> usually works best here!)</li>"
+msgstr "<strong>Método</strong>: Elige entre <strong>async</strong> o <strong>defer</strong> (¡las pruebas han dado como resultado que <strong>async</strong> funciona mucho mejor aquí!)</li>"
+
+#: asyncjsSettingsScreens.php:131
+msgid "Please select one or more themes. Scripts contained within the theme will not have async / defer applied."
+msgstr "Por favor, elige uno o más temas. A los scripts que tenga el tema no se les aplicará async/defer."
+
+#: asyncjsSettingsScreens.php:103
+msgid "Please select one or more plugins. Scripts contained within the plugin will not have async / defer applied."
+msgstr "Por favor, selecciona uno o más plugins. No se aplicará async/defer a los scripts contenidos dentro del plugin. "
+
+#: asyncjsSettingsScreens.php:95
+msgid "Please list any scripts which you would like excluded from having <strong>async</strong> or <strong>defer</strong> applied during page load. (comma seperated list eg: jquery.js,jquery-ui.js)"
+msgstr "Por favor, indica qué scripts quieres que se excluyan de <strong>async</strong> o <strong>defer</strong> durante la carga de la página. (lista separada por comas ej: jquery.js,jquery-ui.js)"
+
+#: asyncjsSettingsScreens.php:86
+msgid "Scripts to Defer"
+msgstr "Scripts a aplicar defer"
+
+#: asyncjsSettingsScreens.php:78
+msgid "Scripts to Async"
+msgstr "Scripts a aplicar async"
+
+#: asyncjsStatusScreens.php:45
+msgid "Defer Scripts"
+msgstr "Scripts con defer aplicado"
+
+#: asyncjsStatusScreens.php:44
+msgid "Async Scripts"
+msgstr "Scripts con async aplicado"

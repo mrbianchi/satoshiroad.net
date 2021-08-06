@@ -1,0 +1,4615 @@
+# Translation of Plugins - WP Live Chat Support - Development (trunk) in Greek
+# This file is distributed under the same license as the Plugins - WP Live Chat Support - Development (trunk) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - WP Live Chat Support - Development (trunk)\n"
+"POT-Creation-Date: 2019-05-03 12:59+0300\n"
+"PO-Revision-Date: 2019-05-03 14:24+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: ajax.php:192 modules/api/wplc-api-functions.php:809
+#: wp-live-chat-support.php:3021 wp-live-chat-support.php:5363
+msgid "Admin"
+msgstr ""
+
+#: ajax.php:327 modules/api/wplc-api-functions.php:923
+msgid "Admin has closed and ended the chat"
+msgstr "Ο διαχειριστής έχει κλείσει και έχει τελειώσει την συνομιλία"
+
+#: extra-functions.php:62 wp-live-chat-support.php:4217
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: extra-functions.php:174 extra-functions.php:180 extra-functions.php:185
+#: modules/node_server.php:1099
+#, fuzzy
+#| msgid "Assign Quick Response"
+msgid "Quick Responses"
+msgstr "Όρισε Γρήγορη Απαντήση"
+
+#: extra-functions.php:175 includes/settings_page.php:328
+#, fuzzy
+#| msgid "Assign Quick Response"
+msgid "Quick Response"
+msgstr "Όρισε Γρήγορη Απαντήση"
+
+#: extra-functions.php:176 extra-functions.php:179
+#, fuzzy
+#| msgid "Assign Quick Response"
+msgid "New Quick Response"
+msgstr "Όρισε Γρήγορη Απαντήση"
+
+#: extra-functions.php:177 modules/node_server.php:1108
+#, fuzzy
+#| msgid "Assign Quick Response"
+msgid "Add New Quick Response"
+msgstr "Όρισε Γρήγορη Απαντήση"
+
+#: extra-functions.php:178
+#, fuzzy
+#| msgid "Assign Quick Response"
+msgid "Edit Quick Response"
+msgstr "Όρισε Γρήγορη Απαντήση"
+
+#: extra-functions.php:181
+#, fuzzy
+#| msgid "Assign Quick Response"
+msgid "View Quick Responses"
+msgstr "Όρισε Γρήγορη Απαντήση"
+
+#: extra-functions.php:182
+#, fuzzy
+#| msgid "What are Quick Responses?"
+msgid "Search Quick Responses"
+msgstr "Τι είναι οι γρήγορες απαντήσεις;"
+
+#: extra-functions.php:183
+#, fuzzy
+#| msgid "Assign Quick Response"
+msgid "No Quick Responses found"
+msgstr "Όρισε Γρήγορη Απαντήση"
+
+#: extra-functions.php:184
+#, fuzzy
+#| msgid "Add Quick Responses to your Live Chat"
+msgid "No Quick Responses found in the Trash"
+msgstr "Προσθέστε Γρήγορες Απαντήσεις στις Ζωντανές Συνομιλίες σας"
+
+#: extra-functions.php:189
+#, fuzzy
+#| msgid "Add Quick Responses to your Live Chat"
+msgid "Quick Responses for WP Live Chat Support"
+msgstr "Προσθέστε Γρήγορες Απαντήσεις στις Ζωντανές Συνομιλίες σας"
+
+#: extra-functions.php:220
+msgid "Sort Order"
+msgstr ""
+
+#: extra-functions.php:256 includes/settings_page.php:337
+msgid "Title"
+msgstr ""
+
+#: extra-functions.php:257 includes/settings_page.php:345
+msgid "Order"
+msgstr ""
+
+#: extra-functions.php:258 includes/settings_page.php:1327
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: extra-functions.php:259 functions.php:1700 includes/settings_page.php:338
+#: wp-live-chat-support.php:3646 wp-live-chat-support.php:3772
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: extra-functions.php:338 extra-functions.php:342
+msgid "Assign Quick Response"
+msgstr "Όρισε Γρήγορη Απαντήση"
+
+#: extra-functions.php:345 includes/settings_page.php:1309
+msgid "Select"
+msgstr "Επιλέξτε"
+
+#: extra-functions.php:351
+#, fuzzy
+#| msgid "Chat with us"
+msgid "What is this?"
+msgstr "Συνομιλήστε μαζί μας"
+
+#: extra-functions.php:410 extra-functions.php:3496
+#, php-format
+msgid "Incoming chat from %s (%s) on %s"
+msgstr ""
+
+#: extra-functions.php:416 extra-functions.php:3502
+#, php-format
+msgid "%s (%s) wants to chat with you. <br /><br />Log in: %s"
+msgstr ""
+
+#: extra-functions.php:869
+msgid "Status (Online)"
+msgstr ""
+
+#: extra-functions.php:870 includes/settings_page.php:1288
+msgid "Online"
+msgstr "Σε σύνδεση"
+
+#: extra-functions.php:871
+#, fuzzy
+#| msgid "Online"
+msgid "Offline"
+msgstr "Σε σύνδεση"
+
+#: extra-functions.php:872
+msgid "Status (Offline)"
+msgstr ""
+
+#: extra-functions.php:886
+msgid ""
+"You have set your status to offline. To view visitors and accept chats "
+"please set your status to online using the switch above."
+msgstr ""
+
+#: extra-functions.php:983
+msgid "Encryption"
+msgstr "Κωδικοποίηση"
+
+#: extra-functions.php:989 includes/settings_page.php:1370
+msgid "Business Hours"
+msgstr ""
+
+#: extra-functions.php:1327
+msgid "Initiate Chat"
+msgstr "Έναρξη Συνομιλίας"
+
+#: extra-functions.php:1437 includes/settings_page.php:180
+#: wp-live-chat-support.php:413 wp-live-chat-support.php:2941
+#: wp-live-chat-support.php:3988
+msgid "Guest"
+msgstr ""
+
+#: extra-functions.php:1442
+#, fuzzy
+#| msgid "Connecting you to a sales person. Please be patient."
+msgid "Attempting to open the chat window... Please be patient."
+msgstr "Σας συνδέουμε με έναν πωλητή . Παρακαλούμε να είστε υπομονετικοί."
+
+#: extra-functions.php:1467
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+
+#: extra-functions.php:1666 extra-functions.php:1682 extra-functions.php:1697
+#, fuzzy
+#| msgid "Chat Active"
+msgid "Chat Agent"
+msgstr "Συνομιλία Ενεργή"
+
+#: extra-functions.php:1671 extra-functions.php:1687
+msgid "Make this user a chat agent"
+msgstr ""
+
+#: extra-functions.php:1701
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr ""
+
+#: extra-functions.php:1702
+msgid "Please contact the administrator of this website to change this."
+msgstr ""
+
+#: extra-functions.php:1721
+#, fuzzy
+#| msgid "This chat has already been answered. Please close the chat window"
+msgid "This chat has already been answered by another agent."
+msgstr "Αυτή η συζήτηση έχει ήδη απαντηθεί. Κλείστε το παράθυρο συνομιλίας"
+
+#: extra-functions.php:1969 wp-live-chat-support.php:2322
+msgid "Agent(s) online"
+msgstr "Πράκτορες​ σε σύνδεση"
+
+#: extra-functions.php:2025
+#, fuzzy
+#| msgid "Agent(s) online"
+msgid "Chat Agent Online"
+msgstr "Πράκτορες​ σε σύνδεση"
+
+#: extra-functions.php:2027 extra-functions.php:2032
+#, fuzzy
+#| msgid "Agent(s) online"
+msgid "Chat Agents Online"
+msgstr "Πράκτορες​ σε σύνδεση"
+
+#: extra-functions.php:2179 includes/settings_page.php:1298
+#: wp-live-chat-support.php:2244
+msgid "Remove"
+msgstr ""
+
+#: extra-functions.php:2182 wp-live-chat-support.php:2247
+msgid "Typing..."
+msgstr ""
+
+#: extra-functions.php:2471 extra-functions.php:2479
+#, fuzzy
+#| msgid "Experiencing issues?"
+msgid "Experience Rating"
+msgstr "Αντιμετωπίζετε προβλήματα;"
+
+#: extra-functions.php:2559
+#, fuzzy
+#| msgid "Experiencing issues?"
+msgid "User Experience Ratings"
+msgstr "Αντιμετωπίζετε προβλήματα;"
+
+#: extra-functions.php:2566
+msgid "Agent Statistics"
+msgstr ""
+
+#: extra-functions.php:2612
+msgid "Satisfaction Rating"
+msgstr ""
+
+#: extra-functions.php:2613
+msgid "Rating Count"
+msgstr ""
+
+#: extra-functions.php:2613 extra-functions.php:2627
+msgid "Good"
+msgstr ""
+
+#: extra-functions.php:2613 extra-functions.php:2627
+msgid "Bad"
+msgstr ""
+
+#: extra-functions.php:2621
+msgid "No Ratings for this agent"
+msgstr ""
+
+#: extra-functions.php:2630
+msgid "View"
+msgstr ""
+
+#: extra-functions.php:2676
+#, fuzzy
+#| msgid "WP Live Chat Support Settings"
+msgid "WP Live Chat Support Reporting"
+msgstr "Ρυθμίσεις WP Live Chat Support"
+
+#: extra-functions.php:2679 includes/wplc_roi.php:130
+msgid "Overview"
+msgstr ""
+
+#: extra-functions.php:2680
+msgid "Popular Pages"
+msgstr ""
+
+#: extra-functions.php:2698
+#, fuzzy
+#| msgid "Agents"
+msgid "Total Agents"
+msgstr "Πράκτορες"
+
+#: extra-functions.php:2698
+msgid "Total number of agents that used the live chat"
+msgstr ""
+
+#: extra-functions.php:2699
+#, fuzzy
+#| msgid "Start Chat"
+msgid "Total Chats"
+msgstr "Έναρξη Συνομιλίας"
+
+#: extra-functions.php:2699
+#, fuzzy
+#| msgid "New chat received"
+msgid "Total number of chats received"
+msgstr "Λήφθηκε νέα συνομιλία"
+
+#: extra-functions.php:2700
+msgid "Total URLs"
+msgstr ""
+
+#: extra-functions.php:2700
+msgid "Total number of URLs a chat was initiated on"
+msgstr ""
+
+#: extra-functions.php:2701
+msgid "Chats per day"
+msgstr ""
+
+#: extra-functions.php:2702
+msgid "Popular pages a chat was initiated on"
+msgstr ""
+
+#: extra-functions.php:2732 includes/wplc_custom_fields.php:296
+msgid "Unknown"
+msgstr ""
+
+#: extra-functions.php:2778 functions.php:1703 wp-live-chat-support.php:3649
+msgid "URL"
+msgstr "URL"
+
+#: extra-functions.php:2779
+msgid "Count"
+msgstr ""
+
+#: extra-functions.php:2805
+msgid "Disable initiate chat feature:"
+msgstr ""
+
+#: extra-functions.php:2805
+msgid ""
+"This will substantially improve performance. If you are experiencing "
+"performance issues on your site, you should disable the initiate chat "
+"feature and only enable it when you need it."
+msgstr ""
+
+#: extra-functions.php:2909
+#, fuzzy
+#| msgid "Thank you for your feedback. We will be in touch soon"
+msgid "Thank you for inquiry. We will get back to you shortly"
+msgstr "Ευχαριστούμε για τα σχόλια σας. Θα είμαστε σε επαφή σύντομα"
+
+#: extra-functions.php:3207
+#, php-format
+msgid ""
+"The Live Chat box is currently disabled on your website due to : <a href=\"%s"
+"\">Business Hours Settings</a>"
+msgstr ""
+
+#: extra-functions.php:3263
+msgid "Edit Profile"
+msgstr ""
+
+#: extra-functions.php:3274 modules/node_server.php:916
+msgid "Drag Files Here"
+msgstr ""
+
+#: extra-functions.php:3300 extra-functions.php:3346
+#: includes/wplc_custom_fields.php:114 includes/wplc_data_triggers.php:453
+#: includes/wplc_data_triggers.php:584 includes/wplc_departments.php:180
+#: includes/wplc_departments.php:457 includes/wplc_roi.php:141
+#: includes/wplc_roi.php:545 modules/webhooks_manager.php:239
+#, fuzzy
+#| msgid "deleted"
+msgid "Delete"
+msgstr "διαγραμμένο "
+
+#: extra-functions.php:3301
+#, fuzzy
+#| msgid "Send"
+msgid "Send..."
+msgstr "Αποστολή"
+
+#: extra-functions.php:3302 extra-functions.php:3348
+msgid "Play voice note"
+msgstr ""
+
+#: extra-functions.php:3347
+msgid "Save..."
+msgstr ""
+
+#: functions.php:410 functions.php:424
+msgid "Accept Chat"
+msgstr "Αποδοχή Συνομιλίας"
+
+#: functions.php:416 functions.php:429
+msgid "Open Chat"
+msgstr "Άνοιγμα Συνομιλίας"
+
+#: functions.php:418
+msgid "In progress with another agent"
+msgstr ""
+
+#: functions.php:432
+msgid "Only chat agents can accept chats"
+msgstr ""
+
+#: functions.php:483 modules/api/wplc-api-functions.php:579
+#: wp-live-chat-support.php:2613
+msgid "IP Address not recorded"
+msgstr "Η διεύθυνση IP δεν καταγράφηκε"
+
+#: functions.php:485 wp-live-chat-support.php:2615
+msgid "Whois for"
+msgstr "Για ποιόν είναι"
+
+#: functions.php:508 modules/api/wplc-api-functions.php:595
+msgid "New"
+msgstr "Νέο"
+
+#: functions.php:510 modules/api/wplc-api-functions.php:597
+msgid "Returning"
+msgstr "Επιστροφή"
+
+#: functions.php:631
+msgid "No agent was able to answer your chat request. Please try again."
+msgstr ""
+
+#: functions.php:645
+#, fuzzy
+#| msgid "requesting chat"
+msgid "Request new chat"
+msgstr "ζητείται συνομιλία"
+
+#: functions.php:1113
+msgid "complete"
+msgstr "ολοκληρώθηκε"
+
+#: functions.php:1116
+msgid "pending"
+msgstr "εκκρεμεί"
+
+#: functions.php:1119
+msgid "active"
+msgstr "ενεργό"
+
+#: functions.php:1122
+msgid "deleted"
+msgstr "διαγραμμένο "
+
+#: functions.php:1125
+msgid "browsing"
+msgstr "πλοήγηση"
+
+#: functions.php:1128
+msgid "requesting chat"
+msgstr "ζητείται συνομιλία"
+
+#: functions.php:1131
+msgid "Chat Ended - User still browsing"
+msgstr "Η συνομιλία τερματίστηκε - Ο χρήστης ακόμα περιηγείται"
+
+#: functions.php:1134
+msgid "User is browsing but doesn't want to chat"
+msgstr "Ο χρήστης περιηγείται, αλλά δεν θέλει να συνομιλήσει"
+
+#: functions.php:1364 includes/settings_page.php:853
+#, fuzzy
+#| msgid "WP Live Chat Offline Messages"
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "Μηνύματα εκτός σύνδεσης WP Live Chat"
+
+#: functions.php:1365 functions.php:1701 includes/settings_page.php:167
+#: includes/wplc_custom_fields.php:72 includes/wplc_data_triggers.php:440
+#: includes/wplc_departments.php:171 includes/wplc_roi.php:129
+#: wp-live-chat-support.php:1407 wp-live-chat-support.php:1422
+#: wp-live-chat-support.php:1611 wp-live-chat-support.php:3647
+#: wp-live-chat-support.php:3773
+msgid "Name"
+msgstr "Όνομα"
+
+#: functions.php:1366 functions.php:1702 includes/settings_page.php:163
+#: wp-live-chat-support.php:1408 wp-live-chat-support.php:1416
+#: wp-live-chat-support.php:1612 wp-live-chat-support.php:3648
+#: wp-live-chat-support.php:3774
+msgid "Email"
+msgstr "Ηλεκτρονικό Ταχυδρομείο"
+
+#: functions.php:1367 wp-live-chat-support.php:1613
+#: wp-live-chat-support.php:3775 wp-live-chat-support.php:4534
+#: wp-live-chat-support.php:4592
+#, fuzzy
+#| msgid "Offline Messages"
+msgid "Message"
+msgstr "Μηνύματα Εκτός Σύνδεσης"
+
+#: functions.php:1368
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "Via WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: functions.php:1408 wp-live-chat-support.php:373
+#: wp-live-chat-support.php:2983 wp-live-chat-support.php:4711
+msgid ""
+"Please standby for an agent. While you wait for the agent you may type your "
+"message."
+msgstr ""
+
+#: functions.php:1678 wp-live-chat-support.php:3605
+msgid "Error: Could not delete chat"
+msgstr ""
+
+#: functions.php:1682 wp-live-chat-support.php:3609
+#, fuzzy
+#| msgid "Chat enabled"
+msgid "Chat Deleted"
+msgstr "Συνομιλία ενεργοποιημένη"
+
+#: functions.php:1689 wp-live-chat-support.php:3616
+msgid "Are you sure you would like to delete this chat?"
+msgstr ""
+
+#: functions.php:1690 includes/settings_page.php:145
+#: includes/wplc_custom_fields.php:255 wp-live-chat-support.php:3617
+msgid "Yes"
+msgstr "Ναι"
+
+#: functions.php:1690 includes/settings_page.php:146
+#: includes/wplc_custom_fields.php:255 wp-live-chat-support.php:3617
+msgid "No"
+msgstr "Οχι"
+
+#: functions.php:1704 includes/wplc_custom_fields.php:76
+#: includes/wplc_data_triggers.php:445 includes/wplc_departments.php:172
+#: includes/wplc_roi.php:133 modules/webhooks_manager.php:227
+#: wp-live-chat-support.php:2400 wp-live-chat-support.php:3651
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: functions.php:1720
+msgid "You have not missed any chat requests."
+msgstr "Δεν έχετε χάσει κανένα αίτημα συνομιλίας."
+
+#: functions.php:1728 wp-live-chat-support.php:3670
+#, fuzzy
+#| msgid "WP Live Chat History"
+msgid "View Chat History"
+msgstr "Ιστορίκο WP Live Chat"
+
+#: functions.php:1728 wp-live-chat-support.php:3670
+#, fuzzy
+#| msgid "WP Live Chat History"
+msgid "Download Chat History"
+msgstr "Ιστορίκο WP Live Chat"
+
+#: functions.php:1748 wp-live-chat-support.php:3689
+#: wp-live-chat-support.php:3812
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:1749 wp-live-chat-support.php:3690
+#: wp-live-chat-support.php:3813
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:1930
+#, fuzzy
+#| msgid "Open Chat Window"
+msgid "Open chat window via"
+msgstr "Άνοιγμα Παραθύρου Συνομιλίας"
+
+#: functions.php:1934
+msgid "Click"
+msgstr ""
+
+#: functions.php:1935
+msgid "Hover"
+msgstr ""
+
+#: functions.php:1937
+msgid "element with"
+msgstr ""
+
+#: functions.php:1939
+msgid "Class"
+msgstr ""
+
+#: functions.php:1940 includes/wplc_custom_fields.php:71
+#: includes/wplc_data_triggers.php:439 includes/wplc_departments.php:170
+#: includes/wplc_roi.php:128
+msgid "ID"
+msgstr ""
+
+#: includes/credits.php:2
+msgid ""
+"WP Live Chat Support is supported by an international team of developers."
+msgstr ""
+
+#: includes/credits.php:3
+msgid "Project Leaders"
+msgstr ""
+
+#: includes/credits.php:9
+msgid "Founder"
+msgstr ""
+
+#: includes/credits.php:9 includes/credits.php:14 includes/credits.php:26
+#: includes/credits.php:32 includes/credits.php:38 includes/credits.php:57
+#: includes/credits.php:63
+msgid "Developer"
+msgstr ""
+
+#: includes/credits.php:9 includes/credits.php:14 includes/credits.php:26
+#: includes/credits.php:32 includes/credits.php:38 includes/credits.php:45
+#: includes/credits.php:57 includes/credits.php:63 wp-live-chat-support.php:659
+#: wp-live-chat-support.php:4234
+msgid "Support"
+msgstr "Yποστήριξη"
+
+#: includes/credits.php:14
+msgid "Project Manager"
+msgstr ""
+
+#: includes/credits.php:17
+msgid "Contributors"
+msgstr ""
+
+#: includes/credits.php:26 includes/credits.php:32 includes/credits.php:38
+#: includes/credits.php:75
+#, fuzzy
+#| msgid "Settings"
+msgid "Testing"
+msgstr "Ρυθμίσεις"
+
+#: includes/credits.php:51
+#, fuzzy
+#| msgid "Main Settings"
+msgid "Marketing"
+msgstr "Κύριες Ρυθμίσεις"
+
+#: includes/credits.php:69
+msgid "Marketing &amp; Support"
+msgstr ""
+
+#: includes/credits.php:75 wp-live-chat-support.php:4238
+msgid "Documentation"
+msgstr "Εγχειρίδιο"
+
+#: includes/credits.php:81
+msgid "InfoSec"
+msgstr ""
+
+#: includes/credits.php:86
+msgid "CSS"
+msgstr ""
+
+#: includes/credits.php:89
+msgid "Want to see your name on this page?"
+msgstr ""
+
+#: includes/credits.php:89
+msgid "Get involved on GitHub."
+msgstr ""
+
+#: includes/credits.php:91 includes/welcome_page.php:101
+msgid "OK! Let's start"
+msgstr ""
+
+#: includes/dashboard_page.php:20
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "WP Live Chat Support Dashboard"
+msgstr "WP Live Chat Support"
+
+#: includes/dashboard_page.php:27
+#, fuzzy, php-format
+#| msgid "Welcome to "
+msgid "Welcome, %s"
+msgstr "Καλώς ήρθατε στο"
+
+#: includes/dashboard_page.php:46 wp-live-chat-support.php:3776
+#, fuzzy
+#| msgid "Action"
+msgid "Actions"
+msgstr "Ενέργεια"
+
+#: includes/dashboard_page.php:47
+#, fuzzy
+#| msgid "Chat with us"
+msgid "Chat with Visitors"
+msgstr "Συνομιλήστε μαζί μας"
+
+#: includes/dashboard_page.php:48 wp-live-chat-support.php:642
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/dashboard_page.php:52
+#, fuzzy
+#| msgid "Blocked Visitors"
+msgid "Active Visitors"
+msgstr "Μπλοκαρισμένοι Επισκέπτες"
+
+#: includes/dashboard_page.php:54
+#, fuzzy
+#| msgid "Chat Box"
+msgid "Chat now"
+msgstr "Πλαίσιο Συνομιλίας"
+
+#: includes/dashboard_page.php:58
+#, fuzzy
+#| msgid "Congratulations"
+msgid "Conversations"
+msgstr "Συγχαρητήρια"
+
+#: includes/dashboard_page.php:58
+msgid "Last 90 days"
+msgstr ""
+
+#: includes/documentation_suggestions.php:135
+#: includes/notification_control.php:33 includes/notification_control.php:72
+#: includes/notification_control.php:135 includes/wplc_transfer_chats.php:469
+#: includes/wplc_transfer_chats.php:490 includes/wplc_transfer_chats.php:549
+#: includes/wplc_transfer_chats.php:581
+#: modules/documentation_suggestions.php:395
+#: modules/documentation_suggestions.php:417
+#, fuzzy
+#| msgid "Chat notifications"
+msgid "System notification"
+msgstr "Ειδοποιήσεις συνομιλιών"
+
+#: includes/modal_control.php:24 modules/node_server.php:909
+msgid "Please Confirm"
+msgstr ""
+
+#: includes/modal_control.php:28
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/modal_control.php:36 includes/wplc_data_triggers.php:585
+#: includes/wplc_departments.php:246 includes/wplc_departments.php:458
+#: includes/wplc_roi.php:546 modules/node_server.php:911
+#: modules/webhooks_manager.php:315
+msgid "Cancel"
+msgstr ""
+
+#: includes/modal_control.php:37 modules/node_server.php:910
+#: modules/webhooks_manager.php:314
+msgid "Confirm"
+msgstr ""
+
+#: includes/notification_control.php:26
+#, php-format
+msgid "User is browsing <small><a href='%s' target='_BLANK'>%s</a></small>"
+msgstr ""
+
+#: includes/notification_control.php:130
+#, fuzzy
+#| msgid "User has opened the chat window"
+msgid "has joined the chat."
+msgstr "Ο χρήστης έχει ανοίξει το παράθυρο συνομιλίας"
+
+#: includes/settings_page.php:64
+msgid "WP Live Chat Support Settings"
+msgstr "Ρυθμίσεις WP Live Chat Support"
+
+#: includes/settings_page.php:101 includes/settings_page.php:139
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: includes/settings_page.php:106
+msgid "Chat Box"
+msgstr "Πλαίσιο Συνομιλίας"
+
+#: includes/settings_page.php:111 includes/settings_page.php:781
+#: modules/advanced_tools.php:75 wp-live-chat-support.php:654
+msgid "Offline Messages"
+msgstr "Μηνύματα Εκτός Σύνδεσης"
+
+#: includes/settings_page.php:116 includes/settings_page.php:1012
+msgid "Styling"
+msgstr "Στυλ"
+
+#: includes/settings_page.php:121 modules/node_server.php:915
+msgid "Agents"
+msgstr "Πράκτορες"
+
+#: includes/settings_page.php:126
+msgid "Blocked Visitors"
+msgstr "Μπλοκαρισμένοι Επισκέπτες"
+
+#: includes/settings_page.php:142
+msgid "Chat enabled"
+msgstr "Συνομιλία ενεργοποιημένη"
+
+#: includes/settings_page.php:154
+msgid "Required Chat Box Fields"
+msgstr ""
+
+#: includes/settings_page.php:154
+msgid "Set default fields that will be displayed when users starting a chat"
+msgstr ""
+
+#: includes/settings_page.php:159
+#, fuzzy
+#| msgid "Require Name And Email"
+msgid "Name and email"
+msgstr "Απαίτηση Ονόματος και Διεύθυνσης Ηλεκτρονικού Ταχυδρομείου"
+
+#: includes/settings_page.php:171
+msgid "No fields"
+msgstr ""
+
+#: includes/settings_page.php:177
+msgid "Default visitor name"
+msgstr ""
+
+#: includes/settings_page.php:177
+msgid "This name will be displayed for all not logged in visitors"
+msgstr ""
+
+#: includes/settings_page.php:185
+msgid "Input Field Replacement Text"
+msgstr "Κείμενο αντικατάστασης πεδίου εισαγωγής"
+
+#: includes/settings_page.php:185
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr ""
+"Αυτό είναι το κείμενο που θα προβάλλεται στην θέση των πεδίων Ονόματος και "
+"Διεύθυνσης Ηλεκτρονικού Ταχυδρομείου"
+
+#: includes/settings_page.php:193
+msgid "Use Logged In User Details"
+msgstr "Χρήση των στοιχείων ενός συνδεδεμένου χρήστη"
+
+#: includes/settings_page.php:193
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"Το όνομα και η διεύθυνση ηλεκτρονικού ταχυδρομείου θα χρησιμοποιηθούν από "
+"προεπιλογή αν είναι συνδεδεμένοι."
+
+#: includes/settings_page.php:201
+msgid "Enable On Mobile Devices"
+msgstr "Ενεργοποίηση Σε Κινητές Συσκευές"
+
+#: includes/settings_page.php:201
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"Η απενεργοποίηση αυτού σημαίνει ότι το παράθυρο συνομιλίας δεν θα "
+"εμφανίζεται σε κινητές συσκευές. (Smartphones και Tablets)"
+
+#: includes/settings_page.php:211
+#, fuzzy
+#| msgid "Play a sound when a new message is received"
+msgid "Play a sound when there is a new visitor"
+msgstr "Παίξτε έναν ήχο όταν ληφθεί ένα νέο μήνυμα"
+
+#: includes/settings_page.php:211
+#, fuzzy
+#| msgid ""
+#| "Disable this to mute the sound that is played when a new chat message is "
+#| "received"
+msgid ""
+"Disable this to mute the sound that is played when a new visitor arrives"
+msgstr ""
+"Απενεργοποιήστε αυτό για να κάνετε σίγαση τον ήχο που παίζει όταν λαμβάνεται "
+"ένα νέο μήνυμα"
+
+#: includes/settings_page.php:220
+msgid "Play a sound when a new message is received"
+msgstr "Παίξτε έναν ήχο όταν ληφθεί ένα νέο μήνυμα"
+
+#: includes/settings_page.php:220
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr ""
+"Απενεργοποιήστε αυτό για να κάνετε σίγαση τον ήχο που παίζει όταν λαμβάνεται "
+"ένα νέο μήνυμα"
+
+#: includes/settings_page.php:229
+msgid "Enable Font Awesome set"
+msgstr ""
+
+#: includes/settings_page.php:229
+msgid "Disable this if you have Font Awesome set included with your theme"
+msgstr ""
+
+#: includes/settings_page.php:237
+msgid "Enable chat dashboard and notifications on all admin pages"
+msgstr ""
+
+#: includes/settings_page.php:237
+msgid "This will load the chat dashboard on every admin page."
+msgstr ""
+
+#: includes/settings_page.php:248
+msgid "Choose when I want to be online"
+msgstr "Επιλέξτε πότε θέλετε να είστε σε σύνδεση"
+
+#: includes/settings_page.php:248
+msgid ""
+"Checking this will allow you to change your status to Online or Offline on "
+"the Live Chat page."
+msgstr ""
+"Επιλέγοντας αυτό θα σας επιτραπεί να αλλάζετε την κατάσταση σε Σύνδεση ή "
+"Εκτός Σύνδεσης στην σελίδα ζωντανής συνομιλίας"
+
+#: includes/settings_page.php:260
+#, fuzzy
+#| msgid "Exclude chat window on the following pages"
+msgid "Exclude chat from 'Home' page:"
+msgstr "Αποκλείστε το παράθυρο συνομιλιών στις ακόλουθες σελίδες"
+
+#: includes/settings_page.php:260
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your home "
+"page."
+msgstr ""
+
+#: includes/settings_page.php:268
+#, fuzzy
+#| msgid "Exclude chat window on the following pages"
+msgid "Exclude chat from 'Archive' pages:"
+msgstr "Αποκλείστε το παράθυρο συνομιλιών στις ακόλουθες σελίδες"
+
+#: includes/settings_page.php:268
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your archive "
+"pages."
+msgstr ""
+
+#: includes/settings_page.php:276
+#, fuzzy
+#| msgid "Include chat window on the following pages"
+msgid "Include chat window on the following pages:"
+msgstr "Συμπεριλάβετε το παράθυρο συνομιλιών στις ακόλουθες σελίδες"
+
+#: includes/settings_page.php:276
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+"Εμφανίστε το παράθυρο συνομιλιών στις ακόλουθες σελίδες. Αφήστε το κενό για "
+"να εμφανιστεί σε όλες. (Χρησιμοποιήστε το κόμμα για να διαχωρίσετε τα ID των "
+"σελίδων)"
+
+#: includes/settings_page.php:284
+#, fuzzy
+#| msgid "Exclude chat window on the following pages"
+msgid "Exclude chat window on the following pages:"
+msgstr "Αποκλείστε το παράθυρο συνομιλιών στις ακόλουθες σελίδες"
+
+#: includes/settings_page.php:284
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"Να μην εμφανίζεται το παράθυρο συνομιλιών στις ακόλουθες σελίδες. Αφήστε το "
+"κενό για να εμφανίζεται παντού. (Χρησιμοποιήστε το κόμμα για να διαχωρίσετε "
+"τα ID των σελίδων)"
+
+#: includes/settings_page.php:292
+#, fuzzy
+#| msgid "Exclude chat window on the following pages"
+msgid "Exclude chat window on selected post types"
+msgstr "Αποκλείστε το παράθυρο συνομιλιών στις ακόλουθες σελίδες"
+
+#: includes/settings_page.php:292
+#, fuzzy
+#| msgid "Include chat window on the following pages"
+msgid "Do not show the chat window on the following post types pages."
+msgstr "Συμπεριλάβετε το παράθυρο συνομιλιών στις ακόλουθες σελίδες"
+
+#: includes/settings_page.php:312
+msgid "No post types found."
+msgstr ""
+
+#: includes/settings_page.php:318
+msgid "Allow any user to make themselves a chat agent"
+msgstr ""
+
+#: includes/settings_page.php:318
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+
+#: includes/settings_page.php:333
+msgid "Order by"
+msgstr ""
+
+#: includes/settings_page.php:339
+msgid "Number"
+msgstr ""
+
+#: includes/settings_page.php:349
+#, fuzzy
+#| msgid "pending"
+msgid "Descending"
+msgstr "εκκρεμεί"
+
+#: includes/settings_page.php:350
+#, fuzzy
+#| msgid "pending"
+msgid "Ascending"
+msgstr "εκκρεμεί"
+
+#: includes/settings_page.php:361
+msgid "Enable Voice Notes on admin side"
+msgstr ""
+
+#: includes/settings_page.php:363
+msgid ""
+"Enabling this will allow you to record the voice during the chat and send it "
+"to visitor once you hold on CTRL + SPACEBAR in main chat window"
+msgstr ""
+
+#: includes/settings_page.php:374
+msgid "Enable Voice Notes on visitor side"
+msgstr ""
+
+#: includes/settings_page.php:376
+msgid ""
+"Enabling this will allow the visitors to record the voice during the chat "
+"and send it to agent once they hold on CTRL + SPACEBAR"
+msgstr ""
+
+#: includes/settings_page.php:392
+msgid "Chat Window Settings"
+msgstr "Ρυθμίσεις Παράθυρου Συνομιλιών"
+
+#: includes/settings_page.php:395
+msgid "Chat box alignment"
+msgstr "Ευθυγράμμιση πλαισίου συνομιλιών"
+
+#: includes/settings_page.php:398
+msgid "Bottom left"
+msgstr "Κάτω αριστερά"
+
+#: includes/settings_page.php:399
+msgid "Bottom right"
+msgstr "Κάτω δεξιά"
+
+#: includes/settings_page.php:400
+msgid "Left"
+msgstr "Αριστερά"
+
+#: includes/settings_page.php:401
+msgid "Right"
+msgstr "Δεξιά"
+
+#: includes/settings_page.php:407
+msgid "Auto Pop-up"
+msgstr "Αυτόματη Ανάδυση"
+
+#: includes/settings_page.php:407
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"Επεκτείνετε το πλαίσιο συνομιλίας αυτόματα (προτρέπει τον χρήστη να εισάγει "
+"το όνομα και την διεύθυνση ηλεκτρονικού ταχυδρομείου του)"
+
+#: includes/settings_page.php:416
+#, fuzzy
+#| msgid "Display name and avatar in chat"
+msgid "Display details in chat message"
+msgstr "Εμφάνιση του ονόματος και του άβαταρ στην συνομιλία"
+
+#: includes/settings_page.php:420
+#, fuzzy
+#| msgid "Your Name"
+msgid "Show Name"
+msgstr "Το όνομά σας"
+
+#: includes/settings_page.php:422
+msgid "Show Avatar"
+msgstr ""
+
+#: includes/settings_page.php:427
+msgid "Only show the chat window to users that are logged in"
+msgstr "Δείξε το παράθυρο συνομιλίας μόνο στους συνδεδεμένους χρήστες"
+
+#: includes/settings_page.php:427
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr ""
+"Επιλέγοντας αυτό, μόνο οι συνδεδεμένοι χρήστες θα μπορούν να συνομιλούν με "
+"εσάς."
+
+#: includes/settings_page.php:439
+#, fuzzy
+#| msgid "User has maximized the chat window"
+msgid "Display a timestamp in the chat window"
+msgstr "Ο χρήστης έχει μεγιστοποιήσει το παράθυρο συνομιλίας"
+
+#: includes/settings_page.php:443
+#, fuzzy
+#| msgid "Date"
+msgid "Show Date"
+msgstr "Ημερομηνία"
+
+#: includes/settings_page.php:445
+#, fuzzy
+#| msgid "Time"
+msgid "Show Time"
+msgstr "Χρόνος"
+
+#: includes/settings_page.php:450
+msgid "Redirect user to thank you page when chat is ended"
+msgstr ""
+
+#: includes/settings_page.php:450
+msgid ""
+"By checking this, users will be redirected to your thank you page when a "
+"chat is completed."
+msgstr ""
+
+#: includes/settings_page.php:454
+msgid "Thank You Page URL"
+msgstr ""
+
+#: includes/settings_page.php:464
+msgid "Disable Emojis"
+msgstr ""
+
+#: includes/settings_page.php:486
+msgid "Display typing indicator"
+msgstr ""
+
+#: includes/settings_page.php:486
+msgid ""
+"Display the \"typing...\" animation in the chat window as soon as an agent "
+"or visitor is typing."
+msgstr ""
+
+#: includes/settings_page.php:492
+msgid ""
+"For non-cloud server users, please note that this will increase the amount "
+"of server resources required."
+msgstr ""
+
+#: includes/settings_page.php:501
+#, fuzzy
+#| msgid "Name"
+msgid "Name "
+msgstr "Όνομα"
+
+#: includes/settings_page.php:509
+msgid "Use WordPress name instead"
+msgstr ""
+
+#: includes/settings_page.php:512
+msgid "Note: 'Name' field will be ignored"
+msgstr ""
+
+#: includes/settings_page.php:530
+#, fuzzy
+#| msgid "Incoming Chat"
+msgid "Incoming chat ring tone"
+msgstr "Εισερχόμενη Συνομιλία"
+
+#: includes/settings_page.php:535 includes/settings_page.php:596
+msgid "Default"
+msgstr ""
+
+#: includes/settings_page.php:591
+#, fuzzy
+#| msgid "Incoming Chat"
+msgid "Incoming message tone"
+msgstr "Εισερχόμενη Συνομιλία"
+
+#: includes/settings_page.php:636
+msgid "Icon"
+msgstr ""
+
+#: includes/settings_page.php:644
+#, fuzzy
+#| msgid "Upload Image"
+msgid "Upload Icon"
+msgstr "Ανεβάστε Εικόνα"
+
+#: includes/settings_page.php:645 includes/settings_page.php:651
+msgid "Select Default Icon"
+msgstr ""
+
+#: includes/settings_page.php:647
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/settings_page.php:648
+msgid "Recomended Size 50px x 50px"
+msgstr ""
+
+#: includes/settings_page.php:687
+msgid "Picture"
+msgstr "Εικόνα"
+
+#: includes/settings_page.php:695
+msgid "Upload Image"
+msgstr "Ανεβάστε Εικόνα"
+
+#: includes/settings_page.php:697
+msgid "Remove Image"
+msgstr ""
+
+#: includes/settings_page.php:698
+msgid "Recomended Size 60px x 60px"
+msgstr ""
+
+#: includes/settings_page.php:705
+msgid "Logo"
+msgstr "Λογότυπο"
+
+#: includes/settings_page.php:713
+#, fuzzy
+#| msgid "Upload Image"
+msgid "Upload Logo"
+msgstr "Ανεβάστε Εικόνα"
+
+#: includes/settings_page.php:715
+msgid "Remove Logo"
+msgstr ""
+
+#: includes/settings_page.php:716
+msgid "Recomended Size 250px x 40px"
+msgstr ""
+
+#: includes/settings_page.php:722
+msgid "Chat delay (seconds)"
+msgstr "Καθυστέρηση συνομιλιών (δευτερόλεπτα)"
+
+#: includes/settings_page.php:722
+msgid "How long it takes for your chat window to pop up"
+msgstr ""
+
+#: includes/settings_page.php:731
+msgid "Chat notifications"
+msgstr "Ειδοποιήσεις συνομιλιών"
+
+#: includes/settings_page.php:731
+#, fuzzy
+#| msgid "Alert me via email as soon as someone wants to chat"
+msgid "Alert me via email as soon as someone wants to chat (while online only)"
+msgstr ""
+"Ειδοποιήστε με μέσω ηλεκτρονικού ταχυδρομείου όταν κάποιος θέλει να "
+"συνομιλήσει"
+
+#: includes/settings_page.php:740
+msgid "User Experience"
+msgstr ""
+
+#: includes/settings_page.php:745
+msgid "Enable Text Editor"
+msgstr ""
+
+#: includes/settings_page.php:745
+msgid ""
+"Adds advanced text editor features, such as links, text styling, and more!"
+msgstr ""
+
+#: includes/settings_page.php:749
+msgid "Enable File Sharing"
+msgstr ""
+
+#: includes/settings_page.php:749
+msgid "Adds file sharing to your chat box!"
+msgstr ""
+
+#: includes/settings_page.php:753
+#, fuzzy
+#| msgid "Enable Encryption"
+msgid "Enable Experience Ratings"
+msgstr "Ενεργοποίηση Κωδικοποίησης"
+
+#: includes/settings_page.php:753
+msgid "Allows users to rate the chat experience with an agent."
+msgstr ""
+
+#: includes/settings_page.php:759 includes/settings_page.php:1127
+msgid "Social"
+msgstr ""
+
+#: includes/settings_page.php:765 includes/wplc_agent_data.php:50
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/settings_page.php:765
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr ""
+
+#: includes/settings_page.php:766
+msgid "Facebook URL..."
+msgstr ""
+
+#: includes/settings_page.php:769 includes/wplc_agent_data.php:42
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/settings_page.php:769
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr ""
+
+#: includes/settings_page.php:770
+msgid "Twitter URL..."
+msgstr ""
+
+#: includes/settings_page.php:785
+msgid "Do not allow users to send offline messages"
+msgstr "Να μην επιτρέπεται στους χρήστες να στέλνουν μηνύματα εκτός σύνδεσης​"
+
+#: includes/settings_page.php:785
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"Το παράθυρο συνομιλίας θα είναι κρυμμένο όταν είναι εκτός σύνδεσης. Οι "
+"χρήστες δεν θα μπορούν να στείλουν μηνύματα εκτός σύνδεσης σε εσάς"
+
+#: includes/settings_page.php:796
+#, fuzzy
+#| msgid "Offline text"
+msgid "Offline Chat Box Title"
+msgstr "Κείμενο έκτος σύνδεσης"
+
+#: includes/settings_page.php:804
+#, fuzzy
+#| msgid "Offline text"
+msgid "Offline Text Fields"
+msgstr "Κείμενο έκτος σύνδεσης"
+
+#: includes/settings_page.php:814
+#, fuzzy
+#| msgid "Offline text"
+msgid "Offline Button Text"
+msgstr "Κείμενο έκτος σύνδεσης"
+
+#: includes/settings_page.php:820
+#, fuzzy
+#| msgid "Offline text"
+msgid "Offline Send Button Text"
+msgstr "Κείμενο έκτος σύνδεσης"
+
+#: includes/settings_page.php:826
+msgid "Custom fields"
+msgstr ""
+
+#: includes/settings_page.php:834
+#, fuzzy
+#| msgid "Main Settings"
+msgid "Email settings"
+msgstr "Κύριες Ρυθμίσεις"
+
+#: includes/settings_page.php:840
+msgid "Email Address"
+msgstr "Διεύθυνση Ηλεκτρονικού Ταχυδρομείου"
+
+#: includes/settings_page.php:840
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+
+#: includes/settings_page.php:850
+msgid "Subject"
+msgstr ""
+
+#: includes/settings_page.php:850
+msgid "User name will be appended to the end of the subject."
+msgstr ""
+
+#: includes/settings_page.php:861
+msgid "Sending Method"
+msgstr ""
+
+#: includes/settings_page.php:862
+msgid "WP Mail"
+msgstr ""
+
+#: includes/settings_page.php:863
+msgid "PHP Mailer"
+msgstr ""
+
+#: includes/settings_page.php:879
+msgid "Host"
+msgstr ""
+
+#: includes/settings_page.php:887
+msgid "Port"
+msgstr ""
+
+#: includes/settings_page.php:895
+msgid "Username"
+msgstr ""
+
+#: includes/settings_page.php:903
+msgid "Password"
+msgstr ""
+
+#: includes/settings_page.php:913
+msgid "Enable an Auto Responder"
+msgstr ""
+
+#: includes/settings_page.php:913
+msgid "Send your visitors an email as soon as they send you an offline message"
+msgstr ""
+
+#: includes/settings_page.php:919
+msgid "Auto Responder 'From' Name"
+msgstr ""
+
+#: includes/settings_page.php:925
+msgid "Auto Responder 'From' Email Address"
+msgstr ""
+
+#: includes/settings_page.php:931
+msgid "Auto Responder Subject Line"
+msgstr ""
+
+#: includes/settings_page.php:937
+msgid "Auto Responder Body"
+msgstr ""
+
+#: includes/settings_page.php:940
+msgid "HTML and the following shortcodes can be used"
+msgstr ""
+
+#: includes/settings_page.php:940
+msgid "User's name"
+msgstr ""
+
+#: includes/settings_page.php:940
+#, fuzzy
+#| msgid "Email Address"
+msgid "User's email address"
+msgstr "Διεύθυνση Ηλεκτρονικού Ταχυδρομείου"
+
+#: includes/settings_page.php:1017
+msgid "Choose a theme"
+msgstr ""
+
+#: includes/settings_page.php:1022 includes/settings_page.php:1023
+msgid "Classic"
+msgstr ""
+
+#: includes/settings_page.php:1026 includes/settings_page.php:1027
+msgid "Modern"
+msgstr ""
+
+#: includes/settings_page.php:1043
+#, fuzzy
+#| msgid "Colour Scheme 6"
+msgid "Color Scheme"
+msgstr "Παλέτα Χρωμάτων 6"
+
+#: includes/settings_page.php:1098
+msgid "Choose"
+msgstr ""
+
+#: includes/settings_page.php:1099
+#, fuzzy
+#| msgid "Your Name"
+msgid "Your"
+msgstr "Το όνομά σας"
+
+#: includes/settings_page.php:1100
+msgid "Colors"
+msgstr ""
+
+#: includes/settings_page.php:1101
+msgid "Below"
+msgstr ""
+
+#: includes/settings_page.php:1120
+#, fuzzy
+#| msgid "Chat Dashboard"
+msgid "Chat background"
+msgstr "Πίνακας ελέγχου συνομιλιών"
+
+#: includes/settings_page.php:1124
+msgid "Cloudy"
+msgstr ""
+
+#: includes/settings_page.php:1125
+msgid "Geometry"
+msgstr ""
+
+#: includes/settings_page.php:1126
+msgid "Tech"
+msgstr ""
+
+#: includes/settings_page.php:1128 includes/wplc_roi.php:147
+#: modules/node_server.php:970
+msgid "None"
+msgstr ""
+
+#: includes/settings_page.php:1133
+msgid "Palette Color 1"
+msgstr ""
+
+#: includes/settings_page.php:1139
+msgid "Palette Color 2"
+msgstr ""
+
+#: includes/settings_page.php:1145
+msgid "Palette Color 3"
+msgstr ""
+
+#: includes/settings_page.php:1151
+msgid "Palette Color 4"
+msgstr ""
+
+#: includes/settings_page.php:1158
+msgid "I'm using a localization plugin"
+msgstr ""
+
+#: includes/settings_page.php:1161
+#, php-format
+msgid ""
+"Enable this if you are using a localization plugin. Should you wish to "
+"change the below strings with this option enabled, please visit the "
+"documentation %s"
+msgstr ""
+
+#: includes/settings_page.php:1161 modules/node_server.php:577
+msgid "here"
+msgstr ""
+
+#: includes/settings_page.php:1167
+#, fuzzy
+#| msgid "First section text"
+msgid "First Section Text"
+msgstr "Κείμενο πρώτου τμήματος"
+
+#: includes/settings_page.php:1174
+msgid "Intro Text"
+msgstr ""
+
+#: includes/settings_page.php:1180
+#, fuzzy
+#| msgid "Second section text"
+msgid "Second Section Text"
+msgstr "Κείμενο δεύτερου τμήματος"
+
+#: includes/settings_page.php:1187
+#, fuzzy
+#| msgid "Reactivate chat section text"
+msgid "Reactivate Chat Section Text"
+msgstr "Επανενεργοποίηση του κειμένου του τμήματος συνομιλίας"
+
+#: includes/settings_page.php:1195
+#, fuzzy
+#| msgid "Welcome to "
+msgid "Welcome message"
+msgstr "Καλώς ήρθατε στο"
+
+#: includes/settings_page.php:1197
+msgid ""
+"This text is shown as soon as a user starts a chat and waits for an agent to "
+"join"
+msgstr ""
+
+#: includes/settings_page.php:1201
+msgid "No answer"
+msgstr ""
+
+#: includes/settings_page.php:1203 wp-live-chat-support.php:4101
+#, fuzzy
+#| msgid "There is No Answer. Please Try Again Later"
+msgid "There is No Answer. Please Try Again Later."
+msgstr "Δεν υπάρχει απάντηση. Παρακαλούμε δοκιμάστε ξανά αργότερα"
+
+#: includes/settings_page.php:1203
+msgid ""
+"This text is shown to the user when an agent has failed to answer a chat "
+msgstr ""
+
+#: includes/settings_page.php:1207
+#, fuzzy
+#| msgid "Other"
+msgid "Other text"
+msgstr "Άλλο"
+
+#: includes/settings_page.php:1210 wp-live-chat-support.php:947
+#: wp-live-chat-support.php:2980
+msgid "The chat has been ended by the operator."
+msgstr ""
+
+#: includes/settings_page.php:1215
+#, fuzzy
+#| msgid "No Animation"
+msgid "Choose an animation"
+msgstr "Όχι Κίνηση"
+
+#: includes/settings_page.php:1223
+msgid "Slide Up"
+msgstr "Σύρσιμο Προς Τα Πάνω"
+
+#: includes/settings_page.php:1229
+msgid "Slide From The Side"
+msgstr "Σύρσιμο Από Το Πλάι"
+
+#: includes/settings_page.php:1235
+msgid "Fade In"
+msgstr "Σταδιακή Εμφάνιση"
+
+#: includes/settings_page.php:1241
+msgid "No Animation"
+msgstr "Όχι Κίνηση"
+
+#: includes/settings_page.php:1259
+msgid "Auto First Response Message"
+msgstr ""
+
+#: includes/settings_page.php:1262
+msgid ""
+"This message will be sent automatically after the first message is sent from "
+"the user side. Leave empty to disable."
+msgstr ""
+
+#: includes/settings_page.php:1277
+msgid "Current Users that are Chat Agents"
+msgstr "Τρέχοντες Χρήστες που είναι Πράκτορες Συνομιλιών"
+
+#: includes/settings_page.php:1307
+msgid "Add New Agent"
+msgstr "Προσθήκη Νέου Πράκτορα"
+
+#: includes/settings_page.php:1315
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+#: includes/settings_page.php:1321
+msgid "Editor"
+msgstr "Αρχισυντάκτης"
+
+#: includes/settings_page.php:1331
+msgid "Add Agent"
+msgstr "Προσθήκη Πράκτορα"
+
+#: includes/settings_page.php:1337
+msgid ""
+"Should you wish to add a user that has a role less than 'Author', please go "
+"to the <a href='./users.php'>Users</a> page, select the relevant user, click "
+"Edit and scroll to the bottom of the page and enable the 'Chat Agent' "
+"checkbox."
+msgstr ""
+
+#: includes/settings_page.php:1338
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr ""
+
+#: includes/settings_page.php:1343
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "Μπλοκαρισμένοι επισκέπτες - Με βάση την διεύθυνση IP"
+
+#: includes/settings_page.php:1347
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "Εισάγετε κάθε διεύθυνση IP που θα θέλατε να μπλοκάρετε σε νέα σειρά"
+
+#: includes/settings_page.php:1358
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"Μπλοκάροντας την διεύθυνση IP ενός χρήστη εδώ, θα κρύψει το παράθυρο "
+"συνομιλίας από αυτόν, εμποδίζοντας τον από το να συνομιλήσει μαζί σας. Κάθε "
+"διεύθυνση IP πρέπει να είναι σε νέα σειρά"
+
+#: includes/settings_page.php:1374
+msgid "Enable Business Hours"
+msgstr ""
+
+#: includes/settings_page.php:1380
+msgid "Display Interval"
+msgstr ""
+
+#: includes/settings_page.php:1384
+msgid "Daily"
+msgstr ""
+
+#: includes/settings_page.php:1385
+msgid "Week Days"
+msgstr ""
+
+#: includes/settings_page.php:1386
+msgid "Weekends"
+msgstr ""
+
+#: includes/settings_page.php:1401
+msgid " Between "
+msgstr ""
+
+#: includes/settings_page.php:1418
+msgid " and "
+msgstr ""
+
+#: includes/settings_page.php:1441
+msgid "Current Site Time"
+msgstr ""
+
+#: includes/settings_page.php:1454
+msgid "Chat Encryption"
+msgstr "Κωδικοποίηση Συνομιλίας"
+
+#: includes/settings_page.php:1457
+msgid "Enable Encryption"
+msgstr "Ενεργοποίηση Κωδικοποίησης"
+
+#: includes/settings_page.php:1457
+msgid ""
+"All messages will be encrypted when being sent to and from the user and "
+"agent."
+msgstr ""
+"Όλα τα μηνύματα θα είναι κωδικοποιημένα όταν αποστέλλονται προς και από τον "
+"χρήστη και τον πράκτορα."
+
+#: includes/settings_page.php:1466
+msgid ""
+"Please note: Chat messages will only be encrypted and decrypted if you have "
+"inserted your WP Live Chat Support API Key on the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgstr ""
+
+#: includes/settings_page.php:1467
+msgid ""
+"Once enabled, all messages sent will be encrypted. This cannot be undone."
+msgstr ""
+
+#: includes/settings_page.php:1477
+msgid "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: includes/surveys.php:8 includes/surveys.php:20 includes/surveys.php:338
+msgid "Surveys & Lead Forms"
+msgstr ""
+
+#: includes/surveys.php:23
+msgid "Enable Surveys & Lead Forms"
+msgstr ""
+
+#: includes/surveys.php:23
+msgid ""
+"Enable surveys and lead forms within your live chat box, either before or "
+"after a live chat session."
+msgstr ""
+
+#: includes/surveys.php:29
+msgid ""
+"Choosing a survey will reset the lead form selection: the items are "
+"alternatives, if you select a survey no lead form can be selected."
+msgstr ""
+
+#: includes/surveys.php:32
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+
+#: includes/surveys.php:39
+msgid "Select a survey"
+msgstr ""
+
+#: includes/surveys.php:65
+msgid ""
+"Choosing a lead form will reset the survey selection: the items are "
+"alternatives, if you select a lead form no survey can be selected."
+msgstr ""
+
+#: includes/surveys.php:68
+#, php-format
+msgid ""
+"No lead forms created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a lead form and then refresh this page.</a>"
+msgstr ""
+
+#: includes/surveys.php:75
+msgid "Select a lead form"
+msgstr ""
+
+#: includes/surveys.php:97
+msgid "Display survey/form"
+msgstr ""
+
+#: includes/surveys.php:100
+msgid "Before chat"
+msgstr ""
+
+#: includes/surveys.php:101
+msgid "After chat"
+msgstr ""
+
+#: includes/surveys.php:106
+msgid "Chat button text"
+msgstr ""
+
+#: includes/surveys.php:112
+msgid "Change title of chat box when chat ended to"
+msgstr ""
+
+#: includes/surveys.php:294 wp-live-chat-support.php:368
+#: wp-live-chat-support.php:2968 wp-live-chat-support.php:4706
+msgid "Or chat to an agent now"
+msgstr ""
+
+#: includes/surveys.php:299 wp-live-chat-support.php:362
+#: wp-live-chat-support.php:2977 wp-live-chat-support.php:4700
+#, fuzzy
+#| msgid "Chat offline. Leave a message"
+msgid "Leave a message"
+msgstr "Η συνομιλία είναι εκτός σύνδεσης. Αφήστε ένα μήνυμα"
+
+#: includes/surveys.php:333
+msgid "WP Live Chat Surveys & Lead Forms with Nimble Squirrel"
+msgstr ""
+
+#: includes/surveys.php:339
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+
+#: includes/surveys.php:351
+#, php-format
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (It's free)"
+msgstr ""
+
+#: includes/surveys.php:354
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a survey</"
+"a>."
+msgstr ""
+
+#: includes/surveys.php:361
+#, fuzzy
+#| msgid "Add Quick Responses to your Live Chat"
+msgid "Add a Survey to your live chat box"
+msgstr "Προσθέστε Γρήγορες Απαντήσεις στις Ζωντανές Συνομιλίες σας"
+
+#: includes/surveys.php:362
+msgid "Three simple steps:"
+msgstr ""
+
+#: includes/surveys.php:366
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings#tabs-survey'>settings page</a>."
+msgstr ""
+
+#: includes/update_control.class.php:84
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: includes/update_control.class.php:89
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/welcome_page.php:4
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "Welcome to WP Live Chat Support v8"
+msgstr "WP Live Chat Support"
+
+#: includes/welcome_page.php:6
+msgid ""
+"WP Live Chat Support is the most cost effective, feature rich, amazingly "
+"supported and most positively reviewed live chat plugin on WordPress!"
+msgstr ""
+
+#: includes/welcome_page.php:8
+msgid "Skip intro and start accepting chats"
+msgstr ""
+
+#: includes/welcome_page.php:28
+#, fuzzy
+#| msgid "Welcome to "
+msgid "Welcome"
+msgstr "Καλώς ήρθατε στο"
+
+#: includes/welcome_page.php:29
+msgid "Credits"
+msgstr ""
+
+#: includes/welcome_page.php:37
+msgid "Incredibly fast server"
+msgstr ""
+
+#: includes/welcome_page.php:39
+msgid "Use our server to handle the load and save 1000%+ on server resources!"
+msgstr ""
+
+#: includes/welcome_page.php:42
+#, fuzzy
+#| msgid "Chat Dashboard"
+msgid "New Dashboard"
+msgstr "Πίνακας ελέγχου συνομιλιών"
+
+#: includes/welcome_page.php:43
+msgid "Handle all your chats in one area, on any admin page."
+msgstr ""
+
+#: includes/welcome_page.php:46
+msgid "Emojis!"
+msgstr ""
+
+#: includes/welcome_page.php:47
+msgid "Add a touch of your own personality with emojis!"
+msgstr ""
+
+#: includes/welcome_page.php:54
+msgid "Typing Preview"
+msgstr ""
+
+#: includes/welcome_page.php:56
+msgid "See what your customers are typing before they even send it!"
+msgstr ""
+
+#: includes/welcome_page.php:59
+#, fuzzy
+#| msgid "Multiple Chats"
+msgid "Multiple Agents Per Chat"
+msgstr "Πολλαπλές Συνομιλίες"
+
+#: includes/welcome_page.php:61
+msgid "More than one agent can join and be involved in a chat."
+msgstr ""
+
+#: includes/welcome_page.php:64
+msgid "Agent to Agent Chat"
+msgstr ""
+
+#: includes/welcome_page.php:66
+msgid "Chat directly to other agents on our new dashboard."
+msgstr ""
+
+#: includes/welcome_page.php:71
+#, fuzzy
+#| msgid "Offline Messages"
+msgid "Edit Messages"
+msgstr "Μηνύματα Εκτός Σύνδεσης"
+
+#: includes/welcome_page.php:73
+msgid ""
+"Simply press the UP arrow or use the EDIT link to edit a message that you "
+"have already sent."
+msgstr ""
+
+#: includes/welcome_page.php:76
+msgid "Event Monitoring"
+msgstr ""
+
+#: includes/welcome_page.php:78
+msgid "Know exactly what the user is doing in real time."
+msgstr ""
+
+#: includes/welcome_page.php:81
+msgid "iOS app"
+msgstr ""
+
+#: includes/welcome_page.php:83
+msgid "The new iOS app is finally here!"
+msgstr ""
+
+#: includes/welcome_page.php:93
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "New to WP Live Chat Support?"
+msgstr "WP Live Chat Support"
+
+#: includes/welcome_page.php:94
+msgid "You may want to"
+msgstr ""
+
+#: includes/welcome_page.php:94
+#, fuzzy
+#| msgid "Documentation"
+msgid "review our documentation"
+msgstr "Εγχειρίδιο"
+
+#: includes/welcome_page.php:94
+msgid ""
+"before you get started. If you're a tech-savvy individual, you may skip this "
+"step."
+msgstr ""
+
+#: includes/welcome_page.php:97
+msgid "Help me!"
+msgstr ""
+
+#: includes/wplc_agent_data.php:7
+#, fuzzy
+#| msgid "WP Live Chat Support Settings"
+msgid "WP Live Chat Support - User Fields"
+msgstr "Ρυθμίσεις WP Live Chat Support"
+
+#: includes/wplc_agent_data.php:11
+msgid "User tagline"
+msgstr ""
+
+#: includes/wplc_agent_data.php:17 includes/wplc_agent_data.php:30
+msgid "This will show up at the top of the chatbox - Leave blank to disable."
+msgstr ""
+
+#: includes/wplc_agent_data.php:24
+msgid "User bio"
+msgstr ""
+
+#: includes/wplc_agent_data.php:37
+msgid "User social accounts"
+msgstr ""
+
+#: includes/wplc_agent_data.php:46
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/wplc_agent_data.php:54
+#, fuzzy
+#| msgid "Your Website"
+msgid "Website URL"
+msgstr "Η ιστοσελίδα σας"
+
+#: includes/wplc_agent_data.php:56
+msgid ""
+"This will show up at the top of the chatbox, in the agent's description - "
+"Leave each item blank to disable it."
+msgstr ""
+
+#: includes/wplc_agent_data.php:276
+msgid "Twitter"
+msgstr ""
+
+#: includes/wplc_agent_data.php:279
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/wplc_agent_data.php:282
+msgid "Facebook"
+msgstr ""
+
+#: includes/wplc_agent_data.php:285
+#, fuzzy
+#| msgid "Your Website"
+msgid "Website"
+msgstr "Η ιστοσελίδα σας"
+
+#: includes/wplc_custom_fields.php:60 includes/wplc_data_triggers.php:5
+#: includes/wplc_departments.php:135 includes/wplc_roi.php:83
+#: modules/webhooks_manager.php:56 modules/webhooks_manager.php:295
+#, fuzzy
+#| msgid "Add New Agent"
+msgid "Add New"
+msgstr "Προσθήκη Νέου Πράκτορα"
+
+#: includes/wplc_custom_fields.php:64
+#, fuzzy
+#| msgid "WP Live Chat Support Settings"
+msgid "WP Live Chat Support Custom Fields"
+msgstr "Ρυθμίσεις WP Live Chat Support"
+
+#: includes/wplc_custom_fields.php:73 includes/wplc_data_triggers.php:441
+#: wp-live-chat-support.php:2396
+msgid "Type"
+msgstr "Τύπος"
+
+#: includes/wplc_custom_fields.php:74 includes/wplc_data_triggers.php:443
+msgid "Content"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:75 includes/wplc_data_triggers.php:444
+#: wp-live-chat-support.php:2399 wp-live-chat-support.php:3650
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: includes/wplc_custom_fields.php:106 wp-live-chat-support.php:2609
+msgid "Active"
+msgstr "Ενεργός"
+
+#: includes/wplc_custom_fields.php:108
+#, fuzzy
+#| msgid "active"
+msgid "Inactive"
+msgstr "ενεργό"
+
+#: includes/wplc_custom_fields.php:113 includes/wplc_data_triggers.php:452
+#: includes/wplc_departments.php:179 includes/wplc_roi.php:140
+#: modules/webhooks_manager.php:238
+#, fuzzy
+#| msgid "Editor"
+msgid "Edit"
+msgstr "Αρχισυντάκτης"
+
+#: includes/wplc_custom_fields.php:124
+msgid "Create your first custom field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:142
+msgid "Create a Custom Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:147 includes/wplc_custom_fields.php:208
+msgid "Field Name"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:151 includes/wplc_custom_fields.php:216
+msgid "Field Type"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:154 includes/wplc_custom_fields.php:221
+msgid "Text"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:155 includes/wplc_custom_fields.php:222
+msgid "Drop Down"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:160 includes/wplc_custom_fields.php:212
+msgid "Default Field Value"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:164 includes/wplc_custom_fields.php:227
+msgid "Drop Down Contents"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:165 includes/wplc_custom_fields.php:228
+#, fuzzy
+#| msgid "Enter each IP Address you would like to block on a new line"
+msgid "Enter each option on a new line"
+msgstr "Εισάγετε κάθε διεύθυνση IP που θα θέλατε να μπλοκάρετε σε νέα σειρά"
+
+#: includes/wplc_custom_fields.php:169
+msgid "Create Custom Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:203
+msgid "Edit a Custom Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:232
+msgid "Update Custom Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:241
+msgid "Custom Field Not Found"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:242
+msgid "Back"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:254
+msgid "Are you sure you want to delete this custom field?"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:290
+msgid "Text Field"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:293
+msgid "Dropdown"
+msgstr ""
+
+#: includes/wplc_custom_fields.php:358
+msgid "Custom Field Data"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:8
+#, fuzzy
+#| msgid "WP Live Chat Support Settings"
+msgid "WP Live Chat Support Triggers"
+msgstr "Ρυθμίσεις WP Live Chat Support"
+
+#: includes/wplc_data_triggers.php:16 includes/wplc_roi.php:111
+#: modules/documentation_suggestions.php:62
+msgid "Update now"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:68
+msgid "Trigger Name"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:73
+msgid "Trigger Type"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:77
+msgid "Page Trigger"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:78
+msgid "Time Trigger"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:79
+msgid "Scroll Trigger"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:80
+msgid "Page Leave Trigger"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:81
+msgid ""
+"Note: When using page trigger with a the basic theme, no hovercard is shown "
+"by default. We suggest using the time trigger for this instead."
+msgstr ""
+
+#: includes/wplc_data_triggers.php:87
+msgid "Page ID"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:88
+msgid "Note: Leave empty for 'all' pages"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:92
+msgid "Show After"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:93
+msgid "Seconds"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:97
+msgid "Show After Scrolled"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:98
+msgid "(%) Percent of page height"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:102
+#, fuzzy
+#| msgid "Input Field Replacement Text"
+msgid "Content Replacement"
+msgstr "Κείμενο αντικατάστασης πεδίου εισαγωγής"
+
+#: includes/wplc_data_triggers.php:113
+msgid "Replace Content"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:118
+msgid "Enable Trigger"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:124 includes/wplc_roi.php:237
+#: modules/node_server.php:503 wp-live-chat-support.php:5167
+msgid "Close"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:133 includes/wplc_departments.php:255
+#: includes/wplc_roi.php:246
+msgid "Please review your submission"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:273
+msgid "Trigger has been edited."
+msgstr ""
+
+#: includes/wplc_data_triggers.php:426
+msgid "Conflict with page"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:428
+msgid "Trigger ID: "
+msgstr ""
+
+#: includes/wplc_data_triggers.php:429
+msgid ""
+"It is possible that this trigger may override another trigger, or be "
+"overridden by another trigger."
+msgstr ""
+
+#: includes/wplc_data_triggers.php:442 includes/wplc_roi.php:131
+#: modules/node_server.php:933
+msgid "Page"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:461 includes/wplc_roi.php:657
+msgid "All"
+msgstr "Όλα"
+
+#: includes/wplc_data_triggers.php:465
+msgid "Click to change trigger status"
+msgstr ""
+
+#: includes/wplc_data_triggers.php:475
+msgid "No Triggers Found..."
+msgstr ""
+
+#: includes/wplc_data_triggers.php:579
+msgid "Are you sure you would like to delete trigger"
+msgstr ""
+
+#: includes/wplc_departments.php:55 includes/wplc_departments.php:59
+#: includes/wplc_departments.php:83 includes/wplc_departments.php:525
+#: includes/wplc_departments.php:643 includes/wplc_transfer_chats.php:92
+msgid "No Department"
+msgstr ""
+
+#: includes/wplc_departments.php:79
+#, fuzzy
+#| msgid "Chat box alignment"
+msgid "Chat Department"
+msgstr "Ευθυγράμμιση πλαισίου συνομιλιών"
+
+#: includes/wplc_departments.php:124 includes/wplc_departments.php:497
+#: includes/wplc_departments.php:515
+msgid "Departments"
+msgstr ""
+
+#: includes/wplc_departments.php:137
+#, fuzzy
+#| msgid "Save Settings"
+msgid "Department Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: includes/wplc_departments.php:140
+#, fuzzy
+#| msgid "WP Live Chat Support Settings"
+msgid "WP Live Chat Support Departments"
+msgstr "Ρυθμίσεις WP Live Chat Support"
+
+#: includes/wplc_departments.php:190
+msgid "No Departments Found..."
+msgstr ""
+
+#: includes/wplc_departments.php:240
+msgid "Department Name"
+msgstr ""
+
+#: includes/wplc_departments.php:316
+msgid "Department has been edited."
+msgstr ""
+
+#: includes/wplc_departments.php:452
+msgid "Are you sure you would like to delete department"
+msgstr ""
+
+#: includes/wplc_departments.php:520
+msgid "Default Department"
+msgstr ""
+
+#: includes/wplc_departments.php:521
+msgid "Default department a new chat is assigned to"
+msgstr ""
+
+#: includes/wplc_departments.php:536
+msgid "Create or Edit Departments"
+msgstr ""
+
+#: includes/wplc_departments.php:542
+msgid "User Department Selection"
+msgstr ""
+
+#: includes/wplc_departments.php:543
+msgid "Allow user to select a department before starting a chat?"
+msgstr ""
+
+#: includes/wplc_departments.php:552
+msgid ""
+"Note: Chats will be transferred in the event that agents are not available "
+"within the selected department"
+msgstr ""
+
+#: includes/wplc_departments.php:563
+#, php-format
+msgid "Create departments <a href='%s'>here</a>."
+msgstr ""
+
+#: includes/wplc_departments.php:622
+msgid "Department you have been assigned to as an agent"
+msgstr ""
+
+#: includes/wplc_departments.php:622 includes/wplc_transfer_chats.php:41
+#: modules/node_server.php:935
+msgid "Department"
+msgstr ""
+
+#: includes/wplc_departments.php:730
+msgid "Select Department"
+msgstr ""
+
+#: includes/wplc_roi.php:72
+msgid "ROI Goals"
+msgstr ""
+
+#: includes/wplc_roi.php:84
+msgid "View Reports"
+msgstr ""
+
+#: includes/wplc_roi.php:87
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "WP Live Chat Support ROI Goals"
+msgstr "WP Live Chat Support"
+
+#: includes/wplc_roi.php:132
+msgid "Value"
+msgstr ""
+
+#: includes/wplc_roi.php:154
+msgid "No ROI Goals Found..."
+msgstr ""
+
+#: includes/wplc_roi.php:212
+#, fuzzy
+#| msgid "Your Name"
+msgid "Goal Name"
+msgstr "Το όνομά σας"
+
+#: includes/wplc_roi.php:217
+msgid "Goal Overview"
+msgstr ""
+
+#: includes/wplc_roi.php:222
+msgid "Goal Page"
+msgstr ""
+
+#: includes/wplc_roi.php:231
+msgid "Goal Value"
+msgstr ""
+
+#: includes/wplc_roi.php:377
+msgid "Goal has been edited."
+msgstr ""
+
+#: includes/wplc_roi.php:540
+msgid "Are you sure you would like to delete goal"
+msgstr ""
+
+#: includes/wplc_roi.php:622
+msgid "ROI Reporting"
+msgstr ""
+
+#: includes/wplc_roi.php:636
+msgid "Goal Statistics"
+msgstr ""
+
+#: includes/wplc_roi.php:648
+msgid "No Goals Found"
+msgstr ""
+
+#: includes/wplc_roi.php:658
+msgid "Last 30 Days"
+msgstr ""
+
+#: includes/wplc_roi.php:659
+msgid "Last 15 Days"
+msgstr ""
+
+#: includes/wplc_roi.php:660
+msgid "Last 7 Days"
+msgstr ""
+
+#: includes/wplc_roi.php:661
+msgid "Last 24 Hours"
+msgstr ""
+
+#: includes/wplc_roi.php:713
+#, fuzzy
+#| msgid "Pro version"
+msgid "Value Per Conversion"
+msgstr "Αγορασμένη έκδοση"
+
+#: includes/wplc_roi.php:719
+msgid "Total Value"
+msgstr ""
+
+#: includes/wplc_roi.php:724
+#, fuzzy
+#| msgid "Pro version"
+msgid "Total Conversions"
+msgstr "Αγορασμένη έκδοση"
+
+#: includes/wplc_roi.php:756
+msgid "Value By Date"
+msgstr ""
+
+#: includes/wplc_roi.php:759
+msgid "Value By Agent"
+msgstr ""
+
+#: includes/wplc_roi.php:765
+msgid "No data available yet..."
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:13 modules/node_server.php:917
+#: modules/node_server.php:922
+msgid "Transfer"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:25
+#, fuzzy
+#| msgid "Start Chat"
+msgid "Transfer Chat"
+msgstr "Έναρξη Συνομιλίας"
+
+#: includes/wplc_transfer_chats.php:39
+msgid "Would you like to transfer this chat to"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:40
+#, fuzzy
+#| msgid "Agents"
+msgid "Agent"
+msgstr "Πράκτορες"
+
+#: includes/wplc_transfer_chats.php:46
+msgid "Please select an agent to transfer to"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:53
+msgid "Please select a department to transfer to"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:71
+#, fuzzy
+#| msgid "Agents"
+msgid "No Agent"
+msgstr "Πράκτορες"
+
+#: includes/wplc_transfer_chats.php:77
+msgid "You"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:118
+msgid "Checking if agent is online"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:119
+msgid "Agent is not online, transfer cannot be made"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:121
+msgid "Checking if agents in department are online"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:122
+msgid ""
+"No agent within the department are available to accept the transfer, "
+"transfer cannot be made"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:124
+msgid "Agent(s) available, safe to transfer"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:126
+msgid "Transfer Complete. Closing Window..."
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:127
+#, fuzzy
+#| msgid "There is No Answer. Please Try Again Later"
+msgid "Transfer Failed. Please try again later..."
+msgstr "Δεν υπάρχει απάντηση. Παρακαλούμε δοκιμάστε ξανά αργότερα"
+
+#: includes/wplc_transfer_chats.php:370
+msgid "Transfer for"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:373
+#, fuzzy
+#| msgid "Accept Chat"
+msgid "Accept Transfer"
+msgstr "Αποδοχή Συνομιλίας"
+
+#: includes/wplc_transfer_chats.php:456
+msgid ""
+"Department took too long to respond, we are transferring this chat to the "
+"next available agent."
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:458
+msgid ""
+"took too long to respond, we are transferring this chat to the next "
+"available agent."
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:461
+#, fuzzy
+#| msgid "User has closed and ended the chat"
+msgid "has transferred the chat."
+msgstr "Ο χρήστης έχει κλείσει και έχει τελειώσει την συνομιλία"
+
+#: includes/wplc_transfer_chats.php:484
+msgid "User received this message"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:530
+#, fuzzy
+#| msgid "available in the"
+msgid "No agents available in"
+msgstr "διαθέσιμο στο"
+
+#: includes/wplc_transfer_chats.php:532
+msgid "selected department"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:536
+msgid "automatically transferring you to"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:538
+msgid "the next available department"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:564
+msgid "User has been transfered from "
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:566
+msgid "department"
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:572
+msgid " to "
+msgstr ""
+
+#: includes/wplc_transfer_chats.php:574
+msgid "as there were no agents online"
+msgstr ""
+
+#: modules/advanced_features.php:14
+#, fuzzy
+#| msgid "Advanced Info"
+msgid "Advanced Features"
+msgstr "Πληροφορίες για προχωρημένους"
+
+#: modules/advanced_features.php:33
+msgid "No token found"
+msgstr ""
+
+#: modules/advanced_features.php:49
+#, fuzzy
+#| msgid "Chat Active"
+msgid "Chat Server"
+msgstr "Συνομιλία Ενεργή"
+
+#: modules/advanced_features.php:57
+msgid "Use our server to handle chats"
+msgstr ""
+
+#: modules/advanced_features.php:57
+msgid ""
+"Disabling this will result in the plugin reverting back to using the legacy "
+"chat dashboard."
+msgstr ""
+
+#: modules/advanced_features.php:61
+msgid ""
+"Disabling this will revert the chat dashboard back to the legacy version."
+msgstr ""
+
+#: modules/advanced_features.php:66
+msgid "Chat server token"
+msgstr ""
+
+#: modules/advanced_features.php:66
+msgid ""
+"Security token for accessing chats on the node server. Changing this will "
+"remove current chats"
+msgstr ""
+
+#: modules/advanced_features.php:70 modules/api/wplc-api.php:80
+msgid "Generate New"
+msgstr ""
+
+#: modules/advanced_features.php:71
+msgid "Copy"
+msgstr ""
+
+#: modules/advanced_features.php:76
+msgid "Server end point override"
+msgstr ""
+
+#: modules/advanced_features.php:76
+msgid ""
+"Do not change this unless advised to do so by a WP Live Chat Support "
+"representative"
+msgstr ""
+
+#: modules/advanced_features.php:79
+msgid "Leave empty unless advised by a WP Live Chat Support representative"
+msgstr ""
+
+#: modules/advanced_features.php:84
+msgid "Disable Typing Previews"
+msgstr ""
+
+#: modules/advanced_features.php:84
+msgid ""
+"This option disables the typing preview from showing up to agents, which "
+"means agents will not be able to see what the user is typing in realtime."
+msgstr ""
+
+#: modules/advanced_features.php:92
+msgid "Limit chat ring amount"
+msgstr ""
+
+#: modules/advanced_features.php:92
+msgid "Limit the amount of time the new chat ringer will play"
+msgstr ""
+
+#: modules/advanced_features.php:101
+msgid "Did you know?"
+msgstr ""
+
+#: modules/advanced_features.php:101
+msgid ""
+"You can copy this node server token to multiple sites in order to manage "
+"more than one domain from a single chat dashboard"
+msgstr ""
+
+#: modules/advanced_features.php:155
+#, fuzzy
+#| msgid "End chat"
+msgid "End Chat"
+msgstr "Τερμάτισε την συνομιλία"
+
+#: modules/advanced_tools.php:11
+msgid "Tools"
+msgstr ""
+
+#: modules/advanced_tools.php:19
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "WP Live Chat Support - Tools"
+msgstr "WP Live Chat Support"
+
+#: modules/advanced_tools.php:31
+#, fuzzy
+#| msgid "Chat Dashboard"
+msgid "Chat Data"
+msgstr "Πίνακας ελέγχου συνομιλιών"
+
+#: modules/advanced_tools.php:39
+#, fuzzy
+#| msgid "Chat Window Settings"
+msgid "Chat Settings"
+msgstr "Ρυθμίσεις Παράθυρου Συνομιλιών"
+
+#: modules/advanced_tools.php:43
+#, fuzzy
+#| msgid "Settings"
+msgid "Export Settings"
+msgstr "Ρυθμίσεις"
+
+#: modules/advanced_tools.php:46 modules/advanced_tools.php:98
+#, fuzzy
+#| msgid "Settings"
+msgid "Import Settings"
+msgstr "Ρυθμίσεις"
+
+#: modules/advanced_tools.php:53 modules/node_server.php:914
+#, fuzzy
+#| msgid "WP Live Chat History"
+msgid "Chat History"
+msgstr "Ιστορίκο WP Live Chat"
+
+#: modules/advanced_tools.php:57
+#, fuzzy
+#| msgid "History"
+msgid "Export History"
+msgstr "Ιστορικό"
+
+#: modules/advanced_tools.php:64
+#, fuzzy
+#| msgid "Chat notifications"
+msgid "Chat Ratings"
+msgstr "Ειδοποιήσεις συνομιλιών"
+
+#: modules/advanced_tools.php:68
+msgid "Export Ratings"
+msgstr ""
+
+#: modules/advanced_tools.php:79
+#, fuzzy
+#| msgid "Offline Messages"
+msgid "Export Offline Messages"
+msgstr "Μηνύματα Εκτός Σύνδεσης"
+
+#: modules/advanced_tools.php:106
+msgid "CSV File"
+msgstr ""
+
+#: modules/advanced_tools.php:117
+msgid "Please note: Import CSV must have been exported using the Export tool"
+msgstr ""
+
+#: modules/advanced_tools.php:125
+#, fuzzy
+#| msgid "Support"
+msgid "Import"
+msgstr "Yποστήριξη"
+
+#: modules/advanced_tools.php:125
+msgid "This cannot be undone"
+msgstr ""
+
+#: modules/advanced_tools.php:156
+msgid "Import Failed - Could Not Process File"
+msgstr ""
+
+#: modules/advanced_tools.php:170
+msgid "Import Failed - Could Not Find File"
+msgstr ""
+
+#: modules/advanced_tools.php:182
+#, fuzzy
+#| msgid "complete"
+msgid "Import Complete"
+msgstr "ολοκληρώθηκε"
+
+#: modules/advanced_tools.php:190
+msgid "Thank you, all settings have been updated"
+msgstr "Οι ρυθμίσεις σας έχουν αποθηκευτεί"
+
+#: modules/api/wplc-api-functions.php:308
+#: modules/api/wplc-api-functions.php:1114 modules/node_server.php:214
+#: modules/node_server.php:284
+#, fuzzy
+#| msgid "Action"
+msgid "Action not set"
+msgstr "Ενέργεια"
+
+#: modules/api/wplc-api-functions.php:1635
+msgid "Security Violation - MIME Type not allowed"
+msgstr ""
+
+#: modules/api/wplc-api-functions.php:1638
+msgid "File could not be uploaded"
+msgstr ""
+
+#: modules/api/wplc-api-functions.php:1641
+msgid "Security Violation - Does not match allowed file types"
+msgstr ""
+
+#: modules/api/wplc-api-functions.php:1644
+msgid "Security Violation - File unsafe"
+msgstr ""
+
+#: modules/api/wplc-api.php:44 modules/api/wplc-api.php:71
+msgid "REST API"
+msgstr ""
+
+#: modules/api/wplc-api.php:62
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+
+#: modules/api/wplc-api.php:64
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr ""
+
+#: modules/api/wplc-api.php:76
+msgid "Secret Token"
+msgstr ""
+
+#: modules/api/wplc-api.php:79
+msgid "No secret token found"
+msgstr ""
+
+#: modules/api/wplc-api.php:85
+msgid "Supported API Calls"
+msgstr ""
+
+#: modules/api/wplc-api.php:89 modules/api/wplc-api.php:97
+#: modules/api/wplc-api.php:105 modules/api/wplc-api.php:113
+#: modules/api/wplc-api.php:121 modules/api/wplc-api.php:130
+msgid "Try"
+msgstr ""
+
+#: modules/api/wplc-api.php:138
+msgid "API Response Codes"
+msgstr ""
+
+#: modules/api/wplc-api.php:281
+msgid "Rest Console "
+msgstr ""
+
+#: modules/api/wplc-api.php:288
+msgid "Try it!"
+msgstr ""
+
+#: modules/cta_animations.php:16
+#, fuzzy
+#| msgid "No Animation"
+msgid "Call To Action Animation"
+msgstr "Όχι Κίνηση"
+
+#: modules/documentation_suggestions.php:9
+#, fuzzy
+#| msgid "Documentation"
+msgid "Doc Suggestions"
+msgstr "Εγχειρίδιο"
+
+#: modules/documentation_suggestions.php:27
+#, fuzzy
+#| msgid "Documentation"
+msgid "Documentation Suggestions"
+msgstr "Εγχειρίδιο"
+
+#: modules/documentation_suggestions.php:33
+msgid "Enable Documentation Suggestions"
+msgstr ""
+
+#: modules/documentation_suggestions.php:33
+msgid ""
+"When a user sends a message the plugin will automatically detect if there "
+"are posts or pages that can be suggested to the user in order for the user "
+"to get more information about what they are asking. This is useful when the "
+"user has typed their message and is still waiting for an agent to answer "
+"their chat."
+msgstr ""
+
+#: modules/documentation_suggestions.php:170
+msgid "The following was sent to the user as suggested documents:"
+msgstr ""
+
+#: modules/documentation_suggestions.php:172
+msgid "While you wait for the agent, perhaps these documents may help?"
+msgstr ""
+
+#: modules/gdpr.php:27
+msgid "Enabled GDPR Compliance"
+msgstr ""
+
+#: modules/gdpr.php:27
+msgid "Disabling will disable all GDPR related options, this is not advised."
+msgstr ""
+
+#: modules/gdpr.php:31
+msgid "Importance of GDPR Compliance"
+msgstr ""
+
+#: modules/gdpr.php:37
+msgid "Company Name"
+msgstr ""
+
+#: modules/gdpr.php:46
+msgid "Retention Purpose"
+msgstr ""
+
+#: modules/gdpr.php:49 modules/gdpr.php:354
+#, fuzzy
+#| msgid "Support"
+msgid "Chat/Support"
+msgstr "Yποστήριξη"
+
+#: modules/gdpr.php:55
+msgid "Retention Period"
+msgstr ""
+
+#: modules/gdpr.php:58
+msgid "days"
+msgstr ""
+
+#: modules/gdpr.php:64
+msgid "GDPR Notice"
+msgstr ""
+
+#: modules/gdpr.php:65
+msgid ""
+"Users will be asked to accept the notice shown here, in the form of a check "
+"box."
+msgstr ""
+
+#: modules/gdpr.php:116
+msgid "GDPR"
+msgstr ""
+
+#: modules/gdpr.php:125
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "WP Live Chat Support - GDPR"
+msgstr "WP Live Chat Support"
+
+#: modules/gdpr.php:127
+msgid ""
+"Search is performed on chat sessions, messages, and offline messages. Data "
+"will also be deleted automatically per your retention policy."
+msgstr ""
+
+#: modules/gdpr.php:138
+msgid "Name, Email, Message"
+msgstr ""
+
+#: modules/gdpr.php:142
+#, fuzzy
+#| msgid "Search Term"
+msgid "Search"
+msgstr "Όρος Aναζήτησης"
+
+#: modules/gdpr.php:155
+#, php-format
+msgid "Search Results in %%TABLE%%"
+msgstr ""
+
+#: modules/gdpr.php:183
+#, php-format
+msgid "Delete Chat (%%CID%%)"
+msgstr ""
+
+#: modules/gdpr.php:184
+#, php-format
+msgid "Download Chat (%%CID%%)"
+msgstr ""
+
+#: modules/gdpr.php:188 wp-live-chat-support.php:4532
+#: wp-live-chat-support.php:4590
+#, fuzzy
+#| msgid "Chat Box"
+msgid "Chat ID"
+msgstr "Πλαίσιο Συνομιλίας"
+
+#: modules/gdpr.php:209
+msgid "Please perform a search using the input field above"
+msgstr ""
+
+#: modules/gdpr.php:272
+#, fuzzy
+#| msgid "deleted"
+msgid "Data Deleted"
+msgstr "διαγραμμένο "
+
+#: modules/gdpr.php:352
+#, php-format
+msgid ""
+"I agree for my personal data to be processed and for the use of cookies in "
+"order to engage in a chat processed by %%COMPANY%%, for the purpose of "
+"%%PURPOSE%%, for the time of %%PERIOD%% day(s) as per the GDPR."
+msgstr ""
+
+#: modules/gdpr.php:373 modules/gdpr.php:571 modules/gdpr.php:593
+msgid "Privacy Policy"
+msgstr ""
+
+#: modules/gdpr.php:374
+#, php-format
+msgid ""
+"We use WP Live Chat Support as our live chat platform. By clicking below to "
+"submit this form, you acknowledge that the information you provide now and "
+"during the chat will be transferred to WP Live Chat Support for processing "
+"in accordance with their %%POLICY_LINK%%."
+msgstr ""
+
+#: modules/gdpr.php:396
+#, php-format
+msgid ""
+"Please note as per the GDPR settings you have selected, all chat data will "
+"be retained for %%PERIOD%% day(s)."
+msgstr ""
+
+#: modules/gdpr.php:399
+#, php-format
+msgid ""
+"After this period of time, all chat data older than %%PERIOD%% day(s), will "
+"be permanently removed from your server. "
+msgstr ""
+
+#: modules/gdpr.php:403
+msgid "GDPR - Data Retention"
+msgstr ""
+
+#: modules/gdpr.php:409 modules/gdpr.php:573
+#, fuzzy
+#| msgid "Save Settings"
+msgid "Privacy Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: modules/gdpr.php:424
+msgid "Once every 6 hours"
+msgstr ""
+
+#: modules/gdpr.php:539
+#, fuzzy
+#| msgid "Chat enabled"
+msgid "Chat Ended"
+msgstr "Συνομιλία ενεργοποιημένη"
+
+#: modules/gdpr.php:564
+msgid ""
+"GDPR compliance has been disabled, read more about the implications of this "
+"here"
+msgstr ""
+
+#: modules/gdpr.php:565
+#, fuzzy
+#| msgid " with the Pro add-on of WP Live Chat Support"
+msgid "Additionally please take a look at WP Live Chat Support"
+msgstr "με το Pro πρόσθετο του WP Live Chat Support"
+
+#: modules/gdpr.php:566
+msgid ""
+"It is highly recommended that you enable GDPR compliance to ensure your user "
+"data is regulated."
+msgstr ""
+
+#: modules/gdpr.php:569
+msgid "Warning - GDPR Compliance Disabled - Action Required"
+msgstr ""
+
+#: modules/gdpr.php:570
+msgid "EU GDPR"
+msgstr ""
+
+#: modules/gdpr.php:574
+msgid "Dismiss & Accept Responsibility"
+msgstr ""
+
+#: modules/gdpr.php:591
+#, php-format
+msgid "Please refer to our %%PRIVACY_LINK%% for information on Data Processing"
+msgstr ""
+
+#: modules/gdpr.php:641
+msgid "GDPR Compliance Enabled - Server Selection Limited to EU"
+msgstr ""
+
+#: modules/gdpr.php:674
+msgid ""
+"Pro is active - Deleting a chat will resilt in user experience ratings being "
+"deleted along with chat data"
+msgstr ""
+
+#: modules/gdpr.php:683
+msgid "Pro data will also be removed as a part of this automatic process."
+msgstr ""
+
+#: modules/google_analytics.php:12
+msgid "Google Analytics Integration"
+msgstr ""
+
+#: modules/google_analytics.php:17
+msgid "Enable Google Analytics Integration"
+msgstr ""
+
+#: modules/module_gif.php:144
+msgid "GIF Integration"
+msgstr ""
+
+#: modules/module_gif.php:150
+#, fuzzy
+#| msgid "Enable Encryption"
+msgid "Enable GIF Integration"
+msgstr "Ενεργοποίηση Κωδικοποίησης"
+
+#: modules/module_gif.php:150
+msgid ""
+"If you enable GIF Integration you're going to be able to send GIFs by typing "
+"commands such as '/gif happy' when writing a message."
+msgstr ""
+
+#: modules/module_gif.php:158
+msgid "Select a GIF provider"
+msgstr ""
+
+#: modules/module_gif.php:158
+msgid ""
+"A GIF provider is the source of the GIFs that are going to show when you "
+"type a command like '/gif happy' on a message."
+msgstr ""
+
+#: modules/module_gif.php:162
+msgid "Giphy"
+msgstr ""
+
+#: modules/module_gif.php:163
+msgid "Tenor"
+msgstr ""
+
+#: modules/module_gif.php:169 modules/module_gif.php:172
+msgid "Giphy API key"
+msgstr ""
+
+#: modules/module_gif.php:169
+msgid "The API key created for you when you register an app on Giphy"
+msgstr ""
+
+#: modules/module_gif.php:177 modules/module_gif.php:180
+msgid "Tenor API key"
+msgstr ""
+
+#: modules/module_gif.php:177
+msgid "The API key created for you when you register an app on Tenor"
+msgstr ""
+
+#: modules/node_server.php:36
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "Thank you for using WP Live Chat Support."
+msgstr "WP Live Chat Support"
+
+#: modules/node_server.php:199 modules/node_server.php:208
+#: modules/node_server.php:269 modules/node_server.php:278
+msgid "Success"
+msgstr ""
+
+#: modules/node_server.php:211 modules/node_server.php:281
+msgid "Message data is corrupt"
+msgstr ""
+
+#: modules/node_server.php:217 modules/node_server.php:287
+msgid "Message data array not set"
+msgstr ""
+
+#: modules/node_server.php:220 modules/node_server.php:290
+#, fuzzy
+#| msgid "Chat with us"
+msgid "Chat ID is not set"
+msgstr "Συνομιλήστε μαζί μας"
+
+#: modules/node_server.php:224 modules/node_server.php:294
+msgid "No security nonce found"
+msgstr ""
+
+#: modules/node_server.php:312
+msgid "Error"
+msgstr ""
+
+#: modules/node_server.php:313
+msgid "Only chat agents can access this page."
+msgstr ""
+
+#: modules/node_server.php:501 wp-live-chat-support.php:5165
+msgid "Sending transcript..."
+msgstr ""
+
+#: modules/node_server.php:502 wp-live-chat-support.php:5166
+msgid "Sending Transcript"
+msgstr ""
+
+#: modules/node_server.php:504 wp-live-chat-support.php:5168
+msgid "The chat transcript has been emailed."
+msgstr ""
+
+#: modules/node_server.php:505 wp-live-chat-support.php:5169
+msgid "There was a problem emailing the chat."
+msgstr ""
+
+#: modules/node_server.php:534
+msgid "Connection Error"
+msgstr ""
+
+#: modules/node_server.php:535
+msgid ""
+"We are having some trouble contacting the server. Please try again later."
+msgstr ""
+
+#: modules/node_server.php:576
+msgid "Chat is disabled in settings area, re-enable"
+msgstr ""
+
+#: modules/node_server.php:606
+msgid "User received notification:"
+msgstr ""
+
+#: modules/node_server.php:625 wp-live-chat-support.php:2163
+msgid "New chat received"
+msgstr "Λήφθηκε νέα συνομιλία"
+
+#: modules/node_server.php:626 wp-live-chat-support.php:2165
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr ""
+"Μια νέα συνομιλία έχει ληφθεί. Παρακαλούμε πηγαίνετε στην σελίδα «Live Chat» "
+"για να αποδεχτείτε την συνομιλία"
+
+#: modules/node_server.php:741
+#, fuzzy
+#| msgid "Dear Pro User"
+msgid "Dear User,"
+msgstr "Αγαπητέ χρήστη Pro"
+
+#: modules/node_server.php:742
+msgid "Your API Key could not be validated, some functionality may be limited"
+msgstr ""
+
+#: modules/node_server.php:747
+msgid "You are not a verified agent, chat dashboard has been disabled"
+msgstr ""
+
+#: modules/node_server.php:818
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "Welcome to V8 of WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: modules/node_server.php:819
+msgid ""
+"Did you know, this version features high speed message delivery, agent to "
+"agent chat, and a single window layout?"
+msgstr ""
+
+#: modules/node_server.php:820
+msgid ""
+"To activate this functionality please navigate to Live Chat -> Settings -> "
+"Advanced Features -> And enable our Chat Server option."
+msgstr ""
+
+#: modules/node_server.php:823
+msgid "Show me!"
+msgstr ""
+
+#: modules/node_server.php:824
+msgid "Don't Show This Again"
+msgstr ""
+
+#: modules/node_server.php:908
+msgid "Connecting..."
+msgstr ""
+
+#: modules/node_server.php:912
+#, fuzzy
+#| msgid "Active Chats"
+msgid " Active visitors"
+msgstr "Ενεργές Συνομιλίες"
+
+#: modules/node_server.php:913
+#, fuzzy
+#| msgid "Agent(s) online"
+msgid "Agent(s) Online"
+msgstr "Πράκτορες​ σε σύνδεση"
+
+#: modules/node_server.php:918
+msgid "Department Transfer"
+msgstr ""
+
+#: modules/node_server.php:919 modules/node_server.php:923
+#: wp-live-chat-support.php:4278
+msgid "Direct User To Page"
+msgstr ""
+
+#: modules/node_server.php:920
+msgid "Leave chat"
+msgstr ""
+
+#: modules/node_server.php:921 wp-live-chat-support.php:2629
+msgid "End chat"
+msgstr "Τερμάτισε την συνομιλία"
+
+#: modules/node_server.php:924
+#, fuzzy
+#| msgid "Agents"
+msgid "Events"
+msgstr "Πράκτορες"
+
+#: modules/node_server.php:925
+#, fuzzy
+#| msgid "End chat"
+msgid "Join chat"
+msgstr "Τερμάτισε την συνομιλία"
+
+#: modules/node_server.php:926
+msgid "Filters"
+msgstr ""
+
+#: modules/node_server.php:927
+#, fuzzy
+#| msgid "Visitors online"
+msgid "New Visitors (3 Min)"
+msgstr "Επισκέπτες σε σύνδεση"
+
+#: modules/node_server.php:928
+msgid "Active Chats"
+msgstr "Ενεργές Συνομιλίες"
+
+#: modules/node_server.php:929
+msgid "Clear Filters"
+msgstr ""
+
+#: modules/node_server.php:930
+#, fuzzy
+#| msgid "Active Chats"
+msgid "Active visitors"
+msgstr "Ενεργές Συνομιλίες"
+
+#: modules/node_server.php:931 wp-live-chat-support.php:2394
+msgid "Visitor"
+msgstr "Επισκέπτης"
+
+#: modules/node_server.php:932
+#, fuzzy
+#| msgid "Site Info"
+msgid "Info"
+msgstr "Πληροφορίες Ιστοσελίδας"
+
+#: modules/node_server.php:934
+#, fuzzy
+#| msgid "Status"
+msgid "Chat Status"
+msgstr "Κατάσταση"
+
+#: modules/node_server.php:936
+#, fuzzy
+#| msgid "Search Term"
+msgid "Search Results"
+msgstr "Όρος Aναζήτησης"
+
+#: modules/node_server.php:937
+msgid "No emoji found"
+msgstr ""
+
+#: modules/node_server.php:1049
+msgid ""
+"You can transfer chats from within a chat by clicking on the in chat menu, "
+"and selecting Transfer Chat or Transfer Department"
+msgstr ""
+
+#: modules/node_server.php:1050
+msgid ""
+"You can share files quickly when in a chat, by simply dragging a file into "
+"the chat window!"
+msgstr ""
+
+#: modules/node_server.php:1051
+msgid "You can now move between chats without ending/closing an open chat"
+msgstr ""
+
+#: modules/node_server.php:1108
+msgid "No quick responses found"
+msgstr ""
+
+#: modules/offline_messages_custom_fields.php:6
+#, php-format
+msgid ""
+"Use the <a href='%s'>Contact Form Ready</a> plugin (free) in order to "
+"customise the input fields of the offline message form.</a>"
+msgstr ""
+
+#: modules/privacy.php:17 modules/privacy.php:31
+msgid "Privacy"
+msgstr ""
+
+#: modules/webhooks_manager.php:8
+#, fuzzy
+#| msgid "Agent(s) online"
+msgid "Agent Login"
+msgstr "Πράκτορες​ σε σύνδεση"
+
+#: modules/webhooks_manager.php:9
+#, fuzzy
+#| msgid "Visitor"
+msgid "New Visitor"
+msgstr "Επισκέπτης"
+
+#: modules/webhooks_manager.php:10
+msgid "Chat Request"
+msgstr ""
+
+#: modules/webhooks_manager.php:11
+msgid "Agent Accept"
+msgstr ""
+
+#: modules/webhooks_manager.php:12
+#, fuzzy
+#| msgid "Settings"
+msgid "Settings Changed"
+msgstr "Ρυθμίσεις"
+
+#: modules/webhooks_manager.php:45
+msgid "Webhooks"
+msgstr ""
+
+#: modules/webhooks_manager.php:59
+#, fuzzy
+#| msgid "WP Live Chat Support Feedback"
+msgid "WP Live Chat Support - Webhooks"
+msgstr "Σχόλια WP Live Chat Support"
+
+#: modules/webhooks_manager.php:81
+msgid "Webhook created"
+msgstr ""
+
+#: modules/webhooks_manager.php:83
+msgid "Webhook could not be created"
+msgstr ""
+
+#: modules/webhooks_manager.php:90
+msgid "Webhook edited"
+msgstr ""
+
+#: modules/webhooks_manager.php:92
+msgid "Webhook could not be edited"
+msgstr ""
+
+#: modules/webhooks_manager.php:100
+#, fuzzy
+#| msgid "deleted"
+msgid "Webhook deleted"
+msgstr "διαγραμμένο "
+
+#: modules/webhooks_manager.php:102
+msgid "Webhook could not be delete"
+msgstr ""
+
+#: modules/webhooks_manager.php:224 modules/webhooks_manager.php:275
+msgid "Event"
+msgstr ""
+
+#: modules/webhooks_manager.php:225 modules/webhooks_manager.php:280
+msgid "Target URL"
+msgstr ""
+
+#: modules/webhooks_manager.php:226 modules/webhooks_manager.php:285
+msgid "Method"
+msgstr ""
+
+#: modules/webhooks_manager.php:247
+msgid "No Webhooks"
+msgstr ""
+
+#: modules/webhooks_manager.php:288
+msgid "GET"
+msgstr ""
+
+#: modules/webhooks_manager.php:289
+msgid "POST"
+msgstr ""
+
+#: modules/webhooks_manager.php:295
+#, fuzzy
+#| msgid "Save Settings"
+msgid "Save Changes"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: modules/webhooks_manager.php:309
+msgid "Are you sure you want to delete this webhook?"
+msgstr ""
+
+#: wp-live-chat-support.php:357 wp-live-chat-support.php:1859
+#: wp-live-chat-support.php:2972 wp-live-chat-support.php:4695
+msgid "Chat offline. Leave a message"
+msgstr "Η συνομιλία είναι εκτός σύνδεσης. Αφήστε ένα μήνυμα"
+
+#: wp-live-chat-support.php:358 wp-live-chat-support.php:1565
+#: wp-live-chat-support.php:2973 wp-live-chat-support.php:4696
+msgid "Hello. Please input your details so that I may help you."
+msgstr ""
+
+#: wp-live-chat-support.php:359 wp-live-chat-support.php:960
+#: wp-live-chat-support.php:1604 wp-live-chat-support.php:2974
+#: wp-live-chat-support.php:4697
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+
+#: wp-live-chat-support.php:360 wp-live-chat-support.php:961
+#: wp-live-chat-support.php:2975 wp-live-chat-support.php:4698
+msgid "Sending message..."
+msgstr ""
+
+#: wp-live-chat-support.php:361 wp-live-chat-support.php:962
+#: wp-live-chat-support.php:2976 wp-live-chat-support.php:4699
+#, fuzzy
+#| msgid "Thank you for your feedback. We will be in touch soon"
+msgid "Thank you for your message. We will be in contact soon."
+msgstr "Ευχαριστούμε για τα σχόλια σας. Θα είμαστε σε επαφή σύντομα"
+
+#: wp-live-chat-support.php:363 wp-live-chat-support.php:2978
+#: wp-live-chat-support.php:4701
+msgid "Send message"
+msgstr ""
+
+#: wp-live-chat-support.php:364 wp-live-chat-support.php:1840
+#: wp-live-chat-support.php:2964 wp-live-chat-support.php:4702
+msgid "Questions?"
+msgstr "Απορίες; "
+
+#: wp-live-chat-support.php:365 wp-live-chat-support.php:1841
+#: wp-live-chat-support.php:2965 wp-live-chat-support.php:4703
+msgid "Chat with us"
+msgstr "Συνομιλήστε μαζί μας"
+
+#: wp-live-chat-support.php:366 wp-live-chat-support.php:2966
+#: wp-live-chat-support.php:4704
+#, fuzzy
+#| msgid "Start Live Chat"
+msgid "Start live chat"
+msgstr "Ξεκινήστε Ζωντανή Συνομιλία"
+
+#: wp-live-chat-support.php:367 wp-live-chat-support.php:2967
+#: wp-live-chat-support.php:4705
+msgid "Start Chat"
+msgstr "Έναρξη Συνομιλίας"
+
+#: wp-live-chat-support.php:369 wp-live-chat-support.php:2969
+#: wp-live-chat-support.php:4707
+#, fuzzy
+#| msgid "Chat enabled"
+msgid "Chat ended"
+msgstr "Συνομιλία ενεργοποιημένη"
+
+#: wp-live-chat-support.php:370 wp-live-chat-support.php:1658
+#: wp-live-chat-support.php:1761 wp-live-chat-support.php:2970
+#: wp-live-chat-support.php:4708
+#, fuzzy
+#| msgid "Connecting you to a sales person. Please be patient."
+msgid "Connecting. Please be patient..."
+msgstr "Σας συνδέουμε με έναν πωλητή . Παρακαλούμε να είστε υπομονετικοί."
+
+#: wp-live-chat-support.php:371 wp-live-chat-support.php:2020
+#: wp-live-chat-support.php:2073 wp-live-chat-support.php:2971
+#: wp-live-chat-support.php:4709
+msgid "Reactivating your previous chat..."
+msgstr "Επανενεργοποίηση της προηγούμενης συνομιλία σας..."
+
+#: wp-live-chat-support.php:372 wp-live-chat-support.php:1765
+#: wp-live-chat-support.php:2982 wp-live-chat-support.php:4710
+msgid "Welcome. How may I help you?"
+msgstr ""
+
+#: wp-live-chat-support.php:374 wp-live-chat-support.php:2979
+#: wp-live-chat-support.php:4712
+msgid "Press ENTER to send your message"
+msgstr "Πιέστε το πλήκτρο ENTER για να στείλετε το μήνυμά σας"
+
+#: wp-live-chat-support.php:375 wp-live-chat-support.php:2981
+#: wp-live-chat-support.php:4713
+msgid "close"
+msgstr ""
+
+#: wp-live-chat-support.php:418 wp-live-chat-support.php:2940
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr ""
+"Παρακαλώ κάντε κλικ στο \\'Έναρξη συνομιλίας\\' για να ξεκινήσετε συνομιλία "
+"με έναν πράκτορα"
+
+#: wp-live-chat-support.php:640
+msgid "Live Chat"
+msgstr "Ζωντανή Συνομιλία"
+
+#: wp-live-chat-support.php:641
+#, fuzzy
+#| msgid "Chat Dashboard"
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου συνομιλιών"
+
+#: wp-live-chat-support.php:643
+msgid "Surveys"
+msgstr ""
+
+#: wp-live-chat-support.php:650
+msgid "History"
+msgstr "Ιστορικό"
+
+#: wp-live-chat-support.php:651
+msgid "Missed Chats"
+msgstr "Αναπάντητες Συζητήσεις"
+
+#: wp-live-chat-support.php:669
+msgid "API Keys"
+msgstr ""
+
+#: wp-live-chat-support.php:681
+msgid "Reporting"
+msgstr ""
+
+#: wp-live-chat-support.php:682
+msgid "Triggers"
+msgstr ""
+
+#: wp-live-chat-support.php:683
+msgid "Custom Fields"
+msgstr ""
+
+#: wp-live-chat-support.php:688
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "WP Live Chat Support API Key"
+msgstr "WP Live Chat Support"
+
+#: wp-live-chat-support.php:689
+msgid ""
+"To find and manage your API key, please visit your <a target='_BLANK' "
+"href='https://wp-livechat.com/my-account/'>my account</a> page."
+msgstr ""
+
+#: wp-live-chat-support.php:944
+msgid "Please enter your name"
+msgstr ""
+
+#: wp-live-chat-support.php:945
+msgid "Please enter your email address"
+msgstr ""
+
+#: wp-live-chat-support.php:946
+msgid "Connection to server lost. Please reload this page. Error: "
+msgstr ""
+
+#: wp-live-chat-support.php:948
+msgid "Please enter a message"
+msgstr ""
+
+#: wp-live-chat-support.php:949
+msgid "Disconnected, attempting to reconnect..."
+msgstr ""
+
+#: wp-live-chat-support.php:996 wp-live-chat-support.php:997
+#: wp-live-chat-support.php:2739
+msgid " is typing..."
+msgstr ""
+
+#: wp-live-chat-support.php:1000
+msgid " has joined."
+msgstr ""
+
+#: wp-live-chat-support.php:1001
+msgid " has left."
+msgstr ""
+
+#: wp-live-chat-support.php:1002
+#, fuzzy
+#| msgid "User has opened the chat window"
+msgid " has ended the chat."
+msgstr "Ο χρήστης έχει ανοίξει το παράθυρο συνομιλίας"
+
+#: wp-live-chat-support.php:1003
+msgid " has disconnected."
+msgstr ""
+
+#: wp-live-chat-support.php:1004
+msgid "(edited)"
+msgstr ""
+
+#: wp-live-chat-support.php:1005 wp-live-chat-support.php:1798
+#, fuzzy
+#| msgid "type here..."
+msgid "Type here"
+msgstr "πληκτρολογήστε εδώ ..."
+
+#: wp-live-chat-support.php:1453 wp-live-chat-support.php:1473
+#, fuzzy
+#| msgid "Start Chat"
+msgid "Start chat"
+msgstr "Έναρξη Συνομιλίας"
+
+#: wp-live-chat-support.php:1809 wp-live-chat-support.php:2704
+msgid "Send"
+msgstr "Αποστολή"
+
+#: wp-live-chat-support.php:2296
+msgid "Congratulations"
+msgstr "Συγχαρητήρια"
+
+#: wp-live-chat-support.php:2297
+msgid "You are now accepting live chat requests on your site."
+msgstr "Τώρα αποδέχεστε αιτήματα για ζωντανής συνομιλίας στην ιστοσελίδα σας."
+
+#: wp-live-chat-support.php:2298
+msgid "The live chat box has automatically been enabled on your website."
+msgstr ""
+"Το παράθυρο ζωντανής συνομιλίας έχει ενεργοποιηθεί αυτόματα στην ιστοσελίδα "
+"σας."
+
+#: wp-live-chat-support.php:2299
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr ""
+"Οι ειδοποιήσεις συνομιλιών θα αρχίσουν να εμφανίζονται όταν οι επισκέπτες "
+"στείλουν αίτημα."
+
+#: wp-live-chat-support.php:2300
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+"Μπορείτε <a href='?page=wplivechat-menu-settings' target='_BLANK'>να κάνετε "
+"αλλαγές στο κουτί συνομιλίας εδώ."
+
+#: wp-live-chat-support.php:2301
+msgid "Experiencing issues?"
+msgstr "Αντιμετωπίζετε προβλήματα;"
+
+#: wp-live-chat-support.php:2301
+msgid "Visit our troubleshooting section."
+msgstr "Επισκεφθείτε τον τομέα αντιμετώπισης προβλημάτων"
+
+#: wp-live-chat-support.php:2303
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: wp-live-chat-support.php:2368
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr ""
+"Προσοχή: Αυτό το παράθυρο πρέπει να είναι ανοικτό για να λαμβάνετε νέες "
+"ειδοποιήσεις συνομιλιών."
+
+#: wp-live-chat-support.php:2380
+msgid "Visitors online"
+msgstr "Επισκέπτες σε σύνδεση"
+
+#: wp-live-chat-support.php:2395
+msgid "Time"
+msgstr "Χρόνος"
+
+#: wp-live-chat-support.php:2397
+msgid "Device"
+msgstr ""
+
+#: wp-live-chat-support.php:2398
+msgid "Data"
+msgstr "Δεδομένα"
+
+#: wp-live-chat-support.php:2436
+msgid "Chat Dashboard"
+msgstr "Πίνακας ελέγχου συνομιλιών"
+
+#: wp-live-chat-support.php:2439
+msgid "Oh no!"
+msgstr ""
+
+#: wp-live-chat-support.php:2442
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr ""
+
+#: wp-live-chat-support.php:2607
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: wp-live-chat-support.php:2618
+msgid "Chat with"
+msgstr "Συνομίλησε με"
+
+#: wp-live-chat-support.php:2620
+msgid "Starting Time:"
+msgstr ""
+
+#: wp-live-chat-support.php:2621
+msgid "Ending Time:"
+msgstr ""
+
+#: wp-live-chat-support.php:2663
+msgid "Site Info"
+msgstr "Πληροφορίες Ιστοσελίδας"
+
+#: wp-live-chat-support.php:2665
+msgid "Chat initiated on:"
+msgstr "Η συνομιλία ξεκίνησε στις:"
+
+#: wp-live-chat-support.php:2669
+msgid "Advanced Info"
+msgstr "Πληροφορίες για προχωρημένους"
+
+#: wp-live-chat-support.php:2671
+msgid "Browser:"
+msgstr "Πρόγραμμα Περιήγησης:"
+
+#: wp-live-chat-support.php:2672
+msgid "IP Address:"
+msgstr "Διεύθυνση IP:"
+
+#: wp-live-chat-support.php:2698
+msgid "type here..."
+msgstr "πληκτρολογήστε εδώ ..."
+
+#: wp-live-chat-support.php:2878
+msgid "is typing..."
+msgstr ""
+
+#: wp-live-chat-support.php:2922
+msgid "User has opened the chat window"
+msgstr "Ο χρήστης έχει ανοίξει το παράθυρο συνομιλίας"
+
+#: wp-live-chat-support.php:2923
+msgid "User has minimized the chat window"
+msgstr "Ο χρήστης έχει ελαχιστοποιήσει το παράθυρο συνομιλίας"
+
+#: wp-live-chat-support.php:2924
+msgid "User has maximized the chat window"
+msgstr "Ο χρήστης έχει μεγιστοποιήσει το παράθυρο συνομιλίας"
+
+#: wp-live-chat-support.php:2925
+msgid "The chat has been ended"
+msgstr ""
+
+#: wp-live-chat-support.php:3640
+#, fuzzy
+#| msgid "History"
+msgid "Delete History"
+msgstr "Ιστορικό"
+
+#: wp-live-chat-support.php:3657
+#, fuzzy
+#| msgid "No chat sessions available at the moment"
+msgid "No chats available at the moment"
+msgstr "Δεν υπάρχουν διαθέσιμες συνεδρίες συνομιλιών αυτήν τη στιγμή"
+
+#: wp-live-chat-support.php:3709
+msgid "WP Live Chat History"
+msgstr "Ιστορίκο WP Live Chat"
+
+#: wp-live-chat-support.php:3736
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat Αναπάντητες Συζητήσεις"
+
+#: wp-live-chat-support.php:3755
+msgid "WP Live Chat Offline Messages"
+msgstr "Μηνύματα εκτός σύνδεσης WP Live Chat"
+
+#: wp-live-chat-support.php:3792
+#, fuzzy
+#| msgid "You have not missed any chat requests."
+msgid "You have not received any offline messages."
+msgstr "Δεν έχετε χάσει κανένα αίτημα συνομιλίας."
+
+#: wp-live-chat-support.php:3800
+#, fuzzy
+#| msgid "Offline Messages"
+msgid "Delete Message"
+msgstr "Μηνύματα Εκτός Σύνδεσης"
+
+#: wp-live-chat-support.php:3990
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr ""
+"Παρακαλούμε κάντε κλικ στο \"Έναρξη Συνομιλίας\" για να ξεκινήσετε μια "
+"συνομιλία με έναν πράκτορα"
+
+#: wp-live-chat-support.php:4153
+msgid "Thank You for your feedback!"
+msgstr "Σας ευχαριστούμε για τα σχόλιά σας!"
+
+#: wp-live-chat-support.php:4163
+msgid "Your settings have been saved."
+msgstr "Οι ρυθμίσεις σας έχουν αποθηκευτεί."
+
+#: wp-live-chat-support.php:4192
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"WPLC: το set_time_limit() δεν είναι ενεργοποιημένο σε αυτόν τον σέρβερ. "
+"Ενδέχεται να αντιμετωπίσετε προβλήματα κατά την χρήση του WP Live Chat "
+"Support ως αποτέλεσμα αυτού. Παρακαλούμε επικοινωνήστε με τον πάροχό σας "
+"προκειμένου να ενεργοποιήσετε αυτήν την λειτουργία."
+
+#: wp-live-chat-support.php:4198
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"WPLC: η λειτουργία ασφαλείας είναι ενεργοποιημένη σε αυτόν τον σέρβερ. "
+"Ενδέχεται να αντιμετωπίσετε προβλήματα κατά την χρήση του WP Live Chat "
+"Support ως αποτέλεσμα αυτής. Παρακαλούμε επικοινωνήστε με τον πάροχό σας για "
+"να απενεργοποιήσετε αυτήν την λειτουργία."
+
+#: wp-live-chat-support.php:4220
+msgid "Troubleshooting"
+msgstr "Αντιμετώπιση προβλημάτων"
+
+#: wp-live-chat-support.php:4222
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"Το WP Live Chat Support έχει πληθώρα χαρακτηριστικών τα οποία μπορεί, κατά "
+"καιρούς​, να έρχονται σε σύγκρουση με τα χιλιάδες θέματα και τις άλλες "
+"επεκτάσεις στην αγορά."
+
+#: wp-live-chat-support.php:4223
+msgid "Common issues:"
+msgstr "Συνήθη προβλήματα:"
+
+#: wp-live-chat-support.php:4225
+msgid "My API Key says ‘Invalid’"
+msgstr ""
+
+#: wp-live-chat-support.php:4226
+msgid "My Chat Box is Not Showing"
+msgstr ""
+
+#: wp-live-chat-support.php:4227
+#, fuzzy
+#| msgid "I'm not getting any notifications of a new chat"
+msgid "Not Receiving Notifications of New Chats"
+msgstr "Δεν λαμβάνω καθόλου ειδοποιήσεις από νέες συνομιλίες"
+
+#: wp-live-chat-support.php:4228
+#, fuzzy
+#| msgid "Messages only show when I refresh the chat window"
+msgid "Messages Only Show When I Refresh"
+msgstr ""
+"Τα μηνύματα εμφανίζονται μόνο όταν κάνω επαναφόρτωση το παράθυρο συνομιλίας"
+
+#: wp-live-chat-support.php:4229
+#, fuzzy
+#| msgid "The chat window never goes offline"
+msgid "The Chat Box Never Goes Offline"
+msgstr "Το παράθυρο συνομιλιών δεν βγαίνει ποτέ εκτός σύνδεσης"
+
+#: wp-live-chat-support.php:4230
+msgid "Error: Chat has already been Answered"
+msgstr ""
+
+#: wp-live-chat-support.php:4236
+msgid "Still need help? Use one of these links below."
+msgstr ""
+"Ακόμα χρειάζεστε βοήθεια; Χρησιμοποιήστε έναν από τους συνδέσμους παρακάτω"
+
+#: wp-live-chat-support.php:4274
+msgid "Initiate Chats"
+msgstr "Ξεκινά Συνομιλίες"
+
+#: wp-live-chat-support.php:4275
+msgid "Multiple Chats"
+msgstr "Πολλαπλές Συνομιλίες"
+
+#: wp-live-chat-support.php:4276
+msgid "Add unlimited agents"
+msgstr "Προσθέστε απεριόριστους πράκτορες"
+
+#: wp-live-chat-support.php:4277
+#, fuzzy
+#| msgid "Missed Chats"
+msgid "Transfer Chats"
+msgstr "Αναπάντητες Συζητήσεις"
+
+#: wp-live-chat-support.php:4299
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"Ευχαριστούμε που χρησιμοποιείτε <a href=\"%1$s\" target=\"_blank\"> το WP "
+"Live Chat Support. </a>! Παρακαλούμε <a href=\"%2$s\" target=\"_blank"
+"\">βαθμολογήστε μας </a> on <a href=\"%2$s\" target=\"_blank\">στο WordPress."
+"org </a>"
+
+#: wp-live-chat-support.php:4452
+msgid "API Key"
+msgstr ""
+
+#: wp-live-chat-support.php:4455
+msgid "Verify"
+msgstr ""
+
+#: wp-live-chat-support.php:4458
+#, fuzzy
+#| msgid "Status"
+msgid "Status: "
+msgstr "Κατάσταση"
+
+#: wp-live-chat-support.php:4461
+msgid "Valid"
+msgstr ""
+
+#: wp-live-chat-support.php:4462 wp-live-chat-support.php:4466
+msgid "Manage this API Key"
+msgstr ""
+
+#: wp-live-chat-support.php:4465
+msgid "Invalid"
+msgstr ""
+
+#: wp-live-chat-support.php:4471
+msgid "Linked Domains"
+msgstr ""
+
+#: wp-live-chat-support.php:4533 wp-live-chat-support.php:4591
+msgid "From"
+msgstr ""
+
+#: wp-live-chat-support.php:4535 wp-live-chat-support.php:4593
+#, fuzzy
+#| msgid "Time"
+msgid "Timestamp"
+msgstr "Χρόνος"
+
+#: wp-live-chat-support.php:4536 wp-live-chat-support.php:4594
+msgid "Origin"
+msgstr ""
+
+#: wp-live-chat-support.php:4541 wp-live-chat-support.php:4599
+msgid "user"
+msgstr ""
+
+#: wp-live-chat-support.php:4543 wp-live-chat-support.php:4601
+#, fuzzy
+#| msgid "Agents"
+msgid "agent"
+msgstr "Πράκτορες"
+
+#: wp-live-chat-support.php:4664
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+
+#: wp-live-chat-support.php:4743
+#, fuzzy
+#| msgid "Advanced Info"
+msgid "Advanced settings"
+msgstr "Πληροφορίες για προχωρημένους"
+
+#: wp-live-chat-support.php:4750
+msgid "Only change these settings if you are experiencing performance issues."
+msgstr ""
+
+#: wp-live-chat-support.php:4757
+msgid "What type of environment are you on?"
+msgstr ""
+
+#: wp-live-chat-support.php:4761
+msgid "Shared hosting - low level plan"
+msgstr ""
+
+#: wp-live-chat-support.php:4762
+msgid "Shared hosting - normal plan"
+msgstr ""
+
+#: wp-live-chat-support.php:4763
+msgid "VPS"
+msgstr ""
+
+#: wp-live-chat-support.php:4764
+msgid "Dedicated server"
+msgstr ""
+
+#: wp-live-chat-support.php:4770
+msgid "Long poll setup"
+msgstr ""
+
+#: wp-live-chat-support.php:4770
+msgid ""
+"Only change these if you are an experienced developer or if you have "
+"received these figures from the WP Live Chat Support team."
+msgstr ""
+
+#: wp-live-chat-support.php:4776
+#, fuzzy
+#| msgid "Questions?"
+msgid "Iterations"
+msgstr "Απορίες; "
+
+#: wp-live-chat-support.php:4780
+msgid "Sleep between iterations"
+msgstr ""
+
+#: wp-live-chat-support.php:4783
+msgid "microseconds"
+msgstr ""
+
+#: wp-live-chat-support.php:4806
+msgid "Display a 'Powered by' link in the chat box"
+msgstr ""
+
+#: wp-live-chat-support.php:4806
+msgid ""
+"Checking this will display a 'Powered by WP Live Chat Support' caption at "
+"the bottom of your chatbox."
+msgstr ""
+
+#: wp-live-chat-support.php:4849
+#, fuzzy
+#| msgid "WP Live Chat Support"
+msgid "Powered by WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: wp-live-chat-support.php:4893 wp-live-chat-support.php:4913
+msgid "Custom Scripts"
+msgstr ""
+
+#: wp-live-chat-support.php:4917
+msgid "Custom CSS"
+msgstr ""
+
+#: wp-live-chat-support.php:4922
+msgid "Custom JS"
+msgstr ""
+
+#: wp-live-chat-support.php:5008
+#, php-format
+msgid ""
+"The Live Chat box is currently disabled on your website due to : <a href=\"%s"
+"\">General Settings</a>"
+msgstr ""
+
+#: wp-live-chat-support.php:5125
+msgid ""
+"Please deactivate WP Live Chat Suport - Email Transcript plugin. Since WP "
+"Live Chat Support 8.0.05 there is build in support for Email Transcript."
+msgstr ""
+
+#: wp-live-chat-support.php:5138
+#, php-format
+msgid ""
+"Thank you for chatting with us. If you have any questions, please <a href="
+"\"%1$s\" target=\"_blank\" style=\"font-family: Arial, Helvetica, sans-"
+"serif; font-size: 13px; color: #FFF; font-weight: bold; text-decoration: "
+"underline;\">contact us</a>"
+msgstr ""
+
+#: wp-live-chat-support.php:5155
+msgid "Email transcript to user"
+msgstr ""
+
+#: wp-live-chat-support.php:5239
+#, php-format
+msgid "Your chat transcript from %1$s"
+msgstr ""
+
+#: wp-live-chat-support.php:5337
+#, fuzzy
+#| msgid "Chat Window Settings"
+msgid "Chat Transcript Settings"
+msgstr "Ρυθμίσεις Παράθυρου Συνομιλιών"
+
+#: wp-live-chat-support.php:5340
+msgid "Enable chat transcripts:"
+msgstr ""
+
+#: wp-live-chat-support.php:5351
+msgid "Send transcripts to:"
+msgstr ""
+
+#: wp-live-chat-support.php:5358
+msgid "User"
+msgstr ""
+
+#: wp-live-chat-support.php:5369
+msgid "Send transcripts when chat ends:"
+msgstr ""
+
+#: wp-live-chat-support.php:5380
+#, fuzzy
+#| msgid "Email"
+msgid "Email body"
+msgstr "Ηλεκτρονικό Ταχυδρομείο"
+
+#: wp-live-chat-support.php:5392
+#, fuzzy
+#| msgid "Email Address"
+msgid "Email header"
+msgstr "Διεύθυνση Ηλεκτρονικού Ταχυδρομείου"
+
+#: wp-live-chat-support.php:5403
+msgid "Email footer"
+msgstr ""
+
+#~ msgid "Already installed"
+#~ msgstr "Ήδη εγκατεστημένο"
+
+#~ msgid "Free version"
+#~ msgstr "Δωρεάν έκδοση"
+
+#~ msgid "Both"
+#~ msgstr "και τα δύο"
+
+#~ msgid "For:"
+#~ msgstr "Για:"
+
+#~ msgid "Paid"
+#~ msgstr "Πληρωμένη"
+
+#~ msgid "Free"
+#~ msgstr "Δωρεάν"
+
+#~ msgid "Price:"
+#~ msgstr "Τιμή:"
+
+#~ msgid "WP-LiveChat"
+#~ msgstr "WP-LiveChat"
+
+#~ msgid ""
+#~ "The easiest to use website live chat plugin. Let your visitors chat with "
+#~ "you and increase sales conversion rates with WP Live Chat Support. No "
+#~ "third party connection required!"
+#~ msgstr ""
+#~ "Η πιο εύχρηστη επέκταση live chat για ιστοσελίδες. Επέτρεψε στους "
+#~ "επισκέπτες να συνομιλήσουν μαζί σου και αύξησε την συναλλαγματική "
+#~ "ισοτιμία των πωλήσεων με το WP Live Chat Support. Δεν απαιτούνται "
+#~ "συνδέσεις τρίτων."
+
+#~ msgid "http://www.wp-livechat.com"
+#~ msgstr "http://www.wp-livechat.com"
+
+#~ msgid "WP Live Chat Support is a product of"
+#~ msgstr "Το WP Live Chat Support είναι προϊόν του"
+
+#~ msgid "for only $19.95 once off."
+#~ msgstr "μόνο με $19.95 μία και έξω."
+
+#~ msgid "accept and handle multiple chats."
+#~ msgstr "αποδέξου και διαχειρήσου πολλαπλές συνομιλίες."
+
+#~ msgid "Contact us"
+#~ msgstr "Επικοινωνία"
+
+#~ msgid "Support forum"
+#~ msgstr "Φόρουμ υποστήριξης."
+
+#~ msgid "The chat window disappears when I logout or go offline"
+#~ msgstr ""
+#~ "Το παράθυρο συνομιλίας εξαφανίζεται όταν αποσυνδέομαι ή όταν βγαίνω εκτός "
+#~ "σύνδεσης"
+
+#~ msgid "The chat box doesnt show up"
+#~ msgstr "Το κουτί συνομιλίας δεν εμφανίζεται"
+
+#~ msgid "How do I check for JavaScript errors on my site?"
+#~ msgstr "Πώς ελέγχω για προβλήματα JavaScript στην ιστοσελίδα μου;"
+
+#~ msgid "Do you have a mobile app?"
+#~ msgstr "Έχετε εφαρμογή για κινητά;"
+
+#~ msgid "How do I disable APC Object Cache?"
+#~ msgstr "Πώς απενεργοποιώ το APC Object Cache;"
+
+#~ msgid "Can I use this plugin on my multi-site?"
+#~ msgstr "Μπορώ να χρησιμοποιήσω αυτήν την επέκταση στο multi-site μου;"
+
+#~ msgid "Do I have to be logged into the dashboard to chat with visitors?"
+#~ msgstr ""
+#~ "Πρέπει να είμαι συνδεδεμένος στον πίνακα ελέγχου για να συνομιλήσω με "
+#~ "τους επισκέπτες;"
+
+#~ msgid "Minimum System Requirements"
+#~ msgstr "Ελάχιστες Απαιτήσεις Συστήματος"
+
+#~ msgid "Documentation:"
+#~ msgstr "Εγχειρίδιο:"
+
+#~ msgid ""
+#~ "Getting started? Read through some of these articles to help you along "
+#~ "your way."
+#~ msgstr ""
+#~ "Μόλις ξεκίνησες; Διάβασε μερικά από αυτά τα άρθρα για να σε βοηθήσουμε να "
+#~ "προχωρήσεις."
+
+#~ msgid ""
+#~ "Create and send newsletters, automatic post notifications and "
+#~ "autoresponders that are modern and beautiful with Nifty Newsletters."
+#~ msgstr ""
+#~ "Δημιούργησε και στείλε ενημερωτικά δελτία, αυτόματες ειδοποιήσεις "
+#~ "αναρτήσεων και αυτόματες απαντήσεις που θα είναι μοντέρνα και όμορφα με "
+#~ "τα Nifty Newsletters."
+
+#~ msgid "Nifty Newsletters"
+#~ msgstr "Nifty Newsletters"
+
+#~ msgid "Get this Plugin"
+#~ msgstr "Απέκτησε αυτήν την επέκταση"
+
+#~ msgid ""
+#~ "The easiest to use Help Desk & Support Ticket plugin. Create a support "
+#~ "help desk quickly and easily with Sola Support Tickets."
+#~ msgstr ""
+#~ "Η πιο εύκολη στην χρήση επέκταση Help Desk & Support Ticket. Δημιούργησε "
+#~ "μία φόρμα βοήθειας γρήγορα και εύκολα με το Sola Support Tickets."
+
+#~ msgid "Sola Support Tickets"
+#~ msgstr "Sola Support Tickets"
+
+#~ msgid "Suggested Plugins"
+#~ msgstr "Προτεινόμενες επεκτάσεις"
+
+#~ msgid "Add-ons"
+#~ msgstr "Πρόσθετα"
+
+#~ msgid ""
+#~ "There was a problem sending your feedback. Please log your feedback on "
+#~ msgstr ""
+#~ "Υπήρξε ένα πρόβλημα με την αποστολή των σχολίων σας. Παρακαλούμε "
+#~ "καταγράψτε τα σχόλιά σας στο"
+
+#~ msgid "Get it now for only $19.95."
+#~ msgstr "Αποκτήστε το τώρα μόνο με $ 19.95 μία και έξω."
+
+#~ msgid ""
+#~ "Please update to the latest version of WP Live Chat Support Pro to start "
+#~ "recording any offline messages."
+#~ msgstr ""
+#~ "Σας παρακαλούμε ενημερωθείτε με την τελευταία έκδοση του WP Live Chat "
+#~ "Support Pro για να ξεκινήσει η εγγραφή μηνυμάτων εκτός σύνδεσης."
+
+#~ msgid "Get it now for only $19.95"
+#~ msgstr "Αποκτήστε το τώρα για μόνο $ 19,95 εφάπαξ"
+
+#~ msgid "This option is only available in the "
+#~ msgstr "Αυτη η επιλογή είναι διαθέσιμη μόνο στο"
+
+#~ msgid "Pro version only"
+#~ msgstr "Pro έκδοση μόνο"
+
+#~ msgid "Buy the Pro add-on now for only $19.95 once off."
+#~ msgstr "Αγοράστε το πρόσθετο Pro τώρα για μόνο $ 19,95 μία και καλή."
+
+#~ msgid "with your online visitors with the click of a button."
+#~ msgstr "με τους online επισκέπτες σας με το πάτημα ενός κουμπιού."
+
+#~ msgid "initiate chats"
+#~ msgstr "έναρξη συνομιλίας"
+
+#~ msgid "see who's online and initiate chats"
+#~ msgstr "δείτε ποιοι είναι online και ξεκινήστε συνομιλίες"
+
+#~ msgid "With the Pro add-on of WP Live Chat Support, you can"
+#~ msgstr "Με το Pro add-on υποστήριξης του WP Live Chat, μπορείτε να"
+
+#~ msgid "to ensure everything is working correctly."
+#~ msgstr "για να εξασφαλίσουμε ότι όλα δουλεύουν σωστά."
+
+#~ msgid "Version 5.0.1"
+#~ msgstr "Έκδοση 5.0.1"
+
+#~ msgid "Please update to the latest version of WP Live Chat Support Pro"
+#~ msgstr ""
+#~ "Παρακαλούμε ενημερώστε το WP Live Chat Support Pro στην τελευταία έκδοση"
+
+#~ msgid ""
+#~ "You are using an outdated version of <strong>WP Live Chat Support Pro</"
+#~ "strong>."
+#~ msgstr ""
+#~ "Χρησιμοποιείτε μια παλιά έκδοση του <strong>WP Live Chat Support Pro</"
+#~ "strong>."
+
+#~ msgid "If you are having difficulty updating the plugin, please contact"
+#~ msgstr ""
+#~ "Εάν αντιμετωπίζετε δυσκολίες κατά την ενημέρωση της επέκτασης, "
+#~ "παρακαλούμε επικοινωνήστε"
+
+#~ msgid ""
+#~ "You can update your plugin <a href='./update-core.php'>here</a>, <a "
+#~ "href='./plugins.php'>here</a> or <a href='http://wp-livechat.com/get-"
+#~ "updated-version/' target='_BLANK'>here</a>."
+#~ msgstr ""
+#~ "Μπορείτε να ενημερώσετε την επέκτασή σας <a href='./update-core.php'>εδώ</"
+#~ "a>, <a href='./plugins.php'>εδώ</a> ή <a href='http://wp-livechat.com/get-"
+#~ "updated-version/' target='_BLANK'>εδώ</a>."
+
+#~ msgid ""
+#~ "You're live chat box on your website has been temporarily disabled until "
+#~ "the Pro plugin has been updated. This is to ensure a smooth and hassle-"
+#~ "free user experience for both yourself and your visitors."
+#~ msgstr ""
+#~ "Το κουτί ζωντανής συνομιλίας της ιστοσελίδας σας έχει απενεργοποιηθεί "
+#~ "προσωρινά, μέχρι να ενημερωθεί η Pro επέκταση. Αυτό θα εξασφαλίσει μία "
+#~ "ομαλή εμπειρία χρήστη, χωρίς ταλαιπωρίες, τόσο σε εσάς, όσο και στους "
+#~ "επισκέπτες σας."
+
+#~ msgid "to ensure all functionality is in working order"
+#~ msgstr "για να εξασφαλίσουμε ότι όλες οι λειτουργίες δουλεύουν σωστά"
+
+#~ msgid "update to at least version"
+#~ msgstr "ενημερώστε τουλάχιστον στην έκδοση"
+
+#~ msgid ""
+#~ "You are using an outdated version of <strong>WP Live Chat Support Pro</"
+#~ "strong>. Please"
+#~ msgstr ""
+#~ "Χρησιμοποιείτε μια παλιά έκδοση του <strong>WP Live Chat Support Pro</"
+#~ "strong>. Παρακαλούμε"
+
+#~ msgid "Extensions"
+#~ msgstr "Επεκτάσεις"
+
+#~ msgid "Skip"
+#~ msgstr "Παράβλεψη"
+
+#~ msgid "Submit"
+#~ msgstr "Υποβολή"
+
+#~ msgid "Please Explain"
+#~ msgstr "Παρακαλούμε εξηγήστε"
+
+#~ msgid "Friend recommendation"
+#~ msgstr "Σύσταση φίλου"
+
+#~ msgid "Google or other search Engine"
+#~ msgstr "Google ή άλλη μηχανή αναζήτησης"
+
+#~ msgid "WordPress.org plugin repository "
+#~ msgstr "Αποθετήριο επεκτάσεων WordPress.org"
+
+#~ msgid "How did you find us?"
+#~ msgstr "Πώς μας βρήκατε;"
+
+#~ msgid "Provide Instant Live Chat Support!"
+#~ msgstr "Παρέχετε Άμεση Υποστήριξη Με Ζωντανή Συνομιλία!"
+
+#~ msgid "Version 5"
+#~ msgstr "Έκδοση 5"
+
+#~ msgid "Encrypt your chat messages in the "
+#~ msgstr "Κωδικοποιήστε τα μηνύματα συνομιλίας σας στο"
+
+#~ msgid "Pro version for only $19.95 once off."
+#~ msgstr "Η Pro έκδοση μόνο με $19.95 εφάπαξ."
+
+#~ msgid "Add as many agents as you need with the "
+#~ msgstr "Προσθέστε όσους πράκτορες χρειάζεστε με το"
+
+#~ msgid "Pro"
+#~ msgstr "Pro"
+
+#~ msgid "Choose an animation. Only available in the"
+#~ msgstr "Επιλέξτε μία κίνηση. Διαθέσιμο μόνο στην"
+
+#~ msgid "Chat box font color"
+#~ msgstr "Χρώμα γραμματοσειράς πλαισίου συνομιλίας"
+
+#~ msgid "Chat box fill color"
+#~ msgstr "Χρώμα γεμίσματος πλαισίου συνομιλίας"
+
+#~ msgid "Colour Scheme 5"
+#~ msgstr "Παλέτα Χρωμάτων 5"
+
+#~ msgid "Colour Scheme 4"
+#~ msgstr "Παλέτα Χρωμάτων 4"
+
+#~ msgid "Colour Scheme 3"
+#~ msgstr "Παλέτα Χρωμάτων 3"
+
+#~ msgid "Colour Scheme 2"
+#~ msgstr "Παλέτα Χρωμάτων 2"
+
+#~ msgid "Colour Scheme 1"
+#~ msgstr "Παλέτα Χρωμάτων 1"
+
+#~ msgid "Pro add-on"
+#~ msgstr "Pro προσθήκη"
+
+#~ msgid "Choose a colour scheme. Only available in the"
+#~ msgstr "Επιλέξτε μία παλέτα χρωμάτων. Διαθέσιμο μόνο στην"
+
+#~ msgid "Edit these text fields using the "
+#~ msgstr "Επεξεργαστείτε αυτά τα πεδία κειμένου χρησιμοποιώντας το"
+
+#~ msgid "Get offline messages with the "
+#~ msgstr "Λάβετε μηνύματα εκτός σύνδεσης με το"
+
+#~ msgid ""
+#~ "Display the agent and user name above each message in the chat window."
+#~ msgstr ""
+#~ "Εμφάνιση του ονόματος του πράκτορα και του χρήστη πάνω από κάθε μήνυμα "
+#~ "στο παράθυρο συνομιλίας."
+
+#~ msgid "Disable this to enable anonymity for your visitors"
+#~ msgstr ""
+#~ "Απενεργοποιήστε αυτό για να ενεργοποιήσετε την ανωνυμία των επισκεπτών σας"
+
+#~ msgid "Record a visitor's IP Address"
+#~ msgstr "Καταγράψτε την διεύθυνση IP ενός επισκέπτη"
+
+#~ msgid ""
+#~ "Users will have to enter their Name and Email Address when starting a chat"
+#~ msgstr ""
+#~ "Οι χρήστες θα πρέπει να εισάγουν το Όνομα και την Διεύθυνση Ηλεκτρονικού "
+#~ "Ταχυδρομείου τους όταν ξεκινάνε μια συνομιλία"
+
+#~ msgid "Hides chat for 24hrs when user clicks X"
+#~ msgstr ""
+#~ "Αποκρύπτει την συνομιλία για 24 ώρες όταν ο χρήστης κάνει κλικ στο X"
+
+#~ msgid "Hide Chat"
+#~ msgstr "Απόκρυψη Chat"
+
+#~ msgid "only"
+#~ msgstr "μόνο"
+
+#~ msgid "Pro Add-on"
+#~ msgstr "Pro επέκταση"
+
+#~ msgid "Send Feedback"
+#~ msgstr "Αποστολή Σχολίων"
+
+#~ msgid "Feedback"
+#~ msgstr "Σχόλια"
+
+#~ msgid "Your Email"
+#~ msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου σας"
+
+#~ msgid "We'd love to hear your comments and/or suggestions"
+#~ msgstr "Θα θέλαμε πολύ να ακούσουμε τα σχόλια και/ή τις προτάσεις σας"
+
+#~ msgid "Get Pro Add-on to accept more chats"
+#~ msgstr "Αγοράστε την Pro επέκταση για να αποδέχεστε περισσότερες συνομιλίες"
+
+#~ msgid "This chat is active"
+#~ msgstr "Αυτή η συνομιλία είναι ενεργή"
+
+#~ msgid "You have an incoming chat."
+#~ msgstr "Έχετε εισερχόμενη συνομιλία."

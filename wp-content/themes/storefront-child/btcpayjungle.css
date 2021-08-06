@@ -1,0 +1,32 @@
+ul { 
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    
+    -moz-flex-flow: wrap;
+    -webkit-flex-flow: wrap;
+    flex-flow: wrap;
+}
+li {
+    order:4;
+}
+li:not([data-value]) {
+    order:1;
+}
+li[data-value="USD"] {
+    order:2;
+}
+li[data-value="EUR"] {
+    order:3;
+}
+
+div#altcoins-tab::before {
+    content: 'Credit Card / Altcoins';
+}
+
+div#altcoins-tab span {
+    display: none;
+}

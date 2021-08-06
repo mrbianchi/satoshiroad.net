@@ -1,0 +1,18 @@
+#wplc_hovercard { height: auto !important; }
+#wplc_hovercard_content { height: auto !important; padding: 5px !important;}
+.wplc_hovercard_content_left { display:none !important; }
+.wplc_hovercard_content_right { display:none !important; }
+
+#speeching_button {
+    padding: 5px;
+    font-size: 12px;
+    text-transform: none;
+    float:none !important;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -3px;
+    display: block;
+    padding-right: 10px;
+    padding-left: 10px;
+}

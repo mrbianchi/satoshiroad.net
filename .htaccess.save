@@ -1,0 +1,28 @@
+# BEGIN WP Hide & Security Enhancer
+
+# END WP Hide & Security Enhancer
+
+
+Options -Indexes
+
+# BEGIN WebP Express
+# WebP Express has placed its rules in your wp-content dir. Go there.
+# END WebP Express
+# BEGIN WPSuperCache
+# END WPSuperCache
+Header set X-Frame-Options SAMEORIGIN
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN ShortPixelWebp
+
+# END ShortPixelWeb

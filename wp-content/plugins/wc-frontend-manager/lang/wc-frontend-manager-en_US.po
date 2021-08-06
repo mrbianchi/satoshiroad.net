@@ -1,0 +1,6211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WCFM\n"
+"POT-Creation-Date: 2018-07-24 07:08+0000\n"
+"PO-Revision-Date: 2018-07-24 07:10+0000\n"
+"Last-Translator: admin <aa@wcl.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../assets\n"
+"X-Poedit-SearchPathExcluded-1: ../includes/libs\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;"
+
+#: core/class-wcfm-admin.php:100
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t           Is there anything missing in your front-end "
+"dashboard !!!\n"
+"\t\t\t\t\t\t\t\t               </h2>"
+msgstr ""
+
+#: core/class-wcfm-admin.php:106
+msgid ""
+"<p>WooCommerce Frontend Manage - Ultimate is there to fill up all those for "
+"you. Support Ticket, Shipment Tracking, Direct Messaging, Vendor Followers, "
+"Product Importer, Custom Attriutes and many more, almost a never ending "
+"features list for you.</p>"
+msgstr ""
+
+#: core/class-wcfm-admin.php:112
+msgid "WCFM U >>"
+msgstr ""
+
+#: core/class-wcfm-admin.php:148
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t           Now setup your vendor membership subscription "
+"in minutes & it's FREE !!!\n"
+"\t\t\t\t\t\t\t\t               </h2>"
+msgstr ""
+
+#: core/class-wcfm-admin.php:151
+msgid ""
+"<p>A simple membership plugin for offering FREE AND PREMIUM SUBSCRIPTION for "
+"your multi-vendor marketplace. You may set up unlimited membership levels "
+"(example: free, silver, gold etc) with different pricing plan, capabilities "
+"and commission. Also you will have Pay for Product option.</p>"
+msgstr ""
+
+#: core/class-wcfm-admin.php:157
+#: controllers/customers/wcfm-controller-customers-details.php:163
+#: controllers/customers/wcfm-controller-customers-details.php:360
+#: controllers/orders/wcfm-controller-dokan-orders.php:253
+#: controllers/orders/wcfm-controller-orders.php:219
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:310
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:293
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:342
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:182
+#: views/capability/wcfm-view-capability.php:329
+msgid "View Details"
+msgstr ""
+
+#: core/class-wcfm-admin.php:193
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t           Do you want to have different capabilities "
+"for each membership levels !!!\n"
+"\t\t\t\t\t\t\t\t               </h2>"
+msgstr ""
+
+#: core/class-wcfm-admin.php:199
+msgid ""
+"<p>WCFM - Groups & Staffs will empower you to set up totaly different "
+"capability rules for your each membership levels very easily.</p>"
+msgstr ""
+
+#: core/class-wcfm-admin.php:205
+msgid "WCFM GS >>"
+msgstr ""
+
+#: core/class-wcfm-admin.php:225 core/class-wcfm-admin.php:265
+#: core/class-wcfm-admin.php:266 core/class-wcfm-admin.php:267
+msgid "WCFM View"
+msgstr ""
+
+#: core/class-wcfm-admin.php:284 core/class-wcfm-admin.php:294
+#: core/class-wcfm-admin.php:296 core/class-wcfm-admin.php:298
+#: core/class-wcfm-wcvendors.php:195 core/class-wcfm-wcvendors.php:195
+msgid "WCFM Home"
+msgstr ""
+
+#: core/class-wcfm-admin.php:343
+#, php-format
+msgid ""
+"WCFM totally works from front-end ... check dashboard settings %shere >>%s"
+msgstr ""
+
+#: core/class-wcfm-admin.php:346
+msgid "This page should contain \"[wc_frontend_manager]\" short code"
+msgstr ""
+
+#: core/class-wcfm-admin.php:382 views/settings/wcfm-view-settings.php:267
+msgid ""
+"DO NOT USE WCFM DASHBOARD PAGE FOR OTHER PAGE SETTINGS, you will break your "
+"site if you do."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:262
+#, php-format
+msgid "A new %s <b>%s</b> added to the store by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfm-ajax.php:412 core/class-wcfm-ajax.php:443
+#, php-format
+msgid "<b>%s</b> order status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfm-ajax.php:452
+msgid "Order status updated."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:623
+msgid "Email Verification Code"
+msgstr ""
+
+#: core/class-wcfm-ajax.php:624 core/class-wcfm-notification.php:313
+#: controllers/enquiry/wcfm-controller-enquiry-manage.php:81
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:114
+msgid "Hi"
+msgstr ""
+
+#: core/class-wcfm-ajax.php:626
+#, php-format
+msgid "Here is your email verification code - <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfm-ajax.php:627 core/class-wcfm-notification.php:320
+#: controllers/enquiry/wcfm-controller-enquiry-manage.php:88
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:122
+msgid "Thank You"
+msgstr ""
+
+#: core/class-wcfm-ajax.php:637
+msgid "Email verification code send to your email."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:639
+msgid "Email verification not working right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:663
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) has been disabled."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:667
+#, php-format
+msgid "Your Store: <b>%s</b> has been disabled."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:670
+msgid "Vendor successfully disabled."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:673
+msgid "Vendor can not be disabled right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:702
+#, php-format
+msgid "<b>%s</b> (Store: <b>%s</b>) has been enabled."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:706
+#, php-format
+msgid "Your Store: <b>%s</b> has been enabled."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:710
+msgid "Vendor successfully enabled."
+msgstr ""
+
+#: core/class-wcfm-ajax.php:713
+msgid "Vendor can not be enabled right now, please try after sometime."
+msgstr ""
+
+#: core/class-wcfm-article.php:71
+msgid "Articles Dashboard"
+msgstr ""
+
+#: core/class-wcfm-article.php:74
+msgid "Articles Manager"
+msgstr ""
+
+#: core/class-wcfm-article.php:118 views/articles/wcfm-view-articles.php:32
+#: views/capability/wcfm-view-capability.php:244
+msgid "Articles"
+msgstr ""
+
+#: core/class-wcfm-capability.php:267
+msgid "Products Limit: "
+msgstr ""
+
+#: core/class-wcfm-capability.php:275 core/class-wcfm-capability.php:280
+#: core/class-wcfm-capability.php:283 core/class-wcfm-capability.php:491
+#: core/class-wcfm-capability.php:496 core/class-wcfm-capability.php:500
+#: core/class-wcfm-capability.php:805 core/class-wcfm-capability.php:810
+#: core/class-wcfm-capability.php:826
+msgid "remaining"
+msgstr ""
+
+#: core/class-wcfm-capability.php:286 core/class-wcfm-capability.php:503
+#: core/class-wcfm-capability.php:829
+#: core/class-wcfm-thirdparty-support.php:286
+msgid "Unlimited"
+msgstr ""
+
+#: core/class-wcfm-capability.php:487
+msgid "Articles Limit: "
+msgstr ""
+
+#: core/class-wcfm-capability.php:801
+msgid "Customers Limit: "
+msgstr ""
+
+#: core/class-wcfm-catalog.php:42 core/class-wcfm.php:662
+#: views/capability/wcfm-view-capability.php:194
+msgid "Catalog"
+msgstr ""
+
+#: core/class-wcfm-catalog.php:64
+msgid "Catalog Mode"
+msgstr ""
+
+#: core/class-wcfm-catalog.php:69
+msgid "Disable Add to Cart?"
+msgstr ""
+
+#: core/class-wcfm-catalog.php:70
+msgid "Hide Price?"
+msgstr ""
+
+#: core/class-wcfm-customer.php:85
+msgid "Customers Dashboard"
+msgstr ""
+
+#: core/class-wcfm-customer.php:88
+msgid "Customers Manager"
+msgstr ""
+
+#: core/class-wcfm-customer.php:91
+msgid "Customers Details"
+msgstr ""
+
+#: core/class-wcfm-customer.php:136
+#: views/capability/wcfm-view-capability.php:351
+#: views/customers/wcfm-view-customers.php:25
+msgid "Customers"
+msgstr ""
+
+#: core/class-wcfm-customer.php:332
+msgid "New Customer"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:30
+#: views/products/wcfm-view-products.php:145
+#: views/products-manager/wcfm-view-customfield-products-manage.php:24
+#: views/products-manager/wcfm-view-products-manage.php:376
+#: views/products-manager/wcfm-view-products-manage.php:381
+#: views/products-popup/wcfm-view-product-popup.php:92
+#: views/products-popup/wcfm-view-product-popup.php:97
+#: views/settings/wcfm-view-settings.php:426
+msgid "Simple Product"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:30
+#: views/products/wcfm-view-products.php:145
+#: views/products-manager/wcfm-view-customfield-products-manage.php:24
+#: views/products-manager/wcfm-view-products-manage.php:376
+#: views/products-popup/wcfm-view-product-popup.php:92
+#: views/settings/wcfm-view-settings.php:426
+msgid "Variable Product"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:30
+#: views/products/wcfm-view-products.php:145
+#: views/products-manager/wcfm-view-customfield-products-manage.php:24
+#: views/products-manager/wcfm-view-products-manage.php:376
+#: views/products-popup/wcfm-view-product-popup.php:92
+#: views/settings/wcfm-view-settings.php:426
+msgid "Grouped Product"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:30
+#: views/products/wcfm-view-products.php:145
+#: views/products-manager/wcfm-view-customfield-products-manage.php:24
+#: views/products-manager/wcfm-view-products-manage.php:376
+#: views/products-popup/wcfm-view-product-popup.php:92
+#: views/settings/wcfm-view-settings.php:426
+msgid "External/Affiliate Product"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:32
+msgid "Do not show"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:38
+#: core/class-wcfm-customfield-support.php:42
+msgid "Product Custom Field"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:47
+msgid "Custom Fields"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:47
+msgid ""
+"You can integrate any Third Party plugin using Custom Fields, but you should "
+"use the same fields name as used by Third Party plugins."
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:48
+#: views/products-manager/wcfm-view-products-manage-tabs.php:206
+#: views/settings/wcfm-view-settings.php:346
+#: views/settings/wcfm-view-settings.php:402
+msgid "Enable"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:49
+msgid "Block Name"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:50
+msgid "Exlude Product Types"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:50
+msgid "Choose product types for which you want to disable this field block."
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:51
+msgid "Visibility"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:51
+msgid ""
+"Set where and how you want to visible this custom field block in single "
+"product page."
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:52
+msgid "Fields as Group?"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:53
+msgid "Group name"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:54
+msgid "Fields"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:55
+#: views/settings/wcfm-view-settings.php:403
+msgid "Field Type"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:56
+#: views/settings/wcfm-view-settings.php:347
+#: views/settings/wcfm-view-settings.php:404
+msgid "Label"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:57 core/class-wcfm-frontend.php:710
+#: views/articles/wcfm-view-articles.php:110
+#: views/articles/wcfm-view-articles.php:121
+#: views/customers/wcfm-view-customers.php:59
+#: views/customers/wcfm-view-customers.php:74
+#: views/enquiry/wcfm-view-enquiry-tab.php:60
+#: views/products/wcfm-view-products.php:198
+#: views/products/wcfm-view-products.php:221
+#: views/products-manager/wcfm-view-products-manage-tabs.php:139
+msgid "Name"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:57
+msgid ""
+"This is will going to use as `meta_key` for storing this field value in "
+"database."
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:58
+#: views/settings/wcfm-view-settings.php:405
+msgid "Options"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:58
+msgid ""
+"Insert option values | separated, leave first element empty to show as '-"
+"Select-'"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:59
+#: views/settings/wcfm-view-settings.php:406
+msgid "Help Content"
+msgstr ""
+
+#: core/class-wcfm-customfield-support.php:60
+#: views/settings/wcfm-view-settings.php:407
+msgid "Required?"
+msgstr ""
+
+#: core/class-wcfm-dokan.php:123 core/class-wcfm-wcfmmarketplace.php:110
+#: core/class-wcfm-wcmarketplace.php:135 core/class-wcfm-wcmarketplace.php:136
+#: core/class-wcfm-wcpvendors.php:113 core/class-wcfm-wcvendors.php:150
+#: views/wcfm-view-header-panels.php:41 views/wcfm-view-menu.php:60
+#: views/settings/wcfm-view-settings.php:36
+msgid "My Store"
+msgstr ""
+
+#: core/class-wcfm-dokan.php:127 core/class-wcfm-vendor-support.php:923
+#: core/class-wcfm-vendor-support.php:931
+#: core/class-wcfm-vendor-support.php:939
+#: core/class-wcfm-vendor-support.php:950
+#: core/class-wcfm-vendor-support.php:960
+#: core/class-wcfm-wcfmmarketplace.php:114
+#: core/class-wcfm-wcmarketplace.php:139 core/class-wcfm-wcpvendors.php:117
+#: core/class-wcfm-wcvendors.php:154
+msgid "Shop"
+msgstr ""
+
+#: core/class-wcfm-dokan.php:448 core/class-wcfm-wcfmmarketplace.php:387
+#: core/class-wcfm-wcmarketplace.php:685 core/class-wcfm-wcpvendors.php:531
+#: core/class-wcfm-wcvendors.php:858
+msgid "Total Earning"
+msgstr ""
+
+#: core/class-wcfm-enquiry.php:84
+msgid "Enquiry Dashboard"
+msgstr "Inquiry Dashboard"
+
+#: core/class-wcfm-enquiry.php:87
+msgid "Enquiry Manager"
+msgstr "Inquiry Manager"
+
+#: core/class-wcfm-enquiry.php:244 core/class-wcfm-enquiry.php:310
+#: helpers/wcfm-core-functions.php:1027
+#: views/enquiry/wcfm-view-enquiry-manage.php:64
+#: views/enquiry/wcfm-view-enquiry-manage.php:64
+#: views/enquiry/wcfm-view-enquiry-tab.php:163
+#: views/enquiry/wcfm-view-enquiry.php:43
+msgid "Enquiries"
+msgstr "Inquiries"
+
+#: core/class-wcfm-enquiry.php:271 core/class-wcfm-shortcode.php:126
+#: views/enquiry/wcfm-view-enquiry-tab.php:40
+msgid "Ask a Question"
+msgstr ""
+
+#: core/class-wcfm-enquiry.php:322 core/class-wcfm-notification.php:184
+msgid "Show All"
+msgstr ""
+
+#: core/class-wcfm-enquiry.php:325
+msgid "There is no enquiry yet!!"
+msgstr "There is no inquiry yet!!"
+
+#: core/class-wcfm-enquiry.php:344
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:138
+msgid "New Enquiry"
+msgstr "New Inquiry"
+
+#: core/class-wcfm-frontend.php:281 views/dashboard/wcfm-view-dashboard.php:97
+#: views/dashboard/wcfm-view-dokan-dashboard.php:123
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:144
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:148
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:130
+#: views/settings/wcfm-view-settings.php:134
+#: views/settings/wcfm-view-settings.php:267
+msgid "Dashboard"
+msgstr ""
+
+#: core/class-wcfm-frontend.php:316
+#: controllers/articles/wcfm-controller-articles.php:161
+#: controllers/articles/wcfm-controller-articles.php:164
+#: controllers/coupons/wcfm-controller-coupons.php:98
+#: controllers/coupons/wcfm-controller-coupons.php:100
+#: controllers/enquiry/wcfm-controller-enquiry.php:169
+#: controllers/knowledgebase/wcfm-controller-knowledgebase.php:105
+#: controllers/listings/wcfm-controller-listings.php:113
+#: controllers/notice/wcfm-controller-notices.php:80
+#: controllers/products/wcfm-controller-products.php:355
+#: controllers/products/wcfm-controller-products.php:358
+#: controllers/reports/wcfm-controller-reports-out-of-stock.php:107
+#: controllers/reports/wcfm-controller-reports-out-of-stock.php:110
+#: views/notice/wcfm-view-notice-view.php:59
+msgid "Edit"
+msgstr ""
+
+#: core/class-wcfm-frontend.php:320
+#: controllers/articles/wcfm-controller-articles.php:162
+#: controllers/articles/wcfm-controller-articles.php:165
+#: controllers/enquiry/wcfm-controller-enquiry.php:170
+#: controllers/knowledgebase/wcfm-controller-knowledgebase.php:106
+#: controllers/listings/wcfm-controller-listings.php:139
+#: controllers/messages/wcfm-controller-messages.php:223
+#: controllers/notice/wcfm-controller-notices.php:81
+#: controllers/products/wcfm-controller-products.php:356
+#: controllers/products/wcfm-controller-products.php:359
+#: controllers/reports/wcfm-controller-reports-out-of-stock.php:108
+#: controllers/reports/wcfm-controller-reports-out-of-stock.php:111
+msgid "Delete"
+msgstr ""
+
+#: core/class-wcfm-frontend.php:709
+#: views/products-manager/wcfm-view-products-manage-tabs.php:138
+msgid "Active?"
+msgstr ""
+
+#: core/class-wcfm-frontend.php:711
+#: views/products-manager/wcfm-view-products-manage-tabs.php:140
+msgid "Value(s):"
+msgstr ""
+
+#: core/class-wcfm-frontend.php:712
+#: views/products-manager/wcfm-view-products-manage-tabs.php:141
+msgid "Visible on the product page"
+msgstr ""
+
+#: core/class-wcfm-frontend.php:713
+#: views/products-manager/wcfm-view-products-manage-tabs.php:142
+msgid "Use as Variation"
+msgstr ""
+
+#: core/class-wcfm-library.php:447
+msgid "Memebership"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Processing..."
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Search:"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "(filtered _MAX_ entries of total)"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Loading..."
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "No matching records found"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "No data in the table"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "First"
+msgstr ""
+
+#: core/class-wcfm-library.php:828 helpers/wcfm-core-functions.php:898
+msgid "Previous"
+msgstr ""
+
+#: core/class-wcfm-library.php:828 helpers/wcfm-core-functions.php:897
+msgid "Next"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Last"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Print"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "PDF"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "Excel"
+msgstr ""
+
+#: core/class-wcfm-library.php:828
+msgid "CSV"
+msgstr ""
+
+#: core/class-wcfm-library.php:917
+msgid "Choose Media"
+msgstr ""
+
+#: core/class-wcfm-library.php:917
+msgid "Choose Image"
+msgstr ""
+
+#: core/class-wcfm-library.php:917
+msgid "Add to Gallery"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:53
+msgid "Online"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:53
+#: controllers/listings/wcfm-controller-listings.php:25
+#: controllers/products/wcfm-controller-products.php:27
+#: views/articles/wcfm-view-articles.php:13
+#: views/listings/wcfm-view-listings.php:38
+#: views/products/wcfm-view-products.php:13
+msgid "Pending"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:53
+#: controllers/products/wcfm-controller-products.php:26
+#: views/articles/wcfm-view-articles-manage.php:363
+#: views/articles/wcfm-view-articles.php:12
+#: views/coupons/wcfm-view-coupons-manage.php:126
+#: views/products/wcfm-view-products.php:12
+#: views/products-manager/wcfm-view-products-manage.php:743
+#: views/products-popup/wcfm-view-product-popup.php:288
+msgid "Draft"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:138
+msgid "No sales yet ..!!!"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:188
+msgid "View WCFM settings"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:188 core/class-wcfm-query.php:169
+#: core/class-wcfm.php:634 helpers/class-wcfm-install.php:298
+#: views/capability/wcfm-view-capability.php:132
+#: views/settings/wcfm-view-dokan-settings.php:129
+#: views/settings/wcfm-view-settings.php:82
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:118
+#: views/settings/wcfm-view-wcmarketplace-settings.php:136
+#: views/settings/wcfm-view-wcpvendors-settings.php:73
+#: views/settings/wcfm-view-wcvendors-settings.php:120
+msgid "Settings"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:195 core/class-wcfm-non-ajax.php:222
+msgid "Add more power to your WCFM"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:195 core/class-wcfm-non-ajax.php:222
+msgid "WCFM Ultimate"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:213
+msgid "View WCFM documentation"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:213 views/settings/wcfm-view-settings.php:96
+msgid "Documentation"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:215
+msgid "View WCFM Video Tutorial"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:215 views/settings/wcfm-view-settings.php:95
+msgid "Video Tutorial"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:217
+msgid "Any WC help feel free to contact us"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:217
+msgid "Customization Help"
+msgstr ""
+
+#: core/class-wcfm-non-ajax.php:269 helpers/wcfm-core-functions.php:874
+#: views/wcfm-view-menu.php:113
+#: views/articles/wcfm-view-articles-manage.php:133
+#: views/articles/wcfm-view-articles.php:65
+#: views/coupons/wcfm-view-coupons-manage.php:77
+#: views/coupons/wcfm-view-coupons.php:43
+#: views/customers/wcfm-view-customers-details.php:107
+#: views/customers/wcfm-view-customers-manage.php:111
+#: views/customers/wcfm-view-customers.php:42
+#: views/knowledgebase/wcfm-view-knowledgebase.php:38
+#: views/listings/wcfm-view-listings.php:91
+#: views/notice/wcfm-view-notices.php:37
+#: views/products/wcfm-view-products-export.php:64
+#: views/products/wcfm-view-products.php:115
+#: views/products-manager/wcfm-view-products-manage.php:432
+msgid "Add New"
+msgstr ""
+
+#: core/class-wcfm-notification.php:55
+#, php-format
+msgid "A new product <b>%s</b> added by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfm-notification.php:77
+#, php-format
+msgid "Product <b>%s</b> awaiting for review"
+msgstr ""
+
+#: core/class-wcfm-notification.php:100
+#, php-format
+msgid "You have received an Order <b>#%s</b>"
+msgstr ""
+
+#: core/class-wcfm-notification.php:117
+#, php-format
+msgid "You have received an Order <b>#%s</b> for <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfm-notification.php:164 core/class-wcfm.php:665
+#: views/messages/wcfm-view-messages.php:85
+msgid "Notifications"
+msgstr ""
+
+#: core/class-wcfm-notification.php:187
+msgid "There is no notification yet!!"
+msgstr ""
+
+#: core/class-wcfm-notification.php:311 core/class-wcfm-notification.php:326
+msgid "Notification"
+msgstr ""
+
+#: core/class-wcfm-notification.php:315
+msgid "You have received a new notification:"
+msgstr ""
+
+#: core/class-wcfm-notification.php:319
+#: controllers/enquiry/wcfm-controller-enquiry-manage.php:87
+#, php-format
+msgid "Check more details %shere%s."
+msgstr ""
+
+#: core/class-wcfm-policy.php:63 core/class-wcfm-policy.php:176
+msgid "Store Policies"
+msgstr ""
+
+#: core/class-wcfm-policy.php:67 core/class-wcfm-policy.php:180
+msgid "Policies Setting"
+msgstr ""
+
+#: core/class-wcfm-policy.php:79 core/class-wcfm-policy.php:191
+#: core/class-wcfm-policy.php:335
+msgid "Policy Tab Label"
+msgstr ""
+
+#: core/class-wcfm-policy.php:80 core/class-wcfm-policy.php:192
+#: core/class-wcfm-policy.php:336 core/class-wcfm-policy.php:583
+#: views/settings/wcfm-view-wcvendors-settings.php:398
+msgid "Shipping Policy"
+msgstr ""
+
+#: core/class-wcfm-policy.php:81 core/class-wcfm-policy.php:193
+#: core/class-wcfm-policy.php:337 core/class-wcfm-policy.php:588
+#: views/settings/wcfm-view-wcvendors-settings.php:399
+msgid "Refund Policy"
+msgstr ""
+
+#: core/class-wcfm-policy.php:82 core/class-wcfm-policy.php:194
+#: core/class-wcfm-policy.php:338
+msgid "Cancellation/Return/Exchange Policy"
+msgstr ""
+
+#: core/class-wcfm-policy.php:323
+msgid "Product Policies"
+msgstr ""
+
+#: core/class-wcfm-policy.php:416
+msgid "Store Polices"
+msgstr ""
+
+#: core/class-wcfm-policy.php:593
+msgid "Cancellation / Return / Exchange Policy"
+msgstr ""
+
+#: core/class-wcfm-query.php:116
+msgid "Products Dashboard"
+msgstr ""
+
+#: core/class-wcfm-query.php:121
+#, php-format
+msgid "Product Manager -%s"
+msgstr ""
+
+#: core/class-wcfm-query.php:121
+msgid "Product Manager"
+msgstr ""
+
+#: core/class-wcfm-query.php:124
+msgid "Products Stock Manager"
+msgstr ""
+
+#: core/class-wcfm-query.php:127
+#: views/products/wcfm-view-products-export.php:58
+#: views/products/wcfm-view-products.php:95
+msgid "Products Import"
+msgstr ""
+
+#: core/class-wcfm-query.php:130
+#: views/products/wcfm-view-products-export.php:33
+#: views/products/wcfm-view-products.php:82
+msgid "Products Export"
+msgstr ""
+
+#: core/class-wcfm-query.php:133
+msgid "Coupons Dashboard"
+msgstr ""
+
+#: core/class-wcfm-query.php:138
+#, php-format
+msgid "Coupon Manager -%s"
+msgstr ""
+
+#: core/class-wcfm-query.php:138
+msgid "Coupon Manager"
+msgstr ""
+
+#: core/class-wcfm-query.php:141
+msgid "Orders Dashboard"
+msgstr ""
+
+#: core/class-wcfm-query.php:145
+#, php-format
+msgid "Order Details #%s"
+msgstr ""
+
+#: core/class-wcfm-query.php:145 views/orders/wcfm-view-orders-details.php:106
+msgid "Order Details"
+msgstr ""
+
+#: core/class-wcfm-query.php:148
+msgid "Reports - Sales by Date"
+msgstr ""
+
+#: core/class-wcfm-query.php:151
+msgid "Reports - Sales by Product"
+msgstr ""
+
+#: core/class-wcfm-query.php:154
+msgid "Reports - Coupons by Date"
+msgstr ""
+
+#: core/class-wcfm-query.php:157
+msgid "Reports - Out of Stock"
+msgstr ""
+
+#: core/class-wcfm-query.php:160
+msgid "Reports - Low in Stock"
+msgstr ""
+
+#: core/class-wcfm-query.php:163 helpers/class-wcfm-install.php:311
+#: views/settings/wcfm-view-settings.php:198
+#: views/settings/wcfm-view-settings.php:204
+msgid "Analytics"
+msgstr ""
+
+#: core/class-wcfm-query.php:166 core/class-wcfm.php:667
+#: helpers/class-wcfm-install.php:307 views/wcfm-view-header-panels.php:57
+#: views/profile/wcfm-view-profile.php:162
+#: views/settings/wcfm-view-wcpvendors-settings.php:112
+msgid "Profile"
+msgstr ""
+
+#: core/class-wcfm-query.php:172 core/class-wcfm.php:666
+#: views/wcfm-view-header-panels.php:73
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:66
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:66
+#: views/knowledgebase/wcfm-view-knowledgebase.php:26
+msgid "Knowledgebase"
+msgstr ""
+
+#: core/class-wcfm-query.php:175
+msgid "Knowledgebase Manager"
+msgstr ""
+
+#: core/class-wcfm-query.php:178
+msgid "Notice Dashboard"
+msgstr "Announcements"
+
+#: core/class-wcfm-query.php:181
+msgid "Notice Manager"
+msgstr "Announcement Manager"
+
+#: core/class-wcfm-query.php:184 core/class-wcfm.php:668
+msgid "Notice"
+msgstr "Announcement"
+
+#: core/class-wcfm-query.php:187
+msgid "Message Dashboard"
+msgstr ""
+
+#: core/class-wcfm-shortcode.php:105 views/wcfm-view-header-panels.php:61
+msgid "Notification Board"
+msgstr ""
+
+#: core/class-wcfm-shortcode.php:109 views/wcfm-view-header-panels.php:65
+#: views/enquiry/wcfm-view-enquiry.php:36
+msgid "Enquiry Board"
+msgstr "Inquiry Board"
+
+#: core/class-wcfm-shortcode.php:113 views/wcfm-view-header-panels.php:69
+#: views/notice/wcfm-view-notices.php:26
+msgid "Notice Board"
+msgstr "Announcements"
+
+#: core/class-wcfm-thirdparty-support.php:138
+msgid "Listings Dashboard"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:193 helpers/class-wcfm-setup.php:569
+#: views/listings/wcfm-view-listings.php:27
+msgid "Listings"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:222
+msgid "Rental Product"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:229
+#: core/class-wcfm-thirdparty-support.php:257
+#: core/class-wcfm-thirdparty-support.php:368
+#: controllers/products/wcfm-controller-products.php:272
+msgid "Auction"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:245
+msgid "Listing Package"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:251
+#: core/class-wcfm-thirdparty-support.php:318
+#: controllers/products/wcfm-controller-products.php:274
+msgid "Rental"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:323
+msgid "Set Price Type"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:323
+msgid "General Pricing"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:323
+msgid "Choose a price type - this controls the schema."
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:324
+msgid "Hourly Price"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:324
+msgid "Hourly price will be applicabe if booking or rental days min 1day"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:324
+#: core/class-wcfm-thirdparty-support.php:325
+msgid "Enter price here"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:325
+msgid "General Price"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:331
+msgid "Availability"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:336
+msgid "Product Availabilities"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:336
+msgid "Please select the date range to be disabled for the product."
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:337
+#: views/coupons/wcfm-view-coupons.php:56
+#: views/coupons/wcfm-view-coupons.php:66
+#: views/messages/wcfm-view-messages.php:113
+#: views/messages/wcfm-view-messages.php:126
+#: views/products/wcfm-view-products.php:203
+#: views/products/wcfm-view-products.php:226
+msgid "Type"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:337
+msgid "Custom Date"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:338
+#: views/messages/wcfm-view-messages.php:115
+#: views/messages/wcfm-view-messages.php:128
+#: views/products-manager/wcfm-view-products-manage-tabs.php:214
+#: views/products-manager/wcfm-view-products-manage.php:463
+#: views/products-manager/wcfm-view-products-manage.php:463
+#: views/products-popup/wcfm-view-product-popup.php:131
+#: views/products-popup/wcfm-view-product-popup.php:131
+#: views/settings/wcfm-view-dokan-settings.php:490
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:364
+#: views/settings/wcfm-view-wcmarketplace-settings.php:742
+#: views/settings/wcfm-view-wcpvendors-settings.php:154
+#: views/settings/wcfm-view-wcvendors-settings.php:446
+msgid "From"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:339
+#: views/messages/wcfm-view-messages.php:116
+#: views/messages/wcfm-view-messages.php:129
+#: views/products-manager/wcfm-view-products-manage.php:464
+#: views/products-popup/wcfm-view-product-popup.php:132
+msgid "To"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:340
+#: core/class-wcfm-wcbookings.php:187
+msgid "Bookable"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:340
+msgid "NO"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:373
+msgid "Auction Date From"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:374
+msgid "Auction Date To"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:406
+msgid "Has Voucher"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:434
+msgid "-- Choose Template --"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:440
+msgid "Voucher Template"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:440
+msgid "Select a voucher template to make this into a voucher product."
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:552
+#: core/class-wcfm-thirdparty-support.php:575
+msgid "Select Delivery Time"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:657
+#: core/class-wcfm-wcmarketplace.php:486 core/class-wcfm-wcmarketplace.php:634
+#: core/class-wcfm-wcpvendors.php:405 core/class-wcfm-wcpvendors.php:504
+#: core/class-wcfm-wcvendors.php:635 core/class-wcfm-wcvendors.php:648
+#: core/class-wcfm-wcvendors.php:813 core/class-wcfm-wcvendors.php:836
+#: helpers/class-wcfm-install.php:297
+#: includes/reports/class-dokan-report-sales-by-date.php:823
+#: includes/reports/class-wcfm-report-sales-by-date.php:712
+#: views/capability/wcfm-view-capability.php:189
+#: views/customers/wcfm-view-customers-manage.php:171
+#: views/orders/wcfm-view-orders-details.php:600
+#: views/orders/wcfm-view-orders-details.php:855
+#: views/products-manager/wcfm-view-products-manage-tabs.php:83
+#: views/products-manager/wcfm-view-products-manage-tabs.php:193
+#: views/profile/wcfm-view-profile.php:286
+#: views/settings/wcfm-view-dokan-settings.php:341
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:311
+#: views/settings/wcfm-view-wcmarketplace-settings.php:602
+#: views/settings/wcfm-view-wcvendors-settings.php:351
+msgid "Shipping"
+msgstr ""
+
+#: core/class-wcfm-thirdparty-support.php:662
+msgid "Shipment Origin Information"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:127
+msgid "Vendors Dashboard"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:130
+msgid "Vendors Manager"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:133
+msgid "Vendors Commission"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:179
+#: views/vendors/wcfm-view-vendors-manage.php:183
+#: views/vendors/wcfm-view-vendors.php:24
+msgid "Vendors"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:261
+#: core/class-wcfm-vendor-support.php:392
+#: core/class-wcfm-vendor-support.php:431
+#: core/class-wcfm-vendor-support.php:447
+#: core/class-wcfm-vendor-support.php:476 core/class-wcfm-wcmarketplace.php:481
+#: core/class-wcfm-wcpvendors.php:404 core/class-wcfm-wcvendors.php:630
+#: views/orders/wcfm-view-orders.php:92 views/orders/wcfm-view-orders.php:112
+#: views/settings/wcfm-view-wcpvendors-settings.php:181
+msgid "Commission"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:277
+#: core/class-wcfm-vendor-support.php:282
+#: views/vendors/wcfm-view-vendors.php:76
+#: views/vendors/wcfm-view-vendors.php:97
+msgid "Vendor"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:397
+#: core/class-wcfm-vendor-support.php:437
+#: core/class-wcfm-vendor-support.php:442
+#: core/class-wcfm-vendor-support.php:466
+#: core/class-wcfm-vendor-support.php:471
+msgid "Commission(%)"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:438
+#: core/class-wcfm-vendor-support.php:467
+msgid "Fixed (per transaction)"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:443
+#: core/class-wcfm-vendor-support.php:472
+msgid "Fixed (per unit)"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:733
+#: controllers/messages/wcfm-controller-messages.php:181
+#: views/articles/wcfm-view-articles.php:10
+#: views/listings/wcfm-view-listings.php:36
+#: views/messages/wcfm-view-messages.php:97
+#: views/products/wcfm-view-products.php:10
+#: views/wc_bookings/wcfm-view-wcbookings.php:19
+msgid "All"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:735 helpers/wcfm-core-functions.php:891
+msgid "Choose Vendor ..."
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:2057
+msgid "Review Product"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:2058 helpers/wcfm-core-functions.php:917
+msgid "New Product"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:2059 helpers/wcfm-core-functions.php:918
+msgid "New Category"
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:2066
+msgid "You may manage this using WCfM Capability Controller."
+msgstr ""
+
+#: core/class-wcfm-vendor-support.php:2067
+#, php-format
+msgid ""
+"Manage vendor backend access from <a href=\"%s\">WCfM Capability "
+"Controller</a>."
+msgstr ""
+
+#: core/class-wcfm-wcbookings.php:93
+msgid "Bookings Dashboard"
+msgstr ""
+
+#: core/class-wcfm-wcbookings.php:96
+#: views/capability/wcfm-view-capability.php:283
+#: views/wc_bookings/wcfm-view-wcbookings-dashboard.php:99
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:66
+#: views/wc_bookings/wcfm-view-wcbookings.php:36
+msgid "Bookings List"
+msgstr ""
+
+#: core/class-wcfm-wcbookings.php:99
+msgid "Bookings Resources"
+msgstr ""
+
+#: core/class-wcfm-wcbookings.php:102
+msgid "Bookings Resources Manage"
+msgstr ""
+
+#: core/class-wcfm-wcbookings.php:105
+msgid "Create Bookings"
+msgstr ""
+
+#: core/class-wcfm-wcbookings.php:108
+#: views/capability/wcfm-view-capability.php:284
+#: views/wc_bookings/wcfm-view-wcbookings-dashboard.php:114
+msgid "Bookings Calendar"
+msgstr ""
+
+#: core/class-wcfm-wcbookings.php:111
+#, php-format
+msgid "Booking Details #%s"
+msgstr ""
+
+#: core/class-wcfm-wcbookings.php:114
+msgid "Bookings settings"
+msgstr ""
+
+#: core/class-wcfm-wcmarketplace.php:479 views/orders/wcfm-view-orders.php:88
+#: views/orders/wcfm-view-orders.php:108
+msgid "Fees"
+msgstr ""
+
+#: core/class-wcfm-wcmarketplace.php:492 core/class-wcfm-wcmarketplace.php:645
+#: core/class-wcfm-wcpvendors.php:406 core/class-wcfm-wcpvendors.php:513
+#: core/class-wcfm-wcvendors.php:641 core/class-wcfm-wcvendors.php:654
+#: core/class-wcfm-wcvendors.php:824 core/class-wcfm-wcvendors.php:847
+#: views/orders/wcfm-view-orders-details.php:388
+#: views/orders/wcfm-view-orders-details.php:389
+#: views/products-manager/wcfm-view-products-manage-tabs.php:109
+msgid "Tax"
+msgstr ""
+
+#: core/class-wcfm-wcmarketplace.php:493 core/class-wcfm-wcmarketplace.php:654
+#: core/class-wcfm-wcpvendors.php:407 core/class-wcfm-wcpvendors.php:522
+msgid "Shipping Tax"
+msgstr ""
+
+#: core/class-wcfm-wcmarketplace.php:498 core/class-wcfm-wcpvendors.php:408
+#: core/class-wcfm-wcvendors.php:661
+#: views/orders/wcfm-view-orders-details.php:380
+msgid "Total"
+msgstr ""
+
+#: core/class-wcfm-wcmarketplace.php:540 core/class-wcfm-wcmarketplace.php:628
+#: core/class-wcfm-wcmarketplace.php:676 core/class-wcfm-wcmarketplace.php:690
+#: controllers/orders/wcfm-controller-orders.php:198
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:264
+msgid "N/A"
+msgstr ""
+
+#: core/class-wcfm-wcmarketplace.php:623 core/class-wcfm-wcpvendors.php:495
+#: core/class-wcfm-wcvendors.php:802
+msgid "Line Commission"
+msgstr ""
+
+#: core/class-wcfm-wcmarketplace.php:667 views/vendors/wcfm-view-vendors.php:83
+#: views/vendors/wcfm-view-vendors.php:104
+msgid "Total Fees"
+msgstr ""
+
+#: core/class-wcfm-wcmarketplace.php:698 core/class-wcfm-wcpvendors.php:540
+#: core/class-wcfm-wcvendors.php:868
+msgid "Gross Total"
+msgstr ""
+
+#: core/class-wcfm-wcsubscriptions.php:55
+#: core/class-wcfm-xasubscriptions.php:55
+#: views/capability/wcfm-view-capability.php:311
+msgid "Subscriptions"
+msgstr ""
+
+#: core/class-wcfm-wcsubscriptions.php:56
+msgid "Variable Subscriptions"
+msgstr ""
+
+#: core/class-wcfm-withdrawal.php:61
+#: views/withdrawal/dokan/wcfm-view-payments.php:26
+#: views/withdrawal/wcmp/wcfm-view-payments.php:26
+msgid "Payments History"
+msgstr ""
+
+#: core/class-wcfm-withdrawal.php:65
+#: views/withdrawal/dokan/wcfm-view-payments.php:42
+#: views/withdrawal/dokan/wcfm-view-withdrawal.php:53
+#: views/withdrawal/wcmp/wcfm-view-payments.php:43
+#: views/withdrawal/wcmp/wcfm-view-transaction-details.php:49
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:28
+msgid "Withdrawal Request"
+msgstr ""
+
+#: core/class-wcfm-withdrawal.php:69
+#: views/capability/wcfm-view-capability.php:382
+#: views/withdrawal/wcmp/wcfm-view-transaction-details.php:36
+msgid "Transaction Details"
+msgstr ""
+
+#: core/class-wcfm-withdrawal.php:102 views/settings/wcfm-view-settings.php:298
+msgid "Payments"
+msgstr ""
+
+#: core/class-wcfm-withdrawal.php:110 core/class-wcfm.php:672
+#: helpers/class-wcfm-install.php:309
+#: includes/reports/class-dokan-report-sales-by-date.php:814
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:547
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:450
+#: includes/reports/class-wcvendors-report-sales-by-date.php:559
+#: views/capability/wcfm-view-capability.php:376
+#: views/vendors/wcfm-view-vendors.php:87
+#: views/vendors/wcfm-view-vendors.php:108
+#: views/withdrawal/dokan/wcfm-view-payments.php:42
+#: views/withdrawal/wcmp/wcfm-view-payments.php:43
+#: views/withdrawal/wcmp/wcfm-view-transaction-details.php:49
+msgid "Withdrawal"
+msgstr ""
+
+#: core/class-wcfm.php:466 core/class-wcfm.php:494
+#: controllers/vendors/wcfm-controller-vendors.php:64
+msgid "Disable Vendor"
+msgstr ""
+
+#: core/class-wcfm.php:604 views/capability/wcfm-view-capability.php:158
+#: views/products/wcfm-view-products.php:37
+msgid "Products"
+msgstr ""
+
+#: core/class-wcfm.php:614 views/capability/wcfm-view-capability.php:260
+#: views/coupons/wcfm-view-coupons.php:16
+msgid "Coupons"
+msgstr ""
+
+#: core/class-wcfm.php:624 views/capability/wcfm-view-capability.php:324
+#: views/customers/wcfm-view-customers-details.php:256
+#: views/customers/wcfm-view-customers.php:63
+#: views/customers/wcfm-view-customers.php:78
+#: views/orders/wcfm-view-orders.php:30
+msgid "Orders"
+msgstr ""
+
+#: core/class-wcfm.php:629 views/capability/wcfm-view-capability.php:392
+msgid "Reports"
+msgstr ""
+
+#: core/class-wcfm.php:639 helpers/class-wcfm-setup.php:66
+#: helpers/class-wcfm-setup.php:544 views/settings/wcfm-view-settings.php:116
+#: views/settings/wcfm-view-settings.php:351
+msgid "Capability"
+msgstr ""
+
+#: core/class-wcfm.php:659
+msgid "Popup Add Product"
+msgstr ""
+
+#: core/class-wcfm.php:660 views/enquiry/wcfm-view-enquiry-manage.php:81
+msgid "Enquiry"
+msgstr "Inquiry"
+
+#: core/class-wcfm.php:661
+msgid "Enquiry Tab"
+msgstr "Inquiry Tab"
+
+#: core/class-wcfm.php:661
+msgid ""
+"If you just want to hide Single Product page `Enquiry Tab`, but keep enable "
+"`Enquiry Module` for `Catalog Mode`."
+msgstr ""
+"If you just want to hide Single Product page `Inquiry Tab`, but keep enable "
+"`Inquiry Module` for `Catalog Mode`."
+
+#: core/class-wcfm.php:662
+msgid ""
+"If you disable `Enquiry Module` then `Catalog Module` will stop working "
+"automatically."
+msgstr ""
+"If you disable `Inquiry Module` then `Catalog Module` will stop working "
+"automatically."
+
+#: core/class-wcfm.php:663 helpers/class-wcfm-install.php:301
+msgid "Article"
+msgstr ""
+
+#: core/class-wcfm.php:664 helpers/class-wcfm-install.php:302
+#: views/enquiry/wcfm-view-enquiry.php:90
+#: views/enquiry/wcfm-view-enquiry.php:102
+msgid "Customer"
+msgstr ""
+
+#: core/class-wcfm.php:669
+msgid "Policies"
+msgstr ""
+
+#: core/class-wcfm.php:670
+msgid "Custom Field"
+msgstr ""
+
+#: core/class-wcfm.php:671
+msgid "Sub-menu"
+msgstr ""
+
+#: core/class-wcfm.php:671
+msgid "This will disable `Add New` sub-menus on hover."
+msgstr ""
+
+#: core/class-wcfm.php:676
+msgid "BuddyPress Integration"
+msgstr ""
+
+#: core/class-wcfm.php:699
+msgid "Base Highlighter Color"
+msgstr ""
+
+#: core/class-wcfm.php:700
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: core/class-wcfm.php:701
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: core/class-wcfm.php:702
+msgid "Dashboard Background Color"
+msgstr ""
+
+#: core/class-wcfm.php:703
+msgid "Container Background Color"
+msgstr ""
+
+#: core/class-wcfm.php:704
+msgid "Container Head Color"
+msgstr ""
+
+#: core/class-wcfm.php:705
+msgid "Container Head Text Color"
+msgstr ""
+
+#: core/class-wcfm.php:706
+msgid "Container Head Active Color"
+msgstr ""
+
+#: core/class-wcfm.php:707
+msgid "Container Head Active Text Color"
+msgstr ""
+
+#: core/class-wcfm.php:708
+msgid "Menu Background Color"
+msgstr ""
+
+#: core/class-wcfm.php:709
+msgid "Menu Item Text Color"
+msgstr ""
+
+#: core/class-wcfm.php:710
+msgid "Menu Active Item Background"
+msgstr ""
+
+#: core/class-wcfm.php:711
+msgid "Menu Active Item Text Color"
+msgstr ""
+
+#: core/class-wcfm.php:712
+msgid "Button Background Color"
+msgstr ""
+
+#: core/class-wcfm.php:713
+msgid "Button Text Color"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:102
+msgctxt "page_slug"
+msgid "wc-frontend"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:102
+msgid "WC Frontend Dashboard"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:293
+#: views/customers/wcfm-view-customers-details.php:188
+#: views/customers/wcfm-view-customers-details.php:199
+#: views/enquiry/wcfm-view-enquiry.php:89
+#: views/enquiry/wcfm-view-enquiry.php:101
+#: views/wc_bookings/wcfm-view-wcbookings.php:116
+#: views/wc_bookings/wcfm-view-wcbookings.php:128
+msgid "Product"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:294
+msgid "Inquiry"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:295
+#: views/customers/wcfm-view-customers-details.php:189
+#: views/customers/wcfm-view-customers-details.php:200
+#: views/customers/wcfm-view-customers-details.php:263
+#: views/customers/wcfm-view-customers-details.php:273
+#: views/orders/wcfm-view-orders.php:82 views/orders/wcfm-view-orders.php:102
+#: views/wc_bookings/wcfm-view-wcbookings.php:117
+#: views/wc_bookings/wcfm-view-wcbookings.php:129
+msgid "Order"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:296
+msgid "Report"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:299 views/vendors/wcfm-view-vendors.php:75
+#: views/vendors/wcfm-view-vendors.php:96
+msgid "Verification"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:300
+msgid "Support Ticket"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:303
+msgid "Followers"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:304
+msgid "Coupon"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:305
+msgid "Noice"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:306 views/settings/wcfm-view-settings.php:119
+#: views/vendors/wcfm-view-vendors-manage.php:356
+#: views/vendors/wcfm-view-vendors.php:78
+#: views/vendors/wcfm-view-vendors.php:99
+msgid "Membership"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:308
+#: views/settings/wcfm-view-dokan-settings.php:252
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:225
+#: views/settings/wcfm-view-wcmarketplace-settings.php:299
+#: views/settings/wcfm-view-wcpvendors-settings.php:174
+#: views/settings/wcfm-view-wcvendors-settings.php:246
+msgid "Payment"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:310
+msgid "General"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:312
+msgid "Marketing"
+msgstr ""
+
+#: helpers/class-wcfm-install.php:313
+#: views/settings/wcfm-view-dokan-settings.php:443
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:325
+msgid "SEO"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:51
+msgid "Introduction"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:56
+msgid "Dashboard Setup"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:61 views/settings/wcfm-view-settings.php:216
+msgid "Style"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:71
+msgid "Ready!"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:86
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:87
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:88
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:89
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:90
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:91
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:92
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:93
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:94
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:95
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:144 helpers/class-wcfm-setup.php:387
+msgid "WCFM &rsaquo; Setup Wizard"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:215
+msgid "WCFM requires WooCommerce plugin to be active!"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:311
+#, php-format
+msgid ""
+"%1$s could not be installed (%2$s). <a href=\"%3$s\">Please install it "
+"manually by clicking here.</a>"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:331
+#, php-format
+msgid ""
+"%1$s was installed but could not be activated. <a href=\"%2$s\">Please "
+"activate it manually by clicking here.</a>"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:438
+msgid "Let's experience the best ever WC Frontend Dashboard!!"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:439
+msgid ""
+"Thank you for choosing WCFM! This quick setup wizard will help you to "
+"configure the basic settings and you will have your dashboard ready in no "
+"time. <strong>It’s completely optional as WCFM already auto-setup.</strong>"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:440
+msgid ""
+"If you don't want to go through the wizard right now, you can skip and "
+"return to the WordPress dashboard. Come back anytime if you change your mind!"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:442
+msgid "Let's go!"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:443
+msgid "Not right now"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:464
+msgid "Dashboard setup"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:469
+msgid "WCFM Full View"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:470
+msgid "Theme Header"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:471
+msgid "WCFM Slick Menu"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:472
+msgid "WCFM Header Panel"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:473
+msgid "Welcome Box"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:474
+msgid "Category Checklist View"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:474 views/settings/wcfm-view-settings.php:156
+msgid ""
+"Disable this to have Product Manager Category/Custom Taxonomy Selector - "
+"Flat View."
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:475
+msgid "Quick Access"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:476 views/settings/wcfm-view-settings.php:152
+msgid "Disable Responsive Float Menu"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:477
+msgid "Float Button"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:482 helpers/class-wcfm-setup.php:513
+#: helpers/class-wcfm-setup.php:582
+msgid "Continue"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:483 helpers/class-wcfm-setup.php:514
+#: helpers/class-wcfm-setup.php:583
+msgid "Skip this step"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:501
+msgid "Dashboard Style"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:549
+#: views/capability/wcfm-view-capability.php:209
+msgid "Backend Access"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:552
+msgid "Submit Products"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:553
+#: views/capability/wcfm-view-capability.php:164
+msgid "Publish Products"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:554
+#: views/capability/wcfm-view-capability.php:165
+msgid "Edit Live Products"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:555
+#: views/capability/wcfm-view-capability.php:167
+msgid "Delete Products"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:559
+#: views/capability/wcfm-view-capability.php:218
+#: views/capability/wcfm-view-capability.php:280
+msgid "Manage Bookings"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:564
+#: views/capability/wcfm-view-capability.php:230
+#: views/capability/wcfm-view-capability.php:314
+msgid "Manage Subscriptions"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:569
+#: views/capability/wcfm-view-capability.php:235
+msgid "by WP Job Manager."
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:573
+#: views/capability/wcfm-view-capability.php:327
+msgid "View Orders"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:574
+#: views/capability/wcfm-view-capability.php:328
+msgid "Status Update"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:577
+#: views/capability/wcfm-view-capability.php:395
+msgid "View Reports"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:598
+msgid "We are done!"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:600
+msgid ""
+"Your front-end dashboard is ready. It's time to experience the things more "
+"Easily and Peacefully. Also you will be a bit more relax than ever before, "
+"have fun!!"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:604
+msgid "Next steps"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:606
+msgid "Let's go to Dashboard"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:610
+msgid "Learn more"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:612
+msgid "Watch the tutorial videos"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:613
+msgid "WCFM - What & Why?"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:614
+msgid "Choose your multi-vendor plugin"
+msgstr ""
+
+#: helpers/class-wcfm-setup.php:775
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:6
+#, php-format
+msgid ""
+"%sWooCommerce Frontend Manager is inactive.%s The %sWooCommerce plugin%s "
+"must be active for the WooCommerce Frontend Manager to work. Please "
+"%sinstall & activate WooCommerce%s"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:16
+#, php-format
+msgid ""
+"%sOpps ..!!!%s You are using %sWC %s. WCFM works only with %sWC 3.0+%s. "
+"PLease upgrade your WooCommerce version now to make your life easier and "
+"peaceful by using WCFM."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:44
+#, php-format
+msgid ""
+"%s: You don't have permission to access this page. Please contact your "
+"%sStore Admin%s for assistance."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:59 helpers/wcfm-core-functions.php:89
+msgid ""
+": Please ask your Store Admin to upgrade your dashboard to access this "
+"feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:64 helpers/wcfm-core-functions.php:94
+#, php-format
+msgid ""
+"%s: Please ask your %sStore Admin%s to upgrade your dashboard to access this "
+"feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:71
+msgid ""
+": Upgrade your WCFM to WCFM - Ultimate to avail this feature. Disable this "
+"notice from settings panel using \"Disable Ultimate Notice\" option."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:75
+#, php-format
+msgid ""
+"%s: Upgrade your WCFM to %sWCFM - Ultimate%s to access this feature. Disable "
+"this notice from settings panel using \"Disable Ultimate Notice\" option."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:101
+msgid ""
+": Associate your WCFM with WCFM - Groups & Staffs to avail this feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:105
+#, php-format
+msgid ""
+"%s: Associate your WCFM with %sWCFM - Groups & Staffs%s to access this "
+"feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:119
+msgid ": Please contact your Store Admin to access this feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:124
+#, php-format
+msgid "%s: Please contact your %sStore Admin%s to access this feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:131
+msgid ": Associate your WCFM with WCFM - Analytics to access this feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:135
+#, php-format
+msgid ""
+"%s: Associate your WCFM with %sWCFM - Analytics%s to access this feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:741
+msgid "Please insert Article Title before submit."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:742
+msgid "Article Successfully Saved."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:743
+msgid "Article Successfully submitted for moderation."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:744
+msgid "Article Successfully Published."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:756
+msgid "Please insert Product Title before submit."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:757
+msgid "Product SKU must be unique."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:758
+msgid "Variation SKU must be unique."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:759
+msgid "Product Successfully Saved."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:760
+msgid "Product Successfully submitted for moderation."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:761
+msgid "Product Successfully Published."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:773
+msgid "Please insert atleast Coupon Title before submit."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:774
+msgid "Coupon Successfully Saved."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:775
+msgid "Coupon Successfully Published."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:787
+msgid "Please insert atleast Knowledgebase Title before submit."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:788
+msgid "Knowledgebase Successfully Saved."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:789
+msgid "Knowledgebase Successfully Published."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:801
+msgid "Please insert atleast Topic Title before submit."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:802
+msgid "Topic Successfully Saved."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:803
+msgid "Topic Successfully Published."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:815
+msgid "Please write something before submit."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:816
+msgid "Reply send failed, try again."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:817
+msgid "Reply Successfully Send."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:829
+msgid "Name is required."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:830
+msgid "Email is required."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:831
+msgid "Please insert your enquiry before submit."
+msgstr "Please insert your Inquiry before submit."
+
+#: helpers/wcfm-core-functions.php:832
+msgid "Your enquiry successfully sent."
+msgstr "Your inquiry successfully sent."
+
+#: helpers/wcfm-core-functions.php:833
+msgid "Enquiry reply successfully published."
+msgstr "Inquiry reply successfully published."
+
+#: helpers/wcfm-core-functions.php:845
+msgid "Please insert Customer Username before submit."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:846
+msgid "Please insert Customer Email before submit."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:847
+msgid "This Username already exists."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:848
+msgid "This Email already exists."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:849
+msgid "Customer Saving Failed."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:850
+msgid "Customer Successfully Saved."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:862
+msgid "Are you sure and want to approve / publish this 'Product'?"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:863
+msgid ""
+"Are you sure and want to delete this 'Article'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:864
+msgid ""
+"Are you sure and want to delete this 'Product'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:865
+msgid ""
+"Are you sure and want to delete this 'Message'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:866
+msgid ""
+"Are you sure and want to delete this 'Order'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:867
+msgid ""
+"Are you sure and want to delete this 'Enquiry'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:868
+msgid ""
+"Are you sure and want to delete this 'Support Ticket'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:869
+msgid ""
+"Are you sure and want to delete this 'Follower'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:870
+msgid ""
+"Are you sure and want to delete this 'Following'?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:871
+msgid "Are you sure and want to 'Mark as Complete' this Order?"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:872
+msgid "Are you sure and want to 'Mark as Confirmed' this Booking?"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:873
+msgid "Are you sure and want to 'Mark as Complete' this Appointment?"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:875
+msgid "Select all"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:876
+msgid "Select none"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:877
+msgid "Any"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:878
+msgid "Enter a name for the new attribute term:"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:879
+msgid ""
+"Please upgrade your WC Frontend Manager to Ultimate version and avail this "
+"feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:880
+msgid ""
+"Install WC Frontend Manager Ultimate and WooCommerce PDF Invoices & Packing "
+"Slips to avail this feature."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:881
+msgid "Please select some element first!!"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:882
+msgid ""
+"Are you sure and want to do this?\n"
+"You can't undo this action ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:883
+msgid "Are you sure and want to do this?"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:884
+#: includes/libs/php/class-wcfm-fields.php:637
+msgid "Everywhere Else"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:885 views/profile/wcfm-view-profile.php:212
+#: includes/libs/php/class-wcfm-fields.php:82
+#: includes/libs/php/class-wcfm-fields.php:84
+#: includes/libs/php/class-wcfm-fields.php:87
+#: includes/libs/php/class-wcfm-fields.php:148
+#: includes/libs/php/class-wcfm-fields.php:219
+#: includes/libs/php/class-wcfm-fields.php:261
+#: includes/libs/php/class-wcfm-fields.php:319
+#: includes/libs/php/class-wcfm-fields.php:381
+#: includes/libs/php/class-wcfm-fields.php:441
+#: includes/libs/php/class-wcfm-fields.php:546
+#: includes/libs/php/class-wcfm-fields.php:619
+#: includes/libs/php/class-wcfm-fields.php:689
+#: includes/libs/php/class-wcfm-fields.php:754
+#: includes/libs/php/class-wcfm-fields.php:757
+#: includes/libs/php/class-wcfm-fields.php:820
+#: includes/libs/php/class-wcfm-fields.php:869
+#: includes/libs/php/class-wcfm-fields.php:963
+msgid "This field is required."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:886
+msgid "Choose "
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:887
+msgid "Search for a attribute ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:888
+msgid "Search for a product ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:889
+msgid "Choose Categoies ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:890
+msgid "Choose Listings ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:892
+msgid "No categories"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:893
+msgid "Searching ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:894
+msgid "No matching result found."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:895
+msgid "Loading ..."
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:896
+msgid "Minimum input character "
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:899
+msgid "Add New Block"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:900
+msgid "Remove Block"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:901
+msgid "Toggle Block"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:902
+msgid "Drag to re-arrange blocks"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:914
+#: views/vendors/wcfm-view-vendors-manage.php:396
+msgid "Direct Message"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:915
+msgid "Approve Product"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:916
+msgid "Status Updated"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:919
+msgid "New Order"
+msgstr ""
+
+#: helpers/wcfm-core-functions.php:1241
+msgid "Tutorial"
+msgstr ""
+
+#: views/wcfm-view-header-panels.php:46 views/wcfm-view-header-panels.php:49
+msgid "Toggle Menu"
+msgstr ""
+
+#: views/wcfm-view-header-panels.php:79 views/wcfm-view-menu.php:130
+msgid "Logout"
+msgstr ""
+
+#: views/wcfm-view-menu.php:61 views/settings/wcfm-view-settings.php:293
+msgid "Home"
+msgstr ""
+
+#: controllers/articles/wcfm-controller-articles-manage.php:37
+#: controllers/coupons/wcfm-controller-coupons-manage.php:37
+#: controllers/customers/wcfm-controller-customers-manage.php:37
+#: controllers/enquiry/wcfm-controller-enquiry-manage.php:38
+#: controllers/knowledgebase/wcfm-controller-knowledgebase-manage.php:37
+#: controllers/products-manager/wcfm-controller-products-manage.php:37
+#: controllers/profile/wcfm-controller-profile.php:67
+#: controllers/settings/wcfm-controller-dokan-settings.php:33
+#: controllers/settings/wcfm-controller-settings.php:31
+#: controllers/settings/wcfm-controller-wcfmmarketplace-settings.php:38
+#: controllers/settings/wcfm-controller-wcmarketplace-settings.php:31
+#: controllers/settings/wcfm-controller-wcpvendors-settings.php:29
+#: controllers/settings/wcfm-controller-wcvendors-settings.php:31
+#: controllers/vendors/wcfm-controller-vendors-manage.php:29
+#: controllers/withdrawal/dokan/wcfm-controller-withdrawal-request.php:37
+#: controllers/withdrawal/wcmp/wcfm-controller-withdrawal-request.php:33
+msgid "There has some error in submitted data."
+msgstr ""
+
+#: controllers/articles/wcfm-controller-articles.php:138
+#: controllers/listings/wcfm-controller-listings.php:24
+#: controllers/products/wcfm-controller-products.php:25
+#: controllers/products/wcfm-controller-products.php:218
+#: views/articles/wcfm-view-articles-manage.php:109
+#: views/articles/wcfm-view-articles.php:11
+#: views/listings/wcfm-view-listings.php:37
+#: views/products/wcfm-view-products.php:11
+#: views/products-manager/wcfm-view-products-manage.php:406
+msgid "Published"
+msgstr ""
+
+#: controllers/articles/wcfm-controller-articles.php:158
+#: controllers/knowledgebase/wcfm-controller-knowledgebase.php:103
+#: controllers/listings/wcfm-controller-listings.php:110
+#: controllers/notice/wcfm-controller-notices.php:77
+#: controllers/products/wcfm-controller-products.php:322
+#: controllers/reports/wcfm-controller-reports-out-of-stock.php:105
+#: views/articles/wcfm-view-articles-manage.php:376
+#: views/notice/wcfm-view-notice-manage.php:59
+#: views/products-manager/wcfm-view-products-manage.php:756
+#: views/products-popup/wcfm-view-product-popup.php:301
+msgid "View"
+msgstr ""
+
+#: controllers/capability/wcfm-controller-capability.php:39
+msgid "Capability saved successfully"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:96
+#: controllers/customers/wcfm-controller-customers-details.php:103
+#: controllers/orders/wcfm-controller-dokan-orders.php:161
+#: controllers/orders/wcfm-controller-dokan-orders.php:168
+#: controllers/orders/wcfm-controller-orders.php:115
+#: controllers/orders/wcfm-controller-orders.php:122
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:187
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:194
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:158
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:165
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:186
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:193
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:107
+#: controllers/customers/wcfm-controller-customers-details.php:113
+#: controllers/orders/wcfm-controller-dokan-orders.php:172
+#: controllers/orders/wcfm-controller-dokan-orders.php:178
+#: controllers/orders/wcfm-controller-orders.php:126
+#: controllers/orders/wcfm-controller-orders.php:132
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:198
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:204
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:169
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:175
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:197
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:203
+msgid "Guest"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:117
+#: controllers/customers/wcfm-controller-customers-details.php:119
+#: controllers/orders/wcfm-controller-dokan-orders.php:182
+#: controllers/orders/wcfm-controller-dokan-orders.php:184
+#: controllers/orders/wcfm-controller-orders.php:136
+#: controllers/orders/wcfm-controller-orders.php:138
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:208
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:210
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:179
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:181
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:207
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:209
+#: views/enquiry/wcfm-view-enquiry-tab.php:175
+msgid "by"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:140
+#: controllers/orders/wcfm-controller-dokan-orders.php:205
+#: controllers/orders/wcfm-controller-orders.php:159
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:240
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:237
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:224
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:147
+#: controllers/orders/wcfm-controller-dokan-orders.php:230
+#: controllers/orders/wcfm-controller-orders.php:184
+msgid "Via"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:159
+#: controllers/orders/wcfm-controller-dokan-orders.php:249
+#: controllers/orders/wcfm-controller-orders.php:215
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:306
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:289
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:338
+msgid "Mark as Complete"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:167
+#: controllers/customers/wcfm-controller-customers-details.php:171
+#: controllers/orders/wcfm-controller-orders.php:224
+#: views/capability/wcfm-view-capability.php:338
+#: views/orders/wcfm-view-orders-details.php:138
+#: views/orders/wcfm-view-orders-details.php:143
+#: views/orders/wcfm-view-orders-details.php:145
+msgid "PDF Invoice"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:168
+#: views/capability/wcfm-view-capability.php:344
+#: views/orders/wcfm-view-orders-details.php:135
+msgid "PDF Packing Slip"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:210
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:23
+#: views/wc_bookings/wcfm-view-wcbookings.php:21
+msgid "Paid & Confirmed"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:210
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:23
+#: views/wc_bookings/wcfm-view-wcbookings.php:23
+msgid "Pending Confirmation"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:210
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:23
+msgid "Un-paid"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:210
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:23
+#: views/wc_bookings/wcfm-view-wcbookings.php:24
+#: views/withdrawal/dokan/wcfm-view-payments.php:54
+msgid "Cancelled"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:210
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:23
+#: views/wc_bookings/wcfm-view-wcbookings.php:20
+msgid "Complete"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:210
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:23
+#: views/wc_bookings/wcfm-view-wcbookings.php:22
+msgid "Confirmed"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:275
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:90
+msgid "#"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:289
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:104
+#, php-format
+msgctxt "Guest string with name from booking order in brackets"
+msgid "Guest (%s)"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-details.php:357
+#: controllers/wc_bookings/wcfm-controller-wcbookings.php:179
+msgid "Mark as Confirmed"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-manage.php:125
+msgid "Dear"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-manage.php:127
+msgid ""
+"Your account has been created as {user_role}. Follow the bellow details to "
+"log into the system"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-manage.php:129
+msgid "Site"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-manage.php:131
+msgid "Login"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-manage.php:133
+#: views/profile/wcfm-view-profile.php:222
+msgid "Password"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-manage.php:143
+msgid "New Account"
+msgstr ""
+
+#: controllers/customers/wcfm-controller-customers-manage.php:154
+#, php-format
+msgid "A new customer <b>%s</b> added to the store by <b>%s</b>"
+msgstr ""
+
+#: controllers/enquiry/wcfm-controller-enquiry-manage.php:80
+msgid "Reply for your enquiry"
+msgstr "Reply for your inquiry"
+
+#: controllers/enquiry/wcfm-controller-enquiry-manage.php:83
+#, php-format
+msgid ""
+"We recently have a enquiry from you regarding \"%s\". Please check below for "
+"our input for the same: "
+msgstr ""
+"We recently have a inquiry from you regarding \"%s\". Please check below for "
+"our input for the same: "
+
+#: controllers/enquiry/wcfm-controller-enquiry-manage.php:97
+msgid "Enquiry Reply"
+msgstr "Inquiry Reply"
+
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:108
+#: views/enquiry/wcfm-view-enquiry.php:92
+#: views/enquiry/wcfm-view-enquiry.php:104 views/orders/wcfm-view-orders.php:94
+#: views/orders/wcfm-view-orders.php:114 views/vendors/wcfm-view-vendors.php:89
+#: views/vendors/wcfm-view-vendors.php:110
+msgid "Additional Info"
+msgstr ""
+
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:113
+msgid "New enquiry for"
+msgstr "New inquiry for"
+
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:116
+#, php-format
+msgid "You have a recent enquiry for %s."
+msgstr "You have a recent inquiry for %s."
+
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:121
+#, php-format
+msgid "To respond to this Enquiry, please %sClick Here%s"
+msgstr "To respond to this Inquiry, please %sClick Here%s"
+
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:147
+#, php-format
+msgid "You have a recent enquiry for <b>%s</b>"
+msgstr "You have a recent inquiry for <b>%s</b>"
+
+#: controllers/enquiry/wcfm-controller-enquiry-tab.php:165
+#, php-format
+msgid "You have received an Enquiry for <b>%s</b>"
+msgstr "You have received an Inquiry for <b>%s</b>"
+
+#: controllers/listings/wcfm-controller-listings.php:26
+#: views/listings/wcfm-view-listings.php:39
+msgid "Expired"
+msgstr ""
+
+#: controllers/listings/wcfm-controller-listings.php:27
+#: views/articles/wcfm-view-articles-manage.php:120
+#: views/articles/wcfm-view-articles-manage.php:370
+#: views/listings/wcfm-view-listings.php:40
+#: views/products-manager/wcfm-view-products-manage.php:417
+#: views/products-manager/wcfm-view-products-manage.php:750
+#: views/products-popup/wcfm-view-product-popup.php:295
+msgid "Preview"
+msgstr ""
+
+#: controllers/listings/wcfm-controller-listings.php:28
+msgid "Pending Payment"
+msgstr ""
+
+#: controllers/messages/wcfm-controller-message-sent.php:47
+msgid "Message sent successfully"
+msgstr ""
+
+#: controllers/messages/wcfm-controller-messages.php:153
+msgid "System"
+msgstr ""
+
+#: controllers/messages/wcfm-controller-messages.php:155
+#: controllers/messages/wcfm-controller-messages.php:183
+#: views/enquiry/wcfm-view-enquiry.php:91
+#: views/enquiry/wcfm-view-enquiry.php:103
+#: views/products/wcfm-view-products.php:206
+#: views/products/wcfm-view-products.php:229
+#: views/settings/wcfm-view-dokan-settings.php:159
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:148
+#: views/settings/wcfm-view-wcmarketplace-settings.php:166
+#: views/settings/wcfm-view-wcvendors-settings.php:150
+#: views/vendors/wcfm-view-vendors-manage.php:265
+#: views/vendors/wcfm-view-vendors.php:77
+#: views/vendors/wcfm-view-vendors.php:98
+msgid "Store"
+msgstr ""
+
+#: controllers/messages/wcfm-controller-messages.php:163
+#: controllers/messages/wcfm-controller-messages.php:174
+#: controllers/messages/wcfm-controller-messages.php:190
+#: controllers/messages/wcfm-controller-messages.php:201
+msgid "You"
+msgstr ""
+
+#: controllers/messages/wcfm-controller-messages.php:213
+#: controllers/messages/wcfm-controller-messages.php:215
+msgid "Approve / Reject"
+msgstr ""
+
+#: controllers/messages/wcfm-controller-messages.php:217
+#: views/messages/wcfm-view-messages.php:91
+msgid "Mark Read"
+msgstr ""
+
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:268
+msgid "UNPAID"
+msgstr ""
+
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:272
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:302
+msgid "PAID"
+msgstr ""
+
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:276
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:306
+msgid "REVERSED"
+msgstr ""
+
+#: controllers/orders/wcfm-controller-wcmarketplace-orders.php:315
+#: controllers/orders/wcfm-controller-wcpvendors-orders.php:297
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:346
+msgid "Mark Shipped"
+msgstr ""
+
+#: controllers/orders/wcfm-controller-wcvendors-orders.php:298
+msgid "DUE"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:229
+#: views/products-manager/wcfm-view-products-manage-tabs.php:27
+#: views/products-manager/wcfm-view-products-manage-tabs.php:219
+msgid "In stock"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:229
+#: views/products-manager/wcfm-view-products-manage-tabs.php:27
+#: views/products-manager/wcfm-view-products-manage-tabs.php:219
+#: views/reports/wcfm-view-reports-menu.php:5
+msgid "Out of stock"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:229
+#: views/products-manager/wcfm-view-products-manage-tabs.php:27
+#: views/products-manager/wcfm-view-products-manage-tabs.php:219
+msgid "On backorder"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:248
+#: views/capability/wcfm-view-capability.php:178
+msgid "Grouped"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:250
+msgid "External/Affiliate"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:254
+#: views/products/wcfm-view-products.php:161
+#: views/products-manager/wcfm-view-products-manage-tabs.php:207
+#: views/products-manager/wcfm-view-products-manage.php:452
+#: views/products-popup/wcfm-view-product-popup.php:120
+msgid "Virtual"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:256
+#: views/products/wcfm-view-products.php:157
+msgid "Downloadable"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:258
+#: views/capability/wcfm-view-capability.php:176
+msgid "Simple"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:262
+#: views/capability/wcfm-view-capability.php:177
+msgid "Variable"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:264
+msgid "Subscription"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:266
+msgid "Variable Subscription"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:268
+msgid "Listings Package"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:270
+msgid "Resume Package"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:276
+msgid "Accommodation"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:278
+#: views/customers/wcfm-view-customers.php:65
+#: views/customers/wcfm-view-customers.php:80
+msgid "Appointment"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:280
+msgid "Bundle"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:282
+msgid "Composite"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:284
+msgid "Lottery"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:318
+msgid "Mark Approve / Publish"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:329
+msgid "No Featured"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:332
+msgid "Mark Featured"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:337
+msgid ""
+"Featured Product: Upgrade your WCFM to WCFM Ultimate to avail this feature."
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:346
+msgid "Duplicate"
+msgstr ""
+
+#: controllers/products/wcfm-controller-products.php:349
+msgid ""
+"Duplicate Product: Upgrade your WCFM to WCFM Ultimate to avail this feature."
+msgstr ""
+
+#: controllers/profile/wcfm-controller-profile.php:230
+msgid "Email verification code invalid."
+msgstr ""
+
+#: controllers/profile/wcfm-controller-profile.php:240
+#: controllers/vendors/wcfm-controller-vendors-manage.php:49
+msgid "Profile saved successfully"
+msgstr ""
+
+#: controllers/settings/wcfm-controller-dokan-settings.php:93
+#: controllers/settings/wcfm-controller-settings.php:213
+#: controllers/settings/wcfm-controller-wcfmmarketplace-settings.php:97
+#: controllers/settings/wcfm-controller-wcmarketplace-settings.php:284
+#: controllers/settings/wcfm-controller-wcpvendors-settings.php:80
+#: controllers/settings/wcfm-controller-wcvendors-settings.php:122
+msgid "Settings saved successfully"
+msgstr ""
+
+#: controllers/settings/wcfm-controller-wcpvendors-settings.php:82
+msgid "Settings failed to save"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors-manage.php:81
+msgid "Badges saved successfully"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors.php:66
+msgid "Active Vendor"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors.php:79
+#: views/vendors/wcfm-view-vendors-manage.php:157
+msgid "Email Verified"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors.php:81
+#: views/vendors/wcfm-view-vendors-manage.php:159
+msgid "Email Verification Pending"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors.php:112
+msgid "Next payment on"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors.php:129
+#: controllers/vendors/wcfm-controller-vendors.php:134
+#: controllers/vendors/wcfm-controller-vendors.php:142
+msgid "Expiry on"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors.php:142
+msgid "Never Expire"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors.php:180
+#: views/vendors/wcfm-view-vendors-manage.php:297
+msgid "Disable Vendor Account"
+msgstr ""
+
+#: controllers/vendors/wcfm-controller-vendors.php:182
+#: views/vendors/wcfm-view-vendors-manage.php:299
+msgid "Enable Vendor Account"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:565
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:205
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:199
+#: includes/reports/class-wcvendors-report-sales-by-date.php:219
+#, php-format
+msgid "%s total earnings"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:566
+#: includes/reports/class-wcfm-report-analytics.php:127
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:206
+#: includes/reports/class-wcvendors-report-sales-by-date.php:220
+msgid ""
+"This is the sum of the earned commission including shipping and taxes if "
+"applicable."
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:572
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:214
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:208
+#: includes/reports/class-wcvendors-report-sales-by-date.php:227
+#, php-format
+msgid "%s total withdrawal"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:573
+msgid ""
+"This is the sum of the commission withdraw including shipping and taxes if "
+"applicable."
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:797
+#: includes/reports/class-wcfm-report-sales-by-date.php:704
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:527
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:430
+#: includes/reports/class-wcvendors-report-sales-by-date.php:541
+#: views/customers/wcfm-view-customers-details.php:265
+#: views/customers/wcfm-view-customers-details.php:275
+#: views/orders/wcfm-view-orders.php:86 views/orders/wcfm-view-orders.php:106
+#: views/vendors/wcfm-view-vendors.php:81
+#: views/vendors/wcfm-view-vendors.php:102
+msgid "Gross Sales"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:806
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:537
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:440
+#: includes/reports/class-wcvendors-report-sales-by-date.php:550
+msgid "Earning"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:832
+#: includes/reports/class-wcfm-report-sales-by-date.php:720
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:566
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:469
+#: includes/reports/class-wcvendors-report-sales-by-date.php:591
+msgid "Order Counts"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:840
+#: includes/reports/class-wcfm-report-sales-by-date.php:728
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:574
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:477
+#: includes/reports/class-wcvendors-report-sales-by-date.php:599
+msgid "Order Item Counts"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:848
+#: includes/reports/class-wcfm-report-sales-by-date.php:744
+msgid "Coupon Amounts"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:856
+#: includes/reports/class-wcfm-report-sales-by-date.php:752
+msgid "Refund Amounts"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:867
+#: includes/reports/class-wcfm-report-sales-by-date.php:763
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:585
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:488
+#: includes/reports/class-wcvendors-report-sales-by-date.php:610
+msgid "Sales Report by Date"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:885
+#: includes/reports/class-wcfm-report-analytics.php:170
+#: includes/reports/class-wcfm-report-sales-by-date.php:781
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:294
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:603
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:506
+#: includes/reports/class-wcvendors-report-sales-by-date.php:316
+#: includes/reports/class-wcvendors-report-sales-by-date.php:628
+#: views/articles/wcfm-view-articles.php:113
+#: views/articles/wcfm-view-articles.php:124
+#: views/customers/wcfm-view-customers-details.php:266
+#: views/customers/wcfm-view-customers-details.php:276
+#: views/enquiry/wcfm-view-enquiry.php:94
+#: views/enquiry/wcfm-view-enquiry.php:106
+#: views/messages/wcfm-view-messages.php:117
+#: views/messages/wcfm-view-messages.php:130
+#: views/orders/wcfm-view-orders.php:95 views/orders/wcfm-view-orders.php:115
+#: views/products/wcfm-view-products.php:205
+#: views/products/wcfm-view-products.php:228
+#: views/withdrawal/dokan/wcfm-view-payments.php:71
+#: views/withdrawal/dokan/wcfm-view-payments.php:80
+#: views/withdrawal/wcmp/wcfm-view-payments.php:69
+#: views/withdrawal/wcmp/wcfm-view-payments.php:80
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:61
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:70
+msgid "Date"
+msgstr ""
+
+#: includes/reports/class-dokan-report-sales-by-date.php:894
+#: includes/reports/class-wcfm-report-sales-by-date.php:790
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:612
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:515
+#: includes/reports/class-wcvendors-report-sales-by-date.php:637
+#: views/withdrawal/dokan/wcfm-view-payments.php:68
+#: views/withdrawal/dokan/wcfm-view-payments.php:77
+msgid "Amount"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:117
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:164
+#: includes/reports/class-wcvendors-report-sales-by-date.php:201
+#, php-format
+msgid "%s average daily sales"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:121
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:168
+#: includes/reports/class-wcvendors-report-sales-by-date.php:205
+#, php-format
+msgid "%s average monthly sales"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:126
+#, php-format
+msgid "%s total earned commission"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:141
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:259
+#: includes/reports/class-wcvendors-report-sales-by-date.php:281
+#: views/enquiry/wcfm-view-enquiry.php:27
+#: views/reports/wcfm-view-reports-dokan-sales-by-date.php:29
+#: views/reports/wcfm-view-reports-sales-by-date.php:29
+#: views/reports/wcfm-view-reports-wcmarketplace-sales-by-date.php:29
+#: views/reports/wcfm-view-reports-wcpvendors-sales-by-date.php:29
+#: views/reports/wcfm-view-reports-wcvendors-sales-by-date.php:29
+#: views/vendors/wcfm-view-vendors.php:14
+msgid "Year"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:142
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:260
+#: includes/reports/class-wcvendors-report-sales-by-date.php:282
+#: views/enquiry/wcfm-view-enquiry.php:26
+#: views/reports/wcfm-view-reports-dokan-sales-by-date.php:30
+#: views/reports/wcfm-view-reports-sales-by-date.php:30
+#: views/reports/wcfm-view-reports-wcmarketplace-sales-by-date.php:30
+#: views/reports/wcfm-view-reports-wcpvendors-sales-by-date.php:30
+#: views/reports/wcfm-view-reports-wcvendors-sales-by-date.php:30
+#: views/vendors/wcfm-view-vendors.php:13
+msgid "Last Month"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:143
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:261
+#: includes/reports/class-wcvendors-report-sales-by-date.php:283
+#: views/enquiry/wcfm-view-enquiry.php:25
+#: views/reports/wcfm-view-reports-dokan-sales-by-date.php:31
+#: views/reports/wcfm-view-reports-sales-by-date.php:31
+#: views/reports/wcfm-view-reports-wcmarketplace-sales-by-date.php:31
+#: views/reports/wcfm-view-reports-wcpvendors-sales-by-date.php:31
+#: views/reports/wcfm-view-reports-wcvendors-sales-by-date.php:31
+#: views/vendors/wcfm-view-vendors.php:12
+msgid "This Month"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:144
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:262
+#: includes/reports/class-wcvendors-report-sales-by-date.php:284
+#: views/enquiry/wcfm-view-enquiry.php:24
+#: views/reports/wcfm-view-reports-dokan-sales-by-date.php:32
+#: views/reports/wcfm-view-reports-sales-by-date.php:32
+#: views/reports/wcfm-view-reports-wcmarketplace-sales-by-date.php:32
+#: views/reports/wcfm-view-reports-wcpvendors-sales-by-date.php:32
+#: views/reports/wcfm-view-reports-wcvendors-sales-by-date.php:32
+#: views/vendors/wcfm-view-vendors.php:11
+msgid "Last 7 Days"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:176
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:300
+#: includes/reports/class-wcvendors-report-sales-by-date.php:322
+#: views/capability/wcfm-view-capability.php:332
+msgid "Export CSV"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:260
+msgid "Daily Views"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-analytics.php:270
+#: views/dashboard/wcfm-view-dashboard.php:204
+#: views/dashboard/wcfm-view-dokan-dashboard.php:208
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:229
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:232
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:215
+msgid "Store Analytics"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-sales-by-date.php:736
+msgid "Net Sales"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:174
+#: includes/reports/class-wcvendors-report-sales-by-date.php:211
+#, php-format
+msgid "%s gross sales in this period"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:175
+#: includes/reports/class-wcvendors-report-sales-by-date.php:212
+msgid ""
+"This is the sum of the order totals after any refunds and including shipping "
+"and taxes."
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:187
+#, php-format
+msgid "%s total admin fees"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:188
+msgid ""
+"This is the sum of the admin fees including shipping and taxes if applicable."
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:196
+#, php-format
+msgid "%s total paid fees"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:197
+msgid ""
+"This is the sum of the admin fees paid including shipping and taxes if "
+"applicable."
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:215
+#: includes/reports/class-wcvendors-report-sales-by-date.php:228
+msgid ""
+"This is the sum of the commission paid including shipping and taxes if "
+"applicable."
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:231
+#: includes/reports/class-wcvendors-report-sales-by-date.php:243
+#, php-format
+msgid "%s orders placed"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:237
+#: includes/reports/class-wcvendors-report-sales-by-date.php:249
+#, php-format
+msgid "%s items purchased"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:244
+#: includes/reports/class-wcvendors-report-sales-by-date.php:257
+#: includes/reports/class-wcvendors-report-sales-by-date.php:265
+#, php-format
+msgid "%s charged for shipping"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:537
+msgid "Admin Fees"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:547
+#: views/vendors/wcfm-view-vendors.php:84
+#: views/vendors/wcfm-view-vendors.php:105
+msgid "Paid Fees"
+msgstr ""
+
+#: includes/reports/class-wcmarketplace-report-sales-by-date.php:557
+#: includes/reports/class-wcpvendors-report-sales-by-date.php:460
+#: includes/reports/class-wcvendors-report-sales-by-date.php:570
+#: includes/reports/class-wcvendors-report-sales-by-date.php:581
+msgid "Shipping Amounts"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:97
+msgid "Manage Article"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:105
+msgid "Edit Article"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:105
+msgid "Add Article"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:114
+#: views/articles/wcfm-view-articles.php:112
+#: views/articles/wcfm-view-articles.php:123
+#: views/listings/wcfm-view-listings.php:106
+#: views/listings/wcfm-view-listings.php:117
+#: views/products/wcfm-view-products.php:204
+#: views/products/wcfm-view-products.php:227
+#: views/products-manager/wcfm-view-products-manage.php:411
+msgid "Views"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:128
+#: views/articles/wcfm-view-articles.php:60
+#: views/coupons/wcfm-view-coupons-manage.php:72
+#: views/coupons/wcfm-view-coupons.php:39
+#: views/customers/wcfm-view-customers-details.php:96
+#: views/customers/wcfm-view-customers-manage.php:104
+#: views/customers/wcfm-view-customers.php:37
+#: views/listings/wcfm-view-listings.php:86
+#: views/orders/wcfm-view-orders-details.php:119
+#: views/orders/wcfm-view-orders.php:68
+#: views/products/wcfm-view-products-export.php:45
+#: views/products/wcfm-view-products.php:76
+#: views/products-manager/wcfm-view-products-manage.php:427
+#: views/reports/wcfm-view-reports-out-of-stock.php:37
+#: views/reports/wcfm-view-reports-sales-by-date.php:78
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:56
+#: views/wc_bookings/wcfm-view-wcbookings.php:64
+msgid "WP Admin View"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:133
+#: views/articles/wcfm-view-articles.php:65
+msgid "Add New Article"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:151
+msgid "Article Title"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:159
+#: views/articles/wcfm-view-articles-manage.php:261
+#: views/articles/wcfm-view-articles-manage.php:261
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:89
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:89
+#: views/products-manager/wcfm-view-products-manage.php:473
+#: views/products-manager/wcfm-view-products-manage.php:473
+#: views/products-manager/wcfm-view-products-manage.php:595
+#: views/products-manager/wcfm-view-products-manage.php:595
+#: views/products-popup/wcfm-view-product-popup.php:149
+#: views/products-popup/wcfm-view-product-popup.php:149
+#: views/settings/wcfm-view-settings.php:432
+#: views/settings/wcfm-view-settings.php:432
+msgid "Categories"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:204
+#: views/articles/wcfm-view-articles-manage.php:309
+#: views/products-manager/wcfm-view-products-manage.php:522
+#: views/products-manager/wcfm-view-products-manage.php:673
+#: views/products-popup/wcfm-view-product-popup.php:198
+msgid "Tags"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:204
+#: views/articles/wcfm-view-articles-manage.php:309
+msgid "Separate Article Tags with commas"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:204
+#: views/articles/wcfm-view-articles-manage.php:309
+#: views/products-manager/wcfm-view-products-manage.php:522
+#: views/products-manager/wcfm-view-products-manage.php:673
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:216
+#: views/articles/wcfm-view-articles-manage.php:321
+#: views/products-manager/wcfm-view-products-manage.php:535
+#: views/products-manager/wcfm-view-products-manage.php:685
+#: views/products-popup/wcfm-view-product-popup.php:211
+msgid " with commas"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:238
+#: views/articles/wcfm-view-articles-manage.php:342
+#: views/products-manager/wcfm-view-products-manage.php:557
+#: views/products-manager/wcfm-view-products-manage.php:712
+#: views/products-popup/wcfm-view-product-popup.php:264
+msgid "Short Description"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:239
+#: views/articles/wcfm-view-articles-manage.php:343
+#: views/coupons/wcfm-view-coupons-manage.php:93
+#: views/products-manager/wcfm-view-products-manage.php:558
+#: views/products-manager/wcfm-view-products-manage.php:713
+#: views/products-popup/wcfm-view-product-popup.php:265
+msgid "Description"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:358
+#: views/articles/wcfm-view-articles-manage.php:360
+#: views/coupons/wcfm-view-coupons-manage.php:120
+#: views/coupons/wcfm-view-coupons-manage.php:122
+#: views/customers/wcfm-view-customers-manage.php:196
+#: views/enquiry/wcfm-view-enquiry-manage.php:98
+#: views/enquiry/wcfm-view-enquiry-tab.php:150
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:132
+#: views/notice/wcfm-view-notice-manage.php:88
+#: views/products-manager/wcfm-view-products-manage.php:738
+#: views/products-manager/wcfm-view-products-manage.php:740
+#: views/products-popup/wcfm-view-product-popup.php:283
+#: views/products-popup/wcfm-view-product-popup.php:285
+msgid "Submit"
+msgstr ""
+
+#: views/articles/wcfm-view-articles-manage.php:358
+#: views/articles/wcfm-view-articles-manage.php:360
+#: views/coupons/wcfm-view-coupons-manage.php:120
+#: views/coupons/wcfm-view-coupons-manage.php:122
+#: views/products-manager/wcfm-view-products-manage.php:738
+#: views/products-manager/wcfm-view-products-manage.php:740
+#: views/products-popup/wcfm-view-product-popup.php:283
+#: views/products-popup/wcfm-view-product-popup.php:285
+msgid "Submit for Review"
+msgstr ""
+
+#: views/articles/wcfm-view-articles.php:83
+msgid "Select a category"
+msgstr ""
+
+#: views/articles/wcfm-view-articles.php:109
+#: views/articles/wcfm-view-articles.php:120
+#: views/products/wcfm-view-products.php:197
+#: views/products/wcfm-view-products.php:220
+#: views/products-manager/wcfm-view-products-manage-tabs.php:210
+msgid "Image"
+msgstr ""
+
+#: views/articles/wcfm-view-articles.php:111
+#: views/articles/wcfm-view-articles.php:122
+#: views/customers/wcfm-view-customers-details.php:186
+#: views/customers/wcfm-view-customers-details.php:197
+#: views/customers/wcfm-view-customers-details.php:224
+#: views/customers/wcfm-view-customers-details.php:235
+#: views/customers/wcfm-view-customers-details.php:262
+#: views/customers/wcfm-view-customers-details.php:272
+#: views/listings/wcfm-view-listings.php:104
+#: views/listings/wcfm-view-listings.php:115
+#: views/orders/wcfm-view-orders.php:81 views/orders/wcfm-view-orders.php:101
+#: views/products/wcfm-view-products.php:200
+#: views/products/wcfm-view-products.php:223
+#: views/vendors/wcfm-view-vendors.php:74
+#: views/vendors/wcfm-view-vendors.php:95
+#: views/wc_bookings/wcfm-view-wcbookings.php:114
+#: views/wc_bookings/wcfm-view-wcbookings.php:126
+#: views/withdrawal/dokan/wcfm-view-payments.php:67
+#: views/withdrawal/dokan/wcfm-view-payments.php:76
+#: views/withdrawal/wcmp/wcfm-view-payments.php:63
+#: views/withdrawal/wcmp/wcfm-view-payments.php:74
+msgid "Status"
+msgstr ""
+
+#: views/articles/wcfm-view-articles.php:114
+#: views/articles/wcfm-view-articles.php:125
+msgid "Author"
+msgstr ""
+
+#: views/articles/wcfm-view-articles.php:115
+#: views/articles/wcfm-view-articles.php:126
+#: views/customers/wcfm-view-customers-details.php:192
+#: views/customers/wcfm-view-customers-details.php:203
+#: views/customers/wcfm-view-customers-details.php:267
+#: views/customers/wcfm-view-customers-details.php:277
+#: views/customers/wcfm-view-customers.php:69
+#: views/customers/wcfm-view-customers.php:84
+#: views/enquiry/wcfm-view-enquiry.php:95
+#: views/enquiry/wcfm-view-enquiry.php:107
+#: views/knowledgebase/wcfm-view-knowledgebase.php:73
+#: views/knowledgebase/wcfm-view-knowledgebase.php:80
+#: views/messages/wcfm-view-messages.php:118
+#: views/messages/wcfm-view-messages.php:131
+#: views/notice/wcfm-view-notices.php:52 views/notice/wcfm-view-notices.php:58
+#: views/orders/wcfm-view-orders.php:96 views/orders/wcfm-view-orders.php:116
+#: views/products/wcfm-view-products.php:208
+#: views/products/wcfm-view-products.php:231
+#: views/reports/wcfm-view-reports-out-of-stock.php:54
+#: views/reports/wcfm-view-reports-out-of-stock.php:63
+#: views/wc_bookings/wcfm-view-wcbookings.php:121
+#: views/wc_bookings/wcfm-view-wcbookings.php:133
+msgid "Actions"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:122
+#: views/settings/wcfm-view-settings.php:116
+msgid "Capability Controller"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:129
+msgid "Capability Settings"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:132
+msgid "Dashboard Settings"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:148
+#: views/vendors/wcfm-view-vendors-manage.php:329
+msgid "Vendors Capability"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:153
+msgid "Configure what to hide from all Vendors"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:162
+msgid "Manage Products"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:163
+msgid "Add Products"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:166
+msgid "Auto Publish Live Products"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:172
+msgid "Types"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:179
+msgid "External / Affiliate"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:184
+msgid "Panels"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:188
+#: views/products-manager/wcfm-view-products-manage-tabs.php:18
+msgid "Inventory"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:190
+msgid "Taxes"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:191
+#: views/products-manager/wcfm-view-products-manage-tabs.php:234
+msgid "Linked"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:192
+#: views/products-manager/wcfm-view-products-manage-tabs.php:129
+#: views/products-manager/wcfm-view-products-manage-tabs.php:136
+msgid "Attributes"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:193
+msgid "Advanced"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:205
+msgid "Access"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:214
+msgid "Miscellaneous"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:218
+msgid "Install WC Bookings to enable this feature."
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:224
+#: views/capability/wcfm-view-capability.php:297
+msgid "Manage Appointments"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:224
+msgid "Install WC Appointments to enable this feature."
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:230
+msgid "Install WC Subscriptions to enable this feature."
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:235
+#: views/capability/wcfm-view-capability.php:238
+msgid "Associate Listings"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:238
+msgid "Install WP Job Manager to enable this feature."
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:247
+msgid "Manage Articles"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:248
+msgid "Add Articles"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:249
+msgid "Publish Articles"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:250
+msgid "Edit Live Articles"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:251
+msgid "Auto Publish Live Articles"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:252
+msgid "Delete Articles"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:263
+msgid "Manage Coupons"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:264
+msgid "Add Coupons"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:265
+msgid "Publish Coupons"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:266
+msgid "Edit Live Coupons"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:267
+msgid "Auto Publish Live Coupons"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:268
+msgid "Delete Coupons"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:269
+msgid "Allow Free Shipping"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:277
+#: views/customers/wcfm-view-customers-details.php:180
+#: views/customers/wcfm-view-customers.php:64
+#: views/customers/wcfm-view-customers.php:79
+#: views/wc_bookings/wcfm-view-wcbookings-dashboard.php:24
+msgid "Bookings"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:281
+msgid "Manual Booking"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:282
+msgid "Manage Resource"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:294
+#: views/customers/wcfm-view-customers-details.php:218
+msgid "Appointments"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:298
+msgid "Manual Appointment"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:299
+msgid "Manage Staff"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:300
+msgid "Appointments List"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:301
+msgid "Appointments Calendar"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:315
+msgid "Subscriptions List"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:316
+msgid "Subscription Details"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:317
+msgid "Subscription Status Update"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:318
+msgid "Subscription Schedule Update"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:330
+msgid "View Comments"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:331
+msgid "Submit Comments"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:342
+msgid "Store Invoice"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:343
+msgid "Commission Invoice"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:354
+#: views/customers/wcfm-view-customers-details.php:100
+#: views/customers/wcfm-view-customers-manage.php:108
+#: views/customers/wcfm-view-customers.php:32
+msgid "Manage Customers"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:355
+#: views/customers/wcfm-view-customers-manage.php:99
+msgid "Add Customer"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:356
+#: views/customers/wcfm-view-customers-details.php:103
+#: views/customers/wcfm-view-customers-manage.php:99
+msgid "Edit Customer"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:357
+msgid "View Customer"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:358
+msgid "View Customer Orders"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:359
+msgid "View Customer Email"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:360
+#: views/orders/wcfm-view-orders.php:84 views/orders/wcfm-view-orders.php:104
+msgid "Billing Address"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:361
+#: views/orders/wcfm-view-orders.php:85 views/orders/wcfm-view-orders.php:105
+msgid "Shipping Address"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:365
+msgid "Customer Limit"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:380
+msgid "Withdrwal Request"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:381
+#: views/withdrawal/dokan/wcfm-view-withdrawal.php:64
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:42
+msgid "Transactions"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:409
+msgid "Advanced Capability"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:426
+#: views/capability/wcfm-view-capability.php:436
+msgid "Shop Managers Capability"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:448
+#: views/capability/wcfm-view-capability.php:458
+msgid "Shop Staffs Capability"
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:467
+msgid "*** Vendor Managers are treated as Shop Staff for a Vendor Store."
+msgstr ""
+
+#: views/capability/wcfm-view-capability.php:479
+#: views/profile/wcfm-view-profile.php:339
+#: views/settings/wcfm-view-dokan-settings.php:511
+#: views/settings/wcfm-view-settings.php:456
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:385
+#: views/settings/wcfm-view-wcmarketplace-settings.php:762
+#: views/settings/wcfm-view-wcpvendors-settings.php:459
+#: views/settings/wcfm-view-wcvendors-settings.php:464
+msgid "Save"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:55
+msgid "Manage Coupon"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:62
+msgid "Edit Coupon"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:62
+msgid "Add Coupon"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:77
+#: views/coupons/wcfm-view-coupons.php:43
+msgid "Add New Coupon"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:92
+#: views/coupons/wcfm-view-coupons.php:55
+#: views/coupons/wcfm-view-coupons.php:65
+msgid "Code"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:94
+msgid "Discount Type"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:94
+msgid "Percentage discount"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:94
+msgid "Fixed Cart Discount"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:94
+msgid "Fixed Product Discount"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:95
+msgid "Coupon Amount"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:96
+msgid "Coupon expiry date"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:100
+msgid "Allow free shipping"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons-manage.php:100
+msgid ""
+"Check this box if the coupon grants free shipping. The free shipping method "
+"must be enabled and be set to require \"a valid free shipping coupon\" (see "
+"the \"Free Shipping Requires\" setting)."
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons.php:24
+msgid "Coupons Listing"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons.php:35
+#: views/listings/wcfm-view-listings.php:82
+#: views/orders/wcfm-view-orders.php:64
+#: views/products/wcfm-view-products.php:72
+#: views/wc_bookings/wcfm-view-wcbookings.php:63
+msgid "Screen Manager"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons.php:57
+#: views/coupons/wcfm-view-coupons.php:67
+msgid "Amt"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons.php:58
+#: views/coupons/wcfm-view-coupons.php:68
+msgid "Usage Limit"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons.php:59
+#: views/coupons/wcfm-view-coupons.php:69
+msgid "Expiry date"
+msgstr ""
+
+#: views/coupons/wcfm-view-coupons.php:60
+#: views/coupons/wcfm-view-coupons.php:70
+#: views/listings/wcfm-view-listings.php:109
+#: views/listings/wcfm-view-listings.php:120
+#: views/vendors/wcfm-view-vendors.php:90
+#: views/vendors/wcfm-view-vendors.php:111
+msgid "Action"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:48
+msgid "Customer Details"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:107
+#: views/customers/wcfm-view-customers-manage.php:111
+#: views/customers/wcfm-view-customers.php:42
+msgid "Add New Customer"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:128
+msgid "total money spent"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:140
+#: views/dashboard/wcfm-view-dashboard.php:167
+#: views/dashboard/wcfm-view-dokan-dashboard.php:172
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:192
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:196
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:179
+#, php-format
+msgid "<strong>%s order</strong><br />"
+msgid_plural "<strong>%s orders</strong><br />"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/customers/wcfm-view-customers-details.php:142
+msgid "total order placed"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:160
+#: views/customers/wcfm-view-customers-manage.php:134
+#: views/customers/wcfm-view-customers.php:61
+#: views/customers/wcfm-view-customers.php:76
+#: views/enquiry/wcfm-view-enquiry-tab.php:65
+#: views/profile/wcfm-view-profile.php:195
+#: views/settings/wcfm-view-wcmarketplace-settings.php:710
+#: views/vendors/wcfm-view-vendors-manage.php:277
+msgid "Email"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:161
+#: views/customers/wcfm-view-customers-manage.php:135
+#: views/customers/wcfm-view-customers-manage.php:157
+#: views/customers/wcfm-view-customers-manage.php:174
+#: views/profile/wcfm-view-profile.php:193
+#: views/profile/wcfm-view-profile.php:274
+#: views/profile/wcfm-view-profile.php:290
+#: views/vendors/wcfm-view-vendors-manage.php:278
+#: views/vendors/wcfm-view-vendors-manage.php:321
+msgid "First Name"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:162
+#: views/customers/wcfm-view-customers-manage.php:136
+#: views/customers/wcfm-view-customers-manage.php:158
+#: views/customers/wcfm-view-customers-manage.php:175
+#: views/profile/wcfm-view-profile.php:194
+#: views/profile/wcfm-view-profile.php:275
+#: views/profile/wcfm-view-profile.php:291
+#: views/vendors/wcfm-view-vendors-manage.php:279
+#: views/vendors/wcfm-view-vendors-manage.php:322
+msgid "Last Name"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:187
+#: views/customers/wcfm-view-customers-details.php:198
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:137
+#: views/wc_bookings/wcfm-view-wcbookings.php:115
+#: views/wc_bookings/wcfm-view-wcbookings.php:127
+msgid "Booking"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:190
+#: views/customers/wcfm-view-customers-details.php:201
+#: views/wc_bookings/wcfm-view-wcbookings.php:118
+#: views/wc_bookings/wcfm-view-wcbookings.php:130
+msgid "Start Date"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:191
+#: views/customers/wcfm-view-customers-details.php:202
+#: views/wc_bookings/wcfm-view-wcbookings.php:119
+#: views/wc_bookings/wcfm-view-wcbookings.php:131
+msgid "End Date"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-details.php:264
+#: views/customers/wcfm-view-customers-details.php:274
+#: views/orders/wcfm-view-orders.php:83 views/orders/wcfm-view-orders.php:103
+msgid "Purchased"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:92
+msgid "Manage Customer"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:129
+#: views/customers/wcfm-view-customers-manage.php:131
+#: views/customers/wcfm-view-customers.php:60
+#: views/customers/wcfm-view-customers.php:75
+msgid "Username"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:149
+#: views/orders/wcfm-view-orders-details.php:283
+#: views/orders/wcfm-view-orders-details.php:285
+#: views/orders/wcfm-view-orders-details.php:322
+#: views/orders/wcfm-view-orders-details.php:324
+#: views/profile/wcfm-view-profile.php:267
+msgid "Address"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:154
+#: views/profile/wcfm-view-profile.php:271
+msgid "Billing"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:159
+#: views/customers/wcfm-view-customers-manage.php:176
+#: views/profile/wcfm-view-profile.php:276
+#: views/profile/wcfm-view-profile.php:292
+#: views/settings/wcfm-view-wcmarketplace-settings.php:229
+#: views/settings/wcfm-view-wcmarketplace-settings.php:711
+#: views/settings/wcfm-view-wcvendors-settings.php:219
+#: views/settings/wcfm-view-wcvendors-settings.php:408
+msgid "Address 1"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:160
+#: views/customers/wcfm-view-customers-manage.php:177
+#: views/profile/wcfm-view-profile.php:277
+#: views/profile/wcfm-view-profile.php:293
+#: views/settings/wcfm-view-wcmarketplace-settings.php:230
+#: views/settings/wcfm-view-wcmarketplace-settings.php:712
+#: views/settings/wcfm-view-wcvendors-settings.php:220
+#: views/settings/wcfm-view-wcvendors-settings.php:409
+msgid "Address 2"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:161
+#: views/customers/wcfm-view-customers-manage.php:178
+#: views/profile/wcfm-view-profile.php:278
+#: views/profile/wcfm-view-profile.php:294
+#: views/settings/wcfm-view-dokan-settings.php:204
+#: views/settings/wcfm-view-dokan-settings.php:416
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:190
+#: views/settings/wcfm-view-wcmarketplace-settings.php:231
+#: views/settings/wcfm-view-wcmarketplace-settings.php:713
+#: views/settings/wcfm-view-wcvendors-settings.php:221
+#: views/settings/wcfm-view-wcvendors-settings.php:382
+#: views/settings/wcfm-view-wcvendors-settings.php:410
+msgid "Country"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:162
+#: views/customers/wcfm-view-customers-manage.php:179
+#: views/profile/wcfm-view-profile.php:279
+#: views/profile/wcfm-view-profile.php:295
+#: views/settings/wcfm-view-dokan-settings.php:202
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:188
+#: views/settings/wcfm-view-wcmarketplace-settings.php:233
+#: views/settings/wcfm-view-wcmarketplace-settings.php:714
+#: views/settings/wcfm-view-wcvendors-settings.php:222
+#: views/settings/wcfm-view-wcvendors-settings.php:411
+msgid "City/Town"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:163
+#: views/customers/wcfm-view-customers-manage.php:180
+#: views/profile/wcfm-view-profile.php:280
+#: views/profile/wcfm-view-profile.php:296
+#: views/settings/wcfm-view-dokan-settings.php:205
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:191
+#: views/settings/wcfm-view-wcmarketplace-settings.php:232
+#: views/settings/wcfm-view-wcmarketplace-settings.php:715
+#: views/settings/wcfm-view-wcvendors-settings.php:223
+#: views/settings/wcfm-view-wcvendors-settings.php:412
+msgid "State/County"
+msgstr ""
+
+#: views/customers/wcfm-view-customers-manage.php:164
+#: views/customers/wcfm-view-customers-manage.php:181
+#: views/profile/wcfm-view-profile.php:281
+#: views/profile/wcfm-view-profile.php:297
+#: views/settings/wcfm-view-dokan-settings.php:203
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:189
+#: views/settings/wcfm-view-wcmarketplace-settings.php:234
+#: views/settings/wcfm-view-wcmarketplace-settings.php:716
+#: views/settings/wcfm-view-wcvendors-settings.php:224
+#: views/settings/wcfm-view-wcvendors-settings.php:413
+msgid "Postcode/Zip"
+msgstr ""
+
+#: views/customers/wcfm-view-customers.php:62
+#: views/customers/wcfm-view-customers.php:77
+msgid "Location"
+msgstr ""
+
+#: views/customers/wcfm-view-customers.php:66
+#: views/customers/wcfm-view-customers.php:81
+msgid "Money Spent"
+msgstr ""
+
+#: views/customers/wcfm-view-customers.php:67
+#: views/customers/wcfm-view-customers.php:82
+msgid "Last Order"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard-welcome-box.php:48
+#, php-format
+msgid "Welcome to %s Dashboard"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard-welcome-box.php:62
+msgid "Last Login:"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard-welcome-box.php:69
+#: views/vendors/wcfm-view-vendors.php:79
+#: views/vendors/wcfm-view-vendors.php:100
+msgid "Product Limit Stats"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard-welcome-box.php:70
+#: views/vendors/wcfm-view-vendors.php:80
+#: views/vendors/wcfm-view-vendors.php:101
+msgid "Disk Space Usage Stats"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:115
+msgid "gross sales in last 7 days"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:146
+msgid "admin fees in last 7 days"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:146
+msgid "commission in last 7 days"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:154
+#: views/dashboard/wcfm-view-dokan-dashboard.php:161
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:181
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:185
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:168
+#: views/vendors/wcfm-view-vendors-manage.php:248
+#, php-format
+msgid "<strong>%s item</strong><br />"
+msgid_plural "<strong>%s items</strong><br />"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/dashboard/wcfm-view-dashboard.php:155
+msgid "sold in last 7 days"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:168
+msgid "received in last 7 days"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:228
+#: views/dashboard/wcfm-view-dokan-dashboard.php:232
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:253
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:256
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:239
+msgid "Product Stats"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:250
+#: views/dashboard/wcfm-view-dokan-dashboard.php:252
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:273
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:276
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:259
+msgid "Store Stats"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:261
+#: views/dashboard/wcfm-view-dokan-dashboard.php:264
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:285
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:271
+#, php-format
+msgid "%s top seller in last 7 days (sold %d)"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:274
+#: views/dashboard/wcfm-view-dokan-dashboard.php:278
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:299
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:307
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:285
+#, php-format
+msgid "<strong>%s order</strong> - processing"
+msgid_plural "<strong>%s orders</strong> - processing"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/dashboard/wcfm-view-dashboard.php:280
+#, php-format
+msgid "<strong>%s order</strong> - on-hold"
+msgid_plural "<strong>%s orders</strong> - on-hold"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/dashboard/wcfm-view-dashboard.php:290
+#: views/dashboard/wcfm-view-dokan-dashboard.php:297
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:318
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:326
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:304
+#, php-format
+msgid "<strong>%s product</strong> - low in stock"
+msgid_plural "<strong>%s products</strong> - low in stock"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/dashboard/wcfm-view-dashboard.php:296
+#: views/dashboard/wcfm-view-dokan-dashboard.php:303
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:324
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:332
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:310
+#, php-format
+msgid "<strong>%s product</strong> - out of stock"
+msgid_plural "<strong>%s products</strong> - out of stock"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/dashboard/wcfm-view-dashboard.php:317
+#: views/dashboard/wcfm-view-dokan-dashboard.php:324
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:346
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:353
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:331
+msgid "Sales by Product"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:332
+#: views/dashboard/wcfm-view-dokan-dashboard.php:340
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:362
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:369
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:347
+msgid "Top Regions"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:352
+#: views/dashboard/wcfm-view-dokan-dashboard.php:360
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:382
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:389
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:367
+msgid "Latest Topics"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dashboard.php:374
+#: views/dashboard/wcfm-view-dokan-dashboard.php:382
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:404
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:411
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:389
+msgid "There is no topic yet!!"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dokan-dashboard.php:143
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:163
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:167
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:150
+#: views/vendors/wcfm-view-vendors-manage.php:203
+msgid "gross sales in this month"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dokan-dashboard.php:153
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:173
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:177
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:160
+#: views/vendors/wcfm-view-vendors-manage.php:221
+msgid "earnings in this month"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dokan-dashboard.php:162
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:182
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:186
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:169
+#: views/vendors/wcfm-view-vendors-manage.php:250
+msgid "sold in this month"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dokan-dashboard.php:173
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:193
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:197
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:180
+msgid "received in this month"
+msgstr ""
+
+#: views/dashboard/wcfm-view-dokan-dashboard.php:285
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:306
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:314
+#: views/dashboard/wcfm-view-wcvendors-dashboard.php:292
+#, php-format
+msgid "<strong>%s product</strong> - awaiting fulfillment"
+msgid_plural "<strong>%s products</strong> - awaiting fulfillment"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/dashboard/wcfm-view-wcmarketplace-dashboard.php:173
+#: views/vendors/wcfm-view-vendors-manage.php:221
+msgid "admin fees in this month"
+msgstr ""
+
+#: views/dashboard/wcfm-view-wcpvendors-dashboard.php:296
+#, php-format
+msgid "%s top seller this month (sold %d)"
+msgstr ""
+
+#: views/enquiry/wcfm-view-enquiry-manage.php:54
+msgid "Manage Enquiry"
+msgstr "Manage Inquiry"
+
+#: views/enquiry/wcfm-view-enquiry-manage.php:61
+msgid "Edit Enquiry"
+msgstr "Edit Inquiry"
+
+#: views/enquiry/wcfm-view-enquiry-manage.php:61
+msgid "Add Enquiry"
+msgstr "Add Inquiry"
+
+#: views/enquiry/wcfm-view-enquiry-manage.php:65
+msgid "View Product"
+msgstr ""
+
+#: views/enquiry/wcfm-view-enquiry-manage.php:82
+#: views/enquiry/wcfm-view-enquiry.php:93
+#: views/enquiry/wcfm-view-enquiry.php:105
+msgid "Reply"
+msgstr ""
+
+#: views/enquiry/wcfm-view-enquiry-manage.php:83
+msgid "Is Private?"
+msgstr ""
+
+#: views/enquiry/wcfm-view-enquiry-manage.php:84
+msgid "Notify Customer"
+msgstr ""
+
+#: views/enquiry/wcfm-view-enquiry-tab.php:30
+msgid "General Enquiries"
+msgstr "General Inquiries"
+
+#: views/enquiry/wcfm-view-enquiry-tab.php:35
+msgid "There are no enquiries yet."
+msgstr "There are no inquiries yet."
+
+#: views/enquiry/wcfm-view-enquiry-tab.php:50
+msgid "Your email address will not be published."
+msgstr ""
+
+#: views/enquiry/wcfm-view-enquiry-tab.php:54
+msgid "Your enquiry"
+msgstr "Your inquiry"
+
+#: views/enquiry/wcfm-view-enquiry.php:88
+#: views/enquiry/wcfm-view-enquiry.php:100
+msgid "Query"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:56
+msgid "Manage Knowledgebase"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:63
+msgid "Edit Knowledgebase"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:63
+msgid "Add Knowledgebase"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:81
+#: views/knowledgebase/wcfm-view-knowledgebase.php:71
+#: views/knowledgebase/wcfm-view-knowledgebase.php:78
+#: views/notice/wcfm-view-notice-manage.php:71
+#: views/notice/wcfm-view-notices.php:51 views/notice/wcfm-view-notices.php:57
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:164
+msgid "Title"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:82
+msgid "Details"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:100
+#: views/products-manager/wcfm-view-products-manage.php:610
+msgid "Add new category"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:106
+#: views/products-manager/wcfm-view-products-manage.php:616
+msgid "-- Parent category --"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase-manage.php:116
+#: views/products-manager/wcfm-view-products-manage-tabs.php:154
+#: views/products-manager/wcfm-view-products-manage.php:626
+msgid "Add"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase.php:33
+msgid "Guidelines for Store Users"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase.php:38
+msgid "Add New Knowledgebase"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase.php:57
+#: views/products/wcfm-view-products.php:136
+msgid "Show all category"
+msgstr ""
+
+#: views/knowledgebase/wcfm-view-knowledgebase.php:72
+#: views/knowledgebase/wcfm-view-knowledgebase.php:79
+msgid "Category"
+msgstr ""
+
+#: views/listings/wcfm-view-listings.php:91
+msgid "Add New Listing"
+msgstr ""
+
+#: views/listings/wcfm-view-listings.php:103
+#: views/listings/wcfm-view-listings.php:114
+msgid "Listing"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:35
+msgid "Notification Dashboard"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:47
+msgid "To Store Admin"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:47
+msgid "To Store Vendors"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:63
+msgid "Direct TO:"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:69
+#: views/notice/wcfm-view-notice-view.php:163
+#: views/vendors/wcfm-view-vendors-manage.php:388
+msgid "Send"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:93
+msgid "Only Unread"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:94
+msgid "Only Read"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:111
+#: views/messages/wcfm-view-messages.php:124
+msgid "Select all for mark as read"
+msgstr ""
+
+#: views/messages/wcfm-view-messages.php:114
+#: views/messages/wcfm-view-messages.php:127
+msgid "Message"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-manage.php:47
+msgid "Manage Topic"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-manage.php:55
+#: views/notice/wcfm-view-notice-view.php:59
+msgid "Edit Topic"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-manage.php:55
+msgid "Add Topic"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-manage.php:58
+#: views/notice/wcfm-view-notice-view.php:57
+#: views/notice/wcfm-view-notice-view.php:57
+#: views/notice/wcfm-view-notices.php:33
+msgid "Topics"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-manage.php:59
+msgid "View Topic"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-manage.php:72
+msgid "Allow Reply"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-manage.php:73
+msgid "Close for New Reply"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-manage.php:74
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:165
+#: views/products-popup/wcfm-view-product-popup.php:251
+msgid "Content"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-view.php:47
+msgid "Topic"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-view.php:104
+msgid "Replies"
+msgstr ""
+
+#: views/notice/wcfm-view-notice-view.php:152
+msgid "New Reply"
+msgstr ""
+
+#: views/notice/wcfm-view-notices.php:37
+msgid "Add New Topic"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details-fedex-dhl-express.php:49
+msgid "Fedex"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details-fedex-dhl-express.php:163
+msgid "DHL Express"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:70
+#: views/products-manager/wcfm-view-products-manage.php:352
+#: views/products-manager/wcfm-view-products-manage.php:353
+#: views/products-popup/wcfm-view-product-popup.php:68
+#: views/products-popup/wcfm-view-product-popup.php:69
+msgid "Standard"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:113
+msgid "Order #"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:128
+msgid "CSV Export"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:162
+msgid "Order date:"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:169
+msgid "Order status:"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:175
+msgid "Customer payment page"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:188
+#: views/vendors/wcfm-view-vendors-manage.php:337
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:123
+msgid "Update"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:199
+msgid "Customer:"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:207
+msgid "View other orders"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:231
+#, php-format
+msgid "<label for=\"order_payment_via\">Payment via: </label> %s"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:250
+msgid "Customer IP"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:262
+msgid "Billing Details"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:268
+msgid "Shipping Details"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:285
+msgid "No billing address set."
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:324
+msgid "No shipping address set."
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:349
+msgid "Customer Provided Note"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:368
+msgid "Order Items"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:375
+msgid "Item"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:377
+#: views/settings/wcfm-view-dokan-settings.php:417
+#: views/settings/wcfm-view-dokan-settings.php:420
+msgid "Cost"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:378
+msgid "Qty"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:433
+msgid "SKU:"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:437
+msgid "Variation ID:"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:441
+msgid "No longer exists"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:708
+#: views/withdrawal/wcmp/wcfm-view-payments.php:66
+#: views/withdrawal/wcmp/wcfm-view-payments.php:77
+msgid "Fee"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:826
+msgid "Coupon(s) Used"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:843
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:843
+msgid "Discount"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:855
+msgid "This is the shipping and handling total costs for the order."
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:895
+msgid "Order Total"
+msgstr ""
+
+#: views/orders/wcfm-view-orders-details.php:910
+msgid "Refunded"
+msgstr ""
+
+#: views/orders/wcfm-view-orders.php:40
+msgid "Orders Listing"
+msgstr ""
+
+#: views/orders/wcfm-view-orders.php:46
+msgid "Show all dates"
+msgstr ""
+
+#: views/orders/wcfm-view-orders.php:90 views/orders/wcfm-view-orders.php:110
+#: views/vendors/wcfm-view-vendors.php:86
+#: views/vendors/wcfm-view-vendors.php:107
+msgid "Earnings"
+msgstr ""
+
+#: views/products/wcfm-view-products-export.php:64
+#: views/products/wcfm-view-products.php:115
+#: views/products-manager/wcfm-view-products-manage.php:432
+#: views/products-popup/wcfm-view-product-popup-button.php:2
+msgid "Add New Product"
+msgstr ""
+
+#: views/products/wcfm-view-products.php:109
+msgid "Stock Manager"
+msgstr ""
+
+#: views/products/wcfm-view-products.php:147
+msgid "Show all product types"
+msgstr ""
+
+#: views/products/wcfm-view-products.php:192
+#: views/products/wcfm-view-products.php:215
+msgid "Select all for bulk edit"
+msgstr ""
+
+#: views/products/wcfm-view-products.php:199
+#: views/products/wcfm-view-products.php:222
+#: views/products-manager/wcfm-view-products-manage-tabs.php:23
+#: views/products-manager/wcfm-view-products-manage-tabs.php:218
+msgid "SKU"
+msgstr ""
+
+#: views/products/wcfm-view-products.php:201
+#: views/products/wcfm-view-products.php:224
+msgid "Stock"
+msgstr ""
+
+#: views/products/wcfm-view-products.php:202
+#: views/products/wcfm-view-products.php:225
+#: views/products-manager/wcfm-view-products-manage.php:461
+#: views/products-popup/wcfm-view-product-popup.php:129
+msgid "Price"
+msgstr ""
+
+#: views/products-manager/wcfm-view-customfield-products-manage.php:130
+msgid "-Select-"
+msgstr ""
+
+#: views/products-manager/wcfm-view-epeken-products-manage.php:42
+msgid "Epeken Product Config"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:23
+msgid ""
+"SKU refers to a Stock-keeping unit, a unique identifier for each distinct "
+"product and service that can be purchased."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:24
+msgid "Manage Stock?"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:24
+msgid "Enable stock management at product level"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:25
+#: views/products-manager/wcfm-view-products-manage-tabs.php:216
+msgid "Stock Qty"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:25
+msgid ""
+"Stock quantity. If this is a variable product this value will be used to "
+"control stock for all variations, unless you define stock at variation level."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:26
+msgid "Allow Backorders?"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:26
+#: views/products-manager/wcfm-view-products-manage-tabs.php:217
+msgid "Do not Allow"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:26
+#: views/products-manager/wcfm-view-products-manage-tabs.php:217
+msgid "Allow, but notify customer"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:26
+#: views/products-manager/wcfm-view-products-manage-tabs.php:217
+msgid "Allow"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:26
+msgid ""
+"If managing stock, this controls whether or not backorders are allowed. If "
+"enabled, stock quantity can go below 0."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:27
+#: views/products-manager/wcfm-view-products-manage-tabs.php:219
+msgid "Stock status"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:27
+msgid ""
+"Controls whether or not the product is listed as \"in stock\" or \"out of "
+"stock\" on the frontend."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:28
+msgid "Sold Individually"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:28
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:66
+msgid "Grouped Products"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:71
+msgid "Grouped products"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:71
+msgid "This lets you choose which products are part of this group."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:89
+#: views/products-manager/wcfm-view-products-manage-tabs.php:197
+msgid "Weight"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:90
+msgid "Dimensions"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:90
+#: views/products-manager/wcfm-view-products-manage-tabs.php:194
+msgid "Length"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:91
+#: views/products-manager/wcfm-view-products-manage-tabs.php:195
+msgid "Width"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:92
+#: views/products-manager/wcfm-view-products-manage-tabs.php:196
+msgid "Height"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:93
+msgid "Shipping class"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:114
+msgid "Tax Status"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:114
+msgid "Taxable"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:114
+msgid "Shipping only"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:114
+msgctxt "Tax status"
+msgid "None"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:114
+msgid ""
+"Define whether or not the entire product is taxable, or just the cost of "
+"shipping it."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:115
+msgid "Tax Class"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:115
+msgid ""
+"Choose a tax class for this product. Tax classes are used to apply different "
+"tax rates specific to certain types of product."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:140
+#, php-format
+msgid "Enter some text, some attributes by \"%s\" separating values."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:152
+msgid "Add attribute"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:168
+msgid "Variations"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:171
+#, php-format
+msgid ""
+"Before you can add a variation you need to add some variation attributes on "
+"the Attributes tab. %sLearn more%s"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:176
+msgid "Default Form Values:"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:181
+#: views/products-manager/wcfm-view-products-manage-tabs.php:182
+msgid "Variations Bulk Options"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:184
+msgid "Choose option"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:185
+msgid "Pricing"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:186
+msgid "Regular prices"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:187
+msgid "Regular price increase"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:188
+msgid "Regular price decrease"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:189
+msgid "Sale prices"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:190
+msgid "Sale price increase"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:191
+msgid "Sale price decrease"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:208
+msgid "Manage Stock"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:212
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:294
+msgid "Regular Price"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:213
+#: views/products-manager/wcfm-view-products-manage.php:462
+#: views/products-popup/wcfm-view-product-popup.php:130
+msgid "Sale Price"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:215
+#: views/products-manager/wcfm-view-products-manage.php:464
+#: views/products-popup/wcfm-view-product-popup.php:132
+#: views/settings/wcfm-view-dokan-settings.php:491
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:365
+#: views/settings/wcfm-view-wcmarketplace-settings.php:743
+#: views/settings/wcfm-view-wcpvendors-settings.php:155
+#: views/settings/wcfm-view-wcvendors-settings.php:447
+msgid "Upto"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:217
+msgid "Backorders?"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:239
+msgid "Up-sells"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:239
+msgid ""
+"Up-sells are products which you recommend instead of the currently viewed "
+"product, for example, products that are more profitable or better quality or "
+"more expensive."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:240
+msgid "Cross-sells"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage-tabs.php:240
+msgid ""
+"Cross-sells are products which you promote in the cart, based on the current "
+"product."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:35
+msgid "You have reached product limit!"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:339
+#: views/products-manager/wcfm-view-products-manage.php:351
+#: views/products-popup/wcfm-view-product-popup.php:55
+#: views/products-popup/wcfm-view-product-popup.php:67
+msgid "Same as parent"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:340
+#: views/products-popup/wcfm-view-product-popup.php:56
+msgid "No shipping class"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:391
+msgid "Manage Product"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:400
+msgid "Edit Product"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:400
+#: views/products-popup/wcfm-view-product-popup.php:113
+msgid "Add Product"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:454
+#: views/products-popup/wcfm-view-product-popup.php:122
+msgid "Product Title"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:459
+#: views/products-popup/wcfm-view-product-popup.php:127
+#: views/settings/wcfm-view-settings.php:350
+msgid "URL"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:459
+#: views/products-popup/wcfm-view-product-popup.php:127
+msgid "Enter the external URL to the product."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:460
+#: views/products-popup/wcfm-view-product-popup.php:128
+msgid "Button Text"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:460
+#: views/products-popup/wcfm-view-product-popup.php:128
+msgid "This text will be shown on the button linking to the external product."
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:462
+#: views/products-popup/wcfm-view-product-popup.php:130
+msgid "schedule"
+msgstr ""
+
+#: views/products-manager/wcfm-view-products-manage.php:522
+#: views/products-manager/wcfm-view-products-manage.php:673
+#: views/products-popup/wcfm-view-product-popup.php:198
+msgid "Separate Product Tags with commas"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:140
+msgid "Yoast SEO"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:145
+msgid "Enter a focus keyword"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:145
+msgid "It should appear in title and first paragraph of the copy."
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:146
+msgid "Meta description"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:146
+msgid "It should not be more than 156 characters."
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:158
+msgid "Custom Tabs"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:163
+msgid "Tabs"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:164
+msgid "Required for tab to be visible"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:165
+msgid "HTML or Text to display ..."
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:178
+msgid "Barcode & ISBN"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:183
+msgid "Barcode"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:184
+msgid "ISBN"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:197
+msgid "MSRP Pricing"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:202
+msgid "MSRP Price"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:215
+msgid "Quantities and Units"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:220
+msgid "Deactivate Quantity Rules"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:221
+msgid "Override Quantity Rules"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:222
+msgid "Step Value"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:223
+msgid "Minimum Quantity"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:224
+msgid "Maximum Quantity"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:225
+msgid "Out of Stock Minimum"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:226
+msgid "Out of Stock Maximum"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:227
+msgid "Unit"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:240
+msgid "Product Fees"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:245
+msgid "Fee Name"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:245
+msgid "This will be shown at the checkout description the added fee."
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:246
+msgid "Fee Amount"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:246
+msgid ""
+"Enter a monetary decimal without any currency symbols or thousand separator. "
+"This field also accepts percentages."
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:247
+msgid "Multiple Fee by Quantity"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:247
+msgid ""
+"Multiply the fee by the quantity of this product that is added to the cart."
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:260
+msgid "Bulk Discount"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:265
+msgid "Bulk Discount enabled"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:266
+msgid "Bulk discount special offer text in product description"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:267
+msgid "Discount Rules"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:268
+msgid "Quantity (min.)"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:269
+msgid "Discount (%)"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:283
+msgid "Role Based Price"
+msgstr ""
+
+#: views/products-manager/wcfm-view-thirdparty-products-manage.php:295
+msgid "Selling Price"
+msgstr ""
+
+#: views/products-popup/wcfm-view-product-popup.php:142
+msgid "Taxonomies"
+msgstr ""
+
+#: views/products-popup/wcfm-view-product-popup.php:227
+msgid "Image Gallery"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:169
+msgid "Profile Manager"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:185
+msgid "Personal"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:192
+msgid "Avatar"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:203
+msgid "Email already verified"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:212
+msgid "Email Verification Code: "
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:212
+msgid "Verification Code"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:213
+msgid "Get Code"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:222
+msgid "Set New Password - Keep it blank for not to update"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:227
+#: views/settings/wcfm-view-wcmarketplace-settings.php:709
+msgid "Phone"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:241
+msgid "Site Default"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:249
+msgid "Language"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:255
+msgid "About"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:289
+msgid "Same as Billing"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:310
+#: views/settings/wcfm-view-dokan-settings.php:141
+#: views/settings/wcfm-view-dokan-settings.php:141
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:130
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:130
+#: views/settings/wcfm-view-wcmarketplace-settings.php:148
+#: views/settings/wcfm-view-wcmarketplace-settings.php:148
+#: views/settings/wcfm-view-wcpvendors-settings.php:85
+#: views/settings/wcfm-view-wcpvendors-settings.php:85
+#: views/settings/wcfm-view-wcvendors-settings.php:132
+#: views/settings/wcfm-view-wcvendors-settings.php:132
+msgid "Social"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:316
+msgid "Twitter"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:317
+msgid "Facebook"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:318
+msgid "Instagram"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:319
+msgid "Youtube"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:320
+msgid "Linkedin"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:321
+msgid "Google Plus"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:322
+msgid "Snapchat"
+msgstr ""
+
+#: views/profile/wcfm-view-profile.php:323
+msgid "Pinterest"
+msgstr ""
+
+#: views/reports/wcfm-view-reports-dokan-sales-by-date.php:63
+#: views/reports/wcfm-view-reports-dokan-sales-by-date.php:65
+#: views/reports/wcfm-view-reports-sales-by-date.php:63
+#: views/reports/wcfm-view-reports-sales-by-date.php:65
+#: views/reports/wcfm-view-reports-wcmarketplace-sales-by-date.php:61
+#: views/reports/wcfm-view-reports-wcmarketplace-sales-by-date.php:63
+#: views/reports/wcfm-view-reports-wcpvendors-sales-by-date.php:62
+#: views/reports/wcfm-view-reports-wcpvendors-sales-by-date.php:64
+#: views/reports/wcfm-view-reports-wcvendors-sales-by-date.php:61
+#: views/reports/wcfm-view-reports-wcvendors-sales-by-date.php:63
+msgid "Sales BY Date"
+msgstr ""
+
+#: views/reports/wcfm-view-reports-dokan-sales-by-date.php:63
+#: views/reports/wcfm-view-reports-sales-by-date.php:63
+#: views/reports/wcfm-view-reports-wcmarketplace-sales-by-date.php:61
+#: views/reports/wcfm-view-reports-wcpvendors-sales-by-date.php:62
+#: views/reports/wcfm-view-reports-wcvendors-sales-by-date.php:61
+#, php-format
+msgctxt "start date and end date"
+msgid "From %s to %s"
+msgstr ""
+
+#: views/reports/wcfm-view-reports-menu.php:4
+msgid "Sales by date"
+msgstr ""
+
+#: views/reports/wcfm-view-reports-out-of-stock.php:26
+msgid "Out of Stock"
+msgstr ""
+
+#: views/reports/wcfm-view-reports-out-of-stock.php:50
+#: views/reports/wcfm-view-reports-out-of-stock.php:59
+msgid "product"
+msgstr ""
+
+#: views/reports/wcfm-view-reports-out-of-stock.php:51
+#: views/reports/wcfm-view-reports-out-of-stock.php:60
+msgid "Parent"
+msgstr ""
+
+#: views/reports/wcfm-view-reports-out-of-stock.php:52
+#: views/reports/wcfm-view-reports-out-of-stock.php:61
+msgid "Unit in stock"
+msgstr ""
+
+#: views/reports/wcfm-view-reports-out-of-stock.php:53
+#: views/reports/wcfm-view-reports-out-of-stock.php:62
+msgid "Stock Status"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:136
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:125
+#: views/settings/wcfm-view-wcmarketplace-settings.php:143
+#: views/settings/wcfm-view-wcpvendors-settings.php:80
+#: views/settings/wcfm-view-wcpvendors-settings.php:103
+#: views/settings/wcfm-view-wcvendors-settings.php:127
+msgid "Store Settings"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:165
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:154
+msgid "Profile Image"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:166
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:155
+#: views/settings/wcfm-view-wcmarketplace-settings.php:207
+#: views/settings/wcfm-view-wcvendors-settings.php:195
+msgid "Banner"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:167
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:156
+#: views/settings/wcfm-view-wcmarketplace-settings.php:173
+#: views/settings/wcfm-view-wcpvendors-settings.php:110
+#: views/settings/wcfm-view-wcvendors-settings.php:157
+msgid "Shop Name"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:168
+msgid "Store Product Per Page"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:169
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:157
+#: views/settings/wcfm-view-wcvendors-settings.php:197
+msgid "Store Phone"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:170
+msgid "Show email in store"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:171
+msgid "Show tab on product single page view"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:196
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:182
+#: views/settings/wcfm-view-wcmarketplace-settings.php:225
+#: views/settings/wcfm-view-wcvendors-settings.php:215
+msgid "Store Address"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:200
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:186
+msgid "Street"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:200
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:186
+msgid "Street adress"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:201
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:187
+msgid "Street 2"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:201
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:187
+msgid "Apartment, suit, unit etc. (optional)"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:202
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:188
+msgid "Town / City"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:203
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:189
+msgid "Postcode / Zip"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:211
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:197
+#: views/settings/wcfm-view-wcmarketplace-settings.php:248
+msgid "Store Location"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:259
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:233
+#: views/settings/wcfm-view-wcmarketplace-settings.php:306
+#: views/settings/wcfm-view-wcvendors-settings.php:252
+msgid "PayPal Email"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:260
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:234
+msgid "Skrill Email"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:271
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:242
+msgid "Bank Details"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:275
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:246
+msgid "Account Name"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:276
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:247
+#: views/settings/wcfm-view-wcmarketplace-settings.php:308
+msgid "Account Number"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:277
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:248
+#: views/settings/wcfm-view-wcmarketplace-settings.php:309
+msgid "Bank Name"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:278
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:249
+#: views/settings/wcfm-view-wcmarketplace-settings.php:311
+msgid "Bank Address"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:279
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:250
+msgid "Routing Number"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:280
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:251
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:251
+msgid "IBAN"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:281
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:252
+msgid "Swift Code"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:296
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:267
+msgid "Stripe Connect"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:364
+msgid "If you want to use Country-State wise Shipping system then"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:374
+msgid ""
+"A shipping zone is a geographic region where a certain set of shipping "
+"methods are offered. System will match a customer to a single zone using "
+"their shipping address and present the shipping methods within that zone to "
+"them."
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:388
+msgid "Enable Shipping"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:415
+#: views/settings/wcfm-view-wcvendors-settings.php:381
+msgid "Shipping Rates"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:415
+msgid ""
+"Add the countries you deliver your products to. You can specify states as "
+"well. If the shipping price is same except some countries/states, there is "
+"an option Everywhere Else, you can use that."
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:418
+msgid "State Shipping Rates"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:419
+#: views/settings/wcfm-view-wcvendors-settings.php:383
+msgid "State"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:432
+msgid "Dokan Pro Shipping Settings"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:464
+msgid "Dokan Pro SEO Settings"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:481
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:355
+#: views/settings/wcfm-view-wcmarketplace-settings.php:733
+#: views/settings/wcfm-view-wcpvendors-settings.php:144
+#: views/settings/wcfm-view-wcpvendors-settings.php:160
+#: views/settings/wcfm-view-wcvendors-settings.php:437
+msgid "Vacation Mode"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:487
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:361
+#: views/settings/wcfm-view-wcmarketplace-settings.php:739
+#: views/settings/wcfm-view-wcpvendors-settings.php:151
+#: views/settings/wcfm-view-wcvendors-settings.php:443
+msgid "Enable Vacation Mode"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:488
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:362
+#: views/settings/wcfm-view-wcmarketplace-settings.php:740
+#: views/settings/wcfm-view-wcpvendors-settings.php:152
+#: views/settings/wcfm-view-wcvendors-settings.php:444
+msgid "Disable Purchase During Vacation"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:489
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:363
+#: views/settings/wcfm-view-wcmarketplace-settings.php:741
+#: views/settings/wcfm-view-wcpvendors-settings.php:153
+#: views/settings/wcfm-view-wcvendors-settings.php:445
+msgid "Vacation Type"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:489
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:363
+#: views/settings/wcfm-view-wcmarketplace-settings.php:741
+#: views/settings/wcfm-view-wcpvendors-settings.php:153
+#: views/settings/wcfm-view-wcvendors-settings.php:445
+msgid "Instantly Close"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:489
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:363
+#: views/settings/wcfm-view-wcmarketplace-settings.php:741
+#: views/settings/wcfm-view-wcpvendors-settings.php:153
+#: views/settings/wcfm-view-wcvendors-settings.php:445
+msgid "Date wise close"
+msgstr ""
+
+#: views/settings/wcfm-view-dokan-settings.php:492
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:366
+#: views/settings/wcfm-view-wcmarketplace-settings.php:744
+#: views/settings/wcfm-view-wcpvendors-settings.php:156
+#: views/settings/wcfm-view-wcvendors-settings.php:448
+msgid "Vacation Message"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:91
+msgid "WCfM Settings"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:102
+msgid "Bookings Global Settings"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:110
+msgid "Appointments Global Settings"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:119
+msgid "Membership Settings"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:138
+msgid "WCfM Dashboard Setting"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:142
+#: views/settings/wcfm-view-wcmarketplace-settings.php:172
+#: views/settings/wcfm-view-wcpvendors-settings.php:109
+#: views/settings/wcfm-view-wcvendors-settings.php:156
+msgid "Logo"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:143
+msgid "Quick access icon"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:144
+msgid "My Store Label"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:145
+msgid "Disable Quick Access"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:147
+msgid "Disable Welcome Box"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:148
+msgid "Disable WCFM Menu"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:149
+msgid "Disable Theme Header"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:150
+msgid "Disable WCFM Full View"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:151
+msgid "Disable WCFM Slick Menu"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:153
+msgid "Disable WCFM Header Panel"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:154
+msgid "Disable Float Button"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:155
+msgid "Disable Ask a Question Button"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:156
+msgid "Disable Category Checklist View"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:157
+msgid "Disable Ultimate Notice"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:169
+msgid "Modules"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:173
+msgid "Module Controller"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:175
+msgid "Configure what to hide from your dashboard"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:220
+msgid "Dashboard Display Setting"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:232
+msgid "Reset to Default"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:242
+msgid "Dashboard Pages"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:246
+msgid "Dashboard Page/Endpoint Setting"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:251
+msgid "-- Select a page --"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:266
+msgid "Refresh Permalink"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:266
+msgid ""
+"Check to refresh WCfM page permalinks. Only apply if you are getting error "
+"(e.g. 404 not found) for any pages."
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:267
+msgid "This page should have shortcode - wc_frontend_manager"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:272
+msgid "WCFM Endpoints"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:286
+msgid "Menu Manager"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:290
+msgid "Dashboard Menu Manager"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:344
+msgid "Home Menu Label"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:348
+msgid "Icon"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:348
+msgid "Insert a valid Font-awesome icon class."
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:349
+msgid "Slug"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:352
+msgid "Has New?"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:353
+#: views/settings/wcfm-view-settings.php:355
+msgid "New Menu Class"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:354
+msgid "New Menu URL"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:356
+msgid "Sub Menu Capability"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:369
+msgid "Email From"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:373
+msgid "WCfM Email Setting"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:377
+msgid "Email from name"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:377
+msgid ""
+"Notification emails will be triggered with this name. By default Site Name "
+"will be used"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:378
+msgid "Email from address"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:378
+msgid ""
+"Notification emails will be triggered from this email address. By default "
+"Site Admin Email will be used"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:379
+msgid "CC Email address"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:379
+msgid "Notification emails will be CC to this email address."
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:380
+msgid "BCC Email address"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:380
+msgid "Notification emails will be BCC to this email address."
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:391
+msgid "Enquiry Custom Fields"
+msgstr "Inquiry Custom Fields"
+
+#: views/settings/wcfm-view-settings.php:395
+msgid "Inquiry Module"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:405
+msgid "Insert option values | separated"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:419
+msgid "Product Type Categories"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:423
+msgid "Product Type Specific Category Setup"
+msgstr ""
+
+#: views/settings/wcfm-view-settings.php:444
+msgid ""
+"Create group of your Store Categories as per Product Types. Product Manager "
+"will work according to that."
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:108
+#, php-format
+msgid "Upload a banner for your store. Banner size is (%sx%s) pixels."
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:201
+#: views/settings/wcfm-view-wcmarketplace-settings.php:253
+msgid "Type an address to find"
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:232
+msgid "Prefered Payment Method"
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:246
+msgid "Your bank account name"
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:247
+msgid "Your bank account number"
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:248
+msgid "Name of bank"
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:249
+msgid "Address of your bank"
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:250
+msgid "Routing number"
+msgstr ""
+
+#: views/settings/wcfm-view-wcfmmarketplace-settings.php:252
+msgid "Swift code"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:172
+msgid "Preferred logo should be 200x200 px."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:173
+#: views/settings/wcfm-view-wcpvendors-settings.php:110
+#: views/settings/wcfm-view-wcvendors-settings.php:157
+msgid "Your shop name is public and must be unique."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:174
+msgid "Shop Slug"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:174
+msgid "Your shop slug is public and must be unique."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:175
+#: views/settings/wcfm-view-wcvendors-settings.php:159
+msgid "Shop Description"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:175
+#: views/settings/wcfm-view-wcvendors-settings.php:159
+msgid "This is displayed on your shop page."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:201
+#: views/settings/wcfm-view-wcvendors-settings.php:187
+msgid "Branding"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:207
+msgid "Preferred banner should be 1200x245 px."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:209
+msgid "Shop Phone"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:209
+msgid "Your store phone no."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:240
+#: views/settings/wcfm-view-wcmarketplace-settings.php:241
+#: views/settings/wcfm-view-wcpvendors-settings.php:130
+#: views/settings/wcfm-view-wcpvendors-settings.php:131
+msgid "Timezone"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:240
+#: views/settings/wcfm-view-wcpvendors-settings.php:130
+msgid "Set the local timezone."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:265
+msgid "Please contact your administrator to enable Google map feature."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:274
+msgid "Shop Template"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:307
+msgid "Account Type"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:307
+msgid "Current"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:307
+msgid "Savings"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:310
+msgid "ABA Routing Number"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:312
+msgid "Destination Currency"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:313
+msgid "Account IBAN"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:314
+msgid "Account Holder Name"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:378
+#: views/settings/wcfm-view-wcmarketplace-settings.php:405
+#: views/settings/wcfm-view-wcmarketplace-settings.php:426
+#: views/settings/wcfm-view-wcmarketplace-settings.php:499
+#: views/settings/wcfm-view-wcmarketplace-settings.php:546
+#: views/settings/wcfm-view-wcmarketplace-settings.php:568
+#: controllers/withdrawal/dokan/wcfm-controller-payments.php:90
+#: controllers/withdrawal/wcmp/wcfm-controller-payments.php:82
+msgid "Stripe"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:381
+#: views/settings/wcfm-view-wcmarketplace-settings.php:502
+msgid "You are connected with Stripe"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:387
+#: views/settings/wcfm-view-wcmarketplace-settings.php:508
+msgid "Disconnect Stripe Account"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:408
+#: views/settings/wcfm-view-wcmarketplace-settings.php:429
+msgid "Please Retry!!!"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:548
+msgid "You are not connected with stripe."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:570
+msgid "Please connected with stripe again."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:631
+#: views/settings/wcfm-view-wcmarketplace-settings.php:640
+msgid "Shipping Zone"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:661
+msgid "Shipping Rules"
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:680
+msgid ""
+"There is no shipping zone or Flat Rate shipping method not associated for "
+"the zones to set shipping prices, kindly contact your Store Admin."
+msgstr ""
+
+#: views/settings/wcfm-view-wcmarketplace-settings.php:695
+msgid "Customer Support"
+msgstr ""
+
+#: views/settings/wcfm-view-wcpvendors-settings.php:111
+msgid "Vendor Email"
+msgstr ""
+
+#: views/settings/wcfm-view-wcpvendors-settings.php:111
+msgid ""
+"Enter the email for this vendor. This is the email where all notifications "
+"will be send such as new orders and customer inquiries. You may enter more "
+"than one email separating each with a comma."
+msgstr ""
+
+#: views/settings/wcfm-view-wcpvendors-settings.php:112
+msgid "Enter the profile information you would like for customer to see."
+msgstr ""
+
+#: views/settings/wcfm-view-wcpvendors-settings.php:180
+msgid "Paypal Email"
+msgstr ""
+
+#: views/settings/wcfm-view-wcpvendors-settings.php:180
+msgid "PayPal email account where you will receive your commission."
+msgstr ""
+
+#: views/settings/wcfm-view-wcpvendors-settings.php:181
+msgid ""
+"Default commission you will receive per product sale. Please note product "
+"level commission can override this. Check your product to confirm."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:158
+#: views/vendors/wcfm-view-vendors-manage.php:286
+msgid "Seller Info"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:158
+msgid "This is displayed on each of your products."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:196
+msgid "Store Website / Blog URL"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:196
+msgid "Your company/blog URL here."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:197
+msgid "This is your store contact number."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:232
+#: views/settings/wcfm-view-wcvendors-settings.php:420
+msgid "WCV Pro Settings"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:252
+msgid "Your PayPal address is used to send you your commission."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:305
+msgid "Bank Payment (Mangopay)"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:318
+msgid "CHECKING"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:318
+msgid "SAVINGS"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:368
+#: views/settings/wcfm-view-wcvendors-settings.php:375
+msgid "Charge once per product"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:384
+msgid "Postcode"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:385
+msgid "Shipping Fee"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:386
+msgid "Override Qty"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:392
+msgid "Min Charge Order"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:392
+msgid "The minimum shipping fee charged for an order."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:393
+msgid "Max Charge Order"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:393
+msgid "The maximum shipping fee charged for an order."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:394
+msgid "Free Shipping Order"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:394
+msgid ""
+"Free shipping for order spends over this amount. This will override the max "
+"shipping charge above."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:395
+msgid "Max Charge Product"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:395
+msgid "The maximum shipping charged per product no matter the quantity."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:396
+msgid "Free Shipping Product"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:396
+msgid ""
+"Free shipping if the spend per product is over this amount. This will "
+"override the max shipping charge above."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:397
+msgid "Product handling fee"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:397
+msgid "Leave empty to disable"
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:397
+msgid ""
+"The product handling fee, this can be overridden on a per product basis. "
+"Amount (5.00) or Percentage (5%)."
+msgstr ""
+
+#: views/settings/wcfm-view-wcvendors-settings.php:404
+msgid "From Address"
+msgstr ""
+
+#: views/vendors/wcfm-view-vendors-manage.php:142
+msgid "Manage Vendor"
+msgstr ""
+
+#: views/vendors/wcfm-view-vendors-manage.php:234
+#, php-format
+msgid "<strong>%s product</strong><br />"
+msgid_plural "<strong>%s products</strong><br />"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/vendors/wcfm-view-vendors-manage.php:236
+msgid "total products posted"
+msgstr ""
+
+#: views/vendors/wcfm-view-vendors-manage.php:272
+#: views/vendors/wcfm-view-vendors-manage.php:274
+msgid "Store Admin"
+msgstr ""
+
+#: views/vendors/wcfm-view-vendors-manage.php:314
+msgid "Profile Update"
+msgstr ""
+
+#: views/vendors/wcfm-view-vendors-manage.php:364
+msgid "Vendor not yet subscribed for a membership!"
+msgstr ""
+
+#: views/vendors/wcfm-view-vendors-manage.php:377
+msgid "Send Message"
+msgstr ""
+
+#: views/vendors/wcfm-view-vendors.php:32
+msgid "Vendors Listing"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-dashboard.php:52
+#: views/wc_bookings/wcfm-view-wcbookings.php:70
+msgid "Create Booking"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-dashboard.php:64
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:75
+#: views/wc_bookings/wcfm-view-wcbookings.php:81
+msgid "Create Bookable"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-dashboard.php:81
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:70
+#: views/wc_bookings/wcfm-view-wcbookings.php:76
+msgid "Manage Resources"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:44
+msgid "Booking Details"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:51
+msgid "Booking #"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:62
+#: views/wc_bookings/wcfm-view-wcbookings.php:86
+msgid "Calendar View"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:86
+msgid "Overview"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:92
+msgid "Booking Created:"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:97
+msgid "Order Number:"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:256
+msgid "Billing Email:"
+msgstr ""
+
+#: views/wc_bookings/wcfm-view-wcbookings-details.php:262
+msgid "Billing Phone:"
+msgstr ""
+
+#: controllers/withdrawal/dokan/wcfm-controller-payments.php:88
+#: controllers/withdrawal/wcmp/wcfm-controller-payments.php:80
+msgid "PayPal"
+msgstr ""
+
+#: controllers/withdrawal/dokan/wcfm-controller-payments.php:92
+msgid "Bank Transfer"
+msgstr ""
+
+#: controllers/withdrawal/dokan/wcfm-controller-withdrawal-request.php:61
+#: controllers/withdrawal/wcmp/wcfm-controller-withdrawal-request.php:46
+msgid "Request successfully sent"
+msgstr ""
+
+#: controllers/withdrawal/dokan/wcfm-controller-withdrawal-request.php:63
+msgid "Something went wrong please try again later"
+msgstr ""
+
+#: controllers/withdrawal/wcmp/wcfm-controller-payments.php:84
+msgid "Direct Bank Transfer"
+msgstr ""
+
+#: includes/libs/php/class-wcfm-fields.php:636
+#: includes/libs/php/class-wcfm-fields.php:640
+msgid "-Select a location-"
+msgstr ""
+
+#: views/withdrawal/dokan/wcfm-view-payments.php:34
+#: views/withdrawal/wcmp/wcfm-view-payments.php:34
+msgid "Transactions for: "
+msgstr ""
+
+#: views/withdrawal/dokan/wcfm-view-payments.php:51
+msgid "Show all .."
+msgstr ""
+
+#: views/withdrawal/dokan/wcfm-view-payments.php:52
+msgid "Approved"
+msgstr ""
+
+#: views/withdrawal/dokan/wcfm-view-payments.php:53
+msgid "Processing"
+msgstr ""
+
+#: views/withdrawal/dokan/wcfm-view-payments.php:69
+#: views/withdrawal/dokan/wcfm-view-payments.php:78
+#: views/withdrawal/wcmp/wcfm-view-payments.php:68
+#: views/withdrawal/wcmp/wcfm-view-payments.php:79
+msgid "Pay Mode"
+msgstr ""
+
+#: views/withdrawal/dokan/wcfm-view-payments.php:70
+#: views/withdrawal/dokan/wcfm-view-payments.php:79
+msgid "Note"
+msgstr ""
+
+#: views/withdrawal/dokan/wcfm-view-withdrawal.php:64
+#: views/withdrawal/wcmp/wcfm-view-transaction-details.php:53
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:42
+msgid "Transaction History"
+msgstr ""
+
+#: views/withdrawal/dokan/wcfm-view-withdrawal.php:105
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:88
+msgid "Request"
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-payments.php:64
+#: views/withdrawal/wcmp/wcfm-view-payments.php:75
+msgid "Transc.ID"
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-payments.php:65
+#: views/withdrawal/wcmp/wcfm-view-payments.php:76
+msgid "Commission IDs"
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-payments.php:67
+#: views/withdrawal/wcmp/wcfm-view-payments.php:78
+msgid "Net Earnings"
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-transaction-details.php:43
+msgid "Transaction #"
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:36
+msgid "Threshold for withdrawals: "
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:57
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:66
+msgid "Send Request"
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:58
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:67
+msgid "Order ID"
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:59
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:68
+msgid "Commission ID"
+msgstr ""
+
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:60
+#: views/withdrawal/wcmp/wcfm-view-withdrawal.php:69
+msgid "My Earnings"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Frontend Manager"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce is really Easy and Beautiful. We are here to make your life much "
+"more Easier and Peaceful."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr ""
